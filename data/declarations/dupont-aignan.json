@@ -2,196 +2,1056 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
-      "id": "dla-programme-reference",
-      "date": "2025-03-08",
-      "title": "Orientations de Debout la France et annonce de candidature",
+      "id": "dupont-aignan-dlf-projet-economie-travail",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Économie, Travail",
       "sourceType": "programme",
-      "sourceUrl": "https://www.debout-la-france.fr/",
-      "publisher": "Debout la France",
-      "summary": "Ligne souverainiste : primauté du droit national, Europe des nations sans sortie de l'UE, sortie du commandement intégré de l'OTAN, référendum sur l'immigration, priorité nationale, RIC, proportionnelle, nucléaire, protectionnisme, TVA à 5,5 % sur l'énergie.",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 1,
+          "quote": "Rétablir un impôt sur les très grandes fortunes en excluant la résidence principale et en permettant de déduire tous les investissements dans des entreprises / organismes localisant leur production en France",
+          "note": "Impôt sur les très grandes fortunes seulement, hors résidence principale et avec déductions : va dans le sens de l’ISF mais de façon partielle."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Baisser les charges patronales jusqu’à 3 SMIC (l’objectif d’éviter de cantonner les baisses aux salaires au SMIC et de favoriser les emplois à forte valeur ajoutée notamment industriels) et poursuivre la baisse des impôts de production (qui demeurent les 2èmes plus élevés d’Europe et qui découragent nos entrepreneurs)",
+          "note": "Également : crédit d’impôt production divisant par deux l’IS pour les bénéfices réinvestis en France."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Instaurer une taxe numérique forfaitaire, pour l’exploitation commerciale des données personnelles des internautes résidant en France et amener les GAFAM à payer leurs impôts en France"
+        },
+        {
+          "questionId": "soc-02",
+          "value": -2,
+          "quote": "A l’opposé du revenu universel sans contrepartie, le contrat de travail universel proposera une activité d’intérêt général à mi-temps au service des collectivités contre une allocation de réinsertion"
+        },
+        {
+          "questionId": "tra-07",
+          "value": 2,
+          "quote": "Imposer pour toute personne au RSA en état de travailler une journée de mission d’intérêt général par semaine pour la collectivité (région, municipalité…)"
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1,
+          "quote": "Réindexer les pensions de retraite et les salaires des fonctionnaires sur l’inflation.",
+          "note": "Indexation limitée aux pensions et aux salaires des fonctionnaires, pas à l’ensemble des salaires."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 0,
+          "quote": "Baisser les charges patronales jusqu’à 3 SMIC (l’objectif d’éviter de cantonner les baisses aux salaires au SMIC et de favoriser les emplois à forte valeur ajoutée notamment industriels) et poursuivre la baisse des impôts de production (qui demeurent les 2èmes plus élevés d’Europe et qui découragent nos entrepreneurs)",
+          "note": "Baisse des charges patronales voulue jusqu’à 3 SMIC, en refusant explicitement de la concentrer sur les bas salaires : position mitigée par rapport à l’énoncé."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-nda-discours-rentree-2026-09-19",
+      "date": "2026-09-19",
+      "title": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Fête de la Liberté, Yerres)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+      "publisher": "Nicolas Dupont-Aignan (site de campagne dupontaignan.fr)",
+      "summary": "Texte intégral du discours de clôture (« seul le prononcé fait foi ») présentant les grands axes du projet présidentiel 2027 ; document officiel le plus récent, retenu en cas de divergence avec les pages du projet.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "L’Accaparement de notre dissuasion nucléaire par la commission de Bruxelles sous influence allemande",
+          "inferred": true,
+          "note": "Dénoncé parmi les dangers de l’agenda européen ; le projet Défense veut « sacraliser le territoire français » par la dissuasion."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Supprimer tout droit de successions sur la résidence principale.",
+          "note": "Le projet (pages Famille, Retraites, Logement) prévoit aussi la revalorisation et l’indexation de l’abattement en ligne directe et la suppression des droits sur la résidence principale."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "La baisse de 50 centimes des taxes sur le carburant relancera la croissance.",
+          "inferred": true,
+          "note": "Baisse des taxes sur les carburants (et suppression de la TVA sur la TICPE dans le projet Automobilistes), mais pas de TVA à 5,5 % sur l’énergie."
+        },
+        {
+          "questionId": "env-08",
+          "value": -2,
+          "quote": "Une Nouvelle taxe carbone qui fera exploser les prix de l’énergie.",
+          "inferred": true,
+          "note": "La nouvelle taxe carbone européenne est dénoncée comme une menace pour les factures ; opposition à toute hausse de la taxation carbone."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Oui, je suis le seul candidat à oser dire stop à cette folie financière qui nous a engagés pour 40 milliards d’euros.",
+          "note": "Plan de paix (neutralité et démilitarisation de l’Ukraine, référendum au Donbass), fin des sanctions ; « Réussir la paix en Ukraine » dans le projet Affaires étrangères."
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2,
+          "quote": "L’Élargissement de l’union à l’Ukraine qui ruinera notre agriculture et fera exploser notre contribution financière annuelle.",
+          "inferred": true,
+          "note": "L’élargissement à l’Ukraine est dénoncé comme une menace ; DLF propose par ailleurs de sortir de l’UE."
+        },
+        {
+          "questionId": "eur-11",
+          "value": 1,
+          "quote": "Chacun chez soi, avec nos frontières, nos lois nationales, nos budgets et nos monnaies,",
+          "inferred": true,
+          "note": "Le discours de 2026 évoque des monnaies nationales, la « baisse de notre monnaie » et le « levier monétaire » ; la page Économie (mise à jour 2024) excluait encore un Frexit et prévoyait une coordination avec la BCE. Sortie de l’euro jamais formulée explicitement."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 2,
+          "quote": "Incarcérer les OQTF aussi longtemps que leur pays d’origine ne les reprend pas ? La jurisprudence de la Cour de Justice de l’Union européenne (CJUE) ne le permet pas.",
+          "inferred": true,
+          "note": "Présenté comme une mesure souhaitée que le droit de l’UE empêche ; le projet Immigration dénonce aussi la limite de 90 jours de rétention."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 2,
+          "quote": "Le référendum de l’article 11 dans tous les domaines pour contourner l’extravagant gouvernement des juges."
+        },
+        {
+          "questionId": "num-05",
+          "value": 1,
+          "quote": "À l’évidence cet électrochoc démocratique doit s’accompagner d’une lutte impitoyable contre la corruption qui gangrène notre nation et d’une réorganisation des médias autour de fondations pour garantir leur indépendance.",
+          "inferred": true,
+          "note": "Réorganisation des médias en fondations pour l’indépendance ; la limitation légale de la concentration n’est pas formulée."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "Plafonner le cumul des aides sociales en dessous du SMIC."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 2,
+          "quote": "Défiscaliser les heures supplémentaires.",
+          "note": "Défiscalisation (impôt sur le revenu) ; les cotisations ne sont pas précisées."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 1,
+          "quote": "Plutôt que de financer nos voisins, garantissons aux générations futures un minimum retraite par capitalisation à 60 ans.",
+          "note": "Capital de 10 000 € à la naissance placé dans un fonds souverain ; le régime par répartition est par ailleurs défendu."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-produire-en-france",
+      "date": "2026-04-28",
+      "title": "Le Projet de Debout La France – Produire en France",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/produire-en-france/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2024-11-19, dernière mise à jour le 2026-04-28 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Créer un fonds d’aide à la relocalisation doté de 10 milliards d’euros , attribuant des aides à l’investissement en échange de l’implantation de nouvelles usines en zone rurale.",
+          "note": "Plus droits de douane compensateurs et « protectionnisme intelligent » (discours du 19/09/2026)."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-transport-automobilistes",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Automobilistes et Motards",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Renationaliser les autoroutes (qui réalisent des bénéfices de l’ordre de 4 milliards d’euros par an) par une reprise de la gestion des autoroutes sans verser aucune indemnité",
+          "note": "Aussi : maintien de l’actionnariat public d’EDF, nationalisation des barrages privatisés, nationalisation d’au moins une grande banque."
+        },
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Supprimer l’interdiction des véhicules thermiques à horizon 2035 imposée par l’UE."
+        },
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Acter la suppression définitive des Zones à Faibles Émissions."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-retraites",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Retraites",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/retraites/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "Indexer les retraites à minima sur l’inflation pour augmenter les retraites chaque année de manière juste",
+          "note": "Indexation explicite pour les pensions, l’AAH et les allocations familiales ; pas pour l’ensemble des minima sociaux."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Nous maintiendrons l’âge minimum de départ à la retraite et la durée de cotisations actuelle (issue de la réforme de 2010).",
+          "inferred": true,
+          "note": "Page antérieure à la réforme de 2023 : l’engagement de maintenir l’âge issu de la réforme de 2010 (62 ans) implique de revenir sur le passage à 64 ans."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Maintenir l’âge minimum de départ à la retraite et la durée de cotisations aux niveaux actuels.",
+          "inferred": true,
+          "note": "Maintien de l’âge minimum actuel : pas de retour à 60 ans."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Dans ce contexte, nous ne reculerons pas l’âge de la retraite et n’allongerons pas la durée de cotisation"
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-famille",
+      "date": "2026-06-09",
+      "title": "Le Projet de Debout La France – Famille",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/famille/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-06-09 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "Refuser catégoriquement la gestation pour autrui (GPA)."
+        },
+        {
+          "questionId": "lib-04",
+          "value": 2,
+          "quote": "Interdire définitivement les transitions de genre médicales chez les mineurs."
+        },
+        {
+          "questionId": "san-05",
+          "value": -2,
+          "quote": "Debout la France rappelle son attachement à la protection de la vie, de la conception à la mort naturelle, et affirme que les progrès médicaux permettent d’accompagner chacun dans les meilleures conditions, sans dérives éthiques.",
+          "inferred": true,
+          "note": "Opposition à l’aide à mourir déduite de l’attachement à la « mort naturelle » et du développement des soins palliatifs."
+        },
+        {
+          "questionId": "soc-01",
+          "value": 2,
+          "quote": "Les allocations doivent être versées à toutes les familles, sans condition de revenu, comme c’était le cas avant leur plafonnement injuste."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-sante",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Santé",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/sante/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "Faire de l’objectif de zéro poste non pourvu à l’hôpital en fin de quinquennat une priorité absolue en utilisant tous les leviers de l’attractivité (rémunération, conditions de travail)",
+          "note": "Plan d’investissement hospitalier, réouverture de lits, ONDAM « raisonnable » ; financement présenté via la lutte contre la fraude plutôt que par une hausse assumée des dépenses."
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Augmenter le nombre de places dans les études de médecine afin d’atteindre 12 000 praticiens par an afin de retrouver à moyen terme un nombre de médecins diplômés en France suffisants sur l’ensemble du territoire."
+        },
+        {
+          "questionId": "san-10",
+          "value": -1,
+          "quote": "Prononcer la suppression immédiate, intégrale et irréversible du passe sanitaire et suppression définitive de tout passe sanitaire ou vaccinal, réintégration des soignants exclus et rétablissement de leurs trimestres de retraite perdus.",
+          "inferred": true,
+          "note": "Réintégration des soignants non vaccinés : opposition à l’obligation vaccinale des soignants ; les enfants ne sont pas évoqués."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Supprimer l’aide médicale d’État (AME) et la remplacer par une aide médicale exceptionnelle et provisoire qui ne concernerait que les urgences sanitaires et les maladies contagieuses, revenant ainsi à la situation existante avant 2000."
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Conditionner l’accès aux aides sociales à la volonté d’insertion dans la société et instaurer un délai de carence de 5 ans pour l’aide au logement et le RSA.",
+          "note": "La page Immigration va plus loin (suppression des aides non contributives pour les étrangers) et la page Retraites exige 5 ans de résidence pour les allocations familiales."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Changer toutes les cartes vitales et les remplacer par des cartes vitales biométriques distribuées en main propre en sous-préfecture."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-instruction-publique",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Repenser l&#039;école de la République",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-01",
+          "value": 1,
+          "quote": "Donner la possibilité à un établissement, en accord avec l’institution scolaire, de décider du port de l’uniforme dans le primaire et au collège.",
+          "note": "Uniforme facultatif, décidé établissement par établissement, et non généralisé."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Revaloriser les salaires des professeurs en deux pans : 20% d’augmentation automatique pour tous les professeurs, et 20% supplémentaires en contrepartie d’heures de soutiens scolaires auprès des élèves en difficulté."
+        },
+        {
+          "questionId": "edu-08",
+          "value": 2,
+          "quote": "Instaurer le principe de la souveraineté du conseil de classe qui s’appliquera, en particulier, pour le passage au niveau supérieur de l’élève et pour la détermination de son orientation.",
+          "note": "Également : pratique raisonnée du redoublement et simplification des procédures d’exclusion."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 1,
+          "quote": "Assurer l’égalité républicaine de l’enseignement en maintenant les programmes nationaux, en apportant des moyens supplémentaires aux territoires défavorisés et en instaurant un moratoire sur les fermetures d’écoles en milieu rural",
+          "note": "Moyens supplémentaires pour les territoires défavorisés, sans chiffrage ni caractère « fortement » accru."
+        },
+        {
+          "questionId": "lib-10",
+          "value": 1,
+          "quote": "l’interdiction de porter des signes religieux à l’ensemble de la communauté éducative ainsi qu’à toute personne accompagnant les activités organisées par les établissements, même si elles se déroulent à l’extérieur de ces établissements.",
+          "note": "Accompagnateurs de sorties scolaires couverts ; les compétitions sportives ne sont pas évoquées."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-enseignement-superieur",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Enseignement supérieur",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/enseignement-superieur/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "Réaffirmer le principe d’un accès gratuit à l’enseignement supérieur, ainsi que la gratuité des concours pour les Français."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 0,
+          "quote": "Maintenir des bourses sur critères sociaux mais les conditions d’octroi prendront réellement en compte l’assiduité aux travaux dirigés et pratiques, ainsi que les résultats scolaires.",
+          "note": "Maintien des bourses sous conditions d’assiduité et de résultats ; pas d’extension."
+        },
+        {
+          "questionId": "lib-02",
+          "value": 2,
+          "quote": "Etendre l’interdiction du port de signes religieux ostentatoires, déjà en vigueur dans l’Éducation Na-tionale, à l’Éducation Supérieure et aux instituts et laboratoires de recherche."
+        },
+        {
+          "questionId": "lib-05",
+          "value": 2,
+          "quote": "Interdire l’écriture inclusive dans tout document administratif et son utilisation dans le matériel pé-dagogique et les sujets d’examen."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-defense",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Défense nationale",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/defense/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": -1,
+          "quote": "Aussi, nous nous engageons à augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB, permettant de mettre en œuvre les 15 mesures suivantes.",
+          "note": "Objectif fixé à 2,5 % du PIB, qualifié de « raisonnable » : hausse, mais en deçà de 3 %."
+        },
+        {
+          "questionId": "def-03",
+          "value": 1,
+          "quote": "Instaurer un service national civique obligatoire de trois mois avec option militaire d’une année pour retisser le lien armée-nation et développer un esprit de défense parmi les jeunes.",
+          "note": "Service national obligatoire de 3 mois ; la partie militaire (un an) reste optionnelle."
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Être à nouveau en capacité de produire de façon autonome l’ensemble de nos armements, du fusil d’assaut au missile",
+          "inferred": true,
+          "note": "Autonomie de production nationale, retrait des programmes européens, « Buy French Act » (75 % d’achats publics français) ; le surcoût éventuel n’est pas discuté."
+        },
+        {
+          "questionId": "edu-06",
+          "value": 2,
+          "quote": "Instaurer un service national civique obligatoire de trois mois avec option militaire d’une année pour retisser le lien armée-nation et développer un esprit de défense parmi les jeunes."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Préparer dès à présent, l’avion, le char, les missiles et l’artillerie du futur sans programme européen automatique qui, souvent, vise à piller notre industrie sans nous apporter aucun bienfait. Mettons-fin au SCAF et préparons dès à présent la nouvelle version de rafale.",
+          "inferred": true,
+          "note": "Refus des programmes européens (SCAF, drone MALE), « défense nationale autonome » et sortie de l’UE : opposition à une défense européenne intégrée."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique"
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-environnement-energie",
+      "date": "2025-10-29",
+      "title": "Le Projet de Debout La France – Environnement et Énergie",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2025-10-29 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Conforter le développement des réacteurs GENERATION IV relancer le nucléaire et rester dans la course face aux concurrents étrangers.",
+          "inferred": true,
+          "note": "Relance du nucléaire (Génération IV, prototype thorium, 70 % de nucléaire minimum) ; le nombre de réacteurs au-delà des six EPR2 n’est pas précisé."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum."
+        },
+        {
+          "questionId": "env-14",
+          "value": 0,
+          "quote": "Vouloir contraindre la France à réduire encore plus ses émissions de CO2, c’est ruiner notre économie afin d’enrichir la concurrence qui elle, se moque de ses rejets.",
+          "note": "Position mitigée : la page dit aussi vouloir « poursuivre nos efforts en matière de réduction de gaz à effet de serre »."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-tourisme",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Tourisme",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/tourisme/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-03",
+          "value": 2,
+          "quote": "Stopper immédiatement toutes les implantations d’éoliennes en mer et sur terre, abandonner tous les projets d’éoliennes pour sauver nos paysages."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-affaires-europeennes",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Affaires européennes",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Mettre en place des clauses miroir afin que toutes les importations respectent les normes françaises."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Sortir du marché européen de l’électricité en rétablissant un prix national comme l’Espagne et le Portugal ont su le faire."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Refuser définitivement l’accord de libre-échange entre l’Union européenne et le Mercosur."
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "Rétablir nos frontières nationales en sortant de l’espace Schengen."
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Supprimer la contribution nette de la France et la réattribuer vers des secteurs clés de notre pays : agriculture, santé, pouvoir d’achat.",
+          "inferred": true,
+          "note": "Refus de contribuer au budget de l’UE et sortie de l’UE : opposition à des impôts européens."
+        },
+        {
+          "questionId": "num-07",
+          "value": -2,
+          "quote": "En finir avec le portefeuille numérique , le carnet de santé numérique , le permis de conduire numérique et l’euro numérique .",
+          "note": "Le discours de 2026 range « l’identité numérique » dans le « contrôle social numérique » à refuser."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-equilibre-territoire-monde-rural",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Équilibre du territoire",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Maintenir et rénover le réseau ferroviaire traditionnel qui irrigue l’ensemble de nos territoires et supprimer l’ouverture à une concurrence faussée qui empêche toute péréquation tarifaire et menace, à terme, les lignes non rentables.",
+          "note": "Maintien et rénovation du réseau, développement du ferroutage ; pas d’investissement « massif » ni d’arbitrage explicite sur la dette."
+        },
+        {
+          "questionId": "ins-12",
+          "value": -2,
+          "quote": "Mettre un terme non seulement à la dérive de création de collectivités à statut particulier qui mine, à terme, le caractère unitaire du pays définit par l’article premier de la Constitution, « La France est une République indivisible », mais aussi la nécessaire cohésion nationale."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Arrêt immédiat des fermetures de maternités et réouverture de lits d’hôpitaux dans les départements qui ont été sacrifiés.",
+          "note": "Aussi : moratoire sur les fermetures d’écoles rurales, maintien du réseau ferroviaire et de la péréquation tarifaire."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-logement",
+      "date": "2026-04-28",
+      "title": "Le Projet de Debout La France – Logement",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/logement/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-04-28 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Abandonner l’interdiction de location de logements sur la base du DPE pour remettre sur le marché les petits logements qui bénéficient aux étudiants et aux plus modestes."
+        },
+        {
+          "questionId": "log-02",
+          "value": -1,
+          "quote": "Adapter la loi Solidarité et renouvellement urbain (SRU) en incluant les logements en accession sociale dans le quota des logements sociaux.",
+          "note": "Assouplissement du quota SRU (inclusion de l’accession sociale), pas de renforcement."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Cela rend nécessaire un allègement des normes , le déblocage de l’offre foncière et de nouvelles incitations fiscales à l’acquisition de logements.",
+          "note": "Permis de construire à destinations multiples, conversion de bureaux, objectif de 400 000 logements par an."
+        },
+        {
+          "questionId": "log-04",
+          "value": -2,
+          "quote": "Réformer intégralement la loi Climat et Résilience pour mettre fin à l’objectif de Zéro Artificialisation Nette (ZAN)"
+        },
+        {
+          "questionId": "log-05",
+          "value": 2,
+          "quote": "Rouvrir le prêt aux maisons individuelles sur tout le territoire.",
+          "note": "Sous « Élargir les conditions d’accès du Prêt à Taux Zéro (PTZ) » : plafond relevé, part du PTZ accrue, différé allongé y compris pour les revenus moyens."
+        },
+        {
+          "questionId": "log-06",
+          "value": 1,
+          "quote": "Réguler les locations de tourisme type Airbnb en harmonisant l’abattement fiscal par rapport aux locations standards et en donnant davantage de pouvoirs aux maires pour encadrer les biens saisonniers dans leur commune.",
+          "note": "Alignement de l’abattement fiscal sur celui des locations classiques (fin de l’avantage), sans durcissement au-delà."
+        },
+        {
+          "questionId": "log-08",
+          "value": 1,
+          "quote": "Mettre en place une garantie universelle des loyers impayés pour sécuriser les propriétaires et encourager la mise en location , financée par les locataires à hauteur de 1% du loyer chaque mois.",
+          "note": "Garantie universelle, mais financée par les locataires (1 % du loyer) plutôt que publique."
+        },
+        {
+          "questionId": "log-09",
+          "value": 2,
+          "quote": "Rétablir un avantage fiscal type Pinel pour relancer le marché du neuf .",
+          "note": "Aussi : passage libre au régime réel pour les bailleurs, avantage fiscal pour la location aux familles."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-immigration-et-assimilation",
+      "date": "2026-03-03",
+      "title": "Le Projet de Debout La France – Immigration et assimilation",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-03-03 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "Conditionner l’immigration économique au taux de chômage : si le chômage est élevé, cette immigration doit rester exceptionnelle.",
+          "note": "Aussi : quotas d’étudiants étrangers, plafond annuel de naturalisations voté au Parlement, limitation stricte du regroupement familial ; « Bloquer l’immigration » dans le discours du 19/09/2026."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Supprimer le droit du sol via un référendum , tout en maintenant la possibilité de devenir Français par naturalisation."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Limiter strictement le regroupement familial et supprimer le régime d’exception accordé aux Algériens"
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "Durcir les règles de rapprochement familial et supprimer la régularisation pour les étrangers en situation irrégulière",
+          "note": "« Aucune régularisation ne sera accordée aux demandeurs d’asile déboutés. »"
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Supprimer le droit du sol via un référendum , tout en maintenant la possibilité de devenir Français par naturalisation."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2,
+          "quote": "Limiter le droit d’asile aux personnes le demandant directement aux frontières et refuser toute attribution sur le territoire national ou après plusieurs semaines de clandestinité."
+        },
+        {
+          "questionId": "imm-07",
+          "value": 1,
+          "quote": "Les migrants en difficulté seront secourus en mer puis ramenés à leur point d’embarquement, où leur demande d’asile sera examinée.",
+          "note": "Examen hors d’Europe prévu pour les migrants secourus en mer ; sinon, demandes limitées aux frontières."
+        },
+        {
+          "questionId": "imm-09",
+          "value": -2,
+          "quote": "Créer des quotas d’étudiants étrangers par filière et par pays, pour stopper le pillage des « cerveaux » des pays en développement et s’assurer que les filières choisies soient utiles aux pays d’origine, en exigeant que les étudiants retournent dans leur pays à la fin de leurs études, exception justifiée par la France."
+        },
+        {
+          "questionId": "imm-12",
+          "value": -2,
+          "quote": "Limiter le droit de vote aux seules personnes ayant la nationalité française , car la nationalité et le vote sont indissociables."
+        },
+        {
+          "questionId": "lib-01",
+          "value": 1,
+          "quote": "Interdire tous les signes religieux visibles dans le service public , notamment dans les universités et les hôpitaux, et refuser tout accommodement.",
+          "note": "Interdiction dans le service public (et possibilité pour les entreprises), pas dans tout l’espace public."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-justice",
+      "date": "2026-06-10",
+      "title": "Le Projet de Debout La France – Justice",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/justice/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-06-10 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Rétablir par référendum dans la Constitution la primauté du droit français sur toute norme européenne."
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "quote": "Réaliser l’expulsion, sans délai et en ne tenant compte d’aucun autre facteur, des délinquants et prisonniers étrangers",
+          "inferred": true,
+          "note": "La page constate que des arrêts de la CJUE et de la CEDH empêchent ces expulsions et propose de rétablir par référendum la primauté du droit français sur toute norme européenne."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Réinstaurer et élargir les peines planchers pour toute agression contre policiers, gendarmes, pompiers, enseignants, soignants.",
+          "note": "Peines planchers également pour les violences faites aux femmes ; durcissement de la récidive."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Abroger la loi du 23 mars 2019 de laxisme judiciaire, qui exonère de passage en prison toute peine de prison ferme inférieure à 1 an."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "Baisser la majorité pénale à 16 ans."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Pour atteindre le même niveau la France devra faire passer le budget de la justice de 10,1 milliards à 15 milliards.",
+          "note": "Hausse d’environ 50 %, pas un doublement."
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2,
+          "quote": "Instaurer une peine de perpétuité réelle et non modifiable et soumettre à référendum le rétablissement de la peine de mort pour les meurtres d’enfants."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-securite",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Sécurité",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/securite/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2025-11-01, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "Créer 40 000 places de prison nouvelles et favoriser la dignité et la sécurité des conditions de détention"
+        },
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "Élargir le champ d’action des polices municipales de façon à accroître leur efficacité et à être parfaitement interopérable avec les forces de la police nationale.",
+          "note": "Élargissement des missions ; armement systématique et pouvoirs de police judiciaire non précisés."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Traquer les narcotrafiquants par tous moyens et créer un établissement ultra‑sécurisé en Guyane pour terroristes et barons du narcotrafic"
+        },
+        {
+          "questionId": "sec-10",
+          "value": 2,
+          "quote": "Instaurer une présomption de légitime défense pour permettre aux policiers de se défendre contre des agresseurs."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-refonder-et-moraliser-notre-democratie",
+      "date": "2026-06-09",
+      "title": "Le Projet de Debout La France – Refonder et moraliser notre démocratie",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-06-09 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
           "questionId": "eur-01",
-          "value": 0,
-          "note": "« Europe des nations » : ni sortie de l'UE, ni fédéralisme — position mitigée."
-        },
-        {
-          "questionId": "eur-02",
-          "value": 2
-        },
-        {
-          "questionId": "eur-03",
-          "value": -2
-        },
-        {
-          "questionId": "eur-05",
-          "value": -2
-        },
-        {
-          "questionId": "eur-07",
-          "value": 2
-        },
-        {
-          "questionId": "eur-08",
-          "value": -2
+          "value": -2,
+          "quote": "Sortir de l’Union européenne pour rapatrier nos compétences au niveau national, seul cadre de l’exercice de notre démocratie.",
+          "note": "Confirmé par le discours du 19/09/2026 (« Sortir de l’Union européenne pour rendre à la France son indépendance ») ; la page Économie (2024) parlait encore d’« Europe des patries » sans Frexit."
         },
         {
           "questionId": "eur-09",
-          "value": 2
-        },
-        {
-          "questionId": "eur-11",
-          "value": -1
-        },
-        {
-          "questionId": "eur-12",
-          "value": 2
-        },
-        {
-          "questionId": "eur-13",
-          "value": -2
-        },
-        {
-          "questionId": "imm-01",
-          "value": 2
-        },
-        {
-          "questionId": "imm-02",
-          "value": 2
-        },
-        {
-          "questionId": "imm-03",
-          "value": 2
-        },
-        {
-          "questionId": "imm-04",
-          "value": -2
-        },
-        {
-          "questionId": "imm-05",
-          "value": 2
-        },
-        {
-          "questionId": "imm-08",
-          "value": 2
-        },
-        {
-          "questionId": "imm-10",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": 2
-        },
-        {
-          "questionId": "soc-06",
-          "value": 2
-        },
-        {
-          "questionId": "sec-01",
-          "value": 2
-        },
-        {
-          "questionId": "sec-02",
-          "value": 2
-        },
-        {
-          "questionId": "sec-06",
-          "value": 2
-        },
-        {
-          "questionId": "sec-11",
-          "value": 2
-        },
-        {
-          "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "env-02",
-          "value": -2
-        },
-        {
-          "questionId": "env-03",
-          "value": 2
-        },
-        {
-          "questionId": "env-04",
-          "value": -2
-        },
-        {
-          "questionId": "env-09",
-          "value": 2
+          "value": 2,
+          "quote": "Pendant les négociations avec ses partenaires, la France stoppera sa contribution financière à l’UE, contrôlera ses frontières, rétablira la supériorité du droit national sur le droit européen et n’appliquera plus le droit communautaire."
         },
         {
           "questionId": "ins-02",
-          "value": 2
-        },
-        {
-          "questionId": "ins-03",
-          "value": 2
+          "value": 2,
+          "quote": "Instaurer le référendum d’initiative citoyenne constituant (RIC) pour rendre les citoyens acteurs de l’élaboration des lois et maîtres de leur Constitution."
         },
         {
           "questionId": "ins-04",
-          "value": 2
+          "value": 2,
+          "quote": "Prendre en compte le vote blanc dans les résultats des élections pour respecter le sentiment populaire."
+        },
+        {
+          "questionId": "ins-05",
+          "value": 2,
+          "quote": "Diminuer le nombre de parlementaires et réduire leurs indemnités de 25 %"
         },
         {
           "questionId": "ins-06",
-          "value": 1
+          "value": 1,
+          "quote": "Revenir au septennat avec la possibilité d’un référendum révocatoire d’initiative citoyenne à mi-mandat .",
+          "note": "Septennat proposé ; le caractère non renouvelable n’est pas précisé."
         },
         {
-          "questionId": "tra-01",
-          "value": 2
+          "questionId": "ins-08",
+          "value": 1,
+          "quote": "Favoriser la participation des citoyens aux scrutins en conditionnant l’activation de la carte Vitale à la participation au vote.",
+          "inferred": true,
+          "note": "Pas d’obligation formelle de voter, mais une sanction de fait (carte Vitale conditionnée au vote)."
         },
         {
-          "questionId": "tra-08",
-          "value": 2
-        },
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Simplifier le mille-feuille territorial en supprimant les régions et en revenant au couple commune-département."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-affaires-etrangeres",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Affaires étrangères",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "eco-05",
-          "value": 2
-        },
+          "questionId": "eur-10",
+          "value": -1,
+          "quote": "Concentrer l’aide française au développement sur les pays francophones et francisant, notamment d’Afrique, placer l’AFD sous le contrôle direct du ministre des Affaires étrangères et mettre fin aux gaspillages de l’aide multilatérale financée par la France mais gérée par l’Union européenne.",
+          "note": "Recentrage et économies sur l’AFD (dont le réexamen des aides à des pays comme la Chine), pas de hausse."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-agriculture",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Agriculture",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/agriculture/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "eco-09",
-          "value": 2
-        },
-        {
-          "questionId": "eco-12",
-          "value": 2
-        },
-        {
-          "questionId": "def-01",
-          "value": 2
-        },
-        {
-          "questionId": "def-04",
-          "value": 2
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Ces prix garantis seront rétablis sur quelques grandes productions agricoles (lait, viande, céréales) assortis de quotas de production."
         },
         {
           "questionId": "agr-02",
-          "value": 2
+          "value": 1,
+          "quote": "Revenir à une politique agricole nationale, échappant aux délires bureaucratiques de la Commission de Bruxelles et simplifiant les procédures (fin du pacte vert européen, des quotas de jachères, etc…).",
+          "inferred": true,
+          "note": "Allègement des normes et sortie de la PAC ; la fin des « surtranspositions » n’est pas formulée en tant que telle."
         },
         {
-          "questionId": "agr-04",
-          "value": 2
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Sauver la filière bio en respectant les calendriers de versement des aides , en les revalorisant, et en contrôlant les importations de produits bio qui ne respectent pas nos normes."
         },
         {
-          "questionId": "lib-01",
-          "value": 1
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Favoriser l’installation des jeunes agriculteurs en supprimant tout droit de succession sur les 100 premiers hectares transmis"
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-culture-patrimoine",
+      "date": "2024-02-05",
+      "title": "Le Projet de Debout La France – Culture et patrimoine",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2024-02-05 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-02",
+          "value": -1,
+          "quote": "Imposer une pièce de théâtre hebdomadaire du répertoire classique sur les principales chaînes du service public (France 2 ou France 3) en première partie de soirée",
+          "inferred": true,
+          "note": "L’audiovisuel public est conservé et chargé de missions culturelles (plateforme publique unique) ; aucune privatisation envisagée."
         },
         {
-          "questionId": "lib-05",
-          "value": 2
+          "questionId": "num-06",
+          "value": -2,
+          "quote": "Ce ticket découverte remplacera le Pass culture Macron qui est trop souvent utilisé pour télécharger des contenus sans rapport avec la culture française."
         },
         {
-          "questionId": "num-01",
-          "value": 1
+          "questionId": "num-08",
+          "value": 1,
+          "quote": "Sanctuariser le 1% du budget de la nation dédié à la culture et consacrer 0,5% du budget de tous les grands programmes d’équipements publics à la création artistique.",
+          "note": "Sanctuarisation du 1 % et hausse des crédits patrimoine (400 M€/an) ; pas de hausse générale annoncée."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-intelligence-artificielle",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Intelligence Artificielle",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2025-06-13, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": 2,
+          "quote": "Création de centres de calcul à la hauteur de besoins de nos chercheurs et offreurs de services, d’infrastructures cloud souveraines et d’industries de puces quantiques, sujet sur lequel la France aurait toute sa place face aux GAMAM.",
+          "note": "Aussi : mégacentres de calcul et d’hébergement, extraction « décomplexée » des terres rares « sans freins dogmatiques »."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-dlf-projet-combat-pour-les-femmes",
+      "date": "2026-02-16",
+      "title": "Le Projet de Debout La France – Combat pour les femmes",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/combat-pour-les-femmes/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-02-16 (dateModified). Le site indique que le programme est en cours d’actualisation pour 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Créer des tribunaux dédiés aux affaires de violences conjugales.",
+          "note": "Réponse pénale sur le modèle espagnol, formation obligatoire, centres d’hébergement d’urgence par intercommunalité."
         }
       ]
     }

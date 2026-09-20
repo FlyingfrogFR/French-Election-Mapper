@@ -18,314 +18,932 @@
       "positions": []
     },
     {
-      "id": "tondelier-2026-programme-presse",
-      "date": "2026-06-01",
-      "title": "Ce que le programme écologiste changerait pour les retraites, le nucléaire et les impôts (synthèse de presse)",
-      "sourceType": "presse",
-      "sourceUrl": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
-      "publisher": "Parlons Politique (source secondaire)",
-      "summary": "Abrogation de la réforme de 2023 et retour à 62 ans, objectif 60 ans à terme ; sortie progressive du nucléaire au profit de la sobriété, des renouvelables et du stockage, neutralité carbone visée en 2040 ; ISF climatique (environ 10 Md€ par an) ; planification écologique ; Europe fédérale.",
+      "id": "tondelier-prog-2027",
+      "date": "2026-07-13",
+      "title": "Pour une prospérité écologique — Le nouveau programme des Écologistes (557 mesures, « Projet 2027 »)",
+      "sourceType": "programme",
+      "sourceUrl": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "publisher": "Les Écologistes",
+      "summary": "PDF (208 p.) téléchargé depuis la page officielle « Projet 2027 » https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet, également liée depuis marinetondelier.fr (« 557 mesures »). Programme présenté le 13 juillet 2026 après 50 000 contributions et adopté par le Conseil fédéral. Numéros de page = pagination imprimée du PDF.",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "tra-01",
+          "questionId": "agr-01",
           "value": 2,
-          "note": "Retour à 62 ans, objectif 60 ans à terme."
+          "quote": "Assurer une transparence et un juste partage de la valeur ajoutée en adoptant des prix planchers, un affichage obligatoire de la répartition des marges sur les produits alimentaires et, dans les cas d'inflation anormale, un blocage des prix",
+          "page": "48"
         },
         {
-          "questionId": "tra-02",
-          "value": 1
+          "questionId": "agr-02",
+          "value": -2,
+          "quote": "Interdire immédiatement les pesticides cancérigènes, mutagènes, toxiques (CMR) et les pesticides volatiles comme le prosulfocarbe qui sont les plus dangereux pour la biodiversité et la santé humaine. Empêcher toute tentative de réintroduction des néonicotinoïdes.",
+          "page": "29",
+          "inferred": true,
+          "note": "Normes nationales plus strictes que le minimum européen ; abrogation de la loi Duplomb demandée (p. 49)."
         },
         {
-          "questionId": "tra-04",
-          "value": 1
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Atteindre l'objectif français de 21 % d'agriculture bio en 2030, 25 % en 2032 et 100 % à la fin du siècle en augmentant l'éco-régime bio et en incitant à la reprise et à la conversion des fermes à l'agriculture biologique.",
+          "page": "48",
+          "note": "Rétablissement de l’aide au maintien en agriculture biologique (p. 49)."
         },
         {
-          "questionId": "tra-10",
-          "value": 2
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Dans les futurs traités, introduire des clauses miroirs sur le climat et les droits humains, des clauses d'exclusion explicite des investissements fossiles (carve-out) et prévoir des sanctions en cas de non-respect de ces exigences."
         },
         {
-          "questionId": "tra-05",
-          "value": -2
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Améliorer les conditions d'élevage. Interdire les fermes usines et l'élevage en cage.",
+          "page": "36",
+          "note": "Plan de transition de l’élevage avec réduction planifiée des cheptels bovins (p. 49)."
         },
         {
-          "questionId": "tra-07",
-          "value": -2
+          "questionId": "agr-06",
+          "value": 2,
+          "quote": "Adopter une journée sans chasse un jour par semaine et pendant des jours fériés et les vacances scolaires pour mieux partager l'accès à la nature.",
+          "page": "36"
+        },
+        {
+          "questionId": "agr-08",
+          "value": 1,
+          "quote": "La consommation personnelle doit être préférée à la consommation agricole qui doit elle même être privilégiée à la production industrielle.",
+          "page": "40",
+          "note": "Priorité des usages de l’eau et trajectoire de réduction de la consommation agricole (p. 41) ; pas de règle explicite propre aux périodes de sécheresse."
+        },
+        {
+          "questionId": "def-02",
+          "value": 1,
+          "quote": "envisager l'extension de la garantie de sécurité nucléaire française à d'autres pays européens dans une optique de non-prolifération.",
+          "note": "Extension seulement « envisagée », décision d’emploi conservée sans délégation (p. 194) ; le carnet international dit de même (« sans partager la décision finale »)."
         },
         {
           "questionId": "eco-01",
-          "value": -2
+          "value": -2,
+          "quote": "Supprimer les contraintes austéritaires du Pacte de stabilité et de croissance pour concilier les soutenabilités économiques et climatiques. Exclure immédiatement les investissements liés à la transition écologique (énergies renouvelables, rénovation énergétique, transports collectifs et mobilités actives...) du calcul du déficit autorisé.",
+          "page": "64",
+          "note": "Le programme rejette la règle des 3 % et privilégie une hausse des recettes fiscales (« Nous abandonnerons donc une politique de l’offre qui a été synonyme d’austérité », p. 9)."
         },
         {
           "questionId": "eco-02",
           "value": 2,
-          "note": "ISF « climatique » orientant le patrimoine vers des investissements verts."
+          "quote": "Rétablir l'Impôt sur la Fortune (ISF) en lui ajoutant une composante climatique pour orienter le patrimoine vers des actifs verts.",
+          "page": "65"
         },
         {
           "questionId": "eco-03",
-          "value": 2
+          "value": 2,
+          "quote": "Rétablir la fiscalité sur la grande fortune. Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d'euros de patrimoine.",
+          "page": "65"
+        },
+        {
+          "questionId": "eco-04",
+          "value": -2,
+          "quote": "Simplifier et rendre progressif la fiscalité sur l'héritage. Mettre en place un barème de taxation progressif unique en ajoutant deux tranches pour les ménages faisant partie du 1 % le plus riche au-delà de 4 millions d'euros et le 0,1 % le plus riche au-delà de 13 millions d'euros.",
+          "page": "66",
+          "note": "Hausse pour les grands héritages (voir aussi le dossier de presse Budget 2027 du 26 août 2026) ; aucune baisse proposée."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 0,
+          "quote": "Diminuer la fiscalité sur l'électricité en unifiant le socle de l'accise pour le gaz et l'électricité en diminuant la TVA sur l'abonnement électrique. Supprimer progressivement les niches fiscales qui favorisent les énergies fossiles.",
+          "page": "16",
+          "inferred": true,
+          "note": "Position mixte : baisse ciblée de la TVA sur l’abonnement électrique, mais suppression des niches fiscales sur les énergies fossiles (gaz, carburants) et TVA « verte » relevée sur les produits nocifs (p. 67)."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "Augmenter la fiscalité sur les grandes entreprises. Adopter un impôt minimal sur les bénéfices des sociétés dont le chiffre d'affaires dépasse un milliard d'euros à proportion de l'activité réalisée en France.",
+          "page": "66",
+          "note": "Le programme propose aussi de rétablir la CVAE (impôt de production, p. 68) ; seule une baisse ciblée du taux réduit d’IS pour les TPE-PME est envisagée (p. 55)."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Supprimer les niches fiscales défavorables au climat. Réformer les barèmes kilométriques et le régime fiscal des voitures de fonction. Supprimer l'abattement fiscal de 10 % pour les retraités.",
+          "page": "67",
+          "note": "Voir aussi p. 66 : suppression de l’abattement assurance-vie et de la niche Copé, plafonnement des niches par foyer (p. 67)."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "[EUROPE] Étendre les protections réglementaires et douanières dans les industries stratégiques comme les semi-conducteurs, les médicaments, les technologies de pointe, les batteries et les voitures électriques, les panneaux solaires, l'éolien, la réparation, l'industrie textile, de la chimie, la production des matériaux (acier bas-carbone, papier) et le raffinage des minerais...",
+          "page": "78",
+          "note": "Complété par un fonds souverain « livret industrie » et des aides conditionnées (p. 77)."
         },
         {
           "questionId": "eco-10",
-          "value": 2
+          "value": 2,
+          "quote": "Créer une nouvelle tranche à 60 % au-delà de 250 000€ annuels.",
+          "page": "68"
         },
         {
           "questionId": "eco-11",
-          "value": 1
+          "value": 2,
+          "quote": "Moduler le taux d'imposition selon l'affectation des bénéfices afin d'encourager le réinvestissement productif de long terme et de dissuader le rachat d'actions.",
+          "page": "66",
+          "note": "Hausse de 3 points de la flat tax (PFU) et de la CSG sur les revenus du capital (p. 68)."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 1,
+          "quote": "Renationaliser progressivement les autoroutes afin d'investir dans les infrastructures de transport (entretien du réseau routier, fluvial et ferroviaire, développement des pistes et voies cyclables...).",
+          "page": "25",
+          "note": "Autoroutes renationalisées et exploitation ferroviaire redonnée à la SNCF (p. 25) ; pas de mesure explicite sur le capital des entreprises de l’énergie."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Réhabiliter les métiers de l'Education nationale en augmentant les salaires des enseignant·es de 15 % en 5 ans.",
+          "page": "90"
+        },
+        {
+          "questionId": "edu-03",
+          "value": -2,
+          "quote": "Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
+          "page": "92"
+        },
+        {
+          "questionId": "edu-04",
+          "value": 2,
+          "quote": "Intégrer les établissements privés dans un service public de l'éducation. Réviser la loi Debré de 1959 pour diminuer la part de financement public à 50 % en contrepartie des frais de scolarité et la conditionner à des obligations de mixité sociale.",
+          "page": "91"
+        },
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "Supprimer la Contribution de Vie Étudiante et de Campus (CVEC) et financer la vie étudiante par la solidarité nationale.",
+          "page": "126",
+          "note": "Le programme abolit aussi la majoration des droits d’inscription pour les étudiants extracommunautaires (p. 126)."
+        },
+        {
+          "questionId": "edu-06",
+          "value": -2,
+          "quote": "Accroître le nombre de services civiques volontaires pour des missions d'intérêt général (environnementales, solidaires, humanitaires...) en renforçant le volet formation des jeunes et en revalorisant l'indemnité.",
+          "page": "126",
+          "inferred": true,
+          "note": "Seul le volontariat est proposé ; l’introduction du chapitre 35 qualifie le service universel d’« encadrement sécuritaire » (p. 125)."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 0,
+          "quote": "Renforcer les aides à l'apprentissage pour les jeunes à faible niveau de qualification (IV et V).",
+          "page": "125",
+          "note": "Position mixte : aides renforcées pour les bas niveaux de qualification, mais « Diminuer et conditionner les subventions d’apprentissage » dans l’enseignement supérieur privé lucratif (p. 94)."
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "Veiller à l'application de l'Éducation à la Vie Affective et Relationnelle (EVAR) dans toutes les écoles élémentaires et de l'Éducation à la Vie Affective Relationnelle et Sexuelle (EVARS) dans tous les établissements scolaires du second degré",
+          "page": "134"
+        },
+        {
+          "questionId": "edu-11",
+          "value": 2,
+          "quote": "Faire de l'école primaire une priorité absolue en réduisant la taille des classes à 19 élèves en 2032 et à 12 élèves dans les établissements en réseau d'éducation prioritaire (REP et REP+).",
+          "page": "90",
+          "note": "Voir aussi p. 92 : dotations modulées selon la mixité sociale."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Améliorer les conditions de vie des étudiant·es. Revaloriser et refonder le système des bourses étudiantes pour les jeunes rattachés fiscalement à leur famille.",
+          "page": "126",
+          "note": "Revalorisation et refonte des bourses ; l’extension à davantage de familles n’est pas chiffrée."
         },
         {
           "questionId": "env-01",
-          "value": -2
+          "value": -2,
+          "quote": "Planifier la sortie du nucléaire. Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux.",
+          "page": "17"
         },
         {
           "questionId": "env-02",
           "value": 2,
-          "note": "Sortie progressive du nucléaire, neutralité carbone en 2040."
+          "quote": "Planifier la sortie du nucléaire. Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux. Planifier l'arrêt progressif du parc constitué de centrales vieillissantes dont la mise hors service doit être étalée sur une vingtaine d'années.",
+          "page": "17"
         },
         {
           "questionId": "env-03",
-          "value": -2
+          "value": -2,
+          "quote": "Structurer et amplifier les filières françaises et européennes de production d'énergies renouvelables. Soutenir fiscalement et réglementairement ces entreprises de la fabrication des composants à la maintenance dans les secteurs stratégiques des parcs éoliens offshore et terrestre",
+          "page": "16",
+          "inferred": true,
+          "note": "Développement de l’éolien proposé (mesure inverse d’un moratoire) ; seule restriction : pas de parcs éoliens dans les parcs nationaux et réserves (p. 30)."
         },
         {
           "questionId": "env-04",
-          "value": 2
+          "value": 2,
+          "quote": "Maintenir l'objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs.",
+          "page": "22"
         },
         {
           "questionId": "env-05",
-          "value": 2
+          "value": 2,
+          "quote": "Construire une quatrième Stratégie Nationale Bas Carbone (SNBC-4) ambitieuse ramenant la France sur la trajectoire des engagements pris lors des Accords de Paris.",
+          "page": "30",
+          "note": "Le programme prévoit aussi une « loi de programmation climatique » (p. 16), des obligations sectorielles (fret, p. 24) et une planification écologique « cohérente » (p. 30)."
         },
         {
           "questionId": "env-07",
-          "value": -2
+          "value": -2,
+          "quote": "Empêcher toute tentative de réintroduction des néonicotinoïdes.",
+          "page": "29",
+          "note": "Abrogation de la loi Duplomb demandée (p. 49)."
         },
         {
           "questionId": "env-08",
-          "value": 1
+          "value": 0,
+          "quote": "[EUROPE] Refuser l'extension du marché carbone aux particuliers. Renégocier la directive ETS2 (Emissions Trading Schemes) tant qu'elle inclut les logements et les transports des ménages. Abonder un « fonds social pour le climat » pour contribuer aux stratégies nationales de transition écologique via une fiscalité sur les entreprises fossiles et les ménages les plus émetteurs en carbone.",
+          "page": "18",
+          "note": "Position mixte : refus d’une tarification carbone des ménages, mais fiscalité ciblée sur les entreprises fossiles et les plus gros émetteurs alimentant un fonds social."
         },
         {
           "questionId": "env-09",
-          "value": -2
+          "value": -1,
+          "quote": "Améliorer la qualité de l'air en modifiant les conditions des ZFE (Zones à Faibles Émissions). Développer les Zones à Trafic Limité.",
+          "page": "108",
+          "note": "Les ZFE sont maintenues mais assouplies (dérogations pour les petits rouleurs et professionnels sans alternative, p. 108) ; pas de suppression."
         },
         {
           "questionId": "env-10",
-          "value": 2
+          "value": 2,
+          "quote": "Interdire les vols intra-européens lorsqu'une alternative de moins de 4h30 en train existe.",
+          "page": "25"
         },
         {
           "questionId": "env-11",
-          "value": 2
+          "value": 2,
+          "quote": "Adopter une loi de programmation des infrastructures ferroviaires à 10 ans, sécurisant les financements nécessaires pour que 90 % de la population vive à moins de 30 minutes d'une gare fortement desservie",
+          "page": "25",
+          "note": "Les investissements verts seraient exclus du calcul du déficit autorisé (p. 64) ; +1 Md€ dès 2027 pour le ferroviaire (dossier de presse Budget 2027)."
         },
         {
           "questionId": "env-12",
-          "value": 2
+          "value": 2,
+          "quote": "Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034 et n'envisager des exceptions pour les petits propriétaires que sous réserve d'une baisse de loyer temporaire de 30 % et d'un engagement à réaliser des travaux de rénovation dans les deux ans.",
+          "page": "21"
         },
         {
           "questionId": "env-13",
-          "value": -2
+          "value": -2,
+          "quote": "Décréter un moratoire sur tous les projets de méga-bassines."
         },
         {
           "questionId": "env-14",
-          "value": 2
-        },
-        {
-          "questionId": "imm-01",
-          "value": -2
-        },
-        {
-          "questionId": "imm-03",
-          "value": -2
-        },
-        {
-          "questionId": "imm-04",
-          "value": 2
-        },
-        {
-          "questionId": "imm-06",
-          "value": 2
-        },
-        {
-          "questionId": "imm-10",
-          "value": -2
-        },
-        {
-          "questionId": "imm-12",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": -2
-        },
-        {
-          "questionId": "san-01",
-          "value": 1
-        },
-        {
-          "questionId": "san-05",
-          "value": 2
-        },
-        {
-          "questionId": "san-06",
-          "value": 2
-        },
-        {
-          "questionId": "ins-01",
-          "value": 1
-        },
-        {
-          "questionId": "ins-02",
-          "value": 1
-        },
-        {
-          "questionId": "ins-03",
-          "value": 2
-        },
-        {
-          "questionId": "ins-04",
-          "value": 2
-        },
-        {
-          "questionId": "ins-09",
-          "value": 2
-        },
-        {
-          "questionId": "ins-13",
-          "value": 2
-        },
-        {
-          "questionId": "agr-01",
-          "value": 1
-        },
-        {
-          "questionId": "agr-02",
-          "value": -2
-        },
-        {
-          "questionId": "agr-03",
-          "value": 2
-        },
-        {
-          "questionId": "agr-05",
-          "value": 2
-        },
-        {
-          "questionId": "agr-06",
-          "value": 2
-        },
-        {
-          "questionId": "agr-08",
-          "value": 2
+          "value": 2,
+          "quote": "Il faut abandonner la croissance du PIB comme boussole de notre richesse nationale, pour lui préférer l'espérance de vie en bonne santé, la réalisation des droits, l'évolution des émissions de carbone ou de l'empreinte matière.",
+          "page": "7",
+          "note": "Objectifs climatiques maintenus (« respecter la trajectoire des Accords de Paris et atteindre la neutralité carbone en 2050 », p. 26)."
         },
         {
           "questionId": "eur-01",
-          "value": 2
+          "value": 2,
+          "quote": "Faire un saut fédéral européen. Partager plus de domaines de compétence entre les Etats et l'Union Européenne.",
+          "page": "189"
+        },
+        {
+          "questionId": "eur-02",
+          "value": -2,
+          "quote": "Remplacer les droits de veto nationaux par une majorité qualifiée en matière de protection des droits fondamentaux, de protection sociale et d'intégration fiscale européenne et la politique étrangère et de sécurité commune.",
+          "page": "189",
+          "inferred": true,
+          "note": "Programme fédéraliste (« saut fédéral européen ») : orientation inverse d’une primauté constitutionnelle du droit national."
         },
         {
           "questionId": "eur-03",
-          "value": 1
+          "value": 2,
+          "quote": "[EUROPE] Créer un commandement militaire intégré européen sous la tutelle du Conseil de l'Union Européenne sans capacité de mobiliser directement les armées nationales (décision souveraine des Etats).",
+          "page": "194"
         },
         {
           "questionId": "eur-04",
-          "value": 2
+          "value": 2,
+          "quote": "Soutenir militairement l'Ukraine. Fournir du matériel militaire, y compris de capacités de frappe à longue portée et des moyens de défense antiaérienne pour protéger le ciel ukrainien.",
+          "page": "196"
+        },
+        {
+          "questionId": "eur-05",
+          "value": 1,
+          "quote": "Nous ne pouvons pas nous priver de l'Alliance atlantique à court terme, mais elle n'est plus acquise dans sa forme historique.",
+          "page": "192",
+          "inferred": true,
+          "note": "Maintien dans l’Alliance à court terme, avec un « pilier européen de l’OTAN » (p. 195) ; le commandement intégré n’est pas traité explicitement."
         },
         {
           "questionId": "eur-06",
-          "value": 2
+          "value": 2,
+          "quote": "Demander la suspension totale de l'accord d‘association Union européenne – Israël et une interdiction de la commercialisation en Europe de tous les produits issus des colonies israéliennes",
+          "page": "201"
         },
         {
           "questionId": "eur-07",
-          "value": 2
+          "value": 2,
+          "quote": "Ne pas ratifier les accords européens en attente qui affectent le climat et la biodiversité notamment les traités avec le Canada (CETA) le Vietnam, Singapour, le Chili, le Mexique, le Mercosur, l'Indonésie et le Japon.",
+          "page": "64"
         },
         {
           "questionId": "eur-08",
-          "value": 1
+          "value": 2,
+          "quote": "Soutenir l'adhésion graduelle à l'Union Européenne en particulier pour l'Islande, les Etats des Balkans occidentaux, la Moldavie et l'Ukraine.",
+          "page": "190"
+        },
+        {
+          "questionId": "eur-09",
+          "value": 1,
+          "quote": "Renégocier la trajectoire de diminution des déficits publics dans le cadre du Semestre européen afin de proposer une trajectoire budgétaire qui préserve l'emploi.",
+          "page": "66",
+          "note": "Renégociation collective des règles (exclusion des investissements verts du déficit, p. 64) plutôt que dérogation unilatérale."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2,
+          "quote": "Passer de l'Aide Publique au Développement à l'Aide Publique à la Coopération. Retrouver une trajectoire correspondant à nos engagements internationaux (0,7 % du PNB) et améliorer la coordination européenne.",
+          "page": "205"
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2,
+          "quote": "[EUROPE] Soutenir la mise en œuvre de l'euro numérique pour préserver la souveraineté européenne et protéger la vie privée.",
+          "page": "70",
+          "inferred": true,
+          "note": "Programme fédéraliste soutenant l’euro numérique et l’union des marchés de capitaux (p. 71) : aucune sortie de l’euro envisagée."
+        },
+        {
+          "questionId": "eur-12",
+          "value": -2,
+          "quote": "Mettre fin aux violences, à la militarisation et aux refoulements illégaux dans les zones de frontières (en particulier dans le Briançonnais et sur le littoral Nord).",
+          "page": "178",
+          "inferred": true,
+          "note": "Orientation inverse d’un rétablissement de contrôles permanents ; le programme veut aussi démanteler Frontex et remettre en cause les accords du Touquet (p. 179)."
         },
         {
           "questionId": "eur-13",
-          "value": 2
+          "value": 2,
+          "quote": "Augmenter les ressources fiscales propres dédiées au budget communautaire via un renforcement du mécanisme d'ajustement carbone aux frontières (MACF), une taxation des grandes entreprises technologiques, une taxe sur les déchets électroniques et la mise en commun d'une taxe sur les entreprises réalisant plus de 100 millions de chiffre d'affaire.",
+          "page": "190"
         },
         {
-          "questionId": "sec-01",
-          "value": -2
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "Au regard des enjeux démographiques, nous devons refaire de la France un pays attractif pour les migrant·es en améliorant les conditions d'accueil et d'intégration sociale et professionnelle.",
+          "page": "177",
+          "note": "Voies légales d’immigration à créer (p. 179) ; aucune réduction ni quota."
         },
         {
-          "questionId": "sec-05",
-          "value": 2
+          "questionId": "imm-03",
+          "value": -2,
+          "quote": "Rendre effectif le droit au regroupement familial par une révision des conditions d'octroi des titres de séjour en adoptant un renouvellement automatique et pluriannuel",
+          "page": "178"
         },
         {
-          "questionId": "sec-07",
-          "value": -2
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Régulariser les travailleur·ses, les étudiant·es et les parents d'enfants scolarisés sur la base de critères objectifs (durée de résidence, effectivité du lien familial, durée ou promesse d'activité professionnelle).",
+          "page": "178"
         },
         {
-          "questionId": "sec-12",
-          "value": 2
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "Garantir l'application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte. Faciliter l'obtention de la nationalité française.",
+          "page": "178"
         },
         {
-          "questionId": "log-01",
-          "value": 2
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "[EUROPE] Créer des voies légales et sécurisées d'immigration par une révision du Pacte européen sur la migration et l'asile.",
+          "page": "179",
+          "note": "Voir aussi p. 178 : « Assurer un respect impartial du droit d’asile » et procédures accélérées pour les défenseurs des droits humains."
         },
         {
-          "questionId": "log-02",
-          "value": 2
+          "questionId": "imm-07",
+          "value": -2,
+          "quote": "Toutes les demandes d'asile déposées en Europe doivent faire l'objet d'un examen en Europe.",
+          "page": "179"
         },
         {
-          "questionId": "log-04",
-          "value": 2
+          "questionId": "imm-09",
+          "value": 2,
+          "quote": "Adopter une présomption d'accord pour le renouvellement des cartes de séjour de longue durée et des titres étudiants pour faciliter le maintien au travail et aux études.",
+          "page": "178"
         },
         {
-          "questionId": "log-06",
-          "value": 2
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "En 2027, le résultat de l'élection présidentielle pourrait faire basculer l'Europe dans l'inconnu en menant au pouvoir une présidente d'extrême droite et son projet assumé de hiérarchisation des citoyen.nes",
+          "page": "2",
+          "inferred": true,
+          "note": "L’avant-propos dénonce le projet de « hiérarchisation des citoyen.nes » (préférence nationale) ; le programme ouvre au contraire les droits sans condition de nationalité (p. 87)."
         },
         {
-          "questionId": "num-02",
-          "value": -2
+          "questionId": "imm-12",
+          "value": 2,
+          "quote": "Étendre le droit de vote aux étranger·es extra-communautaires pour les élections locales (municipales, intercommunales, départementales et régionales) après cinq années de résidence en France.",
+          "page": "163"
         },
         {
-          "questionId": "num-04",
-          "value": -1
+          "questionId": "imm-13",
+          "value": -2,
+          "quote": "En finir avec la rétention administrative, coûteuse et indigne.",
+          "page": "178",
+          "note": "Le programme supprime aussi les « OQTF automatiques ou inapplicables » (p. 178)."
         },
         {
-          "questionId": "num-05",
-          "value": 2
+          "questionId": "ins-01",
+          "value": 2,
+          "quote": "Convoquer un processus constituant transparent, participatif, pluraliste et indépendant pour abolir la monarchie présidentielle et préparer le passage à une Première République écologique et citoyenne",
+          "page": "159",
+          "note": "Nouvelle République issue d’un processus constituant, nommée « Première République écologique et citoyenne » plutôt que VIe République."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Renforcer la démocratie directe par la mise en œuvre du Référendum d'Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d'un contrôle de constitutionnalité préalable.",
+          "page": "161"
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives au travers d'un système lisible dans lequel chaque voix compte",
+          "page": "162"
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1,
+          "quote": "Reconnaître le vote blanc en attribuant le taux équivalent à des citoyen·nes tirés au sort sur les listes électorales pour les élections territoriales.",
+          "page": "163",
+          "note": "Reconnaissance limitée aux élections territoriales, sous la forme de sièges attribués à des citoyens tirés au sort."
+        },
+        {
+          "questionId": "ins-06",
+          "value": 2,
+          "quote": "Etablir un septennat unique. Abroger les pouvoirs conférés par l'actuel article 16 et les pouvoirs de nomination de l'article 13 (à confier au Gouvernement).",
+          "page": "161"
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Rendre le droit de vote réellement universel. Ouvrir le droit de vote à 16 ans avec une formation civique.",
+          "page": "163"
+        },
+        {
+          "questionId": "ins-11",
+          "value": 2,
+          "quote": "Limiter le cumul des mandats dans le temps (trois par type de mandat).",
+          "page": "163"
+        },
+        {
+          "questionId": "ins-12",
+          "value": 1,
+          "quote": "Faire évoluer le statut de certaines régions comme l'Alsace ou la Corse après un référendum local.",
+          "page": "87",
+          "note": "Évolution statutaire conditionnée à un référendum local, dans le cadre d’un « fédéralisme différencié » (p. 87, 160) ; pas d’inscription explicite d’un statut d’autonomie dans la Constitution."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "Renforcer le pouvoir législatif bicaméral et démocratique. Assurer que le Parlement dispose d'un meilleur contrôle de son ordre du jour et ne soit plus limité par les actuels articles 34 ou par l'article 49-3.",
+          "page": "160"
         },
         {
           "questionId": "lib-01",
-          "value": -2
+          "value": -2,
+          "quote": "La laïcité impose la neutralité au service public et à ses agent·es, pas à ses usagers ni aux habitant·es. Nous devons donc respecter la manière dont les personnes croyantes manifestent leurs croyances, qu'elles aillent prier dans des lieux de culte, portent des vêtements spécifiques, se rassemblent dans l'espace public ou affichent leurs convictions.",
+          "page": "172"
+        },
+        {
+          "questionId": "lib-02",
+          "value": -2,
+          "quote": "La laïcité impose la neutralité au service public et à ses agent·es, pas à ses usagers ni aux habitant·es.",
+          "page": "172",
+          "note": "Les étudiants sont des usagers du service public : pas d’interdiction des signes religieux."
         },
         {
           "questionId": "lib-04",
-          "value": -2
+          "value": -2,
+          "quote": "Garantir le droit des mineur·es en questionnement de genre à un accompagnement, à des soins, et le cas échéant à l'accès à des traitements de transition, sur la base des recommandations des autorités sanitaires scientifiques.",
+          "page": "141"
         },
         {
           "questionId": "lib-06",
-          "value": 1
+          "value": 1,
+          "quote": "Former le personnel médical aux biais racistes, mesurer les inégalités de santé selon les origines sociales, territoriales et migratoires",
+          "page": "147",
+          "note": "Mesure des discriminations par testings et observatoire (p. 146) ; pas de statistiques ethniques générales."
         },
         {
           "questionId": "lib-08",
-          "value": 2
+          "value": 2,
+          "quote": "Garantir l'égal accès, la gratuité et l'effectivité du droit à la contraception et à l'interruption volontaire de grossesse (IVG), ainsi qu'au choix de la méthode.",
+          "page": "138"
         },
         {
           "questionId": "lib-09",
-          "value": 2
+          "value": 2,
+          "quote": "Adopter une loi intégrale pour lutter contre les violences sexistes et sexuelles (VSS) dotée de 3 milliards d'euros.",
+          "page": "133",
+          "note": "Juridictions et magistrats spécialisés sur les violences de genre dans chaque tribunal (p. 134)."
+        },
+        {
+          "questionId": "lib-10",
+          "value": -2,
+          "quote": "Nous devons donc respecter la manière dont les personnes croyantes manifestent leurs croyances, qu'elles aillent prier dans des lieux de culte, portent des vêtements spécifiques, se rassemblent dans l'espace public ou affichent leurs convictions.",
+          "page": "172",
+          "inferred": true,
+          "note": "La neutralité ne s’impose qu’aux agents publics ; accompagnatrices et sportives ne sont pas visées par une interdiction."
         },
         {
           "questionId": "lib-11",
-          "value": 2
+          "value": 2,
+          "quote": "Abroger les lois et dispositifs liberticides. Abroger les dispositions liberticides des lois Sécurité globale, Séparatisme et de celle instaurant l'état d'urgence permanent.",
+          "page": "165",
+          "note": "Nouvelle doctrine de maintien de l’ordre fondée sur la désescalade, interdiction des LBD (p. 165)."
         },
         {
-          "questionId": "edu-02",
-          "value": 2
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Assurer le droit au logement par la généralisation, l'amélioration et la pérennisation de l'encadrement des loyers.",
+          "page": "19"
         },
         {
-          "questionId": "edu-04",
-          "value": 1
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Renforcer les sanctions financières et préfectorales en cas de manquement à l'obligation d'atteindre 20 ou 25 % de logements sociaux dans les communes conformément à la loi Solidarité et Renouvellement Urbain (SRU). Ajouter une obligation d'atteindre un objectif de 30 % de logements d'ici 2035 dans les communes aux marchés immobiliers les plus tendus.",
+          "page": "20"
         },
         {
-          "questionId": "edu-09",
-          "value": 2
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Renforcer la trajectoire de la Zéro Artificialisation Nette (ZAN) pour préserver les sols, en adoptant un objectif maximal d'artificialisation pour la période 2031-2041",
+          "page": "43"
+        },
+        {
+          "questionId": "log-06",
+          "value": 2,
+          "quote": "Réguler les meublés touristiques. Instaurer une unicité de statut alignant fiscalement et réglementairement toute location de courte durée sur les obligations du secteur hôtelier (hors résidence principale).",
+          "page": "20"
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Doter chaque territoire d'un accueil physique des services publics à 15 minutes partout en France.",
+          "page": "150",
+          "note": "Voir aussi p. 150-151 : 500 nouvelles Maisons France Service, lutte contre les fermetures de classes, régénération des petites lignes et personnel dans les gares."
+        },
+        {
+          "questionId": "log-08",
+          "value": 2,
+          "quote": "Remplacer la garantie Visale qui cible les jeunes et les salariés précarisés par une garantie universelle des loyers."
+        },
+        {
+          "questionId": "log-09",
+          "value": -1,
+          "quote": "Limiter l'ensemble des avantages fiscaux à deux logements par déclaration fiscale.",
+          "page": "68",
+          "note": "Plafonnement des avantages fiscaux des multipropriétaires et surtaxe modulée sur les logements vacants (p. 20) : pas d’allègement pour les bailleurs."
+        },
+        {
+          "questionId": "num-02",
+          "value": -2,
+          "quote": "Défendre l'indépendance de l'audiovisuel public. Instaurer des modalités de financement pérennes, justes et durables. Faire valider les nominations à la tête de France Télévisions et de Radio France à la majorité qualifiée du Parlement. Renoncer au projet de holding.",
+          "page": "175"
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Relever la taxe sur les services numériques (TSN) de 3 à 5 % et abaisser le seuil d'assujettissement à 5 milliards de chiffre d'affaire pour intégrer les plateformes de e-commerce et l'étendre aux entreprises qui gèrent des data centers.",
+          "page": "66",
+          "note": "Taxe nationale relevée, complétée par des régulations européennes (DSA/DMA, IA Act II, p. 82)."
+        },
+        {
+          "questionId": "num-04",
+          "value": -2,
+          "quote": "Encadrer l'implantation des data centers. Supprimer la possibilité de labelliser des data centers « projet d'intérêt national majeur » (PINM) les exonérant d'études d'impact.",
+          "page": "81"
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Adopter une loi anti-concentration sur le modèle norvégien qui interdit à un groupe de détenir plus de deux titres de presse nationale, une chaîne de télévision nationale et une radio nationale",
+          "page": "174"
+        },
+        {
+          "questionId": "num-06",
+          "value": 0,
+          "quote": "Réviser en profondeur le Pass Culture pour favoriser l'accès à la diversité artistique et culturelle des jeunes quel que soient leur milieu social.",
+          "page": "126",
+          "note": "Le dispositif n’est pas supprimé mais « révisé en profondeur »."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Réguler l'installation des médecins libéraux par une autorisation d'installation des médecins délivrée par l'Agence Régionale de Santé – de droit dans les zones sous-dotées et en lien avec la cessation d'activité d'un·e praticien·ne ailleurs.",
+          "page": "151"
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Améliorer les conditions de travail à l'hôpital public. Augmenter le nombre de recrutement de personnel médical et paramédical.",
+          "page": "114",
+          "note": "Complété par « Combler les postes manquants ... en revalorisant les métiers et les salaires » (p. 115), 2 000 centres de santé (p. 114) et un financement par une hausse d’un point de CSG (p. 67)."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Garantir un remboursement total des soins essentiels nécessaires au maintien de l'autonomie et de la qualité de vie par la prise en charge à 100 % par l'Assurance maladie. Supprimer les franchises.",
+          "page": "111"
+        },
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Supprimer les franchises. Concentrer la couverture par les mutuelles aux seuls soins optionnels.",
+          "page": "111"
+        },
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Permettre l'accès universel aux soins palliatifs et légaliser l'aide active à mourir en conservant l'équilibre des textes votés",
+          "page": "129"
+        },
+        {
+          "questionId": "san-06",
+          "value": 2,
+          "quote": "Légaliser et encadrer la production, la vente et la consommation de cannabis. Assurer la disponibilité, le contrôle qualité et la traçabilité du produit et le doter d'une fiscalité propre.",
+          "page": "184"
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "Affirmer le caractère prioritaire des besoins de santé dans la détermination du numerus apertus fixant le nombre d'étudiant·es admis en deuxième année d'études de médecine, pharmacie, odontologie et maïeutique.",
+          "page": "115",
+          "note": "Hausse des formations selon les besoins (« Former des professionnels en nombre suffisant », p. 114) ; la question de la sélectivité n’est pas abordée."
+        },
+        {
+          "questionId": "san-08",
+          "value": 2,
+          "quote": "Encadrer les dépassements d'honoraires chez les spécialistes en limitant les dépassements d'honoraires à 50 % du tarif de la Sécurité Sociale et en interdisant les dépassements pour la moitié des ménages les moins aisés.",
+          "page": "111"
+        },
+        {
+          "questionId": "san-09",
+          "value": 1,
+          "quote": "Garantir le remboursement intégral des soins liés à un psychotraumatisme. Reconnaître et élargir le rôle des psychologues.",
+          "page": "115",
+          "note": "Remboursement intégral ciblé (psychotraumatismes) et renforcement des programmes d’aide psychologique ; pas de remboursement général des consultations."
+        },
+        {
+          "questionId": "sec-02",
+          "value": -2,
+          "quote": "Adopter un moratoire sur la construction de nouvelles places de prison en dehors de celles destinées à remplacer les prisons insalubres.",
+          "page": "170"
+        },
+        {
+          "questionId": "sec-03",
+          "value": -1,
+          "quote": "Développer la probation et les possibilités de placement extérieurs et de semi-liberté en s'assurant des moyens d'accompagnement et de contrôle indispensables à la réussite de la réinsertion durable.",
+          "page": "171",
+          "inferred": true,
+          "note": "Le programme privilégie les alternatives à l’incarcération (« La prison doit rester l’exception », p. 170) ; l’aménagement des courtes peines n’est pas traité explicitement."
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2,
+          "quote": "Mettre fin au contrôle au faciès en interdisant les contrôles d'identité aléatoires pour les limiter aux situations de fragrance, d'enquête judiciaire ou d'ordre public. Instaurer un récépissé attestant des motifs du contrôle.",
+          "page": "145"
+        },
+        {
+          "questionId": "sec-06",
+          "value": -2,
+          "quote": "Réaffirmer le principe de la primauté de l'éducatif sur le répressif pour les mineur·es délinquants. Limiter au maximum les procédures de jugement rapide et de comparutions immédiates notamment pour les mineurs. Maintenir l'irresponsabilité pénale à 13 ans.",
+          "page": "167",
+          "note": "Le programme demande aussi d’« Abroger la loi Attal de 2025 » sur la justice des mineurs (p. 167)."
+        },
+        {
+          "questionId": "sec-07",
+          "value": -2,
+          "quote": "Encadrer la vidéosurveillance et renforcer la présence humaine. Interdire la reconnaissance faciale et évaluer de manière indépendante les dispositifs de vidéosurveillance en lien avec la Défenseure des droits.",
+          "page": "165"
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Créer 9000 postes de magistrats sur dix ans ainsi que 10 000 postes de greffiers et 7000 postes attachés de justice. Revaloriser les métiers et les salaires les plus bas pour atteindre la moyenne des pays européens.",
+          "page": "166",
+          "note": "Hausse massive des moyens sur dix ans ; pas d’engagement chiffré de doublement du budget en cinq ans."
+        },
+        {
+          "questionId": "sec-09",
+          "value": -1,
+          "quote": "La doctrine pénale fondée sur des mesures dérogatoires au droit commun et des logiques de durcissement carcéral est un échec.",
+          "page": "182",
+          "note": "Position mixte : juridictions spécialisées (JIRS) et moyens financiers/cyber renforcés (p. 183), mais refus du durcissement carcéral, approche de santé publique et légalisation du cannabis (p. 184)."
+        },
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Abroger les dispositions de la loi Cazeneuve sur l'ouverture du feu pour que cessent les morts pour refus d'obtempérer et que soit respectée la condition d'absolue nécessité.",
+          "page": "165",
+          "inferred": true,
+          "note": "Orientation inverse : restriction de l’usage des armes par la police plutôt que présomption de légitime défense."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "Créer une police nationale de proximité visant à rétablir un lien quotidien et permanent avec la population et à sortir de la politique bureaucratique du chiffre.",
+          "page": "164",
+          "note": "Le programme veut aussi « Démanteler les unités de type BRAV-M » (p. 165)."
+        },
+        {
+          "questionId": "sec-13",
+          "value": -2,
+          "quote": "Dépénaliser l'usage, l'achat et la détention de toutes les drogues pour usage personnel pour pouvoir mettre en place des politiques de prévention et d'accompagnement social et sanitaire.",
+          "page": "111"
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2,
+          "quote": "Garantir l'accès à l'Aide Médicale d'État (AME).",
+          "page": "112",
+          "note": "Voir aussi p. 178 : « accès à l’AME et PUMA, suppression des délais de carence »."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "Indexer le montant des pensions de manière juste et différenciée afin de prendre en compte l'évolution du coût de la vie et les inégalités entre retraités.",
+          "page": "117",
+          "note": "Indexation différenciée (sous-indexation des plus hautes retraites, p. 67) ; la garantie d’autonomie est indexée sur le SMIC (p. 119)."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 2,
+          "quote": "Rendre cette garantie accessible dès 18 ans pour les personnes indépendantes fiscalement.",
+          "page": "118",
+          "note": "Il s’agit de la « garantie d’autonomie » qui remplace le RSA (50 % du SMIC net), ouverte dès 18 ans."
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2,
+          "quote": "Garantir les droits fondamentaux des personnes exilées : scolarisation de tous les enfants, accès à l'AME et PUMA, suppression des délais de carence, interdiction des expulsions des personnes vivant avec une Affection Longue Durée, accès à des hébergements dignes.",
+          "page": "177",
+          "inferred": true,
+          "note": "Le programme supprime les délais de carence et ouvre les prestations sans condition de nationalité (p. 87, 119) : sens opposé à une condition de résidence de cinq ans."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 1,
+          "quote": "Augmenter le minimum contributif (Mico) et l'allocation spécifique aux personnes âgées (ASPA) pour atteindre progressivement le seuil de pauvreté.",
+          "page": "117",
+          "note": "Cible fixée au seuil de pauvreté (inférieur au SMIC), pas de pension minimale au niveau du SMIC."
+        },
+        {
+          "questionId": "soc-08",
+          "value": -1,
+          "quote": "Supprimer les scores de risque qui ciblent les personnes pauvres.",
+          "page": "67",
+          "inferred": true,
+          "note": "Le programme veut « sanctionner les seules fraudes avérées » (p. 119) et supprimer le ciblage algorithmique des allocataires ; aucune carte Vitale biométrique n’est proposée."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Abroger l'âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans et viser une retraite à 60 ans",
+          "page": "116"
+        },
+        {
+          "questionId": "tra-02",
+          "value": 1,
+          "quote": "viser une retraite à 60 ans en priorisant / réinstaurer la retraite à 60 ans pour les personnes ayant travaillé tôt et dans des conditions pénibles.",
+          "page": "116",
+          "note": "Retour immédiat à 62 ans ; 60 ans comme objectif et pour les carrières longues/pénibles."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Abroger l'âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans",
+          "page": "116",
+          "note": "Mesure inverse (abaissement de l’âge légal)."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Passer le salaire minimum à 2000€ brut par mois dès 2027.",
+          "page": "54"
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Refonder l'assurance chômage pour donner les moyens de trouver un emploi ou de se réorienter. Abroger les réformes régressives adoptées lors des deux derniers quinquennats notamment celle sur le calcul de l'Allocation de Retour à l'Emploi. Indexer le montant des allocations sur l'inflation.",
+          "page": "57",
+          "note": "Le chapitre 14 critique explicitement les réformes ayant réduit « les durées et les montants d’indemnisation du chômage » (p. 56)."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -2,
+          "quote": "Franchir une nouvelle étape pour la diminution du temps de travail. Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit en y conditionnant les aides aux entreprises.",
+          "page": "56",
+          "note": "Orientation inverse (réduction du temps de travail)."
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2,
+          "quote": "En finir avec la logique de stigmatisation en supprimant la contrepartie de 15 heures d'activités hebdomadaires.",
+          "page": "118",
+          "note": "Le RSA est remplacé par une « garantie d’autonomie » sans contrepartie d’heures d’activité (p. 119)."
+        },
+        {
+          "questionId": "tra-08",
+          "value": -2,
+          "quote": "Supprimer les exonérations de cotisations inutiles car supérieures à 1,6 smic ou concernant les heures supplémentaires.",
+          "page": "67"
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1,
+          "quote": "Améliorer les traitements des fonctionnaires par l'indexation du point d'indice des fonctionnaires sur l'inflation.",
+          "page": "54",
+          "note": "Indexation prévue pour la fonction publique seulement ; pas d’indexation automatique générale des salaires du privé."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "Franchir une nouvelle étape pour la diminution du temps de travail. Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit en y conditionnant les aides aux entreprises.",
+          "page": "56",
+          "note": "32 heures ciblées sur les métiers pénibles et de nuit, via le conditionnement des aides aux entreprises."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "Refuser toute forme d'évolution vers une retraite par capitalisation en particulier la retraite à points.",
+          "page": "116"
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Rationaliser les exonérations de cotisations sociales. Nominaliser et désindexer leur montant. Supprimer les exonérations de cotisations inutiles car supérieures à 1,6 smic ou concernant les heures supplémentaires.",
+          "page": "67",
+          "note": "Pas de nouvelle baisse : rationalisation des exonérations existantes, conditionnées à des hausses de salaires pour les moins de 2 000 € (p. 55 et 68)."
+        }
+      ]
+    },
+    {
+      "id": "tondelier-dp-bouclier-2026",
+      "date": "2026-09-01",
+      "title": "Alléger les factures des Français·es — Notre bouclier social et environnemental (dossier de presse)",
+      "sourceType": "communique",
+      "sourceUrl": "https://marinetondelier.fr/s/dp-bouclier-social-pour-envoi.pdf",
+      "publisher": "Marine Tondelier / Les Écologistes",
+      "summary": "Dossier de presse de septembre 2026 (12 p.) publié sur marinetondelier.fr (« Dossiers d’actu ») et lesecologistes.fr. (Date du document : 2026-09 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Bloquer les prix des produits alimentaires qui subiraient une inflation anormale.",
+          "note": "Le programme (p. 48 et 63) prévoit également un blocage des prix en cas d’inflation anormale et l’encadrement des prix d’un panier de biens essentiels."
+        }
+      ]
+    },
+    {
+      "id": "tondelier-carnet-international",
+      "date": "2026-01-01",
+      "title": "Face aux impérialismes, l’Europe comme puissance écologique — Carnet de doctrine international",
+      "sourceType": "programme",
+      "sourceUrl": "https://marinetondelier.fr/s/CARNET-DE-DOCTRINE-INTERNATIONAL.pdf",
+      "publisher": "Marine Tondelier / Les Écologistes (marinetondelier.fr, rubrique « Carnets de doctrine »)",
+      "summary": "Carnet de doctrine (32 p.) publié sur le site officiel de campagne ; doctrine de politique étrangère, de défense et commerciale. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Si l'objectif d'un accroissement significatif des ressources dédiés à l'effort de défense est souhaitable, il ne peut se faire au détriment de la transition écologique et de la protection sociale. On ne peut sacrifier l'hôpital public pour acheter des armes.",
+          "page": "13",
+          "note": "Hausse « significative » jugée souhaitable mais conditionnée ; aucune cible de 3 % du PIB."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Le modèle français basé sur l'exportation de l'armement doit évoluer vers un modèle européen basé sur la commande publique, une préférence européenne et une logique d'exportation encadrée par des critères éthiques et démocratiques.",
+          "page": "17",
+          "note": "Préférence européenne dans la commande publique de défense ; le surcoût éventuel n’est pas abordé."
         }
       ]
     }

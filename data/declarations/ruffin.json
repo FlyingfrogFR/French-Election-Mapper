@@ -2,163 +2,326 @@
   "candidateId": "ruffin",
   "declarations": [
     {
-      "id": "ruffin-2025-04-candidature",
-      "date": "2025-04-01",
-      "title": "Annonce de candidature (« Nous président ! ») et orientations de Debout !",
-      "sourceType": "discours",
-      "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_Left_primary",
-      "publisher": "Wikipédia (source secondaire)",
-      "summary": "Retraite à 60 ans, hausse du SMIC, protectionnisme et réindustrialisation, ISF, encadrement des licenciements, services publics en zone rurale, rejet du Mercosur, proportionnelle.",
+      "id": "ruffin-debout-manifeste",
+      "date": "2025-01-01",
+      "title": "Manifeste fondateur de Debout!",
+      "sourceType": "autre",
+      "sourceUrl": "https://debout.fr/notre-manifeste/",
+      "publisher": "Debout! (mouvement présidé par François Ruffin)",
+      "summary": "Texte d'orientation du mouvement (renommé Debout! en juin 2025) ; mentionne l'adoption de la taxe Zucman par l'Assemblée nationale (2025). (Date du document : 2025 ; mois et jour inconnus.)",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "tra-01",
-          "value": 2
-        },
-        {
-          "questionId": "tra-02",
-          "value": 2
-        },
-        {
-          "questionId": "tra-04",
-          "value": 2
-        },
-        {
-          "questionId": "tra-05",
-          "value": -2
-        },
-        {
-          "questionId": "tra-07",
-          "value": -2
-        },
-        {
-          "questionId": "tra-10",
-          "value": 1
-        },
-        {
-          "questionId": "tra-11",
-          "value": 2
-        },
-        {
           "questionId": "eco-01",
-          "value": -2
-        },
-        {
-          "questionId": "eco-02",
-          "value": 2
+          "value": -2,
+          "quote": "Quand, chaque été les urgences sont en crise, l'École n'arrive pas à recruter, la Justice est sous l'eau, quelle réponse? Des budgets à tailler, des coupes sèches, pour réduire le déficit. Sans jamais, ô grand jamais, toucher au grisbi.",
+          "inferred": true
         },
         {
           "questionId": "eco-03",
-          "value": 2
+          "value": 2,
+          "quote": "Quand Bernard Arnault pleurniche sur ses impôts et loue le «vent de liberté» venant des États-Unis, l'Assemblée nationale lui répond par la taxe Zucman, de 2% sur le patrimoine des milliardaires.",
+          "inferred": true,
+          "note": "Citée parmi les « batailles remportées » et « raisons d'espérer » ; « Pour qui je me bats ? » ajoute : « plus question qu'ils paient moins d'impôts que les infirmières ! »."
         },
         {
           "questionId": "eco-09",
-          "value": 2
+          "value": 2,
+          "quote": "Nous sommes protectionnistes. C'est le cœur de notre engagement. Sans politique commerciale qui protège l'industrie, les secteurs stratégiques, le pays se vide de ses compétences, de ses emplois, de sa souveraineté même.",
+          "note": "Protectionnisme « de construction » sur 100 produits stratégiques ; cahier n°4 : plan « 100 produits » à relocaliser et réindustrialisation « stratégique » plutôt que « tous azimuts »."
         },
         {
           "questionId": "eco-10",
-          "value": 2
+          "value": 1,
+          "quote": "Abaisser le plafond de ceux qui se gavent en haut, relever le plancher de ceux qui se rationnent en bas: voilà une définition du partage. Il faut le faire.",
+          "inferred": true,
+          "note": "Référence à la tranche à 94 % de Roosevelt et à des « impôts justes » ; pas de barème proposé (États généraux de la fiscalité annoncés)."
         },
         {
-          "questionId": "eco-11",
-          "value": 2
-        },
-        {
-          "questionId": "eur-01",
-          "value": 1
-        },
-        {
-          "questionId": "eur-04",
-          "value": 1
-        },
-        {
-          "questionId": "eur-07",
-          "value": 2
-        },
-        {
-          "questionId": "eur-09",
-          "value": 1
-        },
-        {
-          "questionId": "env-05",
-          "value": 1
-        },
-        {
-          "questionId": "env-11",
-          "value": 2
+          "questionId": "env-08",
+          "value": -1,
+          "quote": "C'est la taxe carbone sur l'essence des Gilets jaunes quand le kérozène des avions et le fioul des porte-conteneurs est détaxé.",
+          "inferred": true,
+          "note": "La taxe carbone sur les carburants est dénoncée comme « culpabilisation individuelle » ; une version redistributive n'est pas discutée."
         },
         {
           "questionId": "env-14",
-          "value": 1
+          "value": 2,
+          "quote": "C'est pourquoi, nous nous déclarons a-croissant: nous ne visons pas la croissance, non, nous ne portons pas l'augmentation du PIB comme objectif.",
+          "inferred": true,
+          "note": "Priorité au défi climatique (« travaillisme écologique ») sans objectif de croissance."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "C'est pourquoi nous pensons que la France doit chercher des alliés en Europe pour s'engouffrer dans la brèche ouverte: exclure les investissements d'avenir des règles de déficit, un grand plan d'investissement européen, etc.",
+          "inferred": true,
+          "note": "Pas de sortie proposée mais désobéissance aux traités et critique de la construction européenne."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -1,
+          "quote": "Sur le plan international, nous sommes attachés à la voix indépendante de la France, en dehors d'une logique de «bloc occidental» et de l'OTAN.",
+          "inferred": true,
+          "note": "Prise de distance avec l'OTAN sans proposition explicite de quitter le commandement intégré."
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "condamnant l'invasion russe en Ukraine, et avec la même force, avec les mêmes sanctions, le génocide à Gaza, les colonies en Cisjordanie, par le gouvernement d'extrême-droite israélien.",
+          "inferred": true,
+          "note": "Sanctions contre Israël demandées « avec la même force » que contre la Russie ; la suspension de l'accord d'association n'est pas nommée."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Quand les agriculteurs manifestent contre la concurrence déloyale, quelle est la réponse? La signature de nouveaux traités de libre-échange: avec la duplicité sur le Mercosur",
+          "inferred": true,
+          "note": "Les nouveaux traités de libre-échange, Mercosur en tête, sont dénoncés ; le mouvement se dit protectionniste."
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2,
+          "quote": "Nous désobéirons aux traités européens lorsqu'ils entrent en contradiction avec nos engagements.",
+          "note": "Demande aussi d'exclure les investissements d'avenir des règles de déficit."
         },
         {
           "questionId": "imm-01",
-          "value": -1
+          "value": 0,
+          "quote": "Nous sommes opposés à la volonté du patronat de filières d'immigration pour trouver une main d'œuvre manquante. Les pays du Sud ne sont pas des viviers de bras et de cerveaux à la libre disposition du Nord.",
+          "inferred": true,
+          "note": "Position mitigée : refus des filières d'immigration de travail voulues par le patronat, mais refus de faire des migrants des boucs émissaires et régularisation des travailleurs présents ; pas de quotas."
         },
         {
           "questionId": "imm-04",
-          "value": 1
+          "value": 2,
+          "quote": "Tous les travailleurs et travailleuses sur notre territoire doivent être régularisés pour ne plus vivre dans la peur du lendemain.",
+          "note": "Régularisation de tous les travailleurs, pas seulement des métiers en tension."
         },
         {
-          "questionId": "soc-03",
-          "value": -2
-        },
-        {
-          "questionId": "soc-04",
-          "value": 2
-        },
-        {
-          "questionId": "san-01",
-          "value": 2
-        },
-        {
-          "questionId": "san-02",
-          "value": 2
-        },
-        {
-          "questionId": "sec-12",
-          "value": 1
-        },
-        {
-          "questionId": "log-01",
-          "value": 2
-        },
-        {
-          "questionId": "log-07",
-          "value": 2
-        },
-        {
-          "questionId": "agr-01",
-          "value": 2
-        },
-        {
-          "questionId": "agr-04",
-          "value": 2
+          "questionId": "ins-01",
+          "value": 1,
+          "quote": "Une nouvelle République? Oui, c'est l'horizon. Le premier pas, c'est le RIC.",
+          "note": "Nouvelle République posée comme horizon ; pas d'assemblée constituante proposée (cahier n°2 : « République refondée » et révision constitutionnelle rééquilibrant les pouvoirs)."
         },
         {
           "questionId": "ins-02",
-          "value": 1
+          "value": 2,
+          "quote": "À ce peuple, à cette démocratie, il faut offrir de nouveaux outils: le Référendum d'Initiative Citoyenne, des États généraux, des jurys populaires tirés au sort, des conventions citoyennes."
         },
         {
-          "questionId": "ins-03",
-          "value": 2
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "C'est pourquoi nous demandons de nouveaux outils démocratiques: le RIC, les Conventions citoyennes, du tirage au sort, des grands débats publics sur les sujets de société.",
+          "inferred": true,
+          "note": "Cahier n°4 : référendums nationaux sur des mesures écologiques ; l'article 11 n'est pas mentionné."
         },
         {
-          "questionId": "ins-04",
-          "value": 1
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "Protéger un cadre de vie commun, la République et sa laïcité –la loi de 1905, toute la loi de 1905, rien que la loi de 1905– attaquées par ses dévoyeurs en chef, les identitaires et les intégristes religieux.",
+          "inferred": true,
+          "note": "« Rien que la loi de 1905 » exclut a priori de nouvelles interdictions dans l'espace public ; le voile n'est pas nommé."
+        },
+        {
+          "questionId": "log-01",
+          "value": 1,
+          "quote": "L'État ne régule pas le marché du logement, ne plafonne pas les loyers, mais il subventionne les locataires pour qu'ils puissent payer.",
+          "inferred": true,
+          "note": "Critique de l'absence de plafonnement des loyers et volonté de « réguler » le logement ; pas de mesure de généralisation de l'encadrement."
         },
         {
           "questionId": "num-05",
-          "value": 2
+          "value": 1,
+          "quote": "La démocratie, ce sont des médias, dont les réseaux sociaux, qui doivent être «indépendants à l'égard de l'État, des puissances d'argent et des influences étrangères», comme l'exigeait les Résistants à la Libération.",
+          "inferred": true,
+          "note": "Principe d'indépendance vis-à-vis des puissances d'argent ; pas de mesure législative anti-concentration détaillée."
         },
         {
-          "questionId": "edu-02",
-          "value": 2
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "L'égalité réelle? Oui, c'est l'horizon. Le premier pas, ce sont des impôts justes et l'abrogation de la retraite à 64 ans."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 1,
+          "quote": "Enfin, libérer du temps hors travail, la bataille pour le temps libre. Les trois, ensemble.",
+          "inferred": true,
+          "note": "Objectif de temps libéré (repris dans le cahier n°3 : « protéger le temps libéré des travailleuses et des travailleurs ») sans mesure légale de 32 h ou de semaine de 4 jours."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-np-cahier-1-essentiels",
+      "date": "2026-01-01",
+      "title": "Cahier de campagne n°1 – Pour un statut des travailleuses et travailleurs essentiels",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Programme de campagne dirigé par Sophie Taillé-Polian, responsable du programme ; texte daté du printemps 2026 (inflation de mars 2026). (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
+          "note": "« Mot de la fin » de Sophie Taillé-Polian, responsable du programme, revendiquant la continuité des acquis du Nouveau Front populaire."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Et pendant qu'on demandait aux gens de « reprendre un emploi », on a durci l'assurance-chômage par décrets – Pénicaud en 2019, puis Élisabeth Borne en 2021. Toujours la même musique : « inciter », « responsabiliser »",
+          "inferred": true,
+          "note": "Les durcissements successifs de l'assurance-chômage sont dénoncés comme fabriquant le « mal-travail »."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Pour en finir avec cette érosion du pouvoir d'achat, nous indexerons les salaires sur l'inflation, comme cela a existé jusqu'en 1982."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-np-cahier-4-travaillisme",
+      "date": "2026-09-01",
+      "title": "Cahier de campagne n°4 – Face au chantier du siècle : pour un travaillisme écologique",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/travaillisme-ecologique/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "PDF : https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf (Date du document : 2026-09 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Nous proposons des prix minimums garantis discutés par les interprofessions représentatives de chaque filière."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Pour sécuriser les conversions, nous proposons la mise en place d'un fonds de garantie pour l'agriculture bio. Il rétablira l'aide au maintien indûment supprimée par la Macronie et étendra les moyens d'action de l'Agence Bio"
+        },
+        {
+          "questionId": "agr-04",
+          "value": 1,
+          "quote": "Pour éviter la concurrence déloyale, nous empêcherons les importations à des prix inférieurs aux prix planchers ainsi fixés, tout en favorisant les produits locaux et durables dans le cadre de la commande publique.",
+          "inferred": true,
+          "note": "Protection par prix planchers à l'importation plutôt que par clauses miroirs normatives."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "Mise en place d'une taxe de 4% sur les dividendes des entreprises pour financer la transition écologique (4% pour celles qui versent plus de 10 millions d'euros de dividendes, 2% en dessous de 10 millions d'euros).",
+          "note": "Mesure de la Convention citoyenne pour le climat que le candidat propose de soumettre à référendum ; les rachats d'actions sont dénoncés dans « Un président au SMIC »."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Et nous reviendrons progressivement à un modèle 100% public de production : EDF gérera toutes les nouvelles grandes centrales de production nucléaires et renouvelables.",
+          "note": "Cahier n°3 : « reprise en main des autoroutes (fin des concessions, tarification publique) » ; cahier n°2 : « quitte à nationaliser certaines entreprises stratégiques »."
+        },
+        {
+          "questionId": "env-01",
+          "value": 0,
+          "quote": "La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF : nous étudierons d'autres solutions si le devis est trop élevé."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "En matière de production nucléaire, nous prolongerons la durée de vie des centrales existantes, tant que l'Autorité de sûreté nucléaire et de radioprotection validera leur niveau de sûreté.",
+          "note": "Poursuite de la construction des six EPR2."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "nous poursuivrons le développement de l'énergie éolienne, car elle produit davantage en hiver, lorsque nous en avons besoin."
+        },
+        {
+          "questionId": "env-05",
+          "value": 1,
+          "quote": "Une planification qui ne se limite pas aux diagnostics mais organise véritablement l'action, en octroyant durablement les moyens humains et financiers correspondants, avec une loi de programmation de la reconstruction écologique.",
+          "note": "Planification et loi de programmation, Commissariat général à la planification ; pas d'objectifs contraignants par secteur."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Pour faire face à cette hausse des besoins avec une électricité bas-carbone et abordable, nous organiserons une sortie progressive du marché de l'électricité.",
+          "note": "Prix de vente « basés sur les coûts réels de production »."
+        },
+        {
+          "questionId": "env-09",
+          "value": 0,
+          "quote": "Les mesures de protection de l'air comme les ZFE (Zones à Faibles Émissions) ne viendront plus d'en haut, mais des citoyens, au plus près de leurs besoins !",
+          "inferred": true,
+          "note": "Ni suppression ni maintien national : décision locale par des assises de la qualité de l'air ; le manifeste critique les ZFE « quand les jets privés planent librement »."
+        },
+        {
+          "questionId": "env-10",
+          "value": 2,
+          "quote": "Interdiction des vols intérieurs là où existe une alternative en train avec un trajet de moins de 4 heures (Emmanuel Macron avait finalement retenu 2h30, épargnant la plupart des petites lignes aériennes).",
+          "note": "Proposée parmi les mesures à soumettre à référendum."
+        },
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Cela supposera notamment des investissements importants dans de nouveaux trains, fabriqués en France, et la modernisation du réseau.",
+          "note": "Triplement de la part du fret ferroviaire, 70 000 emplois ; l'effet sur la dette n'est pas discuté."
+        },
+        {
+          "questionId": "num-04",
+          "value": -2,
+          "quote": "Le déploiement des centres de données sera beaucoup plus encadré, afin que la chaleur soit récupérée pour chauffer les bâtiments des territoires concernés, et un plafond de consommation d'électricité sera défini démocratiquement, afin que leur développement n'accapare pas toute la production d'électricité.",
+          "note": "Le manifeste dénonce aussi les « data-centers sur mesure » bâtis pour les géants du numérique."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-np-cahier-3-loisirs",
+      "date": "2026-01-01",
+      "title": "Cahier de campagne n°3 – Pour renouer avec le temps des loisirs",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/temps-loisirs/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Publié à l'été 2026. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-06",
+          "value": 1,
+          "quote": "Nous élargirons le Pass Culture au-delà des seuls mineurs, pour qu'il bénéficie également aux adultes les plus précaires ou isolés, pour qui l'accès aux loisirs et à la culture reste un premier renoncement budgétaire.",
+          "note": "Pass Culture maintenu mais refondu (part collective rétablie et augmentée, plateforme transformée)."
+        },
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "Nous lancerons un grand Plan « Salle des Fêtes et maisons du peuple » doté d'un milliard d'euros par an pendant cinq ans, pensé comme une politique nationale de rénovation du bâti collectif, des pratiques amateurs et de la vie associative",
+          "inferred": true,
+          "note": "Dépenses nouvelles pour la culture, les loisirs et la vie associative (« Il est urgent de revoir nos priorités budgétaires ») ; le budget du ministère de la Culture n'est pas chiffré."
         }
       ]
     }

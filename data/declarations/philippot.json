@@ -2,135 +2,359 @@
   "candidateId": "philippot",
   "declarations": [
     {
-      "id": "patriotes-programme-reference",
-      "date": "2026-05-09",
-      "title": "Ligne des Patriotes et annonce de candidature",
+      "id": "philippot-lp-projet-2026",
+      "date": "2026-09-03",
+      "title": "Grandes orientations pour un projet patriote – Les Patriotes, édition 2026-2027 (+ Le Frexit en 10 questions)",
       "sourceType": "programme",
-      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "publisher": "Wikipédia (source secondaire, à remplacer par le site du parti)",
-      "summary": "Frexit (sortie de l'UE et de l'euro), sortie de l'OTAN, opposition au soutien militaire à l'Ukraine, arrêt de l'immigration, RIC, opposition aux éoliennes et aux ZFE, opposition à l'identité numérique et aux obligations vaccinales.",
+      "sourceUrl": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+      "publisher": "Les Patriotes (site officiel du parti)",
+      "summary": "Livret PDF de 19 pages (double pages) lié depuis les-patriotes.fr/projetpourlafrance/ ; date de création du PDF 03/09/2026. Les numéros de page indiqués sont ceux du fichier PDF.",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "eur-01",
-          "value": -2
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Rétablir les prix planchers pour assurer un revenu décent pour nos agriculteurs.",
+          "page": "4"
         },
         {
-          "questionId": "eur-02",
-          "value": 2
+          "questionId": "agr-03",
+          "value": 1,
+          "quote": "La France doit accompagner la transition des exploitations agricoles vers la permaculture, les pratiques respectueuses des sols, et la production biologique.",
+          "page": "6",
+          "note": "Soutien à la transition vers le bio ; le niveau des aides n’est pas chiffré."
         },
         {
-          "questionId": "eur-03",
-          "value": -2
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "Les déclarations du président Macron se disant prêt à partager notre dissuasion avec l’Europe constituent une trahison sans précédent de nos intérêts nationaux.",
+          "page": "10"
         },
         {
-          "questionId": "eur-04",
-          "value": -2
+          "questionId": "eco-01",
+          "value": 1,
+          "quote": "Pour réaliser ce redressement sans augmenter le niveau d’imposition déjà record subi par les Français, la solution devra d’abord venir d’une réduction du train de vie de l’Etat, ciblant les ministères « non régaliens » et les régimes spéciaux des élus de la République",
+          "page": "8",
+          "note": "Réduction du train de vie de l’État affichée comme première solution, mais rejet des critères de Maastricht et des « plans d’austérité » exigés par Bruxelles."
         },
         {
-          "questionId": "eur-05",
-          "value": -2
+          "questionId": "eco-04",
+          "value": 1,
+          "quote": "une moindre taxation des petits héritages",
+          "page": "9",
+          "note": "Principe fiscal général, sans mesure chiffrée."
         },
         {
-          "questionId": "eur-07",
-          "value": 2
+          "questionId": "eco-06",
+          "value": 1,
+          "quote": "Soutenir les créateurs en France : artisans, TPE/PME, par une politique sociale et fiscale très avantageuse",
+          "page": "3",
+          "note": "Allègement fiscal ciblé sur les indépendants et petites entreprises ; lutte contre l’optimisation fiscale des grands groupes."
         },
         {
-          "questionId": "eur-09",
-          "value": 2
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "encadrement plus strict des prix des produits de première nécessité, et lutte contre les monopoles",
+          "page": "11",
+          "note": "Mesure formulée pour les Outre-mer (lutte contre la vie chère)."
         },
         {
-          "questionId": "eur-11",
-          "value": 2
-        },
-        {
-          "questionId": "eur-12",
-          "value": 2
-        },
-        {
-          "questionId": "imm-01",
-          "value": 2
-        },
-        {
-          "questionId": "imm-02",
-          "value": 2
-        },
-        {
-          "questionId": "imm-04",
-          "value": -2
-        },
-        {
-          "questionId": "imm-10",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": 2
-        },
-        {
-          "questionId": "ins-02",
-          "value": 2
-        },
-        {
-          "questionId": "ins-03",
-          "value": 2
-        },
-        {
-          "questionId": "ins-04",
-          "value": 2
-        },
-        {
-          "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "env-03",
-          "value": 2
-        },
-        {
-          "questionId": "env-04",
-          "value": -2
-        },
-        {
-          "questionId": "env-09",
-          "value": 2
-        },
-        {
-          "questionId": "num-07",
-          "value": -2
-        },
-        {
-          "questionId": "san-10",
-          "value": -2
-        },
-        {
-          "questionId": "tra-01",
-          "value": 2
-        },
-        {
-          "questionId": "eco-05",
-          "value": 2
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Développer une planification économique souveraine et cohérente, en instaurant un protectionnisme intelligent qui protège nos industries tout en favorisant l’innovation.",
+          "page": "3",
+          "note": "Aussi : Caisse nationale pour l’équipement et la réindustrialisation (crédit productif public), droits de douane récupérés hors UE."
         },
         {
           "questionId": "eco-12",
-          "value": 2
+          "value": 2,
+          "quote": "Rétablir les monopoles publics dans le rail et l’énergie.",
+          "page": "4",
+          "note": "Aussi : « Renationaliser les autoroutes », « Rétablir le monopole public national d’EDF »."
         },
         {
-          "questionId": "def-01",
-          "value": 2
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Leur formation doit être recentrée sur la maîtrise des savoirs disciplinaires, leur autorité pleinement reconnue et leur carrière revalorisée, notamment sur le plan salarial.",
+          "page": "7",
+          "note": "Revalorisation salariale mentionnée sans chiffrage ni priorité budgétaire."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Il faut non seulement préserver cet avantage stratégique, mais aussi le renforcer par un plan d’investissement massif dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
+          "page": "6",
+          "inferred": true,
+          "note": "Investissement massif dans le nucléaire de nouvelle génération ; le nombre de réacteurs n’est pas précisé."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Investir massivement dans le nucléaire et choisir notre mix énergétique.",
+          "page": "3",
+          "inferred": true
+        },
+        {
+          "questionId": "env-03",
+          "value": 2,
+          "quote": "Il faut donc un moratoire total et définitif sur cette méthode de production d’électricité qui nous est là encore imposée par l’Union européenne.",
+          "page": "3",
+          "note": "Moratoire sur les éoliennes terrestres et en mer, avec plan de démantèlement des éoliennes installées."
+        },
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Préserver la voiture thermique au-delà de 2035.",
+          "page": "3"
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Quitter le marché européen de l’électricité.",
+          "page": "3"
+        },
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "La France doit retrouver sa souveraineté nationale en quittant toutes les instances supranationales : UE, Euro, Schengen, CEDH, OTAN, OMS.",
+          "page": "2",
+          "note": "« Seule la sortie de l’UE, prévue par les Traités, le peut. »"
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Dans le cas de la France, nos règles internes imposent de supprimer le titre XV de la Constitution, qui nous rattache à l’Union européenne.",
+          "page": "15",
+          "inferred": true,
+          "note": "Primauté du droit national obtenue par la sortie de l’UE et la suppression du titre XV, plutôt que par une inscription dans la Constitution."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Rejeter la création d’une armée européenne.",
+          "page": "10"
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Couper les financements de la guerre en Ukraine, qui disparaissent dans la corruption.",
+          "page": "8",
+          "note": "« Cesser d’entretenir la guerre en Ukraine » ; initiative en faveur de la paix."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Quitter l’OTAN.",
+          "page": "10"
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Mettre fin aux accords de libre-échange, qui ruinent nos agriculteurs en les exposant à une concurrence déloyale avec le reste du monde.",
+          "page": "4",
+          "note": "Le Mercosur est cité comme menace pour les élevages."
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2,
+          "quote": "Mettre un terme aux plans d’austérité. Via les fameux critères de Maastricht dont le respect donne à la Commission européenne un droit de regard contraignant sur nos finances publiques",
+          "page": "4"
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "La sortie de l’Euro : un impératif de la souveraineté économique et du redressement industriel de la France.",
+          "page": "9"
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "Retrouver des frontières nationales en quittant l’espace Schengen et l’UE.",
+          "page": "10"
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Économiser 20 milliards d’euros par an par le Frexit.",
+          "page": "8",
+          "inferred": true,
+          "note": "Refus de toute contribution au budget de l’UE et sortie de l’UE."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "L’objectif est de mettre un terme à la politique d’immigration massive en revenant à des flux extrêmement limités et en reconduisant aux frontières ceux qui n’ont rien à faire en France.",
+          "page": "10",
+          "note": "Fin de l’immigration de travail ; quotas votés par le Parlement non mentionnés."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "il est impératif de dénoncer la Convention européenne des droits de l’homme dont l’application par la CEDH empêche aujourd’hui la France, par exemple, de remettre en cause le regroupement familial.",
+          "page": "10",
+          "inferred": true,
+          "note": "Remise en cause du regroupement familial présentée comme objectif de la sortie de la CEDH."
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "Mettre fin à l’immigration de travail et à la directive européenne des travailleurs détachés.",
+          "page": "10",
+          "inferred": true,
+          "note": "Fin de l’immigration de travail et renvoi des clandestins : opposition à toute régularisation par le travail."
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "quote": "Quitter la CEDH (Cour européenne des droits de l’homme). Pour retrouver notre pleine souveraineté en matière d’immigration et pouvoir décider de nos règles d’accueil et d’expulsion des étrangers en France, il est impératif de dénoncer la Convention européenne des droits de l’homme",
+          "page": "10"
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Créer le référendum d’initiative citoyenne (RIC) sur tout sujet et l’inscrire dans la Constitution.",
+          "page": "2"
+        },
+        {
+          "questionId": "ins-12",
+          "value": -2,
+          "quote": "Les Patriotes combattent politiquement toutes les formes de séparatisme et rejettent fermement la logique de déconstruction de la Nation et de démembrement de la France.",
+          "page": "11",
+          "inferred": true,
+          "note": "Refus des statuts dérogatoires (État de Nouvelle-Calédonie) et départementalisation proposée aux Outre-mer ; la Corse n’est pas nommée."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 1,
+          "quote": "Les lois restreignant la liberté d’expression doivent être supprimées.",
+          "page": "12",
+          "inferred": true,
+          "note": "Liberté d’expression seulement ; le droit de manifestation n’est pas traité."
+        },
+        {
+          "questionId": "num-04",
+          "value": 2,
+          "quote": "L’État doit donc soutenir massivement la recherche, les entreprises françaises de l’IA, la formation et l’installation en France des infrastructures et capacités de calcul indispensables au développement des modèles les plus performants.",
+          "page": "7",
+          "note": "Procédures simplifiées non évoquées."
+        },
+        {
+          "questionId": "num-07",
+          "value": -2,
+          "quote": "Refuser l’identité numérique européenne.",
+          "page": "12",
+          "note": "Pétition de 2026 demandant d’annuler le « Pass numérique » prévu en septembre 2026."
+        },
+        {
+          "questionId": "san-02",
+          "value": 0,
+          "quote": "Les effectifs hospitaliers doivent être redéployés en priorité vers les postes soignants, avec un ratio personnel/patients adapté aux besoins réels des services.",
+          "page": "5",
+          "note": "Fin des fermetures de lits et « investir massivement dans les soins de proximité », mais logique de redéploiement et de réduction de la bureaucratie (suppression des ARS) plutôt que de hausse des dépenses."
+        },
+        {
+          "questionId": "san-05",
+          "value": -1,
+          "quote": "Refuser toute politique d’incitation à l’euthanasie, assumée ou déguisée, des personnes en situation de handicap. Promouvoir le soin et la vie.",
+          "page": "6",
+          "note": "Formulé dans le chapitre Handicap ; pas de position générale sur une loi d’aide à mourir."
+        },
+        {
+          "questionId": "san-10",
+          "value": -2,
+          "quote": "Assurer une liberté vaccinale pour tous les citoyens et les soignants. Aucune pression, discrimination ou menace ne doit peser sur ceux qui refusent un traitement médical, y compris un vaccin.",
+          "page": "5",
+          "note": "Pétition « Non à la nouvelle vaccination obligatoire ! » (juillet 2026) contre l’obligation vaccinale grippe des soignants : « Zéro obligation. Zéro suspendu. »"
         },
         {
           "questionId": "sec-01",
-          "value": 2
+          "value": 2,
+          "quote": "Il convient donc de réinstaurer les peines planchers et de généraliser les sanctions dès la première infraction.",
+          "page": "11"
         },
         {
-          "questionId": "lib-01",
-          "value": 2
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "Construire les dizaines de milliers de places de prison qui manquent et expulser les prisonniers étrangers (ils représentent 25% du total des prisonniers).",
+          "page": "11"
+        },
+        {
+          "questionId": "sec-06",
+          "value": 1,
+          "quote": "Il faut également en finir avec l’excuse automatique de minorité. La responsabilité doit primer et l’excuse de minorité ne doit s’appliquer qu’à la condition que le juge la motive spécialement.",
+          "page": "11",
+          "note": "Fin de l’automaticité de l’excuse de minorité, pas sa suppression pour les 16-18 ans."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "Recréer une police de proximité visible et permanente.",
+          "page": "11",
+          "note": "Unités implantées dans les quartiers ; RAID et CRS « en appui »."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "Et lutter contre la fraude fiscale et sociale créera les conditions d’une économie dynamique mais juste.",
+          "page": "9",
+          "note": "Lutte contre la fraude sociale (5 Md€/an visés) ; carte Vitale biométrique non proposée, le parti refusant tout « fichage numérique généralisé »."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 1,
+          "quote": "Délivrée de la menace bruxelloise, la France pourra souverainement déterminer les conditions d’accession à la retraite et baisser l’âge de départ si les Français le désirent.",
+          "page": "4",
+          "note": "Retour sur les réformes « non désirées » (retraite) et baisse de l’âge de départ, formulés de façon conditionnelle."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 1,
+          "quote": "Délivrée de la menace bruxelloise, la France pourra souverainement déterminer les conditions d’accession à la retraite et baisser l’âge de départ si les Français le désirent.",
+          "page": "4",
+          "note": "Baisse de l’âge de départ envisagée « si les Français le désirent », sans cible à 60 ans."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Baisser l’âge de départ à la retraite.",
+          "page": "4",
+          "inferred": true,
+          "note": "Objectif de baisse de l’âge de départ : opposition à un relèvement au-delà de 64 ans."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Les réformes récentes, exigées par la Commission européenne, visant à raboter les indemnités chômage, à fermer des lits à l’hôpital ou à arrêter le remboursement des médicaments pourront être supprimées.",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "id": "philippot-lp-petition-3-octobre",
+      "date": "2026-09-01",
+      "title": "Pétition « Le 3 octobre 2026 : toute la France dans la rue ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://les-patriotes.fr/le-3-octobre-2026-toute-la-france-dans-la-rue/",
+      "publisher": "Les Patriotes (site officiel du parti)",
+      "summary": "Appel à manifestation publié sur le site du parti (septembre 2026). (Date du document : 2026-09 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Prix de l’essence qui explose, bientôt 3 euros le litre, et un gouvernement qui refuse de baisser les taxes !",
+          "inferred": true,
+          "note": "Revendication d’une « baisse immédiate des taxes » sur les carburants ; la TVA à 5,5 % n’est pas mentionnée."
         }
       ]
     }
