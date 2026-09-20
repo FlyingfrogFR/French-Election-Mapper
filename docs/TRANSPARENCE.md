@@ -31,6 +31,26 @@ La checklist hebdomadaire liste tous les candidat·es et mesure leur couverture.
 - Une question : issue « Question » en s'appuyant sur la charte éditoriale.
 - La méthode : issue libre ; toute modification des paramètres de calcul se fait par pull request, avec mise à jour de `docs/METHODOLOGIE.md` et des tests.
 
-## 7. Licences
+## 7. Audit des programmes officiels (septembre 2026)
+
+Le jeu de données initial avait été encodé à partir de sources mêlant programmes, votes et articles
+de presse. Il est repris candidat·e par candidat·e contre les **documents officiels** uniquement, avec
+pour chaque position la citation textuelle du passage qui la fonde. La reprise a déjà :
+
+- remplacé des positions issues de synthèses de presse par des citations de programmes officiels ;
+- **supprimé** les positions qu'aucun document officiel n'étaye (une position absente est préférable à
+  une position devinée) ;
+- **corrigé** des positions erronées, par exemple : le projet de Debout la France propose désormais
+  explicitement la sortie de l'Union européenne et fixe l'objectif de défense à 2,5 % du PIB (et non
+  3 %) ; « L'Avenir en commun » instaure une conscription citoyenne obligatoire de neuf mois ;
+  le pacte constitutionnel des Républicains abaisse le seuil du référendum d'initiative partagée ;
+  « Acte un » de Place publique propose une assemblée constituante ;
+- **écarté** les déclarations d'autres responsables d'un parti : seule la parole du ou de la
+  candidat·e engage sa position.
+
+Les citations sont vérifiées automatiquement : un script recherche chaque citation dans le texte
+extrait du document officiel cité et signale toute citation absente ou approximative.
+
+## 8. Licences
 
 Code : GNU AGPL v3 — toute version modifiée mise en ligne doit publier son code. Données : CC BY 4.0. Cela garantit qu'une copie ne peut pas modifier discrètement les positions ou le calcul.
