@@ -92,7 +92,14 @@ async function extract(url: string): Promise<string> {
     let text: string;
     if (buf.subarray(0, 5).toString('latin1').startsWith('%PDF')) {
       const require = createRequire(import.meta.url);
-      text = (await require('pdf-parse')(buf)).text as string;
+      // pdf.js logs font warnings on stdout for many real-world PDFs; they are irrelevant here.
+      const warn = console.warn;
+      console.warn = () => {};
+      try {
+        text = (await require('pdf-parse')(buf)).text as string;
+      } finally {
+        console.warn = warn;
+      }
     } else {
       text = stripHtml(buf.toString('utf8'));
     }
