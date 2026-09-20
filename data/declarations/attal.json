@@ -2,291 +2,782 @@
   "candidateId": "attal",
   "declarations": [
     {
-      "id": "attal-2024-01-politique-generale",
-      "date": "2024-01-30",
-      "title": "Déclaration de politique générale du Premier ministre Gabriel Attal et mesures mises en œuvre en 2024",
-      "sourceType": "discours",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Gabriel_Attal",
-      "publisher": "Wikipédia (source secondaire, à remplacer par vie-publique.fr)",
-      "summary": "Bilan de Matignon : généralisation des 15 heures d'activité pour le RSA, expérimentation de la tenue unique à l'école, groupes de niveau au collège, durcissement de l'assurance chômage, « réarmement civique », maintien de la réforme des retraites.",
+      "id": "attal-ap-dette",
+      "date": "2026-01-01",
+      "title": "Dette à résorber — 01 Dette de l'État",
+      "sourceType": "programme",
+      "sourceUrl": "https://attalpresident.fr/programme/dette-de-letat",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Trajectoire de finances publiques : zéro déficit en dix ans maximum. (Date du document : 2026 ; mois et jour inconnus.)",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "tra-01",
-          "value": -2
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Nous devons commencer par enrayer cette spirale de la dette. Pour cela, l'effort devra d'abord porter sur la dépense sociale, qui représente plus de la moitié des dépenses publiques en France.",
+          "note": "Trajectoire annoncée : déficit sous 3 % avant 2032 et zéro déficit en 2037, avec 120 à 150 Md€ d'économies et les deux tiers de l'effort sur le modèle social."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-ref",
+      "date": "2026-08-27",
+      "title": "À La REF : Gabriel Attal au premier débat de la présidentielle 2027",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027",
+      "publisher": "attalpresident.fr",
+      "summary": "Compte rendu officiel du débat du Medef publié par la campagne.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": -2,
+          "quote": "Sur la fiscalité, Gabriel Attal a revendiqué les choix économiques engagés depuis 2017 : baisse du taux d'impôt sur les sociétés de 33 % à 25 %, flat tax et suppression de l'ISF.",
+          "note": "Le compte rendu précise qu'il « refuse tout retour en arrière » sur ces réformes."
         },
         {
-          "questionId": "tra-05",
-          "value": 2
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Il propose notamment un véritable statut du bailleur privé, une simplification massive des règles de construction et davantage d'incitations pour les maires qui autorisent de nouveaux logements."
+        },
+        {
+          "questionId": "log-09",
+          "value": 1,
+          "quote": "Il propose notamment un véritable statut du bailleur privé",
+          "inferred": true,
+          "note": "La création d'un statut du bailleur privé va dans le sens d'un allègement de la fiscalité locative, sans chiffrage ni détail fiscal."
+        },
+        {
+          "questionId": "tra-01",
+          "value": -2,
+          "quote": "Opposé à la suspension de la réforme de 2023, il souhaite que celle-ci reprenne son calendrier si les Français lui font confiance."
         },
         {
           "questionId": "tra-07",
+          "value": 1,
+          "quote": "Plus largement, Gabriel Attal a mis le RN, face à ses contradictions, lui qui a voté contre toutes les réformes permettant de limiter les dépenses (réforme des retraites, réforme de l'assurance chômage ou conditionnement du RSA) et se plaint aujourd'hui des déficits.",
+          "inferred": true,
+          "note": "Il revendique le conditionnement du RSA parmi les réformes de maîtrise de la dépense qu'il défend ; aucun volume d'heures n'est reprécisé dans les documents de campagne."
+        },
+        {
+          "questionId": "tra-12",
           "value": 2,
-          "note": "Généralisation des 15 heures d'activité hebdomadaires pour les allocataires du RSA."
-        },
-        {
-          "questionId": "tra-13",
-          "value": 1
-        },
-        {
-          "questionId": "tra-08",
-          "value": 1
-        },
-        {
-          "questionId": "edu-01",
-          "value": 2,
-          "note": "Expérimentation puis généralisation envisagée de la tenue unique."
-        },
-        {
-          "questionId": "edu-03",
-          "value": 2,
-          "note": "Groupes de niveau en français et mathématiques au collège."
-        },
-        {
-          "questionId": "edu-08",
-          "value": 2
-        },
-        {
-          "questionId": "edu-10",
-          "value": 1
-        },
-        {
-          "questionId": "edu-06",
-          "value": 1
-        },
-        {
-          "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "env-02",
-          "value": -2
-        },
-        {
-          "questionId": "imm-01",
-          "value": 1
-        },
-        {
-          "questionId": "imm-03",
-          "value": 1
-        },
-        {
-          "questionId": "imm-04",
-          "value": 1
-        },
-        {
-          "questionId": "imm-13",
-          "value": 1
-        },
-        {
-          "questionId": "eco-02",
-          "value": -2
-        },
-        {
-          "questionId": "eco-10",
-          "value": -1
-        },
-        {
-          "questionId": "eco-06",
-          "value": 1
-        },
-        {
-          "questionId": "ins-01",
-          "value": -2
-        },
-        {
-          "questionId": "ins-02",
-          "value": -1
+          "quote": "Il souhaite également introduire un véritable pilier de capitalisation, estimant que les évolutions démographiques imposent de repenser en profondeur le modèle français.",
+          "note": "Au meeting de lancement il chiffre une capitalisation « dès la naissance » (1 000 € versés par l'État sur un compte bloqué pour chaque nouveau-né)."
         }
       ]
     },
     {
-      "id": "attal-2025-06-loi-mineurs",
-      "date": "2025-06-01",
-      "title": "Loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (« loi Attal »)",
-      "sourceType": "vote",
-      "sourceUrl": "https://www.elyseescope.com/le-radar/gabriel-attal-programme-propositions-presidentielle-2027",
-      "publisher": "ÉlyséeScope (source secondaire)",
-      "summary": "Texte porté par Gabriel Attal : atténuation de l'excuse de minorité pour les 16-18 ans, comparution immédiate des mineurs, responsabilisation des parents.",
+      "id": "attal-ap-lci",
+      "date": "2026-08-25",
+      "title": "LCI : Gabriel Attal défend un projet de rupture",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays",
+      "publisher": "attalpresident.fr",
+      "summary": "Synthèse officielle de l'entretien sur LCI.",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "sec-06",
-          "value": 2
+          "questionId": "eco-04",
+          "value": 0,
+          "quote": "Il refuse également d'augmenter les droits de succession et défend une ligne claire : rechercher d'abord les économies possibles avant de créer de nouveaux impôts.",
+          "note": "Il refuse toute hausse des droits de succession mais ne propose pas de les baisser."
         },
         {
-          "questionId": "sec-03",
-          "value": 1
+          "questionId": "eur-04",
+          "value": 2,
+          "quote": "Il réaffirme son soutien à l'Ukraine et défend la possibilité pour les Ukrainiens d'utiliser les armes qui leur sont livrées pour frapper en profondeur sur le territoire russe lorsqu'il s'agit de se défendre."
         },
         {
-          "questionId": "sec-09",
-          "value": 2
+          "questionId": "eur-09",
+          "value": -2,
+          "quote": "Sur l'économie, Gabriel Attal rejette la proposition de La France insoumise de « geler » la dette française, qui conduirait selon lui à une rupture avec les engagements européens et ferait perdre la confiance des investisseurs.",
+          "note": "Il propose au contraire d'inscrire par référendum une « règle d'or » d'équilibre budgétaire dans la Constitution."
         },
         {
-          "questionId": "sec-02",
-          "value": 1
+          "questionId": "eur-12",
+          "value": -1,
+          "quote": "Il souhaite également s'inspirer du système canadien à points et renforcer la coordination au sein de l'espace Schengen pour éviter qu'un État membre puisse décider seul de régularisations massives ayant des conséquences pour ses voisins.",
+          "inferred": true,
+          "note": "Il agit dans le cadre de Schengen en renforçant la coordination, et non en rétablissant des contrôles nationaux permanents."
         },
         {
-          "questionId": "sec-05",
-          "value": -1
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "Il propose de modifier la Constitution pour instaurer une « préférence travail », réduire l'immigration familiale et étudiante au profit de l'immigration professionnelle et faire voter tous les deux ans par le Parlement des quotas limitatifs, définis notamment par métier, origine géographique et nationalité.",
+          "note": "Quotas limitatifs votés par le Parlement tous les deux ans (et non chaque année) ; le programme parle d'« accueillir moins pour accueillir mieux »."
+        },
+        {
+          "questionId": "imm-07",
+          "value": -1,
+          "quote": "Sur l'immigration, Gabriel Attal estime nécessaire de durcir les règles mais refuse les solutions qu'il juge inefficaces, comme les centres de renvoi installés dans des pays tiers, en raison de leur coût et du risque de dépendance vis-à-vis de ces États.",
+          "inferred": true,
+          "note": "Il rejette l'externalisation vers des pays tiers (centres de renvoi) ; l'examen des demandes d'asile hors d'Europe n'est pas visé nommément."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Parmi ses propositions : supprimer 100 000 postes dans la fonction publique et un échelon de collectivité territoriale.",
+          "note": "Présenté dans Le Parisien comme un « big bang » territorial supprimant les doublons et faisant du maire « l'élu le plus puissant de France »."
         }
       ]
     },
     {
-      "id": "attal-2026-05-candidature",
-      "date": "2026-05-22",
-      "title": "Site de campagne « La force d'agir » — chantiers capitaux et dettes à résorber",
+      "id": "attal-rns-nouvelle-donne",
+      "date": "2025-07-21",
+      "title": "Convention thématique Renaissance — « Pour une nouvelle donne économique et climatique »",
       "sourceType": "programme",
-      "sourceUrl": "https://attalpresident.fr/",
-      "publisher": "Gabriel Attal Président",
-      "summary": "Quatre « chantiers capitaux » (éducation priorité absolue ; le travail doit payer ; frontières protégées ; IA pour le meilleur) et deux « dettes à résorber » (finances publiques, dette écologique). Ligne républicaine, européenne, progressiste et laïque.",
+      "sourceUrl": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+      "publisher": "Renaissance",
+      "summary": "Document de convention thématique de Renaissance ; 82 pages, économie, travail, enseignement supérieur, climat, énergie.",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Nous refuserons toute hausse d'impôt sur les entreprises et baisserons encore les impôts de production.",
+          "note": "Complété par la suppression de la CVAE et un « bouclier fiscal productif » ramenant les impôts de production sous 3 % de la valeur ajoutée."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Finaliser la réforme des bourses étudiantes sur critères sociaux.",
+          "inferred": true,
+          "note": "Achèvement de la réforme des bourses engagée en 2023, dont la première étape a « élargi l'accès aux aides, notamment aux classes moyennes basses »."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Pour cela, nous tiendrons l'objectif de 14 EPR d'ici 2030, nous soutiendrons la capacité solaire et réhausserons l'objectif d'éolien offshore",
+          "note": "14 EPR, plus un plan d'accélération « SMR 2030 » : bien au-delà des six EPR2 déjà décidés."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "nous tiendrons l'objectif de 14 EPR d'ici 2030, nous soutiendrons la capacité solaire et réhausserons l'objectif d'éolien offshore grâce à des appels d'offres \"multi- gigawatts\" instruits en vingt-quatre mois",
+          "note": "Il propose de rehausser l'objectif éolien offshore : l'inverse d'un moratoire."
+        },
+        {
+          "questionId": "env-08",
+          "value": 1,
+          "quote": "Ils paient une taxe qu'ils ne peuvent pas facilement éviter, alors qu'elle n'est plus assez élevée pour pousser réellement à baisser les émissions.",
+          "inferred": true,
+          "note": "Constat que la taxe carbone est trop basse, assorti de deux pistes redistributives : un « compte épargne-carbone » majoré pour les premiers déciles et une taxe carbone rendue plus progressive selon les revenus et les lieux de vie. Aucun taux n'est annoncé."
+        },
+        {
+          "questionId": "env-09",
+          "value": -2,
+          "quote": "Conformément à ce que nous avons défendu face à la droite et aux extrêmes, nous rétablirons la possibilité, pour les villes le souhaitant, d'instaurer une Zone à faible émission.",
+          "note": "Le document précise qu'ils ont « choisi de nous opposer à la suppression des ZFE » ; le rétablissement proposé est toutefois laissé au choix des collectivités."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-frontieres",
+      "date": "2026-01-01",
+      "title": "Mes chantiers capitaux — 03 Frontières",
+      "sourceType": "programme",
+      "sourceUrl": "https://attalpresident.fr/programme/frontieres",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Défense, souveraineté économique, immigration. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Se protéger, c'est accepter de mettre en place des barrières commerciales claires : des taxes à l'importation ciblées sur les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires), un contrôle strict des investissements chinois dans nos infrastructures les plus sensibles (ports, réseaux de télécommunications, centres de données)",
+          "note": "Volet investissement : « Plan France 2040 » de 200 Md€ à parité public-privé pour l'IA et les technologies critiques."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Notre ligne est claire, ce que nous voulons, c'est accueillir moins pour accueillir mieux, privilégier l'immigration de travail au détriment d'autres types d'immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
+          "note": "Le document Renaissance détaille : allongement du délai de présence du conjoint de 18 à 24 mois, conditions de langue, de logement et de ressources renforcées."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-parisien",
+      "date": "2026-07-03",
+      "title": "Dans Le Parisien : Gabriel Attal vise le zéro déficit en 2037",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037",
+      "publisher": "attalpresident.fr",
+      "summary": "Synthèse officielle de l'entretien au Parisien.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-10",
+          "value": -2,
+          "quote": "Excluant toute hausse d'impôt durant son quinquennat, il promet de revenir sur plusieurs taxes décidées depuis la dissolution et de poursuivre la baisse des impôts de production.",
+          "inferred": true,
+          "note": "Aucune tranche supplémentaire d'impôt sur le revenu n'est évoquée ; il exclut explicitement toute hausse d'impôt sur le quinquennat."
+        },
+        {
+          "questionId": "soc-04",
+          "value": -2,
+          "quote": "Dès le budget 2028, une « année blanche » gèlera temporairement les prestations sociales, tout en protégeant les petites retraites.",
+          "note": "Gel temporaire des prestations sociales, y compris d'une partie des retraites ; les petites retraites sont protégées."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-rtl",
+      "date": "2026-06-01",
+      "title": "Gabriel Attal sur RTL : autorité, école, retraites",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-rtl-autorite-ecole-retraites-rassemblement-campagne",
+      "publisher": "attalpresident.fr",
+      "summary": "Synthèse officielle de l'entretien sur RTL.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Je propose de supprimer l'âge légal de départ, de ne garder que la durée de cotisation. Vous partez très tôt, vous avez peu. Vous partez plus tard, vous avez plus.",
+          "inferred": true,
+          "note": "Il supprime la notion même d'âge légal et veut que la réforme de 2023 (64 ans) reprenne son calendrier : un retour à 60 ans est exclu."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-travail",
+      "date": "2026-01-01",
+      "title": "Mes chantiers capitaux — 02 Travail & salaires",
+      "sourceType": "programme",
+      "sourceUrl": "https://attalpresident.fr/programme/travail-salaires",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Salaires, taux d'emploi, retraites, code du travail. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": -1,
+          "quote": "Pour augmenter le taux d'emploi des seniors, l'enjeu ne sera plus l'âge de départ à la retraite, mais la durée de cotisation.",
+          "inferred": true,
+          "note": "Il ne propose pas de relever l'âge légal au-delà de 64 ans mais de le supprimer au profit de la seule durée de cotisation, tout en maintenant le calendrier de la réforme de 2023."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 1,
+          "quote": "C'est pourquoi je porte une réforme de l'assurance chômage qui incite au travail et qui créerait 100 000 emplois supplémentaires.",
+          "inferred": true,
+          "note": "Reprise de la réforme de l'assurance chômage qu'il avait engagée à Matignon (5 Md€ d'économies attendues) ; la réduction de la durée d'indemnisation n'est pas détaillée dans les documents de campagne."
+        },
+        {
+          "questionId": "tra-06",
+          "value": 1,
+          "quote": "Je proposerai de supprimer le plafond d'heures supplémentaires fixé par le Code du travail, aujourd'hui fixé, à défaut d'accord collectif, à deux cent vingt heures par an et par salarié.",
+          "note": "Assouplissement par la suppression du plafond d'heures supplémentaires et le renvoi de l'organisation du travail aux branches et aux entreprises ; pas de relèvement de la durée légale elle-même."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 0,
+          "quote": "Cela passe par la promotion, là où c'est possible, de la semaine en quatre jours et une meilleure adaptation des horaires entre l'employeur et le salarié pour les rendre compatibles avec  la situation personnelle, garde alternée, accompagnement d'un proche dépendant, tout en maintenant le nombre d'heures mensuelles et le bon fonctionnement de l'entreprise.",
+          "note": "Il promeut la semaine de quatre jours mais explicitement à durée de travail inchangée : ce n'est donc pas une réduction du temps de travail."
+        }
+      ]
+    },
+    {
+      "id": "attal-rns-regalien",
+      "date": "2025-05-26",
+      "title": "Convention thématique Renaissance — « Une République ferme, une France apaisée »",
+      "sourceType": "programme",
+      "sourceUrl": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+      "publisher": "Renaissance",
+      "summary": "Document de convention thématique lancé et préfacé par Gabriel Attal, secrétaire général de Renaissance et candidat du parti ; 66 pages, sécurité, justice, immigration, valeurs républicaines.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "Enfin, parler d'immigration, c'est aussi affirmer des principes intangibles. Nous refusons la suppression du droit du sol sur le territoire hexagonal. C'est un intangible dans notre parti."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Augmentation du délai de rétention administrative, actuellement de 90 jours, et accélération des procédures d'expulsion pour les étrangers condamnés pour actes criminels ou appartenance à une organisation criminelle (comme en Allemagne). Création de 3000 places supplémentaires",
+          "note": "Allongement de la rétention et création de places de CRA, ciblés sur les étrangers délinquants, sans rétention systématique de tous les OQTF."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "Renaissance défend la liberté de conscience et la liberté de culte. En ce sens, nous nous opposons à ceux qui voudraient qu'une femme décidant librement par elle-même de porter le voile soit interdite de le faire.",
+          "note": "Seule exception proposée : l'interdiction du port du voile pour les enfants dans l'espace public, et la création d'un délit de contrainte au port du voile."
+        },
+        {
+          "questionId": "lib-07",
+          "value": 1,
+          "quote": "Renforcer le contrôle du financement étranger des lieux de culte",
+          "note": "Renforcement du contrôle, et non interdiction pure et simple du financement étranger."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Proposer une loi-cadre contre les violences sexuelles et sexistes",
+          "note": "Complété par la création de centres de prise en charge des victimes, l'accès à un avocat dès le dépôt de plainte et l'ouverture des ordonnances de protection aux enfants ; Gabriel Attal propose par ailleurs un parquet national dédié à la pédocriminalité."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "la création d'un “addict-score” public pour évaluer l'impact addictif des plateformes et la taxation de leurs revenus pour financer la recherche en santé mentale ; > ou encore la possibilité d'interdire l'accès en France aux plateformes qui ne se conforment pas à notre droit.",
+          "note": "Taxation et régulation nationales assumées, y compris le blocage en France des plateformes non conformes."
+        },
+        {
+          "questionId": "san-09",
+          "value": 1,
+          "quote": "Chaque enfant doit avoir accès à un professionnel de la santé mentale au moins 2 fois avant ses 18 ans",
+          "inferred": true,
+          "note": "Création d'un « bilan psy » pour les jeunes dans le cadre d'une stratégie de santé mentale ; pas de remboursement généralisé des consultations pour l'ensemble de la population."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Des seuils minimaux seront établis pour ces peines afin que chacun sache précisément ce qu'il encourt et soit sanctionné en conséquence dès le premier acte.",
+          "inferred": true,
+          "note": "Le dispositif proposé (seuils minimaux de peine) va au-delà des peines planchers pour récidivistes puisqu'il s'applique dès le premier acte."
+        },
+        {
+          "questionId": "sec-04",
+          "value": 2,
+          "quote": "NOTRE SOLUTION : Rendre obligatoire l'armement des polices municipales avec un niveau d'équipement minimal qui dépendra de la taille de la commune.",
+          "note": "Le même document propose de donner aux directeurs de police municipale le statut d'officier de police judiciaire et de rendre les polices municipales systématiques dans les communes de plus de 10 000 habitants."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Nous soutenons sans réserve le texte de loi voté au Parlement pour renforcer la lutte contre le narcotrafic et notamment la création du Parquet national contre la criminalité organisée. Nous souhaitons aller plus loin encore en ce sens."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "NOTRE SOLUTION : Privilégier les patrouilles à pied, en vélo ou équestre sur la voie",
+          "inferred": true,
+          "note": "Priorité donnée à la présence de terrain et à la patrouille, sans emploi du terme « police de proximité » ni recul affiché sur les unités d'intervention."
+        },
+        {
+          "questionId": "soc-03",
+          "value": -1,
+          "quote": "Réformer l'AME en mettant en œuvre les recommandations du rapport",
+          "inferred": true,
+          "note": "La proposition est de réformer l'aide médicale d'État (rapport Evin-Stefanini), pas de la supprimer ni de la réduire à une aide d'urgence."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-meeting",
+      "date": "2026-05-31",
+      "title": "Meeting de lancement de campagne à Paris Expo Porte de Versailles",
+      "sourceType": "discours",
+      "sourceUrl": "https://attalpresident.fr/actualites/meeting-de-gabriel-attal-a-paris-l-elan-d-une-france-qui-choisit-l-avenir",
+      "publisher": "attalpresident.fr",
+      "summary": "Compte rendu officiel du discours de lancement du 30 mai 2026, avec citations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "il fixe le cap d'une réduction de moitié de nos émissions de gaz à effet de serre en dix ans, rendue possible par un investissement historique et simultané dans le nucléaire et les énergies renouvelables"
+        },
+        {
+          "questionId": "soc-09",
+          "value": 1,
+          "quote": "Le deuxième chantier vise la revalorisation du travail par un choc des salaires, afin de rapprocher le net du brut et garantir que l'effort paie toujours plus que l'inactivité.",
+          "inferred": true,
+          "note": "Le principe « le travail doit payer plus que l'inactivité » est affirmé, sans plafond chiffré des aides sociales."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-finvie",
+      "date": "2026-07-15",
+      "title": "Fin de vie : Gabriel Attal salue la consécration d'un nouveau droit",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-fin-de-vie-l-aboutissement-d-un-long-chemin-et-la-consecration-d-un-droit-nouveau",
+      "publisher": "attalpresident.fr",
+      "summary": "Déclaration intégrale du candidat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "C'est un aboutissement. C'est la consécration d'un droit nouveau et d'une liberté nouvelle pour les Français.",
+          "note": "Il détaille et revendique le cadre strict de la loi (affection grave et incurable, demande libre et réitérée, décision collégiale, clause de conscience, soins palliatifs préalables)."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-lemonde",
+      "date": "2026-08-25",
+      "title": "Dans Le Monde : son projet pour faire notre École la meilleure d'Europe",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe",
+      "publisher": "attalpresident.fr",
+      "summary": "Synthèse officielle de l'entretien au Monde.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
           "questionId": "edu-02",
-          "value": 1
+          "value": 2,
+          "quote": "Estimant que la profession a été progressivement « smicardisée », il propose une nouvelle revalorisation salariale de 200 euros nets par mois pour les enseignants, pouvant atteindre 500 euros nets par mois pour les enseignants en milieu de carrière."
         },
         {
-          "questionId": "eco-01",
-          "value": 1
+          "questionId": "edu-03",
+          "value": 2,
+          "quote": "Il veut parallèlement généraliser les groupes de niveau en français et en mathématiques, tout en laissant davantage de souplesse aux établissements dans leur organisation."
         },
         {
-          "questionId": "imm-01",
-          "value": 1
-        },
+          "questionId": "edu-11",
+          "value": -1,
+          "quote": "Il propose notamment de fermer les 100 collèges qui concentrent le plus fortement les difficultés scolaires et sociales, puis de répartir leurs élèves dans d'autres établissements afin de favoriser à la fois la mixité sociale et la réussite scolaire.",
+          "inferred": true,
+          "note": "Il choisit la fermeture et la dispersion des établissements les plus défavorisés plutôt que le renforcement de leurs moyens ; il veut en revanche utiliser la baisse démographique pour descendre sous 20 élèves par classe en primaire."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-eau",
+      "date": "2026-08-10",
+      "title": "À Argelès-sur-Mer, Gabriel Attal fait de l'eau une priorité nationale",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-plan-eau-argeles-sur-mer",
+      "publisher": "attalpresident.fr",
+      "summary": "Plan eau en sept mesures.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "num-04",
-          "value": 2
-        },
+          "questionId": "env-13",
+          "value": 1,
+          "quote": "de sortir du dogmatisme sur les projets de retenues d'eau pour nos agriculteurs et de revenir au bon sens en soutenant les ouvrages petits, intégrés au paysage",
+          "note": "Il soutient les retenues d'eau agricoles mais explicitement les ouvrages de petite taille, intégrés au paysage, et non les grandes réserves."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-dette-eco",
+      "date": "2026-01-01",
+      "title": "Dette à résorber — 02 Dette écologique",
+      "sourceType": "programme",
+      "sourceUrl": "https://attalpresident.fr/programme/dette-ecologique",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Trajectoire climat et énergie, avec sources chiffrées. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "env-14",
-          "value": 1
+          "value": 2,
+          "quote": "Pour respecter nos engagements climatiques, nous devons tripler notre rythme annuel de réduction des émissions entre maintenant et 2030 : passer de 1,8 % à 5 % par an. C'est un effort sérieux. Mais il est à notre portée et nous avons déjà montré que nous en étions capables"
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-figaro-justice",
+      "date": "2026-06-12",
+      "title": "Gabriel Attal appelle à une « Nouvelle Justice » dans Le Figaro",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-figaro-appelle-a-une-nouvelle-justice",
+      "publisher": "attalpresident.fr",
+      "summary": "Synthèse officielle de la tribune/entretien au Figaro.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Gabriel Attal propose la construction de nouvelles places de prison grâce à une loi d'exception inspirée du modèle de reconstruction de Notre-Dame.",
+          "note": "Loi d'urgence pour la construction de prisons et de CRA, sans objectif chiffré de 20 000 places."
         },
         {
-          "questionId": "env-05",
-          "value": 1
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Parce qu'une peine n'a de sens que si elle est exécutée, il propose également la suppression du Juge d'application des peines (JAP) et la suppression des aménagements automatiques (comme la libération sous contrainte)."
         },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Cette modernisation doit également s'accompagner d'un effort continu en matière de ressources humaines, avec le recrutement de 3 000 magistrats et greffiers supplémentaires afin d'accélérer le traitement des procédures et de désengorger les juridictions.",
+          "note": "Renfort de moyens humains et numériques, mais aucun doublement du budget de la justice n'est annoncé."
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2,
+          "quote": "Gabriel Attal propose une perpétuité réelle pour les auteurs de viols en série et les prédateurs sexuels les plus dangereux, l'imprescriptible des crimes sexuels sur mineurs et une circulaire pénale demandant aux procureurs de toujours requérir de la prison ferme lors d'actes de pédocriminalité en série."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-tf1",
+      "date": "2026-05-23",
+      "title": "Gabriel Attal au 20H de TF1 : ses quatre chantiers capitaux",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-20h-tf1-quatre-chantiers-capitaux-pour-la-france",
+      "publisher": "attalpresident.fr",
+      "summary": "Synthèse officielle, avec citations directes du candidat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-06",
+          "value": 1,
+          "quote": "Je ferai un grand tournant sécuritaire sur la question de la délinquance des mineurs avec des mesures très concrètes : la mise en place d'une comparution immédiate pour les mineurs, l'atténuation de l'excuse de minorité.",
+          "note": "Il propose l'atténuation (et non la suppression pure et simple) de l'excuse de minorité, sans seuil d'âge explicite, en n'excluant pas une révision constitutionnelle."
+        }
+      ]
+    },
+    {
+      "id": "attal-nr-arras",
+      "date": "2025-09-21",
+      "title": "À Arras, pour bâtir une Nouvelle République !",
+      "sourceType": "communique",
+      "sourceUrl": "https://nouvellerepublique.fr/actualites/a-arras-pour-batir-une-nouvelle-republique",
+      "publisher": "Nouvelle République (initiative portée par Renaissance)",
+      "summary": "Compte rendu officiel du discours de Gabriel Attal à Arras.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "Pour une Nouvelle République, il s'agit de poser une question simple : peut-on faire fonctionner la France de 2025 avec des institutions conçues en 1945 ? Pas question de mettre à terre la Ve République, mais de la faire entrer dans le XXIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-tribune",
+      "date": "2026-08-16",
+      "title": "Dans La Tribune Dimanche : un référendum pour interdire les réseaux sociaux aux moins de 15 ans",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/dans-la-tribune-dimanche-gabriel-attal-veut-un-referendum-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans",
+      "publisher": "attalpresident.fr",
+      "summary": "Synthèse officielle de sa tribune.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-07",
+          "value": 2,
+          "quote": "L'article 11 de la Constitution permet en effet de soumettre à référendum un projet de loi portant sur « la politique sociale de la Nation ». La protection de l'enfance et la santé mentale des jeunes en font pleinement partie.",
+          "note": "Il propose en outre une « journée référendaire annuelle sur les grands choix du pays » et un recours facilité aux référendums locaux."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-figaro-uk",
+      "date": "2026-06-24",
+      "title": "« Pour le retour du Royaume-Uni dans l'Union européenne » (tribune au Figaro)",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-pour-le-retour-du-royaume-uni-dans-l-union-europeenne-dans-le-figaro",
+      "publisher": "attalpresident.fr",
+      "summary": "Reprise officielle de sa tribune.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "eur-01",
-          "value": 2
-        },
-        {
-          "questionId": "eur-03",
-          "value": 2
-        },
-        {
-          "questionId": "eur-04",
-          "value": 2
-        },
-        {
-          "questionId": "eur-05",
-          "value": 2
-        },
-        {
-          "questionId": "eur-08",
-          "value": 1
-        },
-        {
-          "questionId": "eur-09",
-          "value": -2
+          "value": 2,
+          "quote": "Je n'ai qu'un objectif : la puissance de la France. Et cette puissance passe par l'Europe. Par une Europe à nouveau complète, avec la Grande-Bretagne en son sein."
         },
         {
           "questionId": "eur-11",
-          "value": -2
-        },
-        {
-          "questionId": "eur-12",
-          "value": -1
-        },
-        {
-          "questionId": "eur-07",
-          "value": 1
-        },
-        {
-          "questionId": "def-01",
-          "value": 2
-        },
+          "value": -2,
+          "quote": "Je n'ai qu'un objectif : la puissance de la France. Et cette puissance passe par l'Europe.",
+          "inferred": true,
+          "note": "Il plaide pour élargir l'Union et y faire revenir le Royaume-Uni ; une sortie de l'euro est à l'opposé de son projet, même si elle n'est pas discutée en tant que telle."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-eurosatory",
+      "date": "2026-06-16",
+      "title": "Eurosatory : souveraineté technologique et indépendance européenne pour notre défense",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/eurosatory-gabriel-attal-presente-sa-strategie-de-souverainete-technologique-et-d-independance-europeenne-au-salon",
+      "publisher": "attalpresident.fr",
+      "summary": "Doctrine des « deux boucliers ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "def-02",
-          "value": 1
+          "value": 2,
+          "quote": "En tant qu'unique puissance nucléaire de l'Union européenne, il propose de déployer notre propre parapluie atomique pour devenir l'assurance-vie du continent.",
+          "note": "Le programme parle de la « doctrine de dissuasion nucléaire avancée » comme outil de puissance."
         },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Pour nourrir ce tissu industriel, Gabriel Attal défend une désaméricanisation complète de nos forces armées.",
+          "note": "Il veut diviser par deux au moins la part des équipements dépendant de chaînes logistiques extra-européennes et défend un « Buy European » via une DARPA européenne."
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "Le bouclier conventionnel : Gabriel Attal propose de bâtir un dôme de fer européen pour intercepter les missiles et les drones russes qui menacent directement l'espace aérien de nos alliés, notamment en Pologne ou dans les pays baltes.",
+          "note": "Il défend aussi une DARPA européenne, des coalitions de pays volontaires et une « désaméricanisation » des achats."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-agri",
+      "date": "2026-09-11",
+      "title": "Metz-Magny : Gabriel Attal veut préparer l'avenir de l'agriculture française",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/metz-magny-gabriel-attal-veut-preparer-l-avenir-de-l-agriculture-francaise",
+      "publisher": "attalpresident.fr",
+      "summary": "Déplacement aux Terres de Jim : plan agricole en trois piliers.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-07",
+          "value": 1,
+          "quote": "Alors que de nombreux exploitants partiront à la retraite dans les prochaines années, Gabriel Attal veut faire du renouvellement des générations une priorité. Pour lui, les vocations existent mais l'installation reste insuffisamment attractive. Il veut donc accompagner les jeunes sur le revenu, les moyens de production et le financement de leurs investissements.",
+          "inferred": true,
+          "note": "Priorité au renouvellement des générations et à l'installation ; Renaissance défend par ailleurs explicitement le pacte Dutreil, mais aucune nouvelle exonération de transmission n'est chiffrée."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-ecole",
+      "date": "2026-01-01",
+      "title": "Mes chantiers capitaux — 01 École",
+      "sourceType": "programme",
+      "sourceUrl": "https://attalpresident.fr/programme/education",
+      "publisher": "attalpresident.fr (site officiel de campagne de Gabriel Attal)",
+      "summary": "Premier des quatre « chantiers capitaux » du candidat. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "num-01",
           "value": 2,
-          "note": "Interdiction des réseaux sociaux aux moins de 15 ans, défendue depuis Matignon."
-        },
+          "quote": "C'est pour cela que nous irons au bout de leur interdiction pour les moins de 15 ans, pour les protéger.",
+          "note": "Après la censure du Conseil constitutionnel du 14 août 2026, il propose de soumettre cette interdiction à référendum au titre de l'article 11."
+        }
+      ]
+    },
+    {
+      "id": "attal-ap-ia",
+      "date": "2026-01-01",
+      "title": "Mes chantiers capitaux — 04 Intelligence artificielle",
+      "sourceType": "programme",
+      "sourceUrl": "https://attalpresident.fr/programme/intelligence-artificielle",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Document officiel : Mes chantiers capitaux — 04 Intelligence artificielle. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "num-03",
-          "value": 1
-        },
-        {
-          "questionId": "lib-02",
-          "value": 1
-        },
-        {
-          "questionId": "lib-05",
-          "value": 1
-        },
-        {
-          "questionId": "lib-10",
-          "value": 1
-        },
-        {
-          "questionId": "lib-01",
-          "value": -1
-        },
-        {
-          "questionId": "lib-08",
-          "value": 2
-        },
-        {
-          "questionId": "lib-09",
-          "value": 2
-        },
-        {
-          "questionId": "san-05",
+          "questionId": "num-04",
           "value": 2,
-          "note": "Soutien au projet de loi sur l'aide à mourir."
-        },
-        {
-          "questionId": "san-06",
-          "value": -1
-        },
-        {
-          "questionId": "soc-08",
-          "value": 1
-        },
-        {
-          "questionId": "soc-09",
-          "value": 1
-        },
-        {
-          "questionId": "eco-03",
-          "value": -2,
-          "note": "Renaissance a voté contre la « taxe Zucman » à l'Assemblée."
-        },
-        {
-          "questionId": "ins-03",
-          "value": 1
-        },
-        {
-          "questionId": "env-04",
-          "value": 1
+          "quote": "Cela exige de nous une véritable stratégie globale, qui va de la production énergétique, un atout décisif pour la France car son mix électrique est décarboné à 95%, aux data centers, en passant par la sécurisation des approvisionnements et des infrastructures critiques, la préférence européenne dans les marchés publics et le soutien aux acteurs souverains comme Mistral.",
+          "note": "Dans Les Échos il demande en outre de « revoir en profondeur l'AI Act européen », jugé trop contraignant pour la liberté d'entreprendre."
         }
       ]
     }
