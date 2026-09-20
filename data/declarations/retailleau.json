@@ -18,491 +18,1200 @@
       "positions": []
     },
     {
-      "id": "retailleau-2026-09-programme-presse",
-      "date": "2026-09-03",
-      "title": "Ce que prévoit Bruno Retailleau pour la France (synthèse de presse)",
-      "sourceType": "presse",
-      "sourceUrl": "https://www.nlto.fr/presidentielle-2027-ce-que-prevoit-bruno-retailleau-pour-la-france/",
-      "publisher": "NLTO (source secondaire)",
-      "summary": "Remplacement des 35 heures par un seuil annuel de 1 623 heures avec exonération de cotisations au-delà ; fusion RSA / prime d'activité / ASS en un « revenu d'incitation à l'activité » ; compte social unique plafonnant le cumul des aides ; durcissement de l'assurance chômage ; immigration restreinte et référendum ; fermeté pénale, narcotrafic ; priorité au nucléaire et à l'hydraulique, critique des ZFE et du ZAN ; baisse des dépenses publiques sans hausse d'impôts ; politique familiale (revenu familial dès le premier enfant).",
+      "id": "retailleau-br-2026-08-26-successions",
+      "date": "2026-08-26",
+      "title": "« Je serai le président qui baissera les impôts de succession » (entretien à L’Opinion repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2026/08/26/je-serai-le-president-qui-baissera-les-impots-de-succession/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Je serai le président qui baissera les impôts de succession » (entretien à L’Opinion repris sur republicains.fr).",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "L’Etat n’est pas pauvre parce qu’il taxe trop peu – il est pauvre parce qu’il dépense trop. Je dis aux Français qu’une autre politique est possible, qui n’a jamais été assumée en France : une vraie politique de liberté et de responsabilité.",
+          "note": "Priorité aux économies (« moins d’impôts et plus d’économies », non-remplacement des départs en retraite, suppression d’agences) ; l’objectif chiffré des 3 % n’est pas repris par le candidat lui-même (G. Larcher, 27/10/2025 : retour à 3 % en 2029)."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Je ne serai pas le président qui augmentera les droits de succession mais celui qui les baissera. Je pousserai cette baisse au maximum du possible au cours de mon quinquennat.",
+          "note": "Plus « choc de transmission » : 150 000 € de dons exonérés par donateur avant 30 ans pendant trois ans ; différé d’imposition pour les entreprises transmises."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-produire-plus",
+      "date": "2026-02-19",
+      "title": "Produire plus pour vivre mieux – Nos propositions pour la France (livret, 40 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Lié depuis https://republicains.fr/nos-propositions/ et https://www.avecretailleau.fr/2026/02/19/6731/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Cet effort sera complété par un allègement ciblé de près de 15 milliards d’euros de la fiscalité de production, concentré sur les impôts les plus pénalisants pour l’industrie. Quatre impôts seront ainsi prioritairement supprimés ou recentrés",
+          "page": "20",
+          "note": "Suppression de la C3S et de la CVAE, exonération de la part industrielle de la CFE ; « choc fiscal de 40 milliards » avec 25 Md€ sur le coût du travail ; le Sénat LR a aussi voulu réduire la surtaxe d’IS (24/11/2025)."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Nous créerons un Fonds France Production, intégralement financé, doté de 600 millions d’euros par an, exclusivement dédié à la modernisation de l’outil industriel.",
+          "page": "26",
+          "note": "Aides ciblées limitées (« les aides directes ne constituent pas une politique industrielle en soi ») ; protection commerciale par clauses de réciprocité, renforcement du mécanisme d’ajustement carbone et « Buy European First » plutôt que par des droits de douane."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 0,
+          "quote": "Ainsi, il ne s’agira pas fondamentalement de réduire l’apprentissage, mais de le réorienter pour qu’il bénéficie en priorité aux jeunes qui en ont le plus besoin et aux secteurs qui en dépendent le plus fortement.",
+          "page": "31",
+          "note": "Aides réorientées : baisse progressive pour certaines filières du supérieur (SHS, commerce), sanctuarisation dans l’industrie, renforcement pour les NEET ; ni maintien global ni hausse."
+        },
+        {
+          "questionId": "env-05",
+          "value": -1,
+          "quote": "Les considérations environnementales ne pourront plus constituer un frein automatique à la réalisation des projets industriels.",
+          "page": "4",
+          "inferred": true,
+          "note": "Pas de position nominale sur une planification sectorielle contraignante ; refus de l’« écologie punitive » et de la norme environnementale « frein automatique » (tribune du 09/08/2026)."
+        },
+        {
+          "questionId": "env-14",
+          "value": -1,
+          "quote": "Les considérations environnementales ne pourront plus constituer un frein automatique à la réalisation des projets industriels.",
+          "page": "4",
+          "inferred": true,
+          "note": "Le candidat dit ne pas nier le réchauffement et vouloir être « intransigeants sur la transition et l’adaptation » (03/07/2026), mais le projet donne la priorité à la production (« produire plus »), arrête le soutien aux renouvelables et refuse la « décroissance » ; les objectifs climatiques nationaux ne sont pas discutés en tant que tels."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Dans ce cadre, nous mettrons en place un étage de retraite fondé sur l’épargne individuelle, complémentaire et volontaire, venant compléter et renforcer notre système actuel de retraite par répartition sans s’y substituer. Un compte d’épargne retraite sera ouvert pour chaque actif.",
+          "page": "36",
+          "note": "Voir aussi 28/08/2025 : « ajouter un étage de capitalisation et créer un fonds souverain »."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "Plus de 25 milliards d’euros d’allègements porteront sur le coût du travail, en combinant la mise en place du seuil « zéro cotisation », tel que présenté dans Travail gagnant, et une baisse directe des cotisations patronales non contributives.",
+          "page": "20",
+          "note": "Baisse générale des cotisations patronales « dès la première heure travaillée », non ciblée sur les bas salaires."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2025-07-18-figaro",
+      "date": "2025-07-18",
+      "title": "« En 2027, je ferai tout pour faire gagner la droite » (entretien au Figaro repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/07/18/bruno-retailleau-en-2027-je-ferai-tout-pour-faire-gagner-la-droite/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « En 2027, je ferai tout pour faire gagner la droite » (entretien au Figaro repris sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-10",
+          "value": -1,
+          "quote": "Enfin, s’agissant des prélèvements obligatoires, dans un pays aussi taxé que la France, l’augmentation des impôts ne peut pas être la solution.",
+          "inferred": true,
+          "note": "Aucune position spécifique sur le barème de l’IR ; refus général de toute hausse d’impôt."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2025-11-24-budget",
+      "date": "2025-11-24",
+      "title": "« Ce budget, c’est le hold-up du siècle » (entretien au Parisien repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/11/24/bruno-retailleau-ce-budget-cest-le-hold-up-du-siecle/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Ce budget, c’est le hold-up du siècle » (entretien au Parisien repris sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-13",
+          "value": -1,
+          "quote": "En renonçant au 49.3, Sébastien Lecornu s’est lié les mains, puis les a tendues aux socialistes en leur offrant la suspension de la réforme des retraites et une montagne d’augmentations d’impôts.",
+          "inferred": true,
+          "note": "Le renoncement au 49.3 est critiqué comme une faiblesse ; aucune proposition de limiter l’article 49.3."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Nous supprimerons l’AME en la transformant en une aide médicale d’urgence. Les Français en ont marre de toujours payer plus alors que les clandestins ont désormais, pour un certain nombre de soins, des taux de couverture supérieurs à ceux qui travaillent et cotisent.",
+          "note": "Charte républicaine, art. 12 : « les étrangers en situation irrégulière ne peuvent bénéficier d’aucune prestation sociale » sauf prestations d’urgence."
+        },
+        {
           "questionId": "tra-01",
-          "value": -2
+          "value": -2,
+          "quote": "Bien entendu, nous supprimerons la suspension de la réforme des retraites, qui est d’une démagogie sans nom. Cette suspension est terrible : elle va installer le règne de l’impuissance publique.",
+          "note": "Voir aussi 22/10/2025 : « Cette réforme est donc indispensable »."
+        },
+        {
+          "questionId": "tra-10",
+          "value": -2,
+          "quote": "On nous a dit : travaillez moins et vous vivrez mieux. C’est un mensonge. La malédiction française, c’est qu’il n’y a pas assez de travail. Un Français travaille trois années de moins qu’un Européen au cours d’une vie.",
+          "inferred": true,
+          "note": "Le projet relève la durée de référence (1 623 h/an) et veut « sortir des 35 heures par le haut » : direction opposée à une RTT légale, mais la semaine de 4 jours/32 h n’est pas nommée."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2026-05-02-priorite-travail",
+      "date": "2026-05-02",
+      "title": "« Instaurons la priorité travail » (tribune de Bruno Retailleau, La Tribune Dimanche, reprise sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2026/05/02/priorite-travail-france-35h-salaires-retraites/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Instaurons la priorité travail » (tribune de Bruno Retailleau, La Tribune Dimanche, reprise sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "oui, les jeunes doivent entrer plus tôt sur le marché du travail, mais nous ne ferons pas l’économie de partir un peu plus tard à la retraite, en prenant en compte, évidemment, la pénibilité des métiers.",
+          "note": "Propose l’inverse (partir plus tard)."
         },
         {
           "questionId": "tra-03",
-          "value": 1
-        },
-        {
-          "questionId": "tra-04",
-          "value": -2
-        },
-        {
-          "questionId": "tra-05",
-          "value": 2
+          "value": 1,
+          "quote": "oui, les jeunes doivent entrer plus tôt sur le marché du travail, mais nous ne ferons pas l’économie de partir un peu plus tard à la retraite, en prenant en compte, évidemment, la pénibilité des métiers.",
+          "note": "Départ « un peu plus tard » annoncé sans nouvel âge légal chiffré ; les propositions détaillées sur les retraites sont annoncées mais non publiées au 20/09/2026."
         },
         {
           "questionId": "tra-06",
           "value": 2,
-          "note": "Seuil annuel de 1 623 heures remplaçant les 35 heures ; heures au-delà exonérées de cotisations."
+          "quote": "Je propose que l’organisation du temps de travail soit laissée à la négociation collective dans chaque entreprise ou chaque branche, en arrêtant de se référer à une durée hebdomadaire de 35 heures.",
+          "note": "Même tribune : « sortir des 35 heures par le haut » ; au-delà de 1 623 h/an (au lieu de 1 607 h), heures exonérées de toutes cotisations, avec annualisation du temps de travail (livret Travail gagnant)."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-travail-gagnant",
+      "date": "2026-01-07",
+      "title": "Travail gagnant – Nos propositions pour la France (livret, 40 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Livret daté « Décembre 2025 », présenté en conférence de presse le 7 janvier 2026 ; préface signée Bruno Retailleau ; lié depuis https://republicains.fr/nos-propositions/ et https://www.avecretailleau.fr/2026/01/07/propositions-sur-la-competitivite-et-le-pouvoir-dachat/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-02",
+          "value": -2,
+          "quote": "Notre système social ne doit plus permettre de s’installer durablement dans l’assistance. Ce confort apparent crée une dépendance dont il est difficile de s’extraire.",
+          "page": "8",
+          "inferred": true,
+          "note": "Pas de position nominale sur un revenu universel ; le projet conditionne le minimum social à l’activité (RIA) et plafonne les aides à 70 % du SMIC (« une aide n’est pas un dû »)."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Le CSU garantit que le travail paie réellement, en assurant un avantage clair en faveur de l’activité par rapport à l’assistance. Il renforce également la lutte contre la fraude grâce au recensement des aides et améliore le service rendu aux usagers",
+          "page": "30",
+          "note": "Compte social unique (registre national obligatoire des versements, 10 Md€ « CSU et lutte contre la fraude ») et datamining anti-fraude (livret IA). La carte Vitale biométrique n’est pas dans le programme (seul M. Barnier l’a évoquée, 16/06/2025)."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "Une fois ce recensement en place, un plafond national pourrait s’appliquer, hors handicap, dépendance et vieillesse. Le total des aides ne pourrait pas dépasser 70 % du SMIC net par adulte.",
+          "page": "29",
+          "note": "Réaffirmé par le candidat (26/08/2026 : « je veux plafonner les aides sociales à 70 % du SMIC »)."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "La mise en œuvre des règles sur l’indemnisation du chômage de juin 2024, jamais appliquées, constitue une première étape nécessaire. Elle réduit la durée maximale d’indemnisation, adapte les droits en fonction de la conjoncture et renforce les obligations de recherche d’emploi.",
+          "page": "15",
+          "note": "Plus : indemnisation des ruptures conventionnelles limitée à six mois, fin de l’indemnisation au troisième refus d’offre raisonnable, dégressivité accélérée au-dessus de 3 000 € nets."
         },
         {
           "questionId": "tra-07",
           "value": 2,
-          "note": "« Revenu d'incitation à l'activité » fusionnant RSA, prime d'activité et ASS."
+          "quote": "Si elle s’investit dans une formation ou une recherche active d’emploi, justifiant d’au moins quinze heures d’activité hebdomadaires, son RIA est complété par un « RIA Insertion » de 250 euros par mois.",
+          "page": "23",
+          "note": "Le RSA est remplacé par un Revenu d’incitation à l’activité : socle de 300 € sans condition, complément de 250 € conditionné à 15 h d’activité hebdomadaires ; Retailleau revendique la loi instaurant 15 h de contrepartie au RSA (28/08/2025)."
         },
         {
           "questionId": "tra-08",
-          "value": 2
-        },
-        {
-          "questionId": "tra-09",
-          "value": -2
-        },
-        {
-          "questionId": "tra-10",
-          "value": -2
-        },
-        {
-          "questionId": "tra-11",
-          "value": -2
-        },
-        {
-          "questionId": "tra-13",
-          "value": 2
-        },
-        {
-          "questionId": "eco-01",
-          "value": 2
-        },
-        {
-          "questionId": "eco-02",
-          "value": -2
-        },
-        {
-          "questionId": "eco-03",
-          "value": -2
-        },
-        {
-          "questionId": "eco-04",
-          "value": 2
-        },
-        {
-          "questionId": "eco-06",
-          "value": 2
-        },
-        {
-          "questionId": "eco-09",
-          "value": 1
-        },
-        {
-          "questionId": "eco-10",
-          "value": -2
-        },
+          "value": 2,
+          "quote": "Au-delà, la rémunération des heures travaillées est majorée selon les termes de l’accord d’entreprise et exonérées de toutes les cotisations sociales, salariales et patronales. L’employeur ne paye que le salaire brut. Le salaire n’acquitte que la CSG et la CRDS.",
+          "page": "21",
+          "note": "Exonération totale de cotisations au-delà de 1 623 h/an ; la CSG-CRDS reste due ; même page : « Le dispositif actuel d’exonération d’impôt sur le revenu existant des heures supplémentaires est intégralement maintenu » (exonération d’IR plafonnée, non élargie)."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-famille",
+      "date": "2026-04-30",
+      "title": "Retrouver une vraie politique familiale – Nos propositions pour la France (livret, 24 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Livret daté « Avril 2026 », présenté par Bruno Retailleau (entretien AFP du 30 avril 2026 repris sur republicains.fr) ; lié depuis https://republicains.fr/nos-propositions/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "soc-01",
-          "value": 2
+          "value": 2,
+          "quote": "Fusionner 12 dispositifs pour les remplacer par un Revenu familial (RF) de 240 euros versé chaque mois à tous, dès le premier enfant, de la naissance jusqu’à 18 ans",
+          "page": "11",
+          "note": "Les allocations familiales (sous condition de ressources depuis 2015) sont remplacées par un Revenu familial universel, « quel que soit le niveau de revenus des parents » (tribune du 02/05/2026) ; pour les étrangers, condition de 5 ans de résidence et d’activité."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-pjlc-charte",
+      "date": "2026-09-04",
+      "title": "Projet de loi constitutionnelle proclamant la Charte républicaine (version V010926, 8 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/09/PJLC-Charte-republicaine-v010926.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Second texte du « pacte constitutionnel » que Bruno Retailleau annonce soumettre à référendum dès la rentrée 2027 (entretien du 2 septembre 2026). Fichier publié dans la médiathèque de republicains.fr (wp-json media, 4 septembre 2026) ; non lié depuis une page au 20 septembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "Une loi de maîtrise de l’immigration détermine, pour une période de trois ans, le nombre maximum de visas et de titres de séjour susceptibles d’être délivrés aux ressortissants étrangers au titre, respectivement, de l’immigration de travail, de l’immigration étudiante et de l’immigration familiale",
+          "page": "6",
+          "note": "Plafonds triennaux votés par la loi (art. 9) ; objectif de « réduire drastiquement l’immigration » (déclaration de candidature, 12/02/2026) et de « réduire l’immigration légale » (31/05/2026)."
         },
         {
-          "questionId": "soc-02",
-          "value": -2
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Les étrangers en situation irrégulière font l’objet des mesures privatives ou restrictives de liberté nécessaires à leur éloignement. Ces mesures ne peuvent être annulées ou privées d’effet que lorsque l’éloignement n’est pas justifié ou apparaît manifestement impossible.",
+          "page": "7",
+          "note": "Mesures systématiques mais « privatives ou restrictives » de liberté (rétention ou assignation) ; soutien au règlement retour (rétention jusqu’à deux ans)."
         },
         {
-          "questionId": "soc-03",
-          "value": 2
-        },
-        {
-          "questionId": "soc-05",
-          "value": -2
-        },
-        {
-          "questionId": "soc-06",
-          "value": 2
-        },
-        {
-          "questionId": "soc-08",
-          "value": 2
-        },
-        {
-          "questionId": "soc-09",
-          "value": 2
+          "questionId": "lib-01",
+          "value": 1,
+          "quote": "La loi détermine les activités de service public et les dépendances du domaine public pour lesquelles l’expression ostensible des convictions religieuses par les usagers est proscrite.",
+          "page": "5",
+          "note": "Interdictions possibles dans des services publics et dépendances du domaine public désignés par la loi, non dans tout l’espace public."
         },
         {
           "questionId": "sec-01",
-          "value": 2
-        },
-        {
-          "questionId": "sec-02",
-          "value": 2
-        },
-        {
-          "questionId": "sec-03",
-          "value": 2
+          "value": 2,
+          "quote": "La loi fixe les conditions dans lesquelles l’autorité judiciaire est tenue de prononcer et de mettre immédiatement à exécution une peine privative de liberté supérieure à une durée qu’elle détermine pour des crimes ou délits causant un préjudice grave à la société ou à l’autorité publique",
+          "page": "3",
+          "note": "Art. 2 « Peines minimales obligatoires » ; entretien du 02/09/2026 : « Je veux qu’elles soient désormais obligatoires »."
         },
         {
           "questionId": "sec-04",
-          "value": 2
-        },
-        {
-          "questionId": "sec-05",
-          "value": -2
+          "value": 1,
+          "quote": "les agents formés et spécialement habilités de ces collectivités et groupements peuvent, sous l’autorité et la direction de leurs représentants élus et le contrôle de l’autorité judiciaire, apporter leur concours à la recherche des auteurs de contraventions et de délits.",
+          "page": "2",
+          "note": "Concours à la police judiciaire ouvert aux agents des collectivités (art. 1er) ; l’armement systématique n’est pas abordé."
         },
         {
           "questionId": "sec-06",
-          "value": 2
+          "value": 2,
+          "quote": "La procédure pénale et les mesures prises à l’encontre des mineurs de quinze ans auteurs d’infractions pénales sont adaptées à leur âge, à leur personnalité et à l’objectif de relèvement éducatif et moral.",
+          "page": "3",
+          "note": "Art. 3 intitulé « Abaissement de la majorité pénale » : le régime spécial des mineurs est réservé aux moins de quinze ans, ce qui va au-delà de la suppression de l’excuse de minorité pour les 16-18 ans."
         },
         {
-          "questionId": "sec-07",
-          "value": 1
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Le versement de prestations sociales non contributives aux étrangers non ressortissants de l’Union européenne peut être subordonné à une durée de séjour régulière et d’exercice d’une activité professionnelle de cinq ans.",
+          "page": "7",
+          "note": "Entretien du 31/05/2026 : « conditionner l’accès aux aides sociales, pour les étrangers, à cinq ans de résidence légale et de travail »."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2025-08-28-figaro-magazine",
+      "date": "2025-08-28",
+      "title": "« La France n’est pas condamnée au chaos » (entretien au Figaro Magazine repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/08/28/bruno-retailleau-la-france-nest-pas-condamnee-au-chaos/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Grandes lignes du projet 2027 annoncées par le président de LR",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "Il n’est pas éthique de demander à une femme d’abandonner son enfant en contrepartie d’une rémunération, quand on sait les liens intimes qui se tissent au moment de la grossesse.",
+          "note": "Rejet de la « GPA éthique » proposée par Renaissance."
         },
         {
-          "questionId": "sec-09",
-          "value": 2
+          "questionId": "san-03",
+          "value": -2,
+          "quote": "Nous sommes un des pays d’Europe où le reste à charge est le plus faible. On ne peut plus faire le « tout gratuit », il faut augmenter la franchise, c’est absolument nécessaire."
         },
         {
-          "questionId": "sec-10",
-          "value": 1
+          "questionId": "san-04",
+          "value": 2,
+          "quote": "Nous sommes un des pays d’Europe où le reste à charge est le plus faible. On ne peut plus faire le « tout gratuit », il faut augmenter la franchise, c’est absolument nécessaire."
         },
         {
-          "questionId": "sec-11",
-          "value": 2
+          "questionId": "san-06",
+          "value": -2,
+          "quote": "La GPA éthique, c’est comme la drogue récréative. C’est une tromperie sémantique. On fait mentir les mots pour justifier l’injustifiable",
+          "inferred": true,
+          "note": "La légalisation du cannabis n’est pas nommée ; la « drogue récréative » est qualifiée d’« injustifiable » et la consommation de stupéfiants de « complaisamment banalisée » (argumentaire narcotrafic)."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2026-07-15-fin-de-vie",
+      "date": "2026-07-15",
+      "title": "« Une grande nation ne répond pas à la souffrance par la mort. » (passage TV, vidéo publiée sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2026/07/15/une-grande-nation-ne-repond-pas-a-la-souffrance-par-la-mort/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Billet vidéo : seul le titre est textuel",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": -2,
+          "quote": "Une grande nation ne répond pas à la souffrance par la mort.",
+          "note": "Titre du billet vidéo du candidat (15/07/2026) ; les élus LR (P. Juvin, O. Nasrou) ont combattu le texte sur l’aide à mourir (billets du 26/05/2025)."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-ecole",
+      "date": "2026-09-03",
+      "title": "Éducation : pour une école de la transmission, de l’égalité des chances, de l’autorité et de la liberté – Nos propositions pour la France (livret, 36 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Livret daté « Septembre 2026 » ; lié depuis https://republicains.fr/nos-propositions/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-01",
+          "value": 1,
+          "quote": "La neutralité de la loi de 2004 sera étendue aux accompagnateurs des sorties scolaires, et le port de l’uniforme encouragé, pour faire vivre, par-delà les origines, une identité commune et le sentiment d’appartenir à une même école.",
+          "page": "32",
+          "note": "Uniforme « encouragé », non généralisé."
         },
         {
-          "questionId": "sec-13",
-          "value": 2
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Nous alignerons ainsi intégralement le début de carrière sur la moyenne européenne, soit 135 euros nets de plus chaque mois, et nous comblerons au moins la moitié de l’écart au cœur de la carrière, soit environ 300 euros nets supplémentaires par mois.",
+          "page": "10",
+          "note": "« Les professeurs d’abord » ; financé par la baisse démographique : « jusqu’au dernier euro, ces moyens iront à leurs rémunérations et leur condition de travail »."
         },
+        {
+          "questionId": "edu-03",
+          "value": 2,
+          "quote": "Pour rendre à chacun toutes ses chances, un examen d’entrée en sixième déterminera l’affectation du nouveau collégien dans des groupes de niveau, où il pourra acquérir vraiment, consolider ou approfondir les connaissances attendues à la fin du primaire.",
+          "page": "15",
+          "note": "Fin du collège unique ; groupes de niveau « revus régulièrement »."
+        },
+        {
+          "questionId": "edu-04",
+          "value": -2,
+          "quote": "C’est pourquoi nous mettrons fin à la règle non écrite du « 80-20 », qui, depuis quarante ans, étouffe un enseignement de plus en plus plébiscité en bornant à 20 % les moyens publics qui lui sont accordés.",
+          "page": "23",
+          "note": "Propose l’inverse (lever le plafond de financement public du privé sous contrat)."
+        },
+        {
+          "questionId": "edu-08",
+          "value": 2,
+          "quote": "Le redoublement comme l’orientation relèveront à nouveau de la seule souveraineté des conseils de classe. Car faire passer un enfant qui ne sait pas lire, ce n’est pas de la bienveillance, c’est une démission.",
+          "page": "26",
+          "note": "Plus « son dernier mot rétabli en conseil de classe » et conseils de discipline « aux prérogatives restaurées » présidés par les chefs d’établissement."
+        },
+        {
+          "questionId": "edu-09",
+          "value": -1,
+          "quote": "Nous mettrons fin, dans le temps scolaire, à la dispersion des « éducations à » ceci ou cela qui ont peu à peu grignoté les heures d’apprentissage : ce temps sera rendu au français, au calcul et à l’anglais.",
+          "page": "14",
+          "inferred": true,
+          "note": "L’EVARS n’est pas nommée ; le programme veut retirer du temps scolaire les « éducations à »."
+        },
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "Ce sera donc zéro écran à l’école primaire, et le téléphone interdit dans l’enceinte des établissements jusqu’à la fin du lycée.",
+          "page": "33"
+        },
+        {
+          "questionId": "edu-11",
+          "value": 1,
+          "quote": "Et là où la tâche est la plus rude, nous affecterons les meilleurs professeurs, par des contrats de mission qui les rémunéreront et les formeront mieux.",
+          "page": "28",
+          "note": "Éducation prioritaire « refondée et étendue aux territoires ruraux », moyens concentrés « là où c’est le plus dur » ; pas de hausse globale chiffrée."
+        },
+        {
+          "questionId": "lib-10",
+          "value": 2,
+          "quote": "La neutralité de la loi de 2004 sera étendue aux accompagnateurs des sorties scolaires, et le port de l’uniforme encouragé, pour faire vivre, par-delà les origines, une identité commune et le sentiment d’appartenir à une même école.",
+          "page": "32",
+          "note": "Accompagnatrices : mesure du programme (et position personnelle depuis 01/2025). Compétitions sportives : PPL LR du Sénat (M. Savin) défendue par les parlementaires LR (billets des 18/03 et 01/04/2025), non reprise dans les livrets."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2026-05-31-candidature",
+      "date": "2026-05-31",
+      "title": "« Ma candidature ira jusqu’au bout » (entretien au JDD repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2026/05/31/ma-candidature-ira-jusquau-bout/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Ma candidature ira jusqu’au bout » (entretien au JDD repris sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-05",
+          "value": -1,
+          "quote": "Si je suis élu président de la République, il n’y aura plus de passe-droit : plus d’exonération automatique des frais d’inscription pour les étudiants extra-européens.",
+          "note": "Mesure partielle : fin de la quasi-gratuité pour les seuls étudiants extra-européens ; rien sur les droits d’inscription des autres étudiants."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Je ferai donc réviser la Constitution pour élargir le référendum et soumettre aux Français, dans les premiers mois de mon mandat, un projet de loi complet sur l’immigration.",
+          "note": "Pacte constitutionnel (deux projets de loi constitutionnelle) soumis à référendum « dès la rentrée 2027 » (02/09/2026)."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Il y a plusieurs motifs d’entrée sur le territoire, par ordre d’importance numérique : l’asile, les étudiants étrangers, le regroupement familial et le travail. Je veux agir sur chaque levier.",
+          "note": "Même entretien : « Sur le regroupement familial, il faudra changer le droit européen, et donc revoir la directive européenne » ; la Charte républicaine plafonne l’immigration familiale (art. 9)."
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "l’idée de régulariser des clandestins qui ont fraudé nos lois est une capitulation.",
+          "note": "Même entretien : « On nous explique qu’il faudrait régulariser parce que certains secteurs manquent de main-d’œuvre. Mais on peut former des Français »."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2,
+          "quote": "Le droit d’asile a été dévoyé. Alors qu’en France, en dix ans, le nombre d’étrangers qui bénéficient de ce statut a triplé, il a baissé au Danemark ou en Allemagne. Car nous sommes les mieux-disants : le montant de l’allocation pour les demandeurs d’asile est le plus élevé d’Europe.",
+          "note": "L’asile est cité comme premier levier pour réduire l’immigration légale ; Charte républicaine, art. 11 : exclusion de l’asile des étrangers représentant une menace grave."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-electricite",
+      "date": "2026-06-01",
+      "title": "Électricité : baisser la facture des Français, c’est possible ! – Nos propositions pour la France (livret, 40 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Livret daté « Mai 2026 » (fichier du 7 juin 2026) ; lié depuis https://republicains.fr/nos-propositions/ (Date du document : 2026-06 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "env-02",
-          "value": -2
+          "value": 2,
+          "quote": "Si l’avancement des six premiers réacteurs s’avère satisfaisant, nous confirmerons la commande de huit EPR2 supplémentaires dès les deux premières années du mandat.",
+          "page": "14",
+          "note": "Engagement conditionné à l’avancement des six premiers EPR2 ; plus relance d’un réacteur à neutrons rapides (mise en service visée en 2045)."
         },
         {
           "questionId": "env-03",
-          "value": 2
+          "value": 1,
+          "quote": "Mais il s’agira bien de la fin des subventions pour les futurs projets photovoltaïques et éoliens, et non d’un moratoire. Les projets disposant d’un équilibre économique propre pourront être instruits et autorisés - jamais financés par la collectivité.",
+          "page": "21",
+          "note": "Fin des appels d’offres publics et de tout soutien public aux nouveaux parcs éoliens (abrogation du volet électricité de la PPE 3), mais moratoire explicitement écarté."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-2025-07-02-energie",
+      "date": "2025-07-02",
+      "title": "« Rebâtir un parc nucléaire et stopper le financement des renouvelables, notre plan pour l’énergie » (tribune de Bruno Retailleau, François-Xavier Bellamy et Julien Aubert, Le Figaro, reprise sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "publisher": "Les Républicains",
+      "summary": "Document officiel : « Rebâtir un parc nucléaire et stopper le financement des renouvelables, notre plan pour l’énergie » (tribune de Bruno Retailleau, François-Xavier Bellamy et Julien Aubert, Le Figaro, reprise sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Notre priorité doit être de rebâtir un parc nucléaire en reconstituant une compétence industrielle française, afin d’éviter l’effet falaise lié au vieillissement des centrales actuelles.",
+          "note": "Livret électricité : exploitation du parc existant portée vers 80 ans, loi de programmation actant « la relance du nucléaire »."
         },
         {
           "questionId": "env-04",
-          "value": -2
+          "value": -2,
+          "quote": "C’est ce principe qui doit également structurer la nouvelle approche de la décarbonation des véhicules, en sortant d’un agenda qui impose une seule technologie pour la voiture à horizon 2035",
+          "note": "Même tribune : « la règle même doit maintenant être entièrement remise à plat » ; F.-X. Bellamy (16/06/2026) revendique d’avoir « supprimé l’agenda du tout électrique »."
         },
         {
-          "questionId": "env-05",
-          "value": -2
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "C’est la raison pour laquelle il était nécessaire d’abroger enfin les ZFE qui, sans se fonder sur aucune base scientifique solide, faisaient l’impasse sur le droit à la mobilité des classes moyennes et modestes.",
+          "note": "Suppression des ZFE obtenue en CMP par les parlementaires LR (entretien de R. Pointereau, 23/01/2026)."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-agriculture",
+      "date": "2026-02-24",
+      "title": "Réarmer notre agriculture – Nos propositions pour la France (livret, 40 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Livret daté « Février 2026 », présenté le 24 février 2026 ; lié depuis https://republicains.fr/nos-propositions/ et https://www.avecretailleau.fr/2026/02/24/assumer-des-choix-de-rupture-pour-notre-agriculture/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Nous imposerons par une loi organique l’interdiction ferme de toute sur-transposition française des directives européennes dans tous les domaines, y compris l’agriculture",
+          "page": "16"
+        },
+        {
+          "questionId": "agr-03",
+          "value": -2,
+          "quote": "Certains dispositifs existants, y compris une partie des crédits de la PAC - par exemple ceux alloués à la filière biologique pouvant atteindre jusqu’à 700 millions d’euros à partir de 2028 - constitueront des leviers de redéploiement.",
+          "page": "21",
+          "note": "Propose l’inverse : redéployer les crédits de la filière biologique vers l’investissement productif."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "La France portera au niveau européen l’imposition systématique de clauses de réciprocité dans tous les accords commerciaux et un changement de méthode des contrôles.",
+          "page": "35"
+        },
+        {
+          "questionId": "agr-05",
+          "value": -1,
+          "quote": "Dès le début du quinquennat, une ordonnance engagera une révision complète des seuils applicables aux élevages afin d’aligner durablement le droit français sur le socle européen et de mettre fin aux sur-transpositions.",
+          "page": "16",
+          "inferred": true,
+          "note": "Le bien-être animal n’est pas traité ; le projet veut faciliter et agrandir les élevages (seuils ICPE relevés, relocalisation de l’engraissement)."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Nous ouvrirons, à côté du régime Dutreil actuel, une nouvelle voie fondée sur un différé d’imposition automatique lors de la transmission des exploitations. Une exploitation ne sera pas taxée tant qu’elle continue de produire.",
+          "page": "23"
+        },
+        {
+          "questionId": "agr-08",
+          "value": -1,
+          "quote": "Nous sécuriserons les facteurs de production en sortant de la logique de restriction permanente qui fragilise les exploitations.",
+          "page": "4",
+          "inferred": true,
+          "note": "Priorité au stockage de l’eau et à la réutilisation des eaux usées ; les restrictions de prélèvement en sécheresse ne sont pas traitées en tant que telles."
         },
         {
           "questionId": "env-07",
           "value": 2,
-          "note": "Soutien à la loi Duplomb réautorisant sous conditions l'acétamipride."
-        },
-        {
-          "questionId": "env-08",
-          "value": -2
-        },
-        {
-          "questionId": "env-09",
-          "value": 2
-        },
-        {
-          "questionId": "env-12",
-          "value": -2
+          "quote": "Nous autoriserons de nouveau l’usage de certains néonicotinoïdes, dont l’acétamipride, selon un principe clair : dès lors qu’une substance est autorisée dans les autres pays au sein du marché unique européen, elle doit pouvoir l’être en France.",
+          "page": "17",
+          "note": "Soutien réaffirmé à la loi Duplomb (tribune du 25/07/2025) et principe de reconnaissance mutuelle automatique des autorisations européennes."
         },
         {
           "questionId": "env-13",
-          "value": 2
+          "value": 2,
+          "quote": "Nous reconnaîtrons explicitement les projets de stockage d’eau à usage agricole comme relevant de l’intérêt général majeur afin de sécuriser leur instruction et de limiter les contentieux.",
+          "page": "19",
+          "note": "Tribune du 09/08/2026 : « Je propose que les retenues d’eau soient déclarées projets d’intérêt public majeur »."
         },
         {
-          "questionId": "env-14",
-          "value": -1
-        },
+          "questionId": "eur-08",
+          "value": -1,
+          "quote": "Enfin, nous nous opposerons à l’intégration de l’Ukraine au marché agricole européen.",
+          "page": "36",
+          "inferred": true,
+          "note": "Seule position trouvée : opposition à l’intégration agricole de l’Ukraine ; rien sur l’adhésion des Balkans occidentaux."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-logement",
+      "date": "2026-05-28",
+      "title": "Mieux se loger et moins cher ! – Nos propositions pour la France (livret, 48 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Livret daté « Mai 2026 » ; lié depuis https://republicains.fr/nos-propositions/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "imm-01",
-          "value": 2
-        },
-        {
-          "questionId": "imm-02",
-          "value": 2
-        },
-        {
-          "questionId": "imm-03",
-          "value": 2
-        },
-        {
-          "questionId": "imm-04",
-          "value": -2
-        },
-        {
-          "questionId": "imm-05",
-          "value": 2
-        },
-        {
-          "questionId": "imm-06",
-          "value": -2
-        },
-        {
-          "questionId": "imm-07",
-          "value": 1
-        },
-        {
-          "questionId": "imm-08",
-          "value": 2
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Le DPE restera obligatoire et pleinement informatif pour les locataires et les acquéreurs, mais il ne pourra plus servir de fondement à une interdiction administrative de louer.",
+          "page": "30",
+          "note": "Fin des interdictions de louer liées au DPE (G depuis 2025, F prévues en 2028)."
         },
         {
           "questionId": "imm-10",
-          "value": 1
+          "value": -1,
+          "quote": "Les logements sociaux seront prioritairement attribués aux personnes exerçant une activité professionnelle, françaises ou étrangères en situation régulière.",
+          "page": "41",
+          "inferred": true,
+          "note": "Le projet fonde la priorité sur le travail et la régularité du séjour (5 ans de résidence et d’activité pour les aides), non sur la nationalité ; la « priorité nationale » n’est pas reprise."
+        },
+        {
+          "questionId": "log-01",
+          "value": -2,
+          "quote": "Les dispositifs d’encadrement des loyers issus de la loi ELAN seront supprimés",
+          "page": "31",
+          "note": "Même page : « Les mécanismes de plafonnement prévus par la loi de 1989 seront abrogés » ; loyer « librement fixé entre le bailleur et le locataire »."
+        },
+        {
+          "questionId": "log-02",
+          "value": -2,
+          "quote": "Les quotas de 20 % et 25 % seront supprimés pour redonner aux maires la liberté de construire.",
+          "page": "8",
+          "note": "Objectifs de production maintenus en volume par contrats territoriaux dans les zones tendues, aucun objectif en zone détendue."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Nous instaurerons un moratoire normatif de dix ans sur les règles applicables à la construction de logements.",
+          "page": "16",
+          "note": "Loi d’urgence « Notre-Dame » pour diviser les délais par deux, PLU allégé, silence vaut accord, encadrement des recours."
+        },
+        {
+          "questionId": "log-04",
+          "value": -2,
+          "quote": "Nous abrogerons le Zéro artificialisation nette qui bloque des territoires entiers et empêche de construire.",
+          "page": "8"
+        },
+        {
+          "questionId": "log-05",
+          "value": 2,
+          "quote": "Il sera réservé aux primo-accédants, ouvert sans distinction au neuf et à l’ancien, pour les appartements comme pour les maisons. Le zonage actuel sera supprimé afin de mettre fin aux incohérences territoriales.",
+          "page": "22",
+          "note": "PTZ « simplifié et ouvert partout » ; financement transféré à la Caisse des dépôts."
+        },
+        {
+          "questionId": "log-06",
+          "value": 0,
+          "quote": "Le régime fiscal des meublés touristiques a par ailleurs été durci en 2025, mettant fin à l’avantage qui avait alimenté les excès.",
+          "page": "35",
+          "note": "Aucun durcissement fiscal supplémentaire proposé (« Il n’y a pas de réponse uniforme ») ; encouragement des outils locaux de la loi Le Meur."
+        },
+        {
+          "questionId": "log-09",
+          "value": 2,
+          "quote": "Son principe central : permettre à tout bailleur d’amortir la valeur de son bien. Le taux sera fixé à 4 % de la valeur du bâti, au-delà des 3,5 % préconisés par le rapport Daubresse-Cosson et jamais appliqués",
+          "page": "33",
+          "note": "Statut du bailleur privé ; option PFU 30 % pour les patrimoines amortis."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2026-09-02-constitution",
+      "date": "2026-09-02",
+      "title": "« En France, la seule cour suprême, c’est le peuple. Je lui donnerai le dernier mot » (entretien au Figaro repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2026/09/02/en-france-la-seule-cour-supreme-cest-le-peuple-je-lui-donnerai-le-dernier-mot/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Entretien du candidat présentant le pacte constitutionnel",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Mais je veux remettre le droit de l’UE à sa juste place : au-dessus des lois — car, sinon, c’est un Frexit juridique, que je ne souhaite pas — mais en dessous de notre Constitution.",
+          "note": "Rejet explicite du Frexit ; « la France tienne ses engagements vis-à-vis de l’UE »."
+        },
+        {
+          "questionId": "eur-09",
+          "value": -1,
+          "quote": "Bien sûr, j’entends que la France tienne ses engagements vis-à-vis de l’UE, car elle doit respecter sa parole, être loyale et fiable vis-à-vis de ses partenaires.",
+          "inferred": true,
+          "note": "Respect des engagements européens affirmé ; G. Larcher (27/10/2025) : « la France doit tenir sa parole d’un retour du déficit à 3 % du PIB en 2029 »."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Expulser tous ceux qui n’ont rien à faire en France, supprimer le droit au mariage pour les OQTF, abolir le droit du sol et revenir à l’assimilation pour qu’il n’y ait plus de naturalisations automatiques.",
+          "note": "Charte républicaine, art. 8 : acquisition à la majorité conditionnée à l’assimilation et à la régularité du séjour d’un parent."
         },
         {
           "questionId": "imm-11",
           "value": 2,
-          "note": "Volonté de s'affranchir de la jurisprudence de la CEDH en matière d'éloignement."
-        },
-        {
-          "questionId": "imm-12",
-          "value": -2
-        },
-        {
-          "questionId": "imm-13",
-          "value": 2
-        },
-        {
-          "questionId": "lib-01",
-          "value": 1
-        },
-        {
-          "questionId": "lib-02",
-          "value": 2,
-          "note": "Interdiction du voile à l'université, portée comme ministre de l'Intérieur."
-        },
-        {
-          "questionId": "lib-03",
-          "value": -2
-        },
-        {
-          "questionId": "lib-04",
-          "value": 2
-        },
-        {
-          "questionId": "lib-05",
-          "value": 2
-        },
-        {
-          "questionId": "lib-06",
-          "value": -2
-        },
-        {
-          "questionId": "lib-07",
-          "value": 2
-        },
-        {
-          "questionId": "lib-10",
-          "value": 2
-        },
-        {
-          "questionId": "lib-11",
-          "value": -1
-        },
-        {
-          "questionId": "san-05",
-          "value": -2
-        },
-        {
-          "questionId": "san-06",
-          "value": -2
-        },
-        {
-          "questionId": "edu-01",
-          "value": 1
-        },
-        {
-          "questionId": "edu-03",
-          "value": 1
-        },
-        {
-          "questionId": "edu-04",
-          "value": -2
-        },
-        {
-          "questionId": "edu-08",
-          "value": 2
-        },
-        {
-          "questionId": "eur-01",
-          "value": 2
-        },
-        {
-          "questionId": "eur-02",
-          "value": 2
-        },
-        {
-          "questionId": "eur-03",
-          "value": 1
-        },
-        {
-          "questionId": "eur-04",
-          "value": 1
-        },
-        {
-          "questionId": "eur-05",
-          "value": 2
-        },
-        {
-          "questionId": "eur-07",
-          "value": 2
-        },
-        {
-          "questionId": "eur-08",
-          "value": -2
-        },
-        {
-          "questionId": "eur-09",
-          "value": -1
-        },
-        {
-          "questionId": "eur-11",
-          "value": -2
-        },
-        {
-          "questionId": "eur-12",
-          "value": 2
-        },
-        {
-          "questionId": "def-01",
-          "value": 2
-        },
-        {
-          "questionId": "def-04",
-          "value": 2
-        },
-        {
-          "questionId": "agr-02",
-          "value": 2
-        },
-        {
-          "questionId": "agr-04",
-          "value": 2
-        },
-        {
-          "questionId": "agr-05",
-          "value": -1
-        },
-        {
-          "questionId": "agr-06",
-          "value": -2
-        },
-        {
-          "questionId": "agr-07",
-          "value": 2
-        },
-        {
-          "questionId": "num-01",
-          "value": 1
-        },
-        {
-          "questionId": "num-02",
-          "value": 1
-        },
-        {
-          "questionId": "num-04",
-          "value": 2
-        },
-        {
-          "questionId": "log-04",
-          "value": -2
-        },
-        {
-          "questionId": "log-01",
-          "value": -2
-        },
-        {
-          "questionId": "log-02",
-          "value": -1
-        }
-      ]
-    },
-    {
-      "id": "retailleau-2026-09-institutions",
-      "date": "2026-09-10",
-      "title": "Réforme constitutionnelle : « renverser la table » (entretien Public Sénat)",
-      "sourceType": "interview",
-      "sourceUrl": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
-      "publisher": "Public Sénat",
-      "summary": "Refondation des institutions ; référendum d'initiative partagée facilité (seuil ramené à environ 2,5 millions de signatures) ; recours au référendum sur l'immigration.",
-      "review": {
-        "status": "pending",
-        "reviewers": [],
-        "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
-      },
-      "positions": [
-        {
-          "questionId": "ins-02",
-          "value": -1,
-          "note": "Préfère assouplir le RIP existant plutôt que créer un RIC."
-        },
-        {
-          "questionId": "ins-07",
-          "value": 2
+          "quote": "La CEDH nous a interdit d’expulser des individus dangereux au motif qu’ils avaient une vie privée et familiale en France. Ou encore parce que leur pays d’origine ne leur offrirait pas de procès équitable. Dans ces cas-là, je propose qu’une loi organique puisse revenir sur une jurisprudence européenne",
+          "note": "Suite de la phrase : « si elle est contraire à nos intérêts fondamentaux ». PJLC « souveraineté du peuple », art. 3 (clause de sauvegarde à l’art. 55) ; Charte républicaine, art. 11 : éloignement « quels que soient les risques qu’il encourt dans son pays d’origine »."
         },
         {
           "questionId": "ins-01",
-          "value": -2
+          "value": -2,
+          "quote": "Les institutions de la Ve République sont bonnes, c’est leur dévoiement qui a conduit à cette situation. Soit nous revenons à l’esprit du régime, soit le régime tombera : il n’y a pas plus rebelle qu’un peuple qui se sent méprisé.",
+          "note": "Révision constitutionnelle profonde mais « restaurer le régime fondé par le général de Gaulle »."
         },
         {
-          "questionId": "ins-03",
-          "value": -1
-        },
-        {
-          "questionId": "ins-05",
-          "value": 1
-        },
-        {
-          "questionId": "ins-10",
-          "value": 1
-        },
-        {
-          "questionId": "imm-02",
-          "value": 2
+          "questionId": "lib-11",
+          "value": -1,
+          "quote": "Concrètement, je souhaite instaurer un droit constitutionnel à la sécurité des Français. La protection des libertés — à laquelle je suis attaché — et la sécurité des Français doivent avoir la même valeur juridique.",
+          "inferred": true,
+          "note": "Même valeur juridique revendiquée pour libertés et sécurité (donc pas de primauté des libertés) ; la liberté d’expression est par ailleurs dite « non négociable » (31/05/2026)."
         }
       ]
     },
     {
-      "id": "retailleau-2026-09-logement",
-      "date": "2026-09-15",
-      "title": "Propositions pour relancer le logement",
-      "sourceType": "presse",
-      "sourceUrl": "https://www.journaldelagence.com/1411841-presidentielle-2027-les-propositions-de-bruno-retailleau-pour-relancer-le-logement",
-      "publisher": "Journal de l'Agence (presse spécialisée)",
-      "summary": "Objectif d'un million de logements supplémentaires en cinq ans ; relance de l'investissement locatif privé ; allègement des normes.",
+      "id": "retailleau-br-2025-07-23-valeurs",
+      "date": "2025-07-23",
+      "title": "« Le macronisme s’achèvera avec Emmanuel Macron » (entretien à Valeurs actuelles repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/07/23/bruno-retailleau-le-macronisme-sachevera-avec-emmanuel-macron/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Le macronisme s’achèvera avec Emmanuel Macron » (entretien à Valeurs actuelles repris sur republicains.fr).",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "log-03",
-          "value": 2
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Premièrement, il faut mettre un terme au droit à l’inexécution des peines que, dans les faits, nous avons créé, à travers les multiples aménagements et réductions de peines. Il n’est pas normal qu’il y ait tant de différences entre la peine encourue, la peine prononcée et la peine exécutée.",
+          "note": "Abrogation de la loi Belloubet pour rétablir les courtes peines ; Charte républicaine, art. 2 : peines « mises immédiatement à exécution »."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-ia",
+      "date": "2026-07-08",
+      "title": "L’IA au service des Français – Nos propositions pour la France (livret, 56 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Livret daté « Juillet 2026 » ; lié depuis https://republicains.fr/nos-propositions/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-05",
+          "value": 1,
+          "quote": "Le financement s’appuiera sur la BPI, la Caisse des dépôts et consignations, des partenariats publics-privés et la réorientation d’une part de l’épargne longue des Français vers les technologies critiques",
+          "page": "34",
+          "note": "Mobilisation de l’épargne longue (fonds de pension, épargne retraite) vers les technologies de défense ; pas de livret dédié."
         },
         {
-          "questionId": "log-09",
-          "value": 2
+          "questionId": "num-04",
+          "value": 2,
+          "quote": "Le premier verrou à lever est le délai de raccordement électrique : nous en ferons une priorité absolue, avec un objectif de dix-huit mois, au sein d’un guichet unique rassemblant urbanisme, raccordement et autorisations environnementales.",
+          "page": "19",
+          "note": "Objectif de 1 GW de data centers souverains en 2030 et 4 GW en 2035-2038, dérogations d’urbanisme par une « loi d’exécution IA »."
         },
         {
-          "questionId": "log-05",
-          "value": 2
+          "questionId": "sec-07",
+          "value": 0,
+          "quote": "Les garanties - contrôle parlementaire, avis d’une autorité indépendante, durée de conservation limitée, interdiction de la reconnaissance faciale en temps réel dans l’espace public à des fins de surveillance de masse - seront robustes.",
+          "page": "37",
+          "note": "Position mitigée : autorisation de la « vision par ordinateur » (vidéo algorithmique) pour la sécurité dans un cadre légal contrôlé, mais interdiction explicite de la reconnaissance faciale en temps réel dans l’espace public."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-2025-06-19-narcotrafic",
+      "date": "2025-06-19",
+      "title": "« Contre le narcotrafic : une loi pour frapper plus vite et plus fort » (argumentaire des Républicains)",
+      "sourceType": "communique",
+      "sourceUrl": "https://republicains.fr/actualites/2025/06/19/contre-le-narcotrafic-une-loi-pour-frapper-plus-vite-et-plus-fort/",
+      "publisher": "Les Républicains",
+      "summary": "Document officiel : « Contre le narcotrafic : une loi pour frapper plus vite et plus fort » (argumentaire des Républicains).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Création dans les prisons de quartiers de lutte contre la criminalité organisée, pour appliquer un strict régime carcéral d’isolement aux chefs du narcotrafic et création de deux prisons ultra-sécurisées pour y enfermer les 200 d’entre eux les plus dangereux.",
+          "note": "Même texte : création d’un Parquet national anti-criminalité organisée ; loi portée par Retailleau ministre."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2025-02-12-france-inter",
+      "date": "2025-02-12",
+      "title": "« Il faut assumer des peines courtes » (passage sur France Inter, verbatims publiés sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/02/12/bruno-retailleau-il-faut-assumer-des-peines-courtes/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Il faut assumer des peines courtes » (passage sur France Inter, verbatims publiés sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-13",
+          "value": 1,
+          "quote": "J’assume de sortir de la culture récréative un peu bobo, et de dire que s’il y a des trafiquants, c’est parce qu’il y a des consommateurs",
+          "inferred": true,
+          "note": "Responsabilisation des consommateurs affirmée ; aucun dispositif de sanction (amende, casier) n’est proposé dans les documents officiels."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-pjlc-souverainete",
+      "date": "2026-09-03",
+      "title": "Projet de loi constitutionnelle restaurant la souveraineté du peuple et réconciliant l’État de droit avec la démocratie (version V280826, 8 p.)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/09/0523ceeb-5312-4629-a1f0-a7eba5aaefbb.pdf",
+      "publisher": "Les Républicains",
+      "summary": "Premier texte du « pacte constitutionnel » (référendum élargi, clause de sauvegarde vis-à-vis des traités, primauté de la Constitution sur le droit de l’UE, « lit de justice »). Fichier publié dans la médiathèque de republicains.fr le 3 septembre 2026 ; non lié depuis une page au 20 septembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Le droit de l’Union européenne a une autorité supérieure à celle des lois, sous réserve de sa conformité à la Constitution et à la répartition des compétences entre l’Union européenne et les États membres.",
+          "page": "7",
+          "note": "Primauté de la Constitution (non de la loi ordinaire) inscrite à l’art. 88-1, contrôle « ultra vires », et clause de sauvegarde par loi organique vis-à-vis des autres traités (CEDH)."
         },
         {
-          "questionId": "log-08",
-          "value": -1
+          "questionId": "ins-02",
+          "value": 1,
+          "quote": "afin de faciliter l’initiative des citoyens, il est proposé d’abaisser le seuil à partir duquel celle-ci est recevable",
+          "page": "2",
+          "note": "Seuil du référendum d’initiative partagée ramené d’un dixième à un vingtième des électeurs inscrits (environ 2,4 millions de signatures au lieu de 4,8 ; art. 1er, 3°) ; le RIP reste soumis à l’initiative d’un cinquième des parlementaires : ce n’est pas un RIC."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 2,
+          "quote": "Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux Assemblées, publiées au Journal Officiel, peut soumettre au référendum tout projet de loi, à l’exception des projets de loi constitutionnelle.",
+          "page": "5",
+          "note": "Exposé des motifs : étendre le référendum de l’article 11 « à l’ensemble du domaine de la loi », y compris « questions de société »."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2025-06-16-jdd",
+      "date": "2025-06-16",
+      "title": "« Mai 68 a fabriqué des barbares » (entretien au JDD repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/06/16/bruno-retailleau-mai-68-a-fabrique-des-barbares/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Mai 68 a fabriqué des barbares » (entretien au JDD repris sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-03",
+          "value": -2,
+          "quote": "La Ve République repose sur le fait majoritaire. Instaurer la proportionnelle, c’est graver l’instabilité dans nos institutions. Et l’instabilité, c’est l’impuissance publique.",
+          "note": "Position constante (07/01/2025 : « la proportionnelle, ce n’est pas l’esprit de la Ve République ») ; opposition du bureau politique LR au projet Bayrou."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2026-07-14-defense",
+      "date": "2026-07-14",
+      "title": "« L’unité nationale, première de nos armes » (tribune de Bruno Retailleau, 14 juillet 2026)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2026/07/14/lunite-nationale-premiere-de-nos-armes/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « L’unité nationale, première de nos armes » (tribune de Bruno Retailleau, 14 juillet 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Il sera assorti d’une loi de programmation militaire comportant cette fois une trajectoire budgétaire sincère et sanctuarisée, pour atteindre 100 milliards d’euros à la fin du quinquennat.",
+          "note": "Objectif exprimé en euros (100 Md€ en 2032, soit de l’ordre de 3 % du PIB), non en part de PIB."
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Nous l’adosserons, traité après traité, à des contreparties industrielles claires : produire en France et en Europe les armes dont nous avons besoin.",
+          "note": "Livret IA : « L’État commandera en priorité aux entreprises françaises et européennes les briques critiques de défense » ; le surcoût éventuel n’est pas discuté."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -1,
+          "quote": "La réponse passe par les Etats, qui seuls disposent du monopole de la souveraineté. C’est sous leur impulsion, et non dans des chimères fédéralistes, que peut agir une Europe forte et autonome.",
+          "note": "Préfère un « solide réseau d’alliances bilatérales de défense entre partenaires européens » et l’« européanisation » de l’OTAN à une défense européenne intégrée."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Hommage mérité tant la résistance ukrainienne face à l’agression russe est une leçon et un symbole.",
+          "inferred": true,
+          "note": "Soutien de principe à l’Ukraine (et dénonciation des ingérences russes, 31/05/2026) ; aucune position sur la durée du soutien militaire ni sur les armes de longue portée."
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2,
+          "quote": "Pas en sortant de l’OTAN comme le proposent certains – ce serait un cadeau inespéré fait à nos adversaires stratégiques",
+          "note": "Refus de sortir de l’OTAN ; le commandement intégré n’est pas nommé en tant que tel."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-2025-07-04-mercosur",
+      "date": "2025-07-04",
+      "title": "« Mercosur : la Chine est devenue l’usine de l’Europe, l’Amérique du Sud ne peut pas devenir sa ferme » (tribune de Céline Imart, eurodéputée LR, et Thibault de Montbrial, reprise sur republicains.fr)",
+      "sourceType": "communique",
+      "sourceUrl": "https://republicains.fr/actualites/2025/07/04/mercosur-la-chine-est-devenue-lusine-de-leurope-lamerique-du-sud-ne-peut-pas-devenir-sa-ferme/",
+      "publisher": "Les Républicains",
+      "summary": "Céline Imart est secrétaire nationale LR à l’agriculture et porte-parole du candidat (CP du 8 septembre 2026)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Face à ce passage en force, la France doit dire non – et entrainer l’Europe avec elle. Car derrière la mécanique technocratique se joue une question vitale : voulons-nous encore être maîtres de ce que nous mangeons ?",
+          "note": "Tribune de la porte-parole du candidat ; le livret agricole exige des clauses de réciprocité dans tous les accords commerciaux."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-lr-cp-2026-07-31-espagne",
+      "date": "2026-07-31",
+      "title": "Communiqué de presse « La libre-circulation des personnes en Europe doit être suspendue pour l’Espagne » (Bruno Retailleau)",
+      "sourceType": "communique",
+      "sourceUrl": "https://republicains.fr/actualites/2026/07/31/la-libre-circulation-des-personnes-en-europe-doit-etre-suspendue-pour-lespagne/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "PDF : https://republicains.fr/wp-content/uploads/2026/08/CP_BR_31_07_26.pdf",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-12",
+          "value": 1,
+          "quote": "Face à la gravité de la situation, je demande la suspension de la libre circulation des personnes avec l’Espagne au sein de l’Union européenne. Giorgia Meloni a annoncé vouloir suspendre Schengen. La France doit soutenir à son tour cette position.",
+          "note": "Suspension ciblée (Espagne) et « visas territorialisés » ; Charte républicaine, art. 10 : contrôles aux frontières « nécessaires » ; mais Schengen maintenu pour les Européens (02/08/2026)."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2026-03-01-dissuasion",
+      "date": "2026-03-01",
+      "title": "« La dissuasion nucléaire française ne se partage pas » (tribune de Bruno Retailleau, JDD, reprise sur republicains.fr et avecretailleau.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2026/03/01/la-dissuasion-nucleaire-francaise-ne-se-partage-pas/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Aussi sur https://www.avecretailleau.fr/2026/03/01/la-dissuasion-nucleaire-francaise-ne-se-partage-pas/",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "de la même manière que la souveraineté ne se divise pas, la dissuasion nucléaire française ne se partage pas, ne se concerte pas, ne s’élargit pas.",
+          "note": "Les intérêts vitaux ont une dimension européenne « par essence variable et contingente », sans extension ni concertation."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2026-01-05-numerique",
+      "date": "2026-01-05",
+      "title": "« Refuser la dépendance numérique culturelle, défendre l’indépendance européenne » (Bruno Retailleau)",
+      "sourceType": "communique",
+      "sourceUrl": "https://republicains.fr/actualites/2026/01/05/refuser-la-dependance-numerique-culturelle-defendre-lindependance-europeenne/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « Refuser la dépendance numérique culturelle, défendre l’indépendance européenne » (Bruno Retailleau).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Face à cette tentative de mise sous tutelle, la France et l’Europe ont raison d’affirmer une voie propre, fondée sur la souveraineté et la défense de leurs valeurs mais il faut passer de la parole aux actes.",
+          "inferred": true,
+          "note": "Régulation oui (DSA contre les campagnes de manipulation, CNIL recentrée sur « les abus manifestes des grandes plateformes », responsabilité des plateformes de vente) ; aucune taxation supplémentaire proposée."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-br-2025-01-07-parisien",
+      "date": "2025-01-07",
+      "title": "« La France pourrait être frappée demain » (entretien au Parisien repris sur republicains.fr)",
+      "sourceType": "discours",
+      "sourceUrl": "https://republicains.fr/actualites/2025/01/07/bruno-retailleau-la-france-pourrait-etre-frappee-demain/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Document officiel : « La France pourrait être frappée demain » (entretien au Parisien repris sur republicains.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-02",
+          "value": 2,
+          "quote": "Faut-il étendre l’interdiction du voile à l’université ? J’y suis favorable."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-senat-scr2023-204",
+      "date": "2024-05-28",
+      "title": "Sénat – Scrutin public n° 204 du 28 mai 2024 sur l’ensemble de la PPL visant à encadrer les pratiques médicales mises en œuvre dans la prise en charge des mineurs en questionnement de genre",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.senat.fr/scrutin-public/2023/scr2023-204.html",
+      "publisher": "Sénat",
+      "summary": "Bruno Retailleau figure dans la liste « Pour » du groupe Les Républicains (131 pour, 0 contre) ; texte adopté 180 voix contre 136. La PPL (LR, J. Eustache-Brinio) interdit aux mineurs les traitements hormonaux et les chirurgies de réassignation et limite les bloqueurs de puberté aux centres de référence.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-04",
+          "value": 1,
+          "quote": "Scrutin n°204 - séance du 28 mai 2024 sur l’ensemble de la proposition de loi visant à encadrer les pratiques médicales mises en œuvre dans la prise en charge des mineurs en questionnement de genre Adopté",
+          "note": "Vote « Pour » de Bruno Retailleau ; la PPL interdit aux mineurs traitements hormonaux et chirurgies mais maintient les bloqueurs de puberté en centres de référence (interdiction partielle)."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-senat-scr2023-20",
+      "date": "2023-10-30",
+      "title": "Sénat – Scrutin public n° 20 du 30 octobre 2023 sur l’ensemble de la PPL visant à protéger la langue française des dérives de l’écriture dite inclusive",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.senat.fr/scrutin-public/2023/scr2023-20.html",
+      "publisher": "Sénat",
+      "summary": "Bruno Retailleau (alors président du groupe LR du Sénat, co-signataire de la PPL Gruny) figure dans la liste « Pour » du groupe Les Républicains (132 pour, 0 contre) ; texte adopté 221 voix contre 82.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-05",
+          "value": 2,
+          "quote": "Scrutin n°20 - séance du 30 octobre 2023 sur l’ensemble de la proposition de loi visant à protéger la langue française des dérives de l’écriture dite inclusive Adopté",
+          "note": "Vote « Pour » de Bruno Retailleau, co-signataire de la PPL (interdiction de l’écriture inclusive dans les documents officiels et actes juridiques)."
         }
       ]
     }
