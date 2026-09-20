@@ -2,207 +2,696 @@
   "candidateId": "glucksmann",
   "declarations": [
     {
-      "id": "glucksmann-2026-05-premieres-lignes",
-      "date": "2026-05-26",
-      "title": "Premières lignes du programme (LCP)",
-      "sourceType": "presse",
-      "sourceUrl": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
-      "publisher": "LCP",
-      "summary": "Convention citoyenne sur l'immigration ; service civique obligatoire de dix mois ; hausse substantielle des salaires des enseignants et mixité sociale dans le privé ; suppression du droit de veto dans l'UE et grand emprunt européen ; nouveau contrat social et fiscal rééquilibrant travail, capital, retraite et héritage ; retraite tenant compte de l'espérance de vie par métier.",
+      "id": "glucksmann-pp-com-budget-2025-09",
+      "date": "2025-09-02",
+      "title": "Redonner de la crédibilité, de la justice et de la stabilité à la France (communiqué de presse du 2 septembre 2025)",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20251011032906/https://place-publique.eu/redonner-de-la-credibilite-de-la-justice-et-de-la-stabilite-a-la-france/",
+      "publisher": "Place publique",
+      "summary": "Position budgétaire et fiscale du parti (budget 2026) ; copie Wayback Machine du 11 octobre 2025 (page 404 sur le site actuel).",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "edu-06",
-          "value": 2,
-          "note": "Service civique obligatoire de dix mois dans les services publics, l'aide aux personnes âgées et les écoles."
-        },
-        {
-          "questionId": "edu-02",
-          "value": 2
-        },
-        {
-          "questionId": "edu-04",
-          "value": 1
-        },
-        {
-          "questionId": "eur-03",
-          "value": 2
-        },
-        {
-          "questionId": "eur-13",
-          "value": 2
-        },
-        {
-          "questionId": "eur-08",
-          "value": 2
-        },
-        {
-          "questionId": "eur-01",
-          "value": 2
-        },
-        {
-          "questionId": "eur-04",
-          "value": 2
-        },
-        {
-          "questionId": "eur-05",
-          "value": 2
-        },
-        {
-          "questionId": "eur-09",
-          "value": -1
-        },
-        {
-          "questionId": "eur-11",
-          "value": -2
-        },
-        {
-          "questionId": "eco-03",
-          "value": 2,
-          "note": "Soutien public à la taxe Zucman lors des débats de 2025."
+          "questionId": "eco-01",
+          "value": 0,
+          "quote": "Il est donc urgent d’adopter une trajectoire crédible et sérieuse : 120 milliards d’euros d’économie sur 5 ans, soit 24 milliards d’euros par an.",
+          "note": "Position mixte : accepte une trajectoire de réduction du déficit mais refuse que l'effort « repose sur les services publics, la santé, les classes moyennes et populaires » et mise sur des recettes nouvelles ; l'Acte I (p. 85) parle d'un « mix responsable d’économies ciblées et de recettes nouvelles »."
         },
         {
           "questionId": "eco-02",
-          "value": 1
-        },
-        {
-          "questionId": "eco-10",
-          "value": 1
+          "value": 1,
+          "quote": "Un impôt sur la fortune à seuil élevé sans exemption mais accompagné d’un dispositif d’étalement des paiements pour les biens professionnels (activité opérationnelle principale réelle) permettrait de dégager de nouvelles recettes sans subir les biais dont il souffrait avant 2017.",
+          "note": "Impôt sur la fortune « à seuil élevé » (et ISF européen dans la plateforme 2024), pas un retour à l'ISF d'avant 2017."
         },
         {
           "questionId": "eco-11",
-          "value": 1
-        },
-        {
-          "questionId": "eco-04",
-          "value": -1
-        },
-        {
-          "questionId": "tra-01",
           "value": 1,
-          "note": "Critique de la réforme de 2023 ; propose une réforme tenant compte de la pénibilité et de l'espérance de vie plutôt qu'un simple retour à 62 ans."
+          "quote": "Nous soutenons une fiscalité plus juste des revenus dits passifs ou financiers en augmentant la Flat Tax de 30 à 34 % [Prélèvement forfaitaire unique], ainsi que la fin de l’effacement des plus values latentes afin de rapprocher la fiscalité du capital de celle du travail.",
+          "note": "Dividendes davantage taxés via la flat tax ; les rachats d'actions ne sont pas traités."
         },
         {
-          "questionId": "tra-12",
-          "value": -1
+          "questionId": "eur-09",
+          "value": -1,
+          "quote": "les institutions européennes observent la nécessité d’une économie de 120 milliards sur 5 ans. Un effort, déjà conséquent, de 20 à 25 milliards est donc demandé. Pas plus.",
+          "inferred": true,
+          "note": "Se cale sur l'effort demandé par les institutions européennes plutôt que de s'en affranchir."
         },
         {
-          "questionId": "def-01",
-          "value": 2
-        },
-        {
-          "questionId": "def-02",
-          "value": 1
-        },
-        {
-          "questionId": "imm-01",
-          "value": -1
-        },
-        {
-          "questionId": "imm-04",
-          "value": 1
-        },
-        {
-          "questionId": "imm-06",
-          "value": 1
+          "questionId": "log-06",
+          "value": 1,
+          "quote": "mais aussi une fiscalité plus juste des résidences secondaires, locations saisonnières et des logements vacants ainsi que plus de moyens pour sa mise en œuvre.",
+          "note": "Acte I (p. 64) : « Réguler et maîtriser davantage les meublés touristiques comme au Pays basque et en Suisse »."
         }
       ]
     },
     {
-      "id": "glucksmann-2026-08-candidature",
-      "date": "2026-08-23",
-      "title": "Annonce de candidature (journal de 20 h de TF1) et lancement de campagne",
-      "sourceType": "interview",
-      "sourceUrl": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
-      "publisher": "franceinfo",
-      "summary": "Candidature officialisée, passage par la primaire sociale-démocrate d'octobre. Axes : saut fédéral européen, souveraineté et défense européennes, investissement massif dans la transition, fiscalité progressive des hauts patrimoines, revalorisation des bas salaires, vote à 16 ans aux élections locales, proportionnelle.",
+      "id": "glucksmann-pp-com-zucman-2025-06",
+      "date": "2025-06-17",
+      "title": "Le Sénat condamne la France à rester une société d'héritiers (communiqué)",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260120131013/https://place-publique.eu/le-senat-condamne-la-france-a-rester-une-societe-dheritiers/",
+      "publisher": "Place publique",
+      "summary": "Page de l'ancien site (404 depuis la refonte de 2026) ; copie Wayback Machine du 20 janvier 2026 utilisée.",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "tra-04",
-          "value": 1
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Honte aux sénateurs qui ont rejeté la proposition de loi écologiste visant à instaurer la taxe Zucman. Une taxe simple, juste, puissante : 2% sur les patrimoines supérieurs à 100 millions d’euros.",
+          "note": "Réitéré dans la tribune du 16 juillet 2025 (« taxe Zucman, contribution des retraités les plus aisés, niches sur les super-héritages »)."
+        }
+      ]
+    },
+    {
+      "id": "glucksmann-pp-acte-1",
+      "date": "2025-06-23",
+      "title": "Acte un – Notre vision pour la France : les chantiers de Place publique pour redonner vie à la promesse républicaine (42 chantiers)",
+      "sourceType": "programme",
+      "sourceUrl": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "publisher": "Place publique (co-directeurs de la publication : Aurore Lalucq et Raphaël Glucksmann)",
+      "summary": "88 pages ; présenté le 23 juin 2025 (fichier d'origine 20250623_Projet_placepublique_acte1_BAT_BaDef.pdf), PDF actuel réexporté le 25 mars 2026 et lié depuis https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i. Document de vision du parti (« un document qui présente une vision et non un catalogue figé de mesures »), pas un programme présidentiel : Glucksmann n'a publié aucun programme 2027 au 20 septembre 2026 (glucks2027.fr ne contient que des pages de mobilisation pour la primaire). Les numéros de page cités sont ceux imprimés dans le PDF.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Garantir le revenu des agriculteurs par la mise en place de prix planchers rémunérateurs, et en mettant fin aux contournements de la Loi EGALIM.",
+          "page": "34"
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Instaurer un revenu de transition écologique pour soutenir agriculteurs et pêcheurs passant au bio ou à des pratiques durables.",
+          "page": "34",
+          "note": "Réforme de la PAC « en soutenant la conversion au bio »."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Imposer des mesures miroirs aux importations agricoles, contre le dumping social, sanitaire et environnemental",
+          "page": "34"
+        },
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Améliorer les conditions d’élevage : porter au niveau européen la disparition par étape de l’élevage en cage, l’interdiction de l’élevage pour la fourrure, ainsi que le renforcement des règles sur le transport des animaux.",
+          "page": "30",
+          "note": "Fin de l'élevage en cage ; l'élevage intensif en général n'est pas visé."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 1,
+          "quote": "Instaurer un moratoire sur la chasse des espèces menacées (liste rouge UICN), et développer des plans de restauration en collaborant avec les fédérations de chasse.",
+          "page": "30",
+          "note": "Encadrement limité aux espèces menacées."
+        },
+        {
+          "questionId": "agr-08",
+          "value": 1,
+          "quote": "Faire de l’eau un enjeu démocratique en rééquilibrant ses usages- agriculture, industrie, énergie- en planifiant les prélèvements, en modernisant les infrastructures.",
+          "page": "35",
+          "inferred": true,
+          "note": "Planification des prélèvements et refus des méga-bassines ; les restrictions en période de sécheresse ne sont pas détaillées."
+        },
+        {
+          "questionId": "def-02",
+          "value": 2,
+          "quote": "Proposer à nos partenaires de l’UE d’étendre la dissuasion nucléaire française aux autres pays de l’Union européenne, en conservant la souveraineté française sur la décision d’emploi, pour en faire le pilier d’un grand pacte de sécurité européen.",
+          "page": "11"
+        },
+        {
+          "questionId": "def-03",
+          "value": -1,
+          "quote": "Travailler à recréer un rite de passage républicain et universel autour de la majorité pour remplacer le service militaire afin que les citoyens français soient à nouveau amenés à se croiser et se connaître au cours de leur existence.",
+          "page": "73",
+          "inferred": true,
+          "note": "Un rite civique universel « pour remplacer le service militaire », pas un rétablissement de celui-ci ; réserve opérationnelle « drastiquement » augmentée (p. 10)."
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Ce fonds permettra d’investir massivement dans nos capacités industrielles, réservant les investissements européens aux productions européennes (EDIP).",
+          "page": "11",
+          "note": "Aussi « Buy European Act » (p. 14) et, dans la plateforme 2024, « Donner la priorité à l’industrie européenne pour les investissements et achats d’armement » ; le surcoût n'est pas discuté."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "Lancer un grand chantier fiscal visant à rééquilibrer la répartition de la taxation entre le travail, le capital, l’héritage et les retraites pour sortir de cette impasse injuste qui favorise les héritiers ou les retraités aisés aux détriments des travailleurs.",
+          "page": "40",
+          "inferred": true,
+          "note": "Veut taxer davantage l'héritage (« niches sur les super-héritages » dans la tribune du 16 juillet 2025), pas le réduire."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Annuler la hausse de taxe sur l’électricité imposée en 2024.",
+          "page": "17",
+          "inferred": true,
+          "note": "Vise l'accise sur l'électricité, pas la TVA ; même direction (baisse de la fiscalité sur l'énergie)."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Effort fiscal nouveau, ciblé sur les très hauts patrimoines et les grands groupes, pour contrer leur optimisation fiscale, afin qu’ils contribuent équitablement à la solidarité nationale.",
+          "page": "85",
+          "inferred": true,
+          "note": "Alourdit la fiscalité des grands groupes (superprofits, plafonnement du CIR) ; l'IS et les impôts de production ne sont pas traités en tant que tels."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Plafonner les prix des biens de première nécessité et des produits essentiels, pour aller au-delà du bouclier qualité-prix, assurer une égalité des tarifs de télécommunication et des livres avec l’hexagone.",
+          "page": "65",
+          "note": "Plafonnement proposé pour les Outre-mer seulement ; pour l'électricité, facture partiellement fixée sur le coût de production (p. 17)."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Supprimer des niches fiscales inefficaces et inefficientes.",
+          "page": "85",
+          "note": "Le communiqué du 2 septembre 2025 cite le pacte Dutreil et les transmissions d'entreprises (≈ 3 Md€)."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Pour y parvenir, nous renouerons avec la tradition française du pilotage public du développement industriel : bâtir un protectionnisme ciblé et intelligent, financer l’innovation, donner un nouvel élan au « Fabriqué en France » et au « Fabriqué en Europe »",
+          "page": "14",
+          "note": "Aussi : barrières douanières face à la concurrence chinoise et soutien « sur l’exemple de l’inflation reduction act » (p. 16)."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Revaloriser le salaire de tous les enseignants de manière continue et planifiée sur 5 ans.",
+          "page": "68"
+        },
+        {
+          "questionId": "edu-06",
+          "value": 1,
+          "quote": "Travailler à recréer un rite de passage républicain et universel autour de la majorité pour remplacer le service militaire afin que les citoyens français soient à nouveau amenés à se croiser et se connaître au cours de leur existence.",
+          "page": "73",
+          "inferred": true,
+          "note": "« Rite de passage républicain et universel » : universel mais non décrit comme un service obligatoire ; le service civique obligatoire de dix mois évoqué dans la presse n'apparaît dans aucun document officiel."
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "renforcer les contrôles sur la mise en œuvre de l’éducation à la vie affective, relationnelle et sexuelle (EVARS).",
+          "page": "80"
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Réinventer les bourses étudiantes avec un véritable droit à la formation : ouvrir un chantier ambitieux avec les syndicats et les universités pour créer un capital formation universel, allocation activable à tout moment de la vie.",
+          "page": "25",
+          "inferred": true,
+          "note": "Refonte vers un capital formation universel ; l'extension chiffrée des bourses n'est pas précisée."
         },
         {
           "questionId": "env-01",
-          "value": 1
+          "value": 1,
+          "quote": "Conforter le rôle du nucléaire, énergie pilotable et décarbonée, en assurant la sûreté des centrales existantes et la construction à temps de nouvelles unités.",
+          "page": "17",
+          "note": "Nouvelles unités sans nombre précisé (au-delà des six EPR2 non discuté)."
         },
         {
           "questionId": "env-02",
-          "value": -1
+          "value": -2,
+          "quote": "Conforter le rôle du nucléaire, énergie pilotable et décarbonée, en assurant la sûreté des centrales existantes et la construction à temps de nouvelles unités.",
+          "page": "17",
+          "note": "Propose l'inverse d'une sortie."
         },
         {
-          "questionId": "env-04",
-          "value": 2
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "Lancer un grand plan d’investissement pluriannuel dans toutes les énergies renouvelables. Élaborer des plans d’investissement à l’échelle régionale basés sur les besoins et richesses naturelles du territoire : soleil, vent, rivière, chaleur du sous-sol, récupération de chaleur, bioénergies, énergies hydrauliques et marines.",
+          "page": "17",
+          "inferred": true,
+          "note": "Investissement dans « toutes » les renouvelables, vent inclus ; un moratoire n'est pas discuté."
         },
         {
           "questionId": "env-05",
-          "value": 2
+          "value": 2,
+          "quote": "Faire une grande loi Climat engageant tous les ministères, permettant l’adaptation et l’accompagnement des politiques publiques pour qu’elles ne dépassent plus les limites planétaires avec la trajectoire de –90 % en 2040, pour la France comme pour l’UE, et la neutralité climat en 2050.",
+          "page": "28"
+        },
+        {
+          "questionId": "env-06",
+          "value": 1,
+          "quote": "Fixer une partie de la facture des ménages, entreprises, industriels et collectivités sur le coût de production de notre électricité nucléaire et renouvelable, et non plus sur un prix de marché très volatile et soumis aux aléas géopolitiques.",
+          "page": "17",
+          "note": "Découplage partiel du prix de marché, pas de sortie du marché européen."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Éliminer les produits chimiques dangereux en interdisant les pesticides les plus néfastes, glyphosate, néonicotinoïdes tueurs d’abeilles et objets du quotidien contenant des PFAS, tout en soutenant les alternatives non polluantes.",
+          "page": "35",
+          "note": "Réaction du 21 juillet 2026 à la loi d'urgence agricole : dénonce la réintroduction de l'acétamipride et du flupyradifurone."
+        },
+        {
+          "questionId": "env-10",
+          "value": 2,
+          "quote": "Mettre fin aux privilèges actuels des transports polluants : suppression des exonérations de TVA et de taxe sur le kérosène, étendre l’interdiction des vols intérieurs avec alternative ferroviaire viable, taxation des plus gros pollueurs individuels (jets privés, yachts, SUV...)",
+          "page": "29",
+          "note": "Seuil horaire non précisé."
         },
         {
           "questionId": "env-11",
-          "value": 2
+          "value": 2,
+          "quote": "Lancer un Plan Rail national en lien avec les régions, en démultipliant les aides à SNCF Réseau afin de moderniser les infrastructures, développer les trains légers en zones rurales, relancer les Trains d’Équilibre du Territoire",
+          "page": "29",
+          "note": "La question de la dette n'est pas abordée."
+        },
+        {
+          "questionId": "env-13",
+          "value": -2,
+          "quote": "Refuser les méga-bassines au profit de solutions locales réfléchies avec les agriculteurs, et transformer les comités de bassin en véritables « Parlements de l’eau ».",
+          "page": "35"
         },
         {
           "questionId": "env-14",
-          "value": 2
+          "value": 2,
+          "quote": "pour qu’elles ne dépassent plus les limites planétaires avec la trajectoire de –90 % en 2040, pour la France comme pour l’UE, et la neutralité climat en 2050.",
+          "page": "28",
+          "note": "L'arbitrage avec la croissance n'est pas discuté."
         },
         {
-          "questionId": "ins-03",
-          "value": 2
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Loin d’un idéal abstrait, notre ambition fédérale pour l’Europe est donc guidée par le souci de l’efficacité et du réalisme.",
+          "page": "12",
+          "inferred": true,
+          "note": "Le maintien dans l'UE n'est pas formulé comme tel : le projet vise une Europe fédérale (voir aussi le communiqué du 23 juin 2026 sur les dix ans du Brexit)."
         },
         {
-          "questionId": "ins-09",
-          "value": 1
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "L’effort de défense ne peut plus être strictement national et la France doit devenir le pilier et le moteur d’une défense européenne intégrée.",
+          "page": "11",
+          "note": "Fonds européen de défense de 500 Md€ par emprunt commun."
         },
         {
-          "questionId": "ins-01",
-          "value": -1
-        },
-        {
-          "questionId": "num-03",
-          "value": 2
-        },
-        {
-          "questionId": "num-05",
-          "value": 2
-        },
-        {
-          "questionId": "san-05",
-          "value": 2
-        },
-        {
-          "questionId": "sec-05",
-          "value": 1
-        },
-        {
-          "questionId": "sec-12",
-          "value": 1
-        },
-        {
-          "questionId": "lib-09",
-          "value": 2
-        },
-        {
-          "questionId": "eur-06",
-          "value": 2
+          "questionId": "eur-04",
+          "value": 2,
+          "quote": "Augmenter drastiquement l’aide militaire à l’Ukraine qui est notre première ligne de défense et notre soutien aux alliés européens comme la Moldavie et l’Arménie.",
+          "page": "11",
+          "note": "Armes de longue portée non mentionnées ; plateforme 2024 : « Soutenir l’Ukraine en lui livrant suffisamment d’armes »."
         },
         {
           "questionId": "eur-07",
-          "value": 2
+          "value": 2,
+          "quote": "s’opposer aux traités comme le Mercosur qui placent nos éleveurs dans une situation injuste et intenable.",
+          "page": "34"
+        },
+        {
+          "questionId": "eur-08",
+          "value": 1,
+          "quote": "Porter d’ici 2030 un grand traité de réunification européenne qui sera aussi un traité de refondation institutionnelle",
+          "page": "12",
+          "inferred": true,
+          "note": "« Réunification européenne » et soutien à la Moldavie et à l'Arménie ; l'adhésion de l'Ukraine ou des Balkans n'est pas explicitement proposée."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2,
+          "quote": "Renforcer la loi de développement solidaire en intégrant une programmation budgétaire annuelle pour atteindre progressivement 0,7 % du RNB dédié à l’aide publique au développement.",
+          "page": "83"
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2,
+          "quote": "Loin d’un idéal abstrait, notre ambition fédérale pour l’Europe est donc guidée par le souci de l’efficacité et du réalisme.",
+          "page": "12",
+          "inferred": true,
+          "note": "Une sortie de l'euro n'est jamais envisagée ; le projet est fédéraliste."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2,
+          "quote": "Augmenter massivement le budget de l’Union pour lui permettre de lancer des politiques publiques et dépasser le rôle de puissance exclusivement normative qui lui a été assigné, et attribuer à l’Union des ressources propres nouvelles.",
+          "page": "12"
+        },
+        {
+          "questionId": "imm-01",
+          "value": -1,
+          "quote": "Créer des voies légales et sécurisées d’immigration de travail et passer des accords bilatéraux (au niveau français ou européen) avec les pays d’origine",
+          "page": "82",
+          "inferred": true,
+          "note": "Ouvre des voies légales (et compte sur « l’immigration légale de travail » pour les retraites, p. 43) ; les quotas ne sont pas traités."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Faciliter les démarches de régularisation des travailleurs sans papiers, programmer des cours de français universels suffisants pour atteindre le niveau A2",
+          "page": "82",
+          "note": "Régularisation des travailleurs sans papiers sans restriction aux métiers en tension."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 1,
+          "quote": "Créer une force européenne de sauvetage en mer dotée de moyens suffisants pour porter secours aux embarcations en détresse et reconnaître un « devoir de sauver ».",
+          "page": "82",
+          "note": "Devoir de sauver, harmonisation de l'asile et répartition européenne ; « accueillir davantage » n'est pas formulé."
+        },
+        {
+          "questionId": "imm-07",
+          "value": -2,
+          "quote": "Harmoniser au sein de l’Union Européenne les procédures d’asile et établir un mécanisme européen de répartition cohérent qui mettra fin au système de Dublin, refuser l’externalisation de nos politiques migratoires et d’asile.",
+          "page": "82"
         },
         {
           "questionId": "imm-12",
-          "value": 1
+          "value": 2,
+          "quote": "Ouvrir le droit de vote à 16 ans et pour les étrangers extra-communautaires aux élections locales, généraliser l’inscription automatique sur les listes électorales.",
+          "page": "47"
+        },
+        {
+          "questionId": "ins-01",
+          "value": 1,
+          "quote": "Lancer en parallèle une grande convention citoyenne qui jettera les bases d’une assemblée constituante pour changer la Constitution.",
+          "page": "46",
+          "note": "Assemblée constituante explicitement proposée (précédée d'une convention citoyenne) ; l'expression « VIe République » n'est pas employée."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Instaurer un droit d’initiative citoyenne, permettant de déclencher des séquences démocratiques avec des référendums à l’échelle locale et nationale, généraliser des conventions citoyennes.",
+          "page": "47"
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Instaurer immédiatement la proportionnelle, de préférence par circonscriptions régionales avec un fléchage départemental des candidats.",
+          "page": "46"
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "Instaurer un droit d’initiative citoyenne, permettant de déclencher des séquences démocratiques avec des référendums à l’échelle locale et nationale, généraliser des conventions citoyennes.",
+          "page": "47",
+          "inferred": true,
+          "note": "Usage élargi du référendum en général ; l'article 11 et les questions de société ne sont pas visés explicitement."
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Ouvrir le droit de vote à 16 ans et pour les étrangers extra-communautaires aux élections locales, généraliser l’inscription automatique sur les listes électorales.",
+          "page": "47"
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "instaurer la motion de censure “constructive” (censurer un gouvernement exigera de proposer un successeur), ce qui permettra de mettre fin au 49.3.",
+          "page": "46"
+        },
+        {
+          "questionId": "lib-04",
+          "value": -1,
+          "quote": "Respecter les identités et garantir le droit à l’autodétermination de genre et encadrer les parcours de transition pour assurer liberté, sécurité et accès aux soins.",
+          "page": "79",
+          "inferred": true,
+          "note": "Encadrement des parcours de transition avec accès aux soins ; le cas des mineurs n'est pas traité."
+        },
+        {
+          "questionId": "lib-08",
+          "value": 1,
+          "quote": "Garantir l’effectivité réelle du droit à l’IVG pour qu’il se traduise concrètement sur le terrain, inscrire le droit à l’IVG dans la charte des droits fondamentaux de l’Union européenne",
+          "page": "78",
+          "inferred": true,
+          "note": "Protège et garantit l'accès ; aucune modification des délais ou conditions n'est proposée."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Lancer un grand plan contre les violences sexistes et sexuelles inspiré de la politique espagnole, mobiliser un milliard d’euros dans ce cadre, renforcer les unités spécialisées contre les violences conjugales",
+          "page": "78"
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Encadrer les loyers dans les zones en grande tension pour garantir l’accès au logement aux ménages modestes.",
+          "page": "64"
+        },
+        {
+          "questionId": "log-02",
+          "value": 1,
+          "quote": "accélérer la construction de logements sociaux en réhaussant les objectifs nationaux annuels, via des contrats territoriaux adaptés aux besoins réels des territoires et à l’exigence de mixité sociale.",
+          "page": "64",
+          "inferred": true,
+          "note": "La loi SRU n'est pas nommée ; objectifs nationaux de logements sociaux rehaussés."
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Défendre résolument les objectifs du Zéro Artificialisation Nette des sols (ZAN) en évaluant mieux les impacts en amont et en sortant d’une logique purement comptable pour une approche démocratique et écologique de l’usage des sols",
+          "page": "28"
+        },
+        {
+          "questionId": "log-07",
+          "value": 1,
+          "quote": "Sauver l’école de proximité en freinant les fermetures d’écoles rurales et réévaluant les regroupements d’écoles pour en mesurer les impacts sur les enfants et sur les territoires.",
+          "page": "68",
+          "note": "Aussi accès aux services publics essentiels « à proximité de chez lui » (p. 48) ; la question des déficits n'est pas traitée."
+        },
+        {
+          "questionId": "log-08",
+          "value": 1,
+          "quote": "Étendre le dispositif Visale (caution garantie pour le locataire) en élargissant les publics éligibles et en allongeant sa durée pour mieux garantir les loyers",
+          "page": "64",
+          "note": "Extension de Visale, pas de garantie universelle."
+        },
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Interdire les réseaux sociaux pour les moins de 15 ans",
+          "page": "21"
+        },
+        {
+          "questionId": "num-02",
+          "value": -2,
+          "quote": "Renforcer le service public de l’audiovisuel et l’indépendance des médias en assurant un financement stable de la presse via une taxe sur les géants du numérique",
+          "page": "47",
+          "inferred": true,
+          "note": "Renforcement du service public, à l'opposé d'une privatisation (non discutée)."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "en contrecarrant les monopoles technologiques des GAFAM et BATX par une régulation renforcée et des sanctions contre les abus de position dominante.",
+          "page": "21",
+          "note": "Aussi « une hausse ciblée de la taxe GAFAM » (p. 20)."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Garantir un véritable pluralisme des médias en réformant la loi de 1986 pour limiter leur concentration.",
+          "page": "47"
+        },
+        {
+          "questionId": "num-06",
+          "value": -1,
+          "quote": "supprimer la part individuelle du pass Culture au profit du financement d’artistes intervenant en milieu scolaire.",
+          "page": "72",
+          "note": "Suppression de la part individuelle seulement."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "Attribuer temps, respect et pouvoir d’agir aux soignants : mieux les rémunérer, améliorer leurs conditions de travail, concentrer leur missions sur le soin et les associer aux décisions.",
+          "page": "50",
+          "note": "Revalorisation et financement global pluriannuel de l'hôpital ; pas de plan chiffré d'embauches (la lettre aux Français promet de « redonner à l’école, à l’hôpital, aux services publics les moyens de tenir leur promesse »)."
+        },
+        {
+          "questionId": "san-06",
+          "value": 0,
+          "quote": "Organiser une convention citoyenne sur la politique vis-à-vis des drogues, notamment la question de la légalisation du cannabis.",
+          "page": "60",
+          "note": "Renvoie la question à une convention citoyenne sans prendre position."
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2,
+          "quote": "Généraliser les récépissés de contrôle d’identité.",
+          "page": "80"
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Augmenter les effectifs des services judiciaires et pénitentiaires et les revaloriser.",
+          "page": "61",
+          "note": "Pas d'objectif de doublement."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "Muscler les moyens d’enquête contre le narcotrafic (plus d’effectifs spécialisés, un service national de renseignement criminel, cyber-enquête, coordination renforcée douanes-parquets...) et frapper les réseaux au portefeuille en renforçant TRACFIN",
+          "page": "60",
+          "note": "Renforcement des moyens d'enquête et de répression financière ; les prisons de haute sécurité ne sont pas mentionnées et la prévention est aussi mise en avant."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "Faire renaître une police de proximité moderne, ancrée localement, centrée sur la prévention, la médiation et la résolution de conflits.",
+          "page": "60"
+        },
+        {
+          "questionId": "soc-05",
+          "value": 1,
+          "quote": "Ouvrir une grande conférence sociale pour aller vers un minimum social unique, accessible à toutes et tous, y compris pour les moins de 25 ans",
+          "page": "53",
+          "inferred": true,
+          "note": "Minimum social unique ouvert aux moins de 25 ans, via une conférence sociale, plutôt qu'une ouverture directe du RSA."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Abroger la réforme Macron de 2023.",
+          "page": "43",
+          "note": "« Mais cette abrogation n’est pas un horizon en soi » : réforme d'ampleur avec les partenaires sociaux ensuite."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 0,
+          "quote": "cesser la focalisation sur le seul âge légal qui produit l’injustice et fonder notre philosophie sur les inégalités de conditions et d’espérance de vie : certains doivent pouvoir partir à la retraite à 60 ans, d’autres devront travailler davantage.",
+          "page": "43",
+          "note": "60 ans pour certains selon la pénibilité, pas comme âge légal général."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -1,
+          "quote": "cesser la focalisation sur le seul âge légal qui produit l’injustice et fonder notre philosophie sur les inégalités de conditions et d’espérance de vie : certains doivent pouvoir partir à la retraite à 60 ans, d’autres devront travailler davantage.",
+          "page": "43",
+          "inferred": true,
+          "note": "Abroge la réforme à 64 ans et refuse la focalisation sur l'âge légal ; « d’autres devront travailler davantage » nuance la position."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Augmenter le SMIC à 1600 euros net dans les deux ans qui suivent notre accession au pouvoir.",
+          "page": "40"
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Abroger la réforme Macron de l’assurance chômage, injuste et inefficace.",
+          "page": "53",
+          "inferred": true,
+          "note": "L'abrogation des réformes 2019-2023 (qui ont réduit la durée d'indemnisation) va à l'inverse de la mesure ; la durée n'est pas nommée."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1,
+          "quote": "Soutenir les fonctionnaires, revaloriser durablement les rémunérations pour renforcer l’attractivité de la fonction publique, indexant leur point d’indice sur l’inflation et corrigeant les écarts de rémunérations entre ministères.",
+          "page": "40",
+          "note": "Indexation limitée au point d'indice de la fonction publique."
+        }
+      ]
+    },
+    {
+      "id": "glucksmann-pp-post-franchises-2026-07",
+      "date": "2026-07-29",
+      "title": "Franchises médicales : S. Lecornu envoie la facture du déficit aux malades",
+      "sourceType": "communique",
+      "sourceUrl": "https://place-publique.eu/posts/5alHI42mxxIp7GNFA9ImFX/franchises-medicales-s-lecornu-envoie-la-facture-du-deficit-aux-malades",
+      "publisher": "Place publique",
+      "summary": "Document officiel : Franchises médicales : S. Lecornu envoie la facture du déficit aux malades.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Présenter ces mesures comme une incitation à la « responsabilité » est à la fois indigne et inefficace sur les plans sanitaire et économique.",
+          "note": "Opposition au doublement du plafond des franchises médicales (100 à 200 €) et à la hausse des participations forfaitaires."
+        }
+      ]
+    },
+    {
+      "id": "glucksmann-pp-post-israel-2026-08",
+      "date": "2026-08-21",
+      "title": "L'Europe doit s'élever contre la colonisation israélienne",
+      "sourceType": "communique",
+      "sourceUrl": "https://place-publique.eu/posts/2i0gWFYaKIzY29qXbIwzpP/l-europe-doit-s-elever-contre-la-colonisation-israelienne",
+      "publisher": "Place publique",
+      "summary": "Même position dans le communiqué du 3 juin 2026 sur le Liban (embargo sur les armes, suspension partielle ou totale de l'accord UE-Israël).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "Conditionner la coopération avec Israël au respect du droit international et suspendre l'accord d'association UE-Israël."
+        }
+      ]
+    },
+    {
+      "id": "glucksmann-pp-post-agricole-2026-07",
+      "date": "2026-07-21",
+      "title": "Réaction de Raphaël Glucksmann suite à l'adoption de la loi d'urgence agricole",
+      "sourceType": "communique",
+      "sourceUrl": "https://place-publique.eu/posts/68jyTyNjDww1F2yvJ1c4St/reaction-de-raphael-glucksmann-suite-a-l-adoption-de-la-loi-d-urgence-agricole",
+      "publisher": "Place publique",
+      "summary": "Signé Raphaël Glucksmann (co-président).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": -1,
+          "quote": "Plutôt que de s’attaquer au partage injuste de la PAC et de la valeur, à la concurrence déloyale, la droite et l’extrême-droite s’en prennent comme toujours aux normes environnementales.",
+          "inferred": true,
+          "note": "Refuse l'abaissement des normes environnementales ; l'Acte I (p. 34) veut « harmoniser les normes en Europe » sans préciser le niveau."
+        }
+      ]
+    },
+    {
+      "id": "glucksmann-pp-post-culture-2026-07",
+      "date": "2026-07-20",
+      "title": "Culture en danger : Place publique appelle à un nouveau pacte",
+      "sourceType": "communique",
+      "sourceUrl": "https://place-publique.eu/posts/cRw0mNJ9UGX1UfnaKCKX0/culture-en-danger-place-publique-appelle-a-un-nouveau-pacte",
+      "publisher": "Place publique",
+      "summary": "Document officiel : Culture en danger : Place publique appelle à un nouveau pacte.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "Nous tiendrons l'objectif du 1 % du budget de l’Etat pour la culture.",
+          "note": "Engagement à mettre fin aux coupes budgétaires dans la culture."
         }
       ]
     }
