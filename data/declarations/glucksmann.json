@@ -1,0 +1,210 @@
+{
+  "candidateId": "glucksmann",
+  "declarations": [
+    {
+      "id": "glucksmann-2026-05-premieres-lignes",
+      "date": "2026-05-26",
+      "title": "Premières lignes du programme (LCP)",
+      "sourceType": "presse",
+      "sourceUrl": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "publisher": "LCP",
+      "summary": "Convention citoyenne sur l'immigration ; service civique obligatoire de dix mois ; hausse substantielle des salaires des enseignants et mixité sociale dans le privé ; suppression du droit de veto dans l'UE et grand emprunt européen ; nouveau contrat social et fiscal rééquilibrant travail, capital, retraite et héritage ; retraite tenant compte de l'espérance de vie par métier.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-06",
+          "value": 2,
+          "note": "Service civique obligatoire de dix mois dans les services publics, l'aide aux personnes âgées et les écoles."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": 2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2
+        },
+        {
+          "questionId": "eur-09",
+          "value": -1
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "note": "Soutien public à la taxe Zucman lors des débats de 2025."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 1
+        },
+        {
+          "questionId": "eco-10",
+          "value": 1
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1
+        },
+        {
+          "questionId": "tra-01",
+          "value": 1,
+          "note": "Critique de la réforme de 2023 ; propose une réforme tenant compte de la pénibilité et de l'espérance de vie plutôt qu'un simple retour à 62 ans."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -1
+        },
+        {
+          "questionId": "def-01",
+          "value": 2
+        },
+        {
+          "questionId": "def-02",
+          "value": 1
+        },
+        {
+          "questionId": "imm-01",
+          "value": -1
+        },
+        {
+          "questionId": "imm-04",
+          "value": 1
+        },
+        {
+          "questionId": "imm-06",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "glucksmann-2026-08-candidature",
+      "date": "2026-08-23",
+      "title": "Annonce de candidature (journal de 20 h de TF1) et lancement de campagne",
+      "sourceType": "interview",
+      "sourceUrl": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+      "publisher": "franceinfo",
+      "summary": "Candidature officialisée, passage par la primaire sociale-démocrate d'octobre. Axes : saut fédéral européen, souveraineté et défense européennes, investissement massif dans la transition, fiscalité progressive des hauts patrimoines, revalorisation des bas salaires, vote à 16 ans aux élections locales, proportionnelle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 1
+        },
+        {
+          "questionId": "env-01",
+          "value": 1
+        },
+        {
+          "questionId": "env-02",
+          "value": -1
+        },
+        {
+          "questionId": "env-04",
+          "value": 2
+        },
+        {
+          "questionId": "env-05",
+          "value": 2
+        },
+        {
+          "questionId": "env-11",
+          "value": 2
+        },
+        {
+          "questionId": "env-14",
+          "value": 2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-09",
+          "value": 1
+        },
+        {
+          "questionId": "ins-01",
+          "value": -1
+        },
+        {
+          "questionId": "num-03",
+          "value": 2
+        },
+        {
+          "questionId": "num-05",
+          "value": 2
+        },
+        {
+          "questionId": "san-05",
+          "value": 2
+        },
+        {
+          "questionId": "sec-05",
+          "value": 1
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "imm-12",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "candidateId": "ruffin",
+  "declarations": [
+    {
+      "id": "ruffin-2025-04-candidature",
+      "date": "2025-04-01",
+      "title": "Annonce de candidature (« Nous président ! ») et orientations de Debout !",
+      "sourceType": "discours",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_Left_primary",
+      "publisher": "Wikipédia (source secondaire)",
+      "summary": "Retraite à 60 ans, hausse du SMIC, protectionnisme et réindustrialisation, ISF, encadrement des licenciements, services publics en zone rurale, rejet du Mercosur, proportionnelle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2
+        },
+        {
+          "questionId": "tra-10",
+          "value": 1
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-09",
+          "value": 1
+        },
+        {
+          "questionId": "env-05",
+          "value": 1
+        },
+        {
+          "questionId": "env-11",
+          "value": 2
+        },
+        {
+          "questionId": "env-14",
+          "value": 1
+        },
+        {
+          "questionId": "imm-01",
+          "value": -1
+        },
+        {
+          "questionId": "imm-04",
+          "value": 1
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2
+        },
+        {
+          "questionId": "san-01",
+          "value": 2
+        },
+        {
+          "questionId": "san-02",
+          "value": 2
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1
+        },
+        {
+          "questionId": "log-01",
+          "value": 2
+        },
+        {
+          "questionId": "log-07",
+          "value": 2
+        },
+        {
+          "questionId": "agr-01",
+          "value": 2
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2
+        },
+        {
+          "questionId": "ins-02",
+          "value": 1
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1
+        },
+        {
+          "questionId": "num-05",
+          "value": 2
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

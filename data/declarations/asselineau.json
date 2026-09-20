@@ -1,0 +1,103 @@
+{
+  "candidateId": "asselineau",
+  "declarations": [
+    {
+      "id": "upr-programme-reference",
+      "date": "2023-08-31",
+      "title": "Ligne de l'Union populaire républicaine et annonce de candidature",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.upr.fr/",
+      "publisher": "Union populaire républicaine",
+      "summary": "Sortie de l'Union européenne par l'article 50, sortie de l'euro et de l'OTAN ; RIC et proportionnelle ; nucléaire ; renationalisations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "note": "Sortie de l'UE par l'article 50 du traité sur l'Union européenne : mesure fondatrice du mouvement."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "env-06",
+          "value": 2
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2
+        },
+        {
+          "questionId": "def-04",
+          "value": 2
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "num-07",
+          "value": -2
+        }
+      ]
+    }
+  ]
+}

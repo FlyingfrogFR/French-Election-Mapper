@@ -1,0 +1,199 @@
+{
+  "candidateId": "dupont-aignan",
+  "declarations": [
+    {
+      "id": "dla-programme-reference",
+      "date": "2025-03-08",
+      "title": "Orientations de Debout la France et annonce de candidature",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/",
+      "publisher": "Debout la France",
+      "summary": "Ligne souverainiste : primauté du droit national, Europe des nations sans sortie de l'UE, sortie du commandement intégré de l'OTAN, référendum sur l'immigration, priorité nationale, RIC, proportionnelle, nucléaire, protectionnisme, TVA à 5,5 % sur l'énergie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 0,
+          "note": "« Europe des nations » : ni sortie de l'UE, ni fédéralisme — position mitigée."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2
+        },
+        {
+          "questionId": "eur-11",
+          "value": -1
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2
+        },
+        {
+          "questionId": "imm-08",
+          "value": 2
+        },
+        {
+          "questionId": "imm-10",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2
+        },
+        {
+          "questionId": "sec-02",
+          "value": 2
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "env-02",
+          "value": -2
+        },
+        {
+          "questionId": "env-03",
+          "value": 2
+        },
+        {
+          "questionId": "env-04",
+          "value": -2
+        },
+        {
+          "questionId": "env-09",
+          "value": 2
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2
+        },
+        {
+          "questionId": "ins-06",
+          "value": 1
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "tra-08",
+          "value": 2
+        },
+        {
+          "questionId": "eco-05",
+          "value": 2
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2
+        },
+        {
+          "questionId": "def-01",
+          "value": 2
+        },
+        {
+          "questionId": "def-04",
+          "value": 2
+        },
+        {
+          "questionId": "agr-02",
+          "value": 2
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2
+        },
+        {
+          "questionId": "lib-01",
+          "value": 1
+        },
+        {
+          "questionId": "lib-05",
+          "value": 2
+        },
+        {
+          "questionId": "num-01",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

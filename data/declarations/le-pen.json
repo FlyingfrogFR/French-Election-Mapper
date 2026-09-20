@@ -1,0 +1,596 @@
+{
+  "candidateId": "le-pen",
+  "declarations": [
+    {
+      "id": "le-pen-2022-programme",
+      "date": "2022-03-01",
+      "title": "Projet présidentiel 2022 de Marine Le Pen (« M la France »)",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/",
+      "publisher": "Rassemblement national",
+      "summary": "Programme de la candidate RN à l'élection de 2022 (22 mesures phares et livrets thématiques). Base de référence en attendant le programme 2027, annoncé comme « en construction ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "tra-02",
+          "value": 1,
+          "note": "Retraite à 60 ans pour les carrières commencées avant 20 ans, 62 ans sinon."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2
+        },
+        {
+          "questionId": "tra-04",
+          "value": -1
+        },
+        {
+          "questionId": "tra-07",
+          "value": 1
+        },
+        {
+          "questionId": "tra-08",
+          "value": 2
+        },
+        {
+          "questionId": "tra-13",
+          "value": 2
+        },
+        {
+          "questionId": "eco-01",
+          "value": 1
+        },
+        {
+          "questionId": "eco-02",
+          "value": 0,
+          "note": "Remplacement de l'IFI par un « impôt sur la fortune financière » : position mitigée sur un ISF classique."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2
+        },
+        {
+          "questionId": "eco-05",
+          "value": 2,
+          "note": "TVA à 5,5 % sur l'énergie et les carburants."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 1
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2
+        },
+        {
+          "questionId": "eco-10",
+          "value": -1
+        },
+        {
+          "questionId": "soc-01",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2
+        },
+        {
+          "questionId": "soc-07",
+          "value": 1
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2
+        },
+        {
+          "questionId": "soc-09",
+          "value": 1
+        },
+        {
+          "questionId": "san-01",
+          "value": -1
+        },
+        {
+          "questionId": "san-02",
+          "value": 1
+        },
+        {
+          "questionId": "san-05",
+          "value": -1
+        },
+        {
+          "questionId": "san-06",
+          "value": -2
+        },
+        {
+          "questionId": "edu-01",
+          "value": 2
+        },
+        {
+          "questionId": "edu-03",
+          "value": 1
+        },
+        {
+          "questionId": "edu-04",
+          "value": -1
+        },
+        {
+          "questionId": "edu-08",
+          "value": 2
+        },
+        {
+          "questionId": "edu-09",
+          "value": -1
+        },
+        {
+          "questionId": "edu-10",
+          "value": 1
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "env-02",
+          "value": -2
+        },
+        {
+          "questionId": "env-03",
+          "value": 2
+        },
+        {
+          "questionId": "env-04",
+          "value": -2
+        },
+        {
+          "questionId": "env-05",
+          "value": -2
+        },
+        {
+          "questionId": "env-06",
+          "value": 2
+        },
+        {
+          "questionId": "env-07",
+          "value": 2
+        },
+        {
+          "questionId": "env-08",
+          "value": -2
+        },
+        {
+          "questionId": "env-09",
+          "value": 2
+        },
+        {
+          "questionId": "env-10",
+          "value": -1
+        },
+        {
+          "questionId": "env-12",
+          "value": -2
+        },
+        {
+          "questionId": "env-13",
+          "value": 1
+        },
+        {
+          "questionId": "env-14",
+          "value": -1
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "note": "Référendum sur l'immigration révisant la Constitution."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2
+        },
+        {
+          "questionId": "imm-07",
+          "value": 2
+        },
+        {
+          "questionId": "imm-08",
+          "value": 2
+        },
+        {
+          "questionId": "imm-09",
+          "value": -1
+        },
+        {
+          "questionId": "imm-10",
+          "value": 2,
+          "note": "Priorité nationale (emploi, logement social, prestations) inscrite dans la Constitution."
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2
+        },
+        {
+          "questionId": "imm-12",
+          "value": -2
+        },
+        {
+          "questionId": "imm-13",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2
+        },
+        {
+          "questionId": "sec-02",
+          "value": 2
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2
+        },
+        {
+          "questionId": "sec-04",
+          "value": 2
+        },
+        {
+          "questionId": "sec-05",
+          "value": -2
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2
+        },
+        {
+          "questionId": "sec-07",
+          "value": 1
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2
+        },
+        {
+          "questionId": "sec-10",
+          "value": 2
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1
+        },
+        {
+          "questionId": "sec-13",
+          "value": 2
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1
+        },
+        {
+          "questionId": "ins-05",
+          "value": 1
+        },
+        {
+          "questionId": "ins-06",
+          "value": 1
+        },
+        {
+          "questionId": "ins-07",
+          "value": 2
+        },
+        {
+          "questionId": "ins-09",
+          "value": -2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "note": "Abandon du projet de sortie de l'UE ; « Europe des nations »."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "note": "Sortie du commandement intégré de l'OTAN."
+        },
+        {
+          "questionId": "eur-06",
+          "value": -2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2
+        },
+        {
+          "questionId": "eur-11",
+          "value": -1
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2
+        },
+        {
+          "questionId": "def-01",
+          "value": 1
+        },
+        {
+          "questionId": "def-02",
+          "value": -2
+        },
+        {
+          "questionId": "def-04",
+          "value": 2
+        },
+        {
+          "questionId": "log-01",
+          "value": -2
+        },
+        {
+          "questionId": "log-02",
+          "value": -1
+        },
+        {
+          "questionId": "log-03",
+          "value": 1
+        },
+        {
+          "questionId": "log-04",
+          "value": -2
+        },
+        {
+          "questionId": "log-05",
+          "value": 2
+        },
+        {
+          "questionId": "log-07",
+          "value": 2
+        },
+        {
+          "questionId": "log-09",
+          "value": 2
+        },
+        {
+          "questionId": "agr-01",
+          "value": 1
+        },
+        {
+          "questionId": "agr-02",
+          "value": 2
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2
+        },
+        {
+          "questionId": "agr-05",
+          "value": -1
+        },
+        {
+          "questionId": "agr-06",
+          "value": -2
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2
+        },
+        {
+          "questionId": "agr-08",
+          "value": -1
+        },
+        {
+          "questionId": "num-01",
+          "value": 1
+        },
+        {
+          "questionId": "num-02",
+          "value": 2,
+          "note": "Privatisation de l'audiovisuel public."
+        },
+        {
+          "questionId": "num-03",
+          "value": 1
+        },
+        {
+          "questionId": "num-05",
+          "value": -1
+        },
+        {
+          "questionId": "lib-01",
+          "value": 2
+        },
+        {
+          "questionId": "lib-02",
+          "value": 2
+        },
+        {
+          "questionId": "lib-03",
+          "value": -2
+        },
+        {
+          "questionId": "lib-04",
+          "value": 2
+        },
+        {
+          "questionId": "lib-05",
+          "value": 2
+        },
+        {
+          "questionId": "lib-06",
+          "value": -2
+        },
+        {
+          "questionId": "lib-07",
+          "value": 2
+        },
+        {
+          "questionId": "lib-09",
+          "value": 1
+        },
+        {
+          "questionId": "lib-10",
+          "value": 2
+        },
+        {
+          "questionId": "lib-11",
+          "value": -1
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-07-retraites-ppl",
+      "date": "2026-07-01",
+      "title": "Proposition de loi du groupe RN sur l'âge de départ à la retraite",
+      "sourceType": "vote",
+      "sourceUrl": "https://votons-2027.fr/candidats/le-pen/programme/retraite",
+      "publisher": "Comparateur Votons 2027 (source secondaire)",
+      "summary": "Le groupe RN à l'Assemblée a déposé une proposition de loi fixant l'âge de départ à 60 ans pour les personnes ayant commencé à travailler avant 20 ans, avec une progressivité jusqu'à 62 ans.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "tra-02",
+          "value": 1
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-07-orientations",
+      "date": "2026-07-16",
+      "title": "Orientations programmatiques 2027 rapportées par la presse (programme « en construction »)",
+      "sourceType": "presse",
+      "sourceUrl": "https://www.elyseescope.com/le-radar/programme-marine-le-pen-2027",
+      "publisher": "ÉlyséeScope (source secondaire)",
+      "summary": "Baisse des visas et renforcement des contrôles aux frontières ; baisses d'impôts pour les classes populaires et moyennes ; encadrement des prix des produits de première nécessité ; maintien d'un parc nucléaire important ; suppression de l'AME remplacée par une aide d'urgence vitale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 2
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2
+        },
+        {
+          "questionId": "eco-10",
+          "value": -1
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-07-candidature",
+      "date": "2026-07-07",
+      "title": "Confirmation de candidature après l'arrêt de la cour d'appel de Paris",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html",
+      "publisher": "RTS (presse)",
+      "summary": "Peine d'inéligibilité ferme ramenée à 15 mois, déjà purgée : Marine Le Pen confirme sa candidature. Pourvoi en cassation formé.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    }
+  ]
+}

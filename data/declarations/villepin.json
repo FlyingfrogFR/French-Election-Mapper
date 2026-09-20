@@ -1,0 +1,58 @@
+{
+  "candidateId": "villepin",
+  "declarations": [
+    {
+      "id": "villepin-2026-orientations",
+      "date": "2026-06-01",
+      "title": "Orientations de La France humaniste (parrainages en cours)",
+      "sourceType": "presse",
+      "sourceUrl": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "publisher": "LCP (source secondaire)",
+      "summary": "Positions connues : soutien à des sanctions contre Israël au sujet de Gaza, attachement à l'UE avec une distance vis-à-vis de l'OTAN, hausse de l'effort de défense, proportionnelle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "eur-06",
+          "value": 2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": 1
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1
+        },
+        {
+          "questionId": "eur-05",
+          "value": -1
+        },
+        {
+          "questionId": "def-01",
+          "value": 2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 1
+        },
+        {
+          "questionId": "imm-01",
+          "value": -1
+        },
+        {
+          "questionId": "lib-01",
+          "value": -1
+        }
+      ]
+    }
+  ]
+}

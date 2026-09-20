@@ -1,0 +1,54 @@
+{
+  "candidateId": "bouamrane",
+  "declarations": [
+    {
+      "id": "bouamrane-2026-06-candidature",
+      "date": "2026-06-09",
+      "title": "Annonce de candidature",
+      "sourceType": "discours",
+      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "publisher": "Wikipédia (source secondaire)",
+      "summary": "Ligne sociale-démocrate municipale : soutien à la taxe Zucman, logement social, revalorisation des enseignants, soutien à l'Ukraine.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 2
+        },
+        {
+          "questionId": "tra-01",
+          "value": 1
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1
+        },
+        {
+          "questionId": "log-02",
+          "value": 2
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

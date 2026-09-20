@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question sur la méthode ou la confidentialité
+    url: https://github.com/FlyingfrogFR/French-Election-Mapper/blob/main/docs/METHODOLOGIE.md
+    about: La méthode de calcul et la politique de confidentialité sont documentées ici.

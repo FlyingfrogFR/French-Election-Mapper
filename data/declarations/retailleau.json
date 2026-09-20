@@ -1,0 +1,510 @@
+{
+  "candidateId": "retailleau",
+  "declarations": [
+    {
+      "id": "retailleau-2026-04-designation",
+      "date": "2026-04-19",
+      "title": "Désignation comme candidat par les adhérents des Républicains (73,8 %)",
+      "sourceType": "communique",
+      "sourceUrl": "https://republicains.fr/",
+      "publisher": "Les Républicains",
+      "summary": "Bruno Retailleau, président de LR depuis mai 2025, est désigné candidat à l'élection présidentielle par un vote des adhérents.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    },
+    {
+      "id": "retailleau-2026-09-programme-presse",
+      "date": "2026-09-03",
+      "title": "Ce que prévoit Bruno Retailleau pour la France (synthèse de presse)",
+      "sourceType": "presse",
+      "sourceUrl": "https://www.nlto.fr/presidentielle-2027-ce-que-prevoit-bruno-retailleau-pour-la-france/",
+      "publisher": "NLTO (source secondaire)",
+      "summary": "Remplacement des 35 heures par un seuil annuel de 1 623 heures avec exonération de cotisations au-delà ; fusion RSA / prime d'activité / ASS en un « revenu d'incitation à l'activité » ; compte social unique plafonnant le cumul des aides ; durcissement de l'assurance chômage ; immigration restreinte et référendum ; fermeté pénale, narcotrafic ; priorité au nucléaire et à l'hydraulique, critique des ZFE et du ZAN ; baisse des dépenses publiques sans hausse d'impôts ; politique familiale (revenu familial dès le premier enfant).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": -2
+        },
+        {
+          "questionId": "tra-03",
+          "value": 1
+        },
+        {
+          "questionId": "tra-04",
+          "value": -2
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2
+        },
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "note": "Seuil annuel de 1 623 heures remplaçant les 35 heures ; heures au-delà exonérées de cotisations."
+        },
+        {
+          "questionId": "tra-07",
+          "value": 2,
+          "note": "« Revenu d'incitation à l'activité » fusionnant RSA, prime d'activité et ASS."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 2
+        },
+        {
+          "questionId": "tra-09",
+          "value": -2
+        },
+        {
+          "questionId": "tra-10",
+          "value": -2
+        },
+        {
+          "questionId": "tra-11",
+          "value": -2
+        },
+        {
+          "questionId": "tra-13",
+          "value": 2
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2
+        },
+        {
+          "questionId": "eco-02",
+          "value": -2
+        },
+        {
+          "questionId": "eco-03",
+          "value": -2
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1
+        },
+        {
+          "questionId": "eco-10",
+          "value": -2
+        },
+        {
+          "questionId": "soc-01",
+          "value": 2
+        },
+        {
+          "questionId": "soc-02",
+          "value": -2
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2
+        },
+        {
+          "questionId": "soc-05",
+          "value": -2
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2
+        },
+        {
+          "questionId": "sec-02",
+          "value": 2
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2
+        },
+        {
+          "questionId": "sec-04",
+          "value": 2
+        },
+        {
+          "questionId": "sec-05",
+          "value": -2
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2
+        },
+        {
+          "questionId": "sec-07",
+          "value": 1
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2
+        },
+        {
+          "questionId": "sec-10",
+          "value": 1
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2
+        },
+        {
+          "questionId": "sec-13",
+          "value": 2
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "env-02",
+          "value": -2
+        },
+        {
+          "questionId": "env-03",
+          "value": 2
+        },
+        {
+          "questionId": "env-04",
+          "value": -2
+        },
+        {
+          "questionId": "env-05",
+          "value": -2
+        },
+        {
+          "questionId": "env-07",
+          "value": 2,
+          "note": "Soutien à la loi Duplomb réautorisant sous conditions l'acétamipride."
+        },
+        {
+          "questionId": "env-08",
+          "value": -2
+        },
+        {
+          "questionId": "env-09",
+          "value": 2
+        },
+        {
+          "questionId": "env-12",
+          "value": -2
+        },
+        {
+          "questionId": "env-13",
+          "value": 2
+        },
+        {
+          "questionId": "env-14",
+          "value": -1
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2
+        },
+        {
+          "questionId": "imm-07",
+          "value": 1
+        },
+        {
+          "questionId": "imm-08",
+          "value": 2
+        },
+        {
+          "questionId": "imm-10",
+          "value": 1
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "note": "Volonté de s'affranchir de la jurisprudence de la CEDH en matière d'éloignement."
+        },
+        {
+          "questionId": "imm-12",
+          "value": -2
+        },
+        {
+          "questionId": "imm-13",
+          "value": 2
+        },
+        {
+          "questionId": "lib-01",
+          "value": 1
+        },
+        {
+          "questionId": "lib-02",
+          "value": 2,
+          "note": "Interdiction du voile à l'université, portée comme ministre de l'Intérieur."
+        },
+        {
+          "questionId": "lib-03",
+          "value": -2
+        },
+        {
+          "questionId": "lib-04",
+          "value": 2
+        },
+        {
+          "questionId": "lib-05",
+          "value": 2
+        },
+        {
+          "questionId": "lib-06",
+          "value": -2
+        },
+        {
+          "questionId": "lib-07",
+          "value": 2
+        },
+        {
+          "questionId": "lib-10",
+          "value": 2
+        },
+        {
+          "questionId": "lib-11",
+          "value": -1
+        },
+        {
+          "questionId": "san-05",
+          "value": -2
+        },
+        {
+          "questionId": "san-06",
+          "value": -2
+        },
+        {
+          "questionId": "edu-01",
+          "value": 1
+        },
+        {
+          "questionId": "edu-03",
+          "value": 1
+        },
+        {
+          "questionId": "edu-04",
+          "value": -2
+        },
+        {
+          "questionId": "edu-08",
+          "value": 2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": 1
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2
+        },
+        {
+          "questionId": "eur-09",
+          "value": -1
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2
+        },
+        {
+          "questionId": "def-01",
+          "value": 2
+        },
+        {
+          "questionId": "def-04",
+          "value": 2
+        },
+        {
+          "questionId": "agr-02",
+          "value": 2
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2
+        },
+        {
+          "questionId": "agr-05",
+          "value": -1
+        },
+        {
+          "questionId": "agr-06",
+          "value": -2
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2
+        },
+        {
+          "questionId": "num-01",
+          "value": 1
+        },
+        {
+          "questionId": "num-02",
+          "value": 1
+        },
+        {
+          "questionId": "num-04",
+          "value": 2
+        },
+        {
+          "questionId": "log-04",
+          "value": -2
+        },
+        {
+          "questionId": "log-01",
+          "value": -2
+        },
+        {
+          "questionId": "log-02",
+          "value": -1
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-09-institutions",
+      "date": "2026-09-10",
+      "title": "Réforme constitutionnelle : « renverser la table » (entretien Public Sénat)",
+      "sourceType": "interview",
+      "sourceUrl": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "publisher": "Public Sénat",
+      "summary": "Refondation des institutions ; référendum d'initiative partagée facilité (seuil ramené à environ 2,5 millions de signatures) ; recours au référendum sur l'immigration.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": -1,
+          "note": "Préfère assouplir le RIP existant plutôt que créer un RIC."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 2
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2
+        },
+        {
+          "questionId": "ins-03",
+          "value": -1
+        },
+        {
+          "questionId": "ins-05",
+          "value": 1
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-09-logement",
+      "date": "2026-09-15",
+      "title": "Propositions pour relancer le logement",
+      "sourceType": "presse",
+      "sourceUrl": "https://www.journaldelagence.com/1411841-presidentielle-2027-les-propositions-de-bruno-retailleau-pour-relancer-le-logement",
+      "publisher": "Journal de l'Agence (presse spécialisée)",
+      "summary": "Objectif d'un million de logements supplémentaires en cinq ans ; relance de l'investissement locatif privé ; allègement des normes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "log-03",
+          "value": 2
+        },
+        {
+          "questionId": "log-09",
+          "value": 2
+        },
+        {
+          "questionId": "log-05",
+          "value": 2
+        },
+        {
+          "questionId": "log-08",
+          "value": -1
+        }
+      ]
+    }
+  ]
+}

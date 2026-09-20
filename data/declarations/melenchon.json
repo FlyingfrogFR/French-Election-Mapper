@@ -1,0 +1,591 @@
+{
+  "candidateId": "melenchon",
+  "declarations": [
+    {
+      "id": "melenchon-2025-01-aec-v4",
+      "date": "2025-01-15",
+      "title": "L'Avenir en commun, 4e édition (programme de La France insoumise)",
+      "sourceType": "programme",
+      "sourceUrl": "https://aec2027.fr/",
+      "publisher": "La France insoumise",
+      "summary": "Programme complet (793 mesures) publié en janvier 2025, ouvert aux contributions du 20 mai au 20 juin 2026 après l'annonce de candidature. Axes : VIe République, planification écologique, progrès social, indépendance de la France.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "note": "Retraite à 60 ans avec 40 annuités."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "note": "SMIC porté à 1 600 € net."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "note": "Passage aux 32 heures, semaine de 4 jours."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2
+        },
+        {
+          "questionId": "eco-08",
+          "value": 1
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2
+        },
+        {
+          "questionId": "eco-04",
+          "value": -2
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2
+        },
+        {
+          "questionId": "soc-05",
+          "value": 2
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2
+        },
+        {
+          "questionId": "soc-09",
+          "value": -2
+        },
+        {
+          "questionId": "soc-08",
+          "value": -1
+        },
+        {
+          "questionId": "san-01",
+          "value": 2
+        },
+        {
+          "questionId": "san-02",
+          "value": 2
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "note": "« 100 % Sécu » : remboursement intégral des soins prescrits."
+        },
+        {
+          "questionId": "san-04",
+          "value": -2
+        },
+        {
+          "questionId": "san-05",
+          "value": 2
+        },
+        {
+          "questionId": "san-06",
+          "value": 2
+        },
+        {
+          "questionId": "san-07",
+          "value": 2
+        },
+        {
+          "questionId": "san-08",
+          "value": 2
+        },
+        {
+          "questionId": "san-09",
+          "value": 2
+        },
+        {
+          "questionId": "edu-01",
+          "value": -2
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2
+        },
+        {
+          "questionId": "edu-03",
+          "value": -2
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1
+        },
+        {
+          "questionId": "edu-05",
+          "value": 2
+        },
+        {
+          "questionId": "edu-06",
+          "value": -1
+        },
+        {
+          "questionId": "edu-11",
+          "value": 2
+        },
+        {
+          "questionId": "edu-12",
+          "value": 2
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2
+        },
+        {
+          "questionId": "env-01",
+          "value": -2
+        },
+        {
+          "questionId": "env-02",
+          "value": 2,
+          "note": "Sortie progressive du nucléaire, 100 % renouvelables."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2
+        },
+        {
+          "questionId": "env-04",
+          "value": 2
+        },
+        {
+          "questionId": "env-05",
+          "value": 2
+        },
+        {
+          "questionId": "env-06",
+          "value": 2
+        },
+        {
+          "questionId": "env-07",
+          "value": -2
+        },
+        {
+          "questionId": "env-08",
+          "value": -1
+        },
+        {
+          "questionId": "env-10",
+          "value": 2
+        },
+        {
+          "questionId": "env-11",
+          "value": 2
+        },
+        {
+          "questionId": "env-12",
+          "value": 2
+        },
+        {
+          "questionId": "env-13",
+          "value": -2
+        },
+        {
+          "questionId": "env-14",
+          "value": 2
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2
+        },
+        {
+          "questionId": "imm-02",
+          "value": -2
+        },
+        {
+          "questionId": "imm-03",
+          "value": -2
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "note": "Régularisation des travailleurs sans papiers."
+        },
+        {
+          "questionId": "imm-05",
+          "value": -2
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2
+        },
+        {
+          "questionId": "imm-07",
+          "value": -2
+        },
+        {
+          "questionId": "imm-08",
+          "value": -2
+        },
+        {
+          "questionId": "imm-09",
+          "value": 2
+        },
+        {
+          "questionId": "imm-10",
+          "value": -2
+        },
+        {
+          "questionId": "imm-11",
+          "value": -2
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2
+        },
+        {
+          "questionId": "imm-13",
+          "value": -2
+        },
+        {
+          "questionId": "sec-01",
+          "value": -2
+        },
+        {
+          "questionId": "sec-02",
+          "value": -1
+        },
+        {
+          "questionId": "sec-03",
+          "value": -1
+        },
+        {
+          "questionId": "sec-04",
+          "value": -1
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2
+        },
+        {
+          "questionId": "sec-06",
+          "value": -2
+        },
+        {
+          "questionId": "sec-07",
+          "value": -2
+        },
+        {
+          "questionId": "sec-08",
+          "value": 2
+        },
+        {
+          "questionId": "sec-09",
+          "value": -1
+        },
+        {
+          "questionId": "sec-10",
+          "value": -2
+        },
+        {
+          "questionId": "sec-11",
+          "value": -2
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2
+        },
+        {
+          "questionId": "sec-13",
+          "value": -2
+        },
+        {
+          "questionId": "ins-01",
+          "value": 2,
+          "note": "Convocation d'une Assemblée constituante pour passer à la VIe République."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1
+        },
+        {
+          "questionId": "eur-03",
+          "value": -1
+        },
+        {
+          "questionId": "eur-04",
+          "value": -1
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "note": "Sortie du commandement intégré puis de l'OTAN."
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": -1
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2,
+          "note": "« Désobéir » aux règles européennes incompatibles avec le programme."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2
+        },
+        {
+          "questionId": "eur-11",
+          "value": -1
+        },
+        {
+          "questionId": "eur-12",
+          "value": -2
+        },
+        {
+          "questionId": "def-02",
+          "value": -2
+        },
+        {
+          "questionId": "def-03",
+          "value": -1
+        },
+        {
+          "questionId": "def-04",
+          "value": 2
+        },
+        {
+          "questionId": "log-01",
+          "value": 2
+        },
+        {
+          "questionId": "log-02",
+          "value": 2
+        },
+        {
+          "questionId": "log-03",
+          "value": -1
+        },
+        {
+          "questionId": "log-04",
+          "value": 2
+        },
+        {
+          "questionId": "log-06",
+          "value": 2
+        },
+        {
+          "questionId": "log-07",
+          "value": 2
+        },
+        {
+          "questionId": "log-08",
+          "value": 2
+        },
+        {
+          "questionId": "log-09",
+          "value": -1
+        },
+        {
+          "questionId": "agr-01",
+          "value": 2
+        },
+        {
+          "questionId": "agr-02",
+          "value": -2
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2
+        },
+        {
+          "questionId": "agr-06",
+          "value": 2
+        },
+        {
+          "questionId": "agr-08",
+          "value": 2
+        },
+        {
+          "questionId": "num-02",
+          "value": -2
+        },
+        {
+          "questionId": "num-03",
+          "value": 2
+        },
+        {
+          "questionId": "num-04",
+          "value": -1
+        },
+        {
+          "questionId": "num-05",
+          "value": 2
+        },
+        {
+          "questionId": "num-07",
+          "value": -1
+        },
+        {
+          "questionId": "num-08",
+          "value": 2
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2
+        },
+        {
+          "questionId": "lib-02",
+          "value": -2
+        },
+        {
+          "questionId": "lib-04",
+          "value": -2
+        },
+        {
+          "questionId": "lib-05",
+          "value": -2
+        },
+        {
+          "questionId": "lib-08",
+          "value": 2
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2
+        },
+        {
+          "questionId": "lib-10",
+          "value": -2
+        },
+        {
+          "questionId": "lib-11",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-05-candidature",
+      "date": "2026-05-03",
+      "title": "Annonce de candidature à l'élection présidentielle 2027",
+      "sourceType": "discours",
+      "sourceUrl": "https://melenchon2027.fr/",
+      "publisher": "Mélenchon 2027",
+      "summary": "Jean-Luc Mélenchon annonce sa quatrième candidature et refuse de participer aux primaires de la gauche.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    }
+  ]
+}

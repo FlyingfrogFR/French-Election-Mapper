@@ -1,0 +1,64 @@
+name: Déclaration d'un·e candidat·e / erreur de position
+description: Signaler une prise de position à ajouter, ou une position mal encodée. Une source est obligatoire.
+title: '[Déclaration] <candidat·e> — <sujet>'
+labels: ['declaration']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci ! Toute position affichée par la boussole doit remonter à une source publique, datée. Sans source, la demande ne pourra pas être traitée.
+  - type: input
+    id: candidate
+    attributes:
+      label: Candidat·e
+      placeholder: ex. Marine Tondelier
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Lien vers la source
+      description: Programme officiel, compte rendu de vote, discours, entretien, article de presse citant la personne.
+      placeholder: https://…
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date de la source (AAAA-MM-JJ)
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: Citation ou résumé fidèle
+      description: Reproduisez les mots exacts si possible.
+    validations:
+      required: true
+  - type: textarea
+    id: positions
+    attributes:
+      label: Questions concernées et position proposée
+      description: 'Une ligne par question : identifiant (ex. tra-01), valeur de −2 (fortement contre) à +2 (fortement pour), et pourquoi.'
+      placeholder: |
+        tra-01 : +2 — annonce l'abrogation de la réforme de 2023
+        eco-03 : −1 — dit « pas de taxe Zucman en l'état, mais une contribution des plus riches »
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type de demande
+      options:
+        - Nouvelle déclaration (position absente ou plus récente)
+        - Erreur d'encodage sur une position existante
+        - Contestation d'une source
+    validations:
+      required: true
+  - type: checkboxes
+    id: charte
+    attributes:
+      label: Charte
+      options:
+        - label: J'ai vérifié que la source cite bien la personne (pas seulement son parti ou un commentateur).
+          required: true

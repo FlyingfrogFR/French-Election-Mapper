@@ -1,0 +1,98 @@
+{
+  "candidateId": "batho",
+  "declarations": [
+    {
+      "id": "batho-2025-11-candidature",
+      "date": "2025-11-25",
+      "title": "Annonce de candidature (Génération écologie)",
+      "sourceType": "discours",
+      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "publisher": "Wikipédia (source secondaire)",
+      "summary": "Écologie de rupture (« décroissance ») : sortie du nucléaire, planification contraignante, opposition aux mégabassines, aux pesticides et à l'expansion des centres de données, soutien au bio et au bien-être animal.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": -2
+        },
+        {
+          "questionId": "env-02",
+          "value": 2
+        },
+        {
+          "questionId": "env-04",
+          "value": 2
+        },
+        {
+          "questionId": "env-05",
+          "value": 2
+        },
+        {
+          "questionId": "env-07",
+          "value": -2
+        },
+        {
+          "questionId": "env-10",
+          "value": 2
+        },
+        {
+          "questionId": "env-13",
+          "value": -2
+        },
+        {
+          "questionId": "env-14",
+          "value": 2
+        },
+        {
+          "questionId": "num-04",
+          "value": -2
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2
+        },
+        {
+          "questionId": "agr-08",
+          "value": 2
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "imm-06",
+          "value": 1
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-09",
+          "value": 1
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

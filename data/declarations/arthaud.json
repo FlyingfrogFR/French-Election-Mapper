@@ -1,0 +1,160 @@
+{
+  "candidateId": "arthaud",
+  "declarations": [
+    {
+      "id": "lo-programme-reference",
+      "date": "2025-12-08",
+      "title": "Orientations de Lutte ouvrière et désignation de la candidate",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lutte-ouvriere.org/",
+      "publisher": "Lutte ouvrière",
+      "summary": "Augmentation générale des salaires et indexation sur les prix, interdiction des licenciements, retraite à 60 ans, régularisation de tous les sans-papiers, opposition aux dépenses militaires et à l'OTAN.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "note": "Échelle mobile des salaires."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "note": "Interdiction des licenciements dans les entreprises qui font des profits."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2
+        },
+        {
+          "questionId": "imm-10",
+          "value": -2
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": -2
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2
+        },
+        {
+          "questionId": "def-01",
+          "value": -2
+        },
+        {
+          "questionId": "san-02",
+          "value": 2
+        },
+        {
+          "questionId": "san-03",
+          "value": 2
+        },
+        {
+          "questionId": "log-01",
+          "value": 2
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2
+        },
+        {
+          "questionId": "lib-11",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

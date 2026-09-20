@@ -1,0 +1,294 @@
+{
+  "candidateId": "attal",
+  "declarations": [
+    {
+      "id": "attal-2024-01-politique-generale",
+      "date": "2024-01-30",
+      "title": "Déclaration de politique générale du Premier ministre Gabriel Attal et mesures mises en œuvre en 2024",
+      "sourceType": "discours",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gabriel_Attal",
+      "publisher": "Wikipédia (source secondaire, à remplacer par vie-publique.fr)",
+      "summary": "Bilan de Matignon : généralisation des 15 heures d'activité pour le RSA, expérimentation de la tenue unique à l'école, groupes de niveau au collège, durcissement de l'assurance chômage, « réarmement civique », maintien de la réforme des retraites.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": -2
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2
+        },
+        {
+          "questionId": "tra-07",
+          "value": 2,
+          "note": "Généralisation des 15 heures d'activité hebdomadaires pour les allocataires du RSA."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1
+        },
+        {
+          "questionId": "edu-01",
+          "value": 2,
+          "note": "Expérimentation puis généralisation envisagée de la tenue unique."
+        },
+        {
+          "questionId": "edu-03",
+          "value": 2,
+          "note": "Groupes de niveau en français et mathématiques au collège."
+        },
+        {
+          "questionId": "edu-08",
+          "value": 2
+        },
+        {
+          "questionId": "edu-10",
+          "value": 1
+        },
+        {
+          "questionId": "edu-06",
+          "value": 1
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "env-02",
+          "value": -2
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1
+        },
+        {
+          "questionId": "imm-03",
+          "value": 1
+        },
+        {
+          "questionId": "imm-04",
+          "value": 1
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1
+        },
+        {
+          "questionId": "eco-02",
+          "value": -2
+        },
+        {
+          "questionId": "eco-10",
+          "value": -1
+        },
+        {
+          "questionId": "eco-06",
+          "value": 1
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2
+        },
+        {
+          "questionId": "ins-02",
+          "value": -1
+        }
+      ]
+    },
+    {
+      "id": "attal-2025-06-loi-mineurs",
+      "date": "2025-06-01",
+      "title": "Loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (« loi Attal »)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.elyseescope.com/le-radar/gabriel-attal-programme-propositions-presidentielle-2027",
+      "publisher": "ÉlyséeScope (source secondaire)",
+      "summary": "Texte porté par Gabriel Attal : atténuation de l'excuse de minorité pour les 16-18 ans, comparution immédiate des mineurs, responsabilisation des parents.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "sec-06",
+          "value": 2
+        },
+        {
+          "questionId": "sec-03",
+          "value": 1
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1
+        },
+        {
+          "questionId": "sec-05",
+          "value": -1
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-05-candidature",
+      "date": "2026-05-22",
+      "title": "Site de campagne « La force d'agir » — chantiers capitaux et dettes à résorber",
+      "sourceType": "programme",
+      "sourceUrl": "https://attalpresident.fr/",
+      "publisher": "Gabriel Attal Président",
+      "summary": "Quatre « chantiers capitaux » (éducation priorité absolue ; le travail doit payer ; frontières protégées ; IA pour le meilleur) et deux « dettes à résorber » (finances publiques, dette écologique). Ligne républicaine, européenne, progressiste et laïque.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-02",
+          "value": 1
+        },
+        {
+          "questionId": "eco-01",
+          "value": 1
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1
+        },
+        {
+          "questionId": "num-04",
+          "value": 2
+        },
+        {
+          "questionId": "env-14",
+          "value": 1
+        },
+        {
+          "questionId": "env-05",
+          "value": 1
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": 1
+        },
+        {
+          "questionId": "eur-09",
+          "value": -2
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2
+        },
+        {
+          "questionId": "eur-12",
+          "value": -1
+        },
+        {
+          "questionId": "eur-07",
+          "value": 1
+        },
+        {
+          "questionId": "def-01",
+          "value": 2
+        },
+        {
+          "questionId": "def-02",
+          "value": 1
+        },
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "note": "Interdiction des réseaux sociaux aux moins de 15 ans, défendue depuis Matignon."
+        },
+        {
+          "questionId": "num-03",
+          "value": 1
+        },
+        {
+          "questionId": "lib-02",
+          "value": 1
+        },
+        {
+          "questionId": "lib-05",
+          "value": 1
+        },
+        {
+          "questionId": "lib-10",
+          "value": 1
+        },
+        {
+          "questionId": "lib-01",
+          "value": -1
+        },
+        {
+          "questionId": "lib-08",
+          "value": 2
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2
+        },
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "note": "Soutien au projet de loi sur l'aide à mourir."
+        },
+        {
+          "questionId": "san-06",
+          "value": -1
+        },
+        {
+          "questionId": "soc-08",
+          "value": 1
+        },
+        {
+          "questionId": "soc-09",
+          "value": 1
+        },
+        {
+          "questionId": "eco-03",
+          "value": -2,
+          "note": "Renaissance a voté contre la « taxe Zucman » à l'Assemblée."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 1
+        },
+        {
+          "questionId": "env-04",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

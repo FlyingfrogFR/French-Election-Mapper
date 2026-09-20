@@ -1,0 +1,333 @@
+{
+  "candidateId": "tondelier",
+  "declarations": [
+    {
+      "id": "tondelier-2025-12-designation",
+      "date": "2025-12-08",
+      "title": "Désignation par les adhérents des Écologistes (86 %)",
+      "sourceType": "communique",
+      "sourceUrl": "https://lesecologistes.fr/",
+      "publisher": "Les Écologistes",
+      "summary": "Marine Tondelier est désignée pour porter les couleurs écologistes, dans la perspective d'une primaire de la gauche.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    },
+    {
+      "id": "tondelier-2026-programme-presse",
+      "date": "2026-06-01",
+      "title": "Ce que le programme écologiste changerait pour les retraites, le nucléaire et les impôts (synthèse de presse)",
+      "sourceType": "presse",
+      "sourceUrl": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "publisher": "Parlons Politique (source secondaire)",
+      "summary": "Abrogation de la réforme de 2023 et retour à 62 ans, objectif 60 ans à terme ; sortie progressive du nucléaire au profit de la sobriété, des renouvelables et du stockage, neutralité carbone visée en 2040 ; ISF climatique (environ 10 Md€ par an) ; planification écologique ; Europe fédérale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "note": "Retour à 62 ans, objectif 60 ans à terme."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 1
+        },
+        {
+          "questionId": "tra-04",
+          "value": 1
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "note": "ISF « climatique » orientant le patrimoine vers des investissements verts."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1
+        },
+        {
+          "questionId": "env-01",
+          "value": -2
+        },
+        {
+          "questionId": "env-02",
+          "value": 2,
+          "note": "Sortie progressive du nucléaire, neutralité carbone en 2040."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2
+        },
+        {
+          "questionId": "env-04",
+          "value": 2
+        },
+        {
+          "questionId": "env-05",
+          "value": 2
+        },
+        {
+          "questionId": "env-07",
+          "value": -2
+        },
+        {
+          "questionId": "env-08",
+          "value": 1
+        },
+        {
+          "questionId": "env-09",
+          "value": -2
+        },
+        {
+          "questionId": "env-10",
+          "value": 2
+        },
+        {
+          "questionId": "env-11",
+          "value": 2
+        },
+        {
+          "questionId": "env-12",
+          "value": 2
+        },
+        {
+          "questionId": "env-13",
+          "value": -2
+        },
+        {
+          "questionId": "env-14",
+          "value": 2
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2
+        },
+        {
+          "questionId": "imm-03",
+          "value": -2
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2
+        },
+        {
+          "questionId": "imm-10",
+          "value": -2
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2
+        },
+        {
+          "questionId": "san-01",
+          "value": 1
+        },
+        {
+          "questionId": "san-05",
+          "value": 2
+        },
+        {
+          "questionId": "san-06",
+          "value": 2
+        },
+        {
+          "questionId": "ins-01",
+          "value": 1
+        },
+        {
+          "questionId": "ins-02",
+          "value": 1
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2
+        },
+        {
+          "questionId": "agr-01",
+          "value": 1
+        },
+        {
+          "questionId": "agr-02",
+          "value": -2
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2
+        },
+        {
+          "questionId": "agr-06",
+          "value": 2
+        },
+        {
+          "questionId": "agr-08",
+          "value": 2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": 1
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-08",
+          "value": 1
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": -2
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2
+        },
+        {
+          "questionId": "sec-07",
+          "value": -2
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2
+        },
+        {
+          "questionId": "log-01",
+          "value": 2
+        },
+        {
+          "questionId": "log-02",
+          "value": 2
+        },
+        {
+          "questionId": "log-04",
+          "value": 2
+        },
+        {
+          "questionId": "log-06",
+          "value": 2
+        },
+        {
+          "questionId": "num-02",
+          "value": -2
+        },
+        {
+          "questionId": "num-04",
+          "value": -1
+        },
+        {
+          "questionId": "num-05",
+          "value": 2
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2
+        },
+        {
+          "questionId": "lib-04",
+          "value": -2
+        },
+        {
+          "questionId": "lib-06",
+          "value": 1
+        },
+        {
+          "questionId": "lib-08",
+          "value": 2
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2
+        },
+        {
+          "questionId": "lib-11",
+          "value": 2
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "candidateId": "philippe",
+  "declarations": [
+    {
+      "id": "philippe-2024-09-candidature",
+      "date": "2024-09-03",
+      "title": "Annonce de candidature à l'élection présidentielle 2027",
+      "sourceType": "interview",
+      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "publisher": "Wikipédia (source secondaire)",
+      "summary": "Édouard Philippe annonce le 3 septembre 2024 qu'il sera candidat en 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": []
+    },
+    {
+      "id": "philippe-2026-05-orientations",
+      "date": "2026-05-04",
+      "title": "Orientations programmatiques rapportées par la presse (retraites, immigration, institutions, économie)",
+      "sourceType": "presse",
+      "sourceUrl": "https://www.elyseescope.com/le-radar/edouard-philippe-programme-presidentielle-2027",
+      "publisher": "ÉlyséeScope (source secondaire ; cite une tribune au Figaro de mars 2026 et une intervention à l'AmCham en février 2026)",
+      "summary": "Report de l'âge de départ au-delà de 64 ans (65 à 67 ans) et introduction de 15 % de capitalisation ; règle d'équilibre budgétaire constitutionnalisée ; immigration « choisie et contrôlée » décidée par le Parlement, regroupement familial limité, immigration de travail autorisée ; non au RIC, oui au RIP ; baisse des dépenses publiques et de la fiscalité des entreprises. Aucun programme complet publié à cette date.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": -2
+        },
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "note": "Âge légal porté progressivement vers 65-67 ans."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "note": "15 % de capitalisation collective, sur le modèle Agirc-Arrco."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 1
+        },
+        {
+          "questionId": "tra-07",
+          "value": 1
+        },
+        {
+          "questionId": "tra-06",
+          "value": 1
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2
+        },
+        {
+          "questionId": "eco-02",
+          "value": -2
+        },
+        {
+          "questionId": "eco-03",
+          "value": -2
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2
+        },
+        {
+          "questionId": "eco-08",
+          "value": 1
+        },
+        {
+          "questionId": "eco-10",
+          "value": -1
+        },
+        {
+          "questionId": "soc-09",
+          "value": 1
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2
+        },
+        {
+          "questionId": "imm-04",
+          "value": 1
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1
+        },
+        {
+          "questionId": "ins-02",
+          "value": -2,
+          "note": "Opposition au RIC, soutien au référendum d'initiative partagée existant."
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "env-02",
+          "value": -2
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2
+        },
+        {
+          "questionId": "eur-09",
+          "value": -2
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2
+        },
+        {
+          "questionId": "def-01",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": 1
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1
+        },
+        {
+          "questionId": "sec-06",
+          "value": 1
+        },
+        {
+          "questionId": "num-01",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

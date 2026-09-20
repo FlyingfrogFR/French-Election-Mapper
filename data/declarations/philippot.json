@@ -1,0 +1,138 @@
+{
+  "candidateId": "philippot",
+  "declarations": [
+    {
+      "id": "patriotes-programme-reference",
+      "date": "2026-05-09",
+      "title": "Ligne des Patriotes et annonce de candidature",
+      "sourceType": "programme",
+      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "publisher": "Wikipédia (source secondaire, à remplacer par le site du parti)",
+      "summary": "Frexit (sortie de l'UE et de l'euro), sortie de l'OTAN, opposition au soutien militaire à l'Ukraine, arrêt de l'immigration, RIC, opposition aux éoliennes et aux ZFE, opposition à l'identité numérique et aux obligations vaccinales.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": -2
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2
+        },
+        {
+          "questionId": "imm-10",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2
+        },
+        {
+          "questionId": "env-01",
+          "value": 2
+        },
+        {
+          "questionId": "env-03",
+          "value": 2
+        },
+        {
+          "questionId": "env-04",
+          "value": -2
+        },
+        {
+          "questionId": "env-09",
+          "value": 2
+        },
+        {
+          "questionId": "num-07",
+          "value": -2
+        },
+        {
+          "questionId": "san-10",
+          "value": -2
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "eco-05",
+          "value": 2
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2
+        },
+        {
+          "questionId": "def-01",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2
+        },
+        {
+          "questionId": "lib-01",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

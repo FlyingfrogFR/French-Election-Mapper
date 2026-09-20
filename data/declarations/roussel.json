@@ -1,0 +1,253 @@
+{
+  "candidateId": "roussel",
+  "declarations": [
+    {
+      "id": "roussel-2026-09-designation",
+      "date": "2026-09-06",
+      "title": "Validation de la candidature par le vote des adhérents du PCF (72 %)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.pcf.fr/",
+      "publisher": "Parti communiste français",
+      "summary": "Fabien Roussel est désigné candidat du PCF à l'élection présidentielle 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    },
+    {
+      "id": "roussel-2026-programme-social",
+      "date": "2026-09-01",
+      "title": "Volet social et énergétique du programme (synthèse de presse)",
+      "sourceType": "presse",
+      "sourceUrl": "https://www.elyseescope.com/questions/fabien-roussel-smic-retraite-a-60-ans-32-heures-le-volet-social-du-programm",
+      "publisher": "ÉlyséeScope (source secondaire)",
+      "summary": "SMIC à 1 500 € net ; retraite à 60 ans à taux plein, pension minimale 1 200 € net ; semaine de 32 heures sans perte de salaire ; construction de 20 EPR ; sortie du marché européen de l'électricité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "note": "SMIC à 1 500 € net."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "note": "32 heures sans baisse de salaire."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "note": "Construction de 20 EPR (contre 14 prévus par le gouvernement)."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2
+        },
+        {
+          "questionId": "env-04",
+          "value": -1
+        },
+        {
+          "questionId": "env-06",
+          "value": 2
+        },
+        {
+          "questionId": "env-09",
+          "value": -1
+        },
+        {
+          "questionId": "env-11",
+          "value": 2
+        },
+        {
+          "questionId": "san-01",
+          "value": 2
+        },
+        {
+          "questionId": "san-02",
+          "value": 2
+        },
+        {
+          "questionId": "san-03",
+          "value": 2
+        },
+        {
+          "questionId": "san-06",
+          "value": -1
+        },
+        {
+          "questionId": "sec-01",
+          "value": -1
+        },
+        {
+          "questionId": "sec-08",
+          "value": 2
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2
+        },
+        {
+          "questionId": "ins-01",
+          "value": 1
+        },
+        {
+          "questionId": "ins-02",
+          "value": 1
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2
+        },
+        {
+          "questionId": "log-01",
+          "value": 2
+        },
+        {
+          "questionId": "log-02",
+          "value": 2
+        },
+        {
+          "questionId": "agr-01",
+          "value": 2
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2
+        },
+        {
+          "questionId": "def-04",
+          "value": 2
+        },
+        {
+          "questionId": "imm-01",
+          "value": -1
+        },
+        {
+          "questionId": "imm-04",
+          "value": 1
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2
+        },
+        {
+          "questionId": "num-02",
+          "value": -2
+        },
+        {
+          "questionId": "num-05",
+          "value": 2
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2
+        },
+        {
+          "questionId": "edu-05",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

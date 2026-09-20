@@ -1,0 +1,237 @@
+{
+  "candidateId": "faure",
+  "declarations": [
+    {
+      "id": "faure-2026-04-vivre-libre",
+      "date": "2026-04-15",
+      "title": "Projet du Parti socialiste « Vivre libre »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.parti-socialiste.fr/",
+      "publisher": "Parti socialiste",
+      "summary": "Taxe Zucman de 2 % au-delà de 100 M€ de patrimoine, taxe sur les très grands héritages, SMIC à 1 700 €, retraite à 62 ans, transfert des prélèvements du travail vers le capital (réforme des exonérations de cotisations), 39,5 Md€ de recettes nouvelles.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "note": "Retraite à 62 ans."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "note": "SMIC à 1 700 €."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2
+        },
+        {
+          "questionId": "tra-07",
+          "value": -1
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "note": "Taxe Zucman de 2 % sur les patrimoines supérieurs à 100 M€."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1
+        },
+        {
+          "questionId": "eco-01",
+          "value": -1
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2
+        },
+        {
+          "questionId": "imm-01",
+          "value": -1
+        },
+        {
+          "questionId": "imm-04",
+          "value": 1
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2
+        },
+        {
+          "questionId": "san-01",
+          "value": 1
+        },
+        {
+          "questionId": "san-05",
+          "value": 2
+        },
+        {
+          "questionId": "san-06",
+          "value": 1
+        },
+        {
+          "questionId": "san-02",
+          "value": 2
+        },
+        {
+          "questionId": "log-01",
+          "value": 2
+        },
+        {
+          "questionId": "log-02",
+          "value": 2
+        },
+        {
+          "questionId": "env-04",
+          "value": 1
+        },
+        {
+          "questionId": "env-05",
+          "value": 2
+        },
+        {
+          "questionId": "env-14",
+          "value": 2
+        },
+        {
+          "questionId": "env-11",
+          "value": 2
+        },
+        {
+          "questionId": "sec-01",
+          "value": -1
+        },
+        {
+          "questionId": "sec-05",
+          "value": 1
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1
+        },
+        {
+          "questionId": "num-02",
+          "value": -2
+        },
+        {
+          "questionId": "num-05",
+          "value": 2
+        },
+        {
+          "questionId": "lib-04",
+          "value": -1
+        },
+        {
+          "questionId": "lib-08",
+          "value": 2
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2
+        },
+        {
+          "questionId": "agr-01",
+          "value": 1
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": "faure-2026-08-candidature",
+      "date": "2026-08-30",
+      "title": "Candidature à la primaire « Choisir 2027 »",
+      "sourceType": "communique",
+      "sourceUrl": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "publisher": "LCP",
+      "summary": "Olivier Faure, premier secrétaire du PS, se porte candidat à la primaire du camp social-démocrate (9-10 et 16-17 octobre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    }
+  ]
+}
