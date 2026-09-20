@@ -73,9 +73,11 @@ export default function Methodology() {
       <section className="card">
         <h2>5. D'où viennent les positions</h2>
         <p>
-          Chaque position provient d'une <em>déclaration</em> : un document daté et sourcé (programme, vote, discours, entretien, article de presse).
-          Quand plusieurs déclarations portent sur la même question, la plus récente l'emporte. Les positions ne sont jamais saisies directement :
-          modifier une position, c'est ajouter ou corriger une déclaration, publiquement, dans le dépôt.
+          Chaque position provient d'une <em>déclaration</em> : un document officiel daté du ou de la candidat·e ou de son parti (programme, page de
+          propositions, discours ou communiqué publiés par eux, vote). Un article de presse ne peut pas fonder une position. Chaque position porte la
+          citation textuelle du passage qui la fonde ; quand la source traite d'une mesure voisine, la position est signalée « déduite ». Quand plusieurs
+          déclarations portent sur la même question, la plus récente l'emporte. Les positions ne sont jamais saisies directement : modifier une
+          position, c'est ajouter ou corriger une déclaration, publiquement, dans le dépôt.
         </p>
         <p>
           Version du jeu de données : <code>{dataset.version}</code> (empreinte SHA-256 des fichiers de données). Elle change dès qu'une virgule change.

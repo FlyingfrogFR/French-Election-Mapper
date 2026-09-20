@@ -1,5 +1,5 @@
 import { Link, useParams } from 'react-router-dom';
-import { PositionChip, ReviewBadge, StatusBadge } from '../components/Badges';
+import { InferredBadge, PositionChip, Quote, ReviewBadge, StatusBadge } from '../components/Badges';
 import { candidateById, dataset, questionsByTopic } from '../lib/dataset';
 import { formatDate } from '../lib/format';
 import { SOURCE_TYPE_LABELS } from '../lib/schema';
@@ -76,8 +76,10 @@ export default function CandidateDetail() {
                         <a href={p.sourceUrl} rel="noopener noreferrer">
                           {p.sourceTitle}
                         </a>{' '}
-                        · {SOURCE_TYPE_LABELS[p.sourceType]} · {formatDate(p.date)} · <ReviewBadge status={p.review} />
+                        {p.page && <> (p. {p.page})</>} · {SOURCE_TYPE_LABELS[p.sourceType]} · {formatDate(p.date)} · <ReviewBadge status={p.review} />{' '}
+                        <InferredBadge inferred={p.inferred} />
                       </p>
+                      <Quote text={p.quote} />
                       {p.note && <p className="note">{p.note}</p>}
                     </li>
                   );

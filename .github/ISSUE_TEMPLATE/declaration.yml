@@ -18,7 +18,7 @@ body:
     id: source
     attributes:
       label: Lien vers la source
-      description: Programme officiel, compte rendu de vote, discours, entretien, article de presse citant la personne.
+      description: Document officiel du ou de la candidat·e ou de son parti (programme, site de campagne, discours ou communiqué publié par eux, vote). Un article de presse ne suffit pas.
       placeholder: https://…
     validations:
       required: true

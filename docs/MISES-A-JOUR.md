@@ -23,12 +23,18 @@
   "quote": "Citation exacte, facultative.",
   "review": { "status": "pending", "reviewers": [], "reviewedOn": null },
   "positions": [
-    { "questionId": "env-02", "value": 2, "note": "Sortie du nucléaire en 2045." }
+    {
+      "questionId": "env-02",
+      "value": 2,
+      "quote": "Nous organiserons la sortie progressive du nucléaire d'ici 2045.",
+      "sourceUrl": "https://…/programme/energie",
+      "note": "Sortie du nucléaire en 2045."
+    }
   ]
 }
 ```
 
-3. `npm run data:validate` puis `npm run data:build` : l'empreinte change.
+3. `npm run data:validate` puis `npm run data:build` : l'empreinte change. La validation refuse une position sans `quote`, et toute position adossée à un article de presse (`sourceType: "presse"`) : seuls les documents officiels du ou de la candidat·e ou de son parti fondent une position.
 4. Ouvrir une pull request avec le gabarit ; cocher les cases.
 5. Une seconde personne relit la source et, si l'encodage est fidèle, passe `review` à `{"status":"verified","reviewers":["auteur","relecteur"],"reviewedOn":"AAAA-MM-JJ"}`.
 

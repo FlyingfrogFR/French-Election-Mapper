@@ -52,9 +52,12 @@ export function deriveDataset(raw: RawData, generatedAt: string): Dataset {
             declarationId: d.id,
             date: d.date,
             review: d.review.status,
-            sourceUrl: d.sourceUrl,
+            sourceUrl: p.sourceUrl ?? d.sourceUrl,
             sourceTitle: d.title,
             sourceType: d.sourceType,
+            ...(p.quote ? { quote: p.quote } : {}),
+            ...(p.page ? { page: p.page } : {}),
+            ...(p.inferred ? { inferred: true } : {}),
             ...(p.note ? { note: p.note } : {}),
           };
         }

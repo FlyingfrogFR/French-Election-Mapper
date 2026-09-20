@@ -55,7 +55,7 @@ const raw = (): RawData => ({
           publisher: 'p',
           summary: 'new summary',
           review: { status: 'pending', reviewers: [], reviewedOn: null },
-          positions: [{ questionId: 'eco-01', value: 2 }],
+          positions: [{ questionId: 'eco-01', value: 2, quote: 'Nous ferons ceci.', sourceUrl: 'https://example.org/new/page-3', page: '3', inferred: true }],
         },
       ],
     },
@@ -66,7 +66,16 @@ describe('deriveDataset', () => {
   it('lets the most recent declaration win for each question and keeps provenance', () => {
     const ds = deriveDataset(raw(), '2026-09-20T00:00:00Z');
     const x = ds.candidates[0];
-    expect(x.positions['eco-01']).toMatchObject({ value: 2, declarationId: 'x-new', review: 'pending', sourceUrl: 'https://example.org/new' });
+    expect(x.positions['eco-01']).toMatchObject({
+      value: 2,
+      declarationId: 'x-new',
+      review: 'pending',
+      sourceUrl: 'https://example.org/new/page-3',
+      quote: 'Nous ferons ceci.',
+      page: '3',
+      inferred: true,
+    });
+    expect(x.positions['eco-02'].sourceUrl).toBe('https://example.org/old');
     expect(x.positions['eco-02']).toMatchObject({ value: 1, declarationId: 'x-old', review: 'verified' });
     expect(x.lastUpdated).toBe('2026-06-01');
     expect(x.stats).toEqual({ known: 2, verified: 1, pending: 1, disputed: 0, declarations: 2 });

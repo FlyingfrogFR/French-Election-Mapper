@@ -193,6 +193,9 @@ button.link { background: none; border: none; padding: 0; color: var(--accent); 
 .chip.v0 { background: var(--v0); }
 .chip.v1 { background: var(--v1); }
 .chip.v2 { background: var(--v2); }
+.quote { margin: 4px 0; padding: 4px 10px; border-left: 3px solid var(--accent); color: var(--text); font-size: 0.88rem; font-style: italic; background: var(--accent-soft); border-radius: 0 6px 6px 0; }
+.compare .quote { font-size: 0.8rem; }
+.badge.inferred { background: var(--warn-soft); color: var(--warn); border-color: var(--warn); }
 .chip.unknown { background: transparent; color: var(--muted); border: 1px dashed var(--border); }
 
 /* Candidates */

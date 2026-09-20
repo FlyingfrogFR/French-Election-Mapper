@@ -105,6 +105,13 @@ export const REVIEW_STATUS_LABELS: Record<ReviewStatus, string> = {
 export const DeclarationPositionSchema = z.object({
   questionId: z.string(),
   value: z.union([z.literal(-2), z.literal(-1), z.literal(0), z.literal(1), z.literal(2)]),
+  /** Verbatim excerpt of the source that grounds this position. Required for any position added since the official-programme audit. */
+  quote: z.string().min(8).optional(),
+  /** Exact page of the source when it differs from the declaration's sourceUrl (sub-page, PDF page…). */
+  sourceUrl: z.string().url().optional(),
+  page: z.string().optional(),
+  /** True when the source addresses a neighbouring measure and the position on the statement is deduced from it. */
+  inferred: z.boolean().optional(),
   note: z.string().optional(),
 });
 
@@ -144,9 +151,13 @@ export interface DerivedPosition {
   declarationId: string;
   date: string;
   review: ReviewStatus;
+  /** Exact page grounding the position (position-level override, else the declaration's URL). */
   sourceUrl: string;
   sourceTitle: string;
   sourceType: (typeof SOURCE_TYPES)[number];
+  quote?: string;
+  page?: string;
+  inferred?: boolean;
   note?: string;
 }
 

@@ -11,7 +11,8 @@
 
 ## Si des données changent (obligatoire)
 
-- [ ] Chaque position ajoutée cite une source publique datée (URL dans `sourceUrl`) où **la personne elle-même** prend position.
+- [ ] Chaque position ajoutée s'appuie sur un **document officiel** du ou de la candidat·e ou de son parti (programme, site de campagne, discours ou communiqué publié par eux, vote) — jamais un article de presse ni un comparateur tiers.
+- [ ] Chaque position porte la **citation textuelle** (`quote`) du passage qui la fonde et l'URL exacte de la page.
 - [ ] Le résumé (`summary`) et les notes sont fidèles à la source, sans interprétation.
 - [ ] Le statut de relecture reste `pending` : seul·e un·e second·e relecteur·rice, qui n'est pas l'auteur·rice, le passera à `verified` (avec au moins deux noms dans `reviewers` et une date).
 - [ ] `npm run data:validate` passe.

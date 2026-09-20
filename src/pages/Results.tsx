@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Bar, PositionChip, ReviewBadge, StatusBadge } from '../components/Badges';
+import { Bar, InferredBadge, PositionChip, Quote, ReviewBadge, StatusBadge } from '../components/Badges';
 import { ANSWER_LABELS } from '../components/ScaleInput';
 import { candidateById, dataset, questionsByTopic } from '../lib/dataset';
 import { buildAnonymousPayload, feedbackEndpoint, sendAnonymousFeedback } from '../lib/feedback';
@@ -337,7 +337,8 @@ export default function Results() {
                                     <a href={p.sourceUrl} rel="noopener noreferrer">
                                       source
                                     </a>{' '}
-                                    · {formatDate(p.date)} · <ReviewBadge status={p.review} />
+                                    · {formatDate(p.date)} · <ReviewBadge status={p.review} /> <InferredBadge inferred={p.inferred} />
+                                    <Quote text={p.quote} />
                                     {p.note && <div className="note">{p.note}</div>}
                                   </div>
                                 )}

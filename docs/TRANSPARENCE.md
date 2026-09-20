@@ -4,7 +4,7 @@ L'engagement « aucune déformation » repose sur des mécanismes vérifiables, 
 
 ## 1. Chaque position a une provenance
 
-Aucune position n'est saisie directement. Elle est dérivée d'une déclaration (`data/declarations/`) qui porte : une date, une URL, un type de source, un résumé, un statut de relecture. L'interface affiche cette provenance sur chaque position (page candidat, comparaison question par question).
+Aucune position n'est saisie directement. Elle est dérivée d'une déclaration (`data/declarations/`) adossée à un document officiel du ou de la candidat·e ou de son parti, qui porte : une date, une URL, un type de source, un résumé, un statut de relecture — et, pour chaque position, la citation textuelle du passage qui la fonde. L'interface affiche cette provenance et cette citation sur chaque position (page candidat, comparaison question par question). Un article de presse ne peut pas fonder une position : la validation automatique le refuse.
 
 ## 2. Le calcul est public et testé
 

@@ -17,6 +17,20 @@ export function PositionChip({ value }: { value: PositionValue | null }) {
   return <span className={`chip v${value}`}>{POSITION_LABELS[value]}</span>;
 }
 
+export function Quote({ text }: { text?: string }) {
+  if (!text) return null;
+  return <blockquote className="quote">« {text.replace(/^[«"\s]+|[»"\s]+$/g, '')} »</blockquote>;
+}
+
+export function InferredBadge({ inferred }: { inferred?: boolean }) {
+  if (!inferred) return null;
+  return (
+    <span className="badge inferred" title="La source traite d'une mesure voisine ; la position sur cette affirmation en est déduite.">
+      Position déduite
+    </span>
+  );
+}
+
 export function Bar({ value, label }: { value: number | null; label?: string }) {
   const pct = value === null ? 0 : Math.round(value * 100);
   return (

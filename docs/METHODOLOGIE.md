@@ -63,9 +63,9 @@ Interprétation : un indice faible signifie que le résultat pourrait basculer a
 
 Les positions sont **dérivées** au moment de la construction du site (`scripts/lib/derive.ts`) à partir de `data/declarations/*.json` :
 
-1. chaque déclaration est datée, sourcée et liste les questions qu'elle renseigne ;
+1. chaque déclaration est datée, sourcée (document officiel du ou de la candidat·e ou de son parti) et liste les questions qu'elle renseigne, chacune avec l'extrait textuel qui la fonde ;
 2. pour chaque candidat·e et chaque question, la déclaration la plus récente l'emporte ;
-3. la provenance (identifiant, date, URL, statut de relecture) est conservée avec la position et affichée dans l'interface.
+3. la provenance (identifiant, date, URL exacte, citation, statut de relecture, mention « déduite » le cas échéant) est conservée avec la position et affichée dans l'interface.
 
 Le jeu de données porte une empreinte SHA-256 (12 caractères) calculée sur le JSON canonique de `data/`. Elle est affichée en pied de page et publiée dans `data/VERSION`.
 
