@@ -1,4 +1,5 @@
 node_modules/
+.cache/
 dist/
 coverage/
 # Generated at build time from data/ (see scripts/build-dataset.ts)

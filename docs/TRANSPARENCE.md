@@ -48,8 +48,17 @@ pour chaque position la citation textuelle du passage qui la fonde. La reprise a
 - **écarté** les déclarations d'autres responsables d'un parti : seule la parole du ou de la
   candidat·e engage sa position.
 
-Les citations sont vérifiées automatiquement : un script recherche chaque citation dans le texte
-extrait du document officiel cité et signale toute citation absente ou approximative.
+Les citations sont vérifiées automatiquement, et vous pouvez refaire cette vérification vous-même :
+
+```bash
+npm run data:check-quotes                        # toutes les positions
+npm run data:check-quotes -- --candidate=melenchon
+```
+
+Le script télécharge chaque source citée (page web ou PDF), la normalise et cherche la citation.
+Il échoue si une citation est introuvable dans la source. Une source peut être signalée « injoignable »
+lorsque son éditeur bloque les téléchargements automatisés : cela ne veut pas dire que la citation est
+fausse, mais que la vérification doit être refaite à la main.
 
 ## 8. Licences
 
