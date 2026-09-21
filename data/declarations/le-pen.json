@@ -2,581 +2,6 @@
   "candidateId": "le-pen",
   "declarations": [
     {
-      "id": "le-pen-2022-programme",
-      "date": "2022-03-01",
-      "title": "Projet présidentiel 2022 de Marine Le Pen (« M la France »)",
-      "sourceType": "programme",
-      "sourceUrl": "https://rassemblementnational.fr/",
-      "publisher": "Rassemblement national",
-      "summary": "Programme de la candidate RN à l'élection de 2022 (22 mesures phares et livrets thématiques). Base de référence en attendant le programme 2027, annoncé comme « en construction ».",
-      "review": {
-        "status": "pending",
-        "reviewers": [],
-        "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
-      },
-      "positions": [
-        {
-          "questionId": "tra-01",
-          "value": 2
-        },
-        {
-          "questionId": "tra-02",
-          "value": 1,
-          "note": "Retraite à 60 ans pour les carrières commencées avant 20 ans, 62 ans sinon."
-        },
-        {
-          "questionId": "tra-03",
-          "value": -2
-        },
-        {
-          "questionId": "tra-04",
-          "value": -1
-        },
-        {
-          "questionId": "tra-07",
-          "value": 1
-        },
-        {
-          "questionId": "tra-08",
-          "value": 2
-        },
-        {
-          "questionId": "tra-13",
-          "value": 2
-        },
-        {
-          "questionId": "eco-01",
-          "value": 1
-        },
-        {
-          "questionId": "eco-02",
-          "value": 0,
-          "note": "Remplacement de l'IFI par un « impôt sur la fortune financière » : position mitigée sur un ISF classique."
-        },
-        {
-          "questionId": "eco-04",
-          "value": 2
-        },
-        {
-          "questionId": "eco-05",
-          "value": 2,
-          "note": "TVA à 5,5 % sur l'énergie et les carburants."
-        },
-        {
-          "questionId": "eco-06",
-          "value": 1
-        },
-        {
-          "questionId": "eco-09",
-          "value": 2
-        },
-        {
-          "questionId": "eco-12",
-          "value": 2
-        },
-        {
-          "questionId": "eco-10",
-          "value": -1
-        },
-        {
-          "questionId": "soc-01",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": 2
-        },
-        {
-          "questionId": "soc-04",
-          "value": 2
-        },
-        {
-          "questionId": "soc-06",
-          "value": 2
-        },
-        {
-          "questionId": "soc-07",
-          "value": 1
-        },
-        {
-          "questionId": "soc-08",
-          "value": 2
-        },
-        {
-          "questionId": "soc-09",
-          "value": 1
-        },
-        {
-          "questionId": "san-01",
-          "value": -1
-        },
-        {
-          "questionId": "san-02",
-          "value": 1
-        },
-        {
-          "questionId": "san-05",
-          "value": -1
-        },
-        {
-          "questionId": "san-06",
-          "value": -2
-        },
-        {
-          "questionId": "edu-01",
-          "value": 2
-        },
-        {
-          "questionId": "edu-03",
-          "value": 1
-        },
-        {
-          "questionId": "edu-04",
-          "value": -1
-        },
-        {
-          "questionId": "edu-08",
-          "value": 2
-        },
-        {
-          "questionId": "edu-09",
-          "value": -1
-        },
-        {
-          "questionId": "edu-10",
-          "value": 1
-        },
-        {
-          "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "env-02",
-          "value": -2
-        },
-        {
-          "questionId": "env-03",
-          "value": 2
-        },
-        {
-          "questionId": "env-04",
-          "value": -2
-        },
-        {
-          "questionId": "env-05",
-          "value": -2
-        },
-        {
-          "questionId": "env-06",
-          "value": 2
-        },
-        {
-          "questionId": "env-07",
-          "value": 2
-        },
-        {
-          "questionId": "env-08",
-          "value": -2
-        },
-        {
-          "questionId": "env-09",
-          "value": 2
-        },
-        {
-          "questionId": "env-10",
-          "value": -1
-        },
-        {
-          "questionId": "env-12",
-          "value": -2
-        },
-        {
-          "questionId": "env-13",
-          "value": 1
-        },
-        {
-          "questionId": "env-14",
-          "value": -1
-        },
-        {
-          "questionId": "imm-01",
-          "value": 2
-        },
-        {
-          "questionId": "imm-02",
-          "value": 2,
-          "note": "Référendum sur l'immigration révisant la Constitution."
-        },
-        {
-          "questionId": "imm-03",
-          "value": 2
-        },
-        {
-          "questionId": "imm-04",
-          "value": -2
-        },
-        {
-          "questionId": "imm-05",
-          "value": 2
-        },
-        {
-          "questionId": "imm-06",
-          "value": -2
-        },
-        {
-          "questionId": "imm-07",
-          "value": 2
-        },
-        {
-          "questionId": "imm-08",
-          "value": 2
-        },
-        {
-          "questionId": "imm-09",
-          "value": -1
-        },
-        {
-          "questionId": "imm-10",
-          "value": 2,
-          "note": "Priorité nationale (emploi, logement social, prestations) inscrite dans la Constitution."
-        },
-        {
-          "questionId": "imm-11",
-          "value": 2
-        },
-        {
-          "questionId": "imm-12",
-          "value": -2
-        },
-        {
-          "questionId": "imm-13",
-          "value": 2
-        },
-        {
-          "questionId": "sec-01",
-          "value": 2
-        },
-        {
-          "questionId": "sec-02",
-          "value": 2
-        },
-        {
-          "questionId": "sec-03",
-          "value": 2
-        },
-        {
-          "questionId": "sec-04",
-          "value": 2
-        },
-        {
-          "questionId": "sec-05",
-          "value": -2
-        },
-        {
-          "questionId": "sec-06",
-          "value": 2
-        },
-        {
-          "questionId": "sec-07",
-          "value": 1
-        },
-        {
-          "questionId": "sec-08",
-          "value": 1
-        },
-        {
-          "questionId": "sec-09",
-          "value": 2
-        },
-        {
-          "questionId": "sec-10",
-          "value": 2
-        },
-        {
-          "questionId": "sec-11",
-          "value": 2
-        },
-        {
-          "questionId": "sec-12",
-          "value": 1
-        },
-        {
-          "questionId": "sec-13",
-          "value": 2
-        },
-        {
-          "questionId": "ins-01",
-          "value": -2
-        },
-        {
-          "questionId": "ins-02",
-          "value": 2
-        },
-        {
-          "questionId": "ins-03",
-          "value": 2
-        },
-        {
-          "questionId": "ins-04",
-          "value": 1
-        },
-        {
-          "questionId": "ins-05",
-          "value": 1
-        },
-        {
-          "questionId": "ins-06",
-          "value": 1
-        },
-        {
-          "questionId": "ins-07",
-          "value": 2
-        },
-        {
-          "questionId": "ins-09",
-          "value": -2
-        },
-        {
-          "questionId": "eur-01",
-          "value": 1,
-          "note": "Abandon du projet de sortie de l'UE ; « Europe des nations »."
-        },
-        {
-          "questionId": "eur-02",
-          "value": 2
-        },
-        {
-          "questionId": "eur-03",
-          "value": -2
-        },
-        {
-          "questionId": "eur-05",
-          "value": -2,
-          "note": "Sortie du commandement intégré de l'OTAN."
-        },
-        {
-          "questionId": "eur-06",
-          "value": -2
-        },
-        {
-          "questionId": "eur-07",
-          "value": 2
-        },
-        {
-          "questionId": "eur-08",
-          "value": -2
-        },
-        {
-          "questionId": "eur-09",
-          "value": 2
-        },
-        {
-          "questionId": "eur-11",
-          "value": -1
-        },
-        {
-          "questionId": "eur-12",
-          "value": 2
-        },
-        {
-          "questionId": "eur-13",
-          "value": -2
-        },
-        {
-          "questionId": "def-01",
-          "value": 1
-        },
-        {
-          "questionId": "def-02",
-          "value": -2
-        },
-        {
-          "questionId": "def-04",
-          "value": 2
-        },
-        {
-          "questionId": "log-01",
-          "value": -2
-        },
-        {
-          "questionId": "log-02",
-          "value": -1
-        },
-        {
-          "questionId": "log-03",
-          "value": 1
-        },
-        {
-          "questionId": "log-04",
-          "value": -2
-        },
-        {
-          "questionId": "log-05",
-          "value": 2
-        },
-        {
-          "questionId": "log-07",
-          "value": 2
-        },
-        {
-          "questionId": "log-09",
-          "value": 2
-        },
-        {
-          "questionId": "agr-01",
-          "value": 1
-        },
-        {
-          "questionId": "agr-02",
-          "value": 2
-        },
-        {
-          "questionId": "agr-04",
-          "value": 2
-        },
-        {
-          "questionId": "agr-05",
-          "value": -1
-        },
-        {
-          "questionId": "agr-06",
-          "value": -2
-        },
-        {
-          "questionId": "agr-07",
-          "value": 2
-        },
-        {
-          "questionId": "agr-08",
-          "value": -1
-        },
-        {
-          "questionId": "num-01",
-          "value": 1
-        },
-        {
-          "questionId": "num-02",
-          "value": 2,
-          "note": "Privatisation de l'audiovisuel public."
-        },
-        {
-          "questionId": "num-03",
-          "value": 1
-        },
-        {
-          "questionId": "num-05",
-          "value": -1
-        },
-        {
-          "questionId": "lib-01",
-          "value": 2
-        },
-        {
-          "questionId": "lib-02",
-          "value": 2
-        },
-        {
-          "questionId": "lib-03",
-          "value": -2
-        },
-        {
-          "questionId": "lib-04",
-          "value": 2
-        },
-        {
-          "questionId": "lib-05",
-          "value": 2
-        },
-        {
-          "questionId": "lib-06",
-          "value": -2
-        },
-        {
-          "questionId": "lib-07",
-          "value": 2
-        },
-        {
-          "questionId": "lib-09",
-          "value": 1
-        },
-        {
-          "questionId": "lib-10",
-          "value": 2
-        },
-        {
-          "questionId": "lib-11",
-          "value": -1
-        }
-      ]
-    },
-    {
-      "id": "le-pen-2026-07-retraites-ppl",
-      "date": "2026-07-01",
-      "title": "Proposition de loi du groupe RN sur l'âge de départ à la retraite",
-      "sourceType": "vote",
-      "sourceUrl": "https://votons-2027.fr/candidats/le-pen/programme/retraite",
-      "publisher": "Comparateur Votons 2027 (source secondaire)",
-      "summary": "Le groupe RN à l'Assemblée a déposé une proposition de loi fixant l'âge de départ à 60 ans pour les personnes ayant commencé à travailler avant 20 ans, avec une progressivité jusqu'à 62 ans.",
-      "review": {
-        "status": "pending",
-        "reviewers": [],
-        "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
-      },
-      "positions": [
-        {
-          "questionId": "tra-01",
-          "value": 2
-        },
-        {
-          "questionId": "tra-02",
-          "value": 1
-        },
-        {
-          "questionId": "tra-03",
-          "value": -2
-        }
-      ]
-    },
-    {
-      "id": "le-pen-2026-07-orientations",
-      "date": "2026-07-16",
-      "title": "Orientations programmatiques 2027 rapportées par la presse (programme « en construction »)",
-      "sourceType": "presse",
-      "sourceUrl": "https://www.elyseescope.com/le-radar/programme-marine-le-pen-2027",
-      "publisher": "ÉlyséeScope (source secondaire)",
-      "summary": "Baisse des visas et renforcement des contrôles aux frontières ; baisses d'impôts pour les classes populaires et moyennes ; encadrement des prix des produits de première nécessité ; maintien d'un parc nucléaire important ; suppression de l'AME remplacée par une aide d'urgence vitale.",
-      "review": {
-        "status": "pending",
-        "reviewers": [],
-        "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
-      },
-      "positions": [
-        {
-          "questionId": "imm-01",
-          "value": 2
-        },
-        {
-          "questionId": "eco-07",
-          "value": 1
-        },
-        {
-          "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": 2
-        },
-        {
-          "questionId": "eco-10",
-          "value": -1
-        }
-      ]
-    },
-    {
       "id": "le-pen-2026-07-candidature",
       "date": "2026-07-07",
       "title": "Confirmation de candidature après l'arrêt de la cour d'appel de Paris",
@@ -591,6 +16,1100 @@
         "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
       },
       "positions": []
+    },
+    {
+      "id": "le-pen-livret-entreprise",
+      "date": "2024-01-01",
+      "title": "La France entreprend — Projet de Marine Le Pen",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+      "publisher": "Groupe Rassemblement National à l'Assemblée nationale",
+      "summary": "Livret économique : « Ce livret est la version 2022 du programme présidentiel de Marine Le Pen mis à jour et servira de base de travail en vue des prochaines échéances électorales nationales. » (Date du document : 2024 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Cette disposition, inspirée du pacte Dutreil, sera élargie au secteur agricole ainsi qu'à tous les secteurs dont le maintien de la production en France est jugé critique par la puissance publique.",
+          "note": "Suppression de la fiscalité sur les transmissions d'entreprises en contrepartie d'une détention d'au moins dix ans, étendue à l'agriculture."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 1,
+          "quote": "Le programme du Rassemblement national prévoit un grand plan de réduction de la dépense publique afin de faire baisser le taux de prélèvements obligatoires de 46 à 40 % du PIB à moyen terme.",
+          "note": "Priorité donnée à la baisse des dépenses, mais l'objectif affiché est la baisse des prélèvements : « un tiers des économies ira à la réduction des déficits » ; aucune cible de 3 % du PIB."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 0,
+          "quote": "Cet impôt, à rebours de l'objectif de rendement et de « punition fiscale » qui caractérisait l'ISF, vise à encourager la mobilisation, au service de l'économie réelle, de l'épargne financière aujourd'hui improductive.",
+          "note": "L'IFF remplace l'IFI et ne porte que sur le patrimoine financier : la résidence principale, les biens professionnels et les œuvres d'art détenues depuis dix ans sont exclus."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Notre objectif consistera à ramener les impôts de production au niveau moyen européen, dès le premier quinquennat de Marine Le Pen.",
+          "note": "Suppression de la CFE et de la C3S ; le contre-budget 2026 y ajoute la suppression totale de la CVAE."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Sécurisé par ces actifs sans risque, le fonds pourra notamment contribuer au financement des investissements stratégiques pour la Nation, comme la transition écologique et énergétique, la réindustrialisation, ou le soutien aux fonds propres des entreprises à fort potentiel.",
+          "note": "Complété par la priorité nationale dans la commande publique et une taxe carbone aux frontières européennes (programme européen 2024)."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 1,
+          "quote": "Nous pérenniserons les financements avec un chèque apprentissage/alternance bénéficiant à parts égales aux jeunes et aux entreprises.",
+          "note": "Maintien des aides, mais recentrage sur les filières prioritaires ; le contre-budget 2026 réserve les chèques apprentissage aux étudiants avant la licence (1,6 Md€ d'économies)."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Ce plan prévoit notamment la prolongation des réacteurs actuels et leur optimisation (« power up »), le développement de 20 EPR2 d'ici 2045, ainsi que le lancement sans délai d'une filière de SMR et de réacteurs de 4e génération."
+        },
+        {
+          "questionId": "eur-11",
+          "value": -1,
+          "quote": "Le Rassemblement national souhaite ajouter aux objectifs de la politique monétaire de la BCE des critères de plein emploi et de soutien à la productivité, avec une égale priorité.",
+          "inferred": true,
+          "note": "Aucun document ne propose de sortir de l'euro ; la stratégie consiste à négocier une réforme du mandat de la BCE de l'intérieur."
+        },
+        {
+          "questionId": "tra-04",
+          "value": -1,
+          "quote": "Permettre aux entreprises d'augmenter les salaires de 10 % en les exonérant de l'augmentation des cotisations sociales pendant trois à cinq ans",
+          "inferred": true,
+          "note": "La hausse des salaires passe par une incitation aux entreprises et non par un coup de pouce au SMIC ; la seule mesure légale prévue est d'interdire les salaires de branche inférieurs au SMIC."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -1,
+          "quote": "Conscients de l'importance de la sécurité juridique pour les entreprises, nous stabiliserons la législation relative au temps de travail, y compris les dispositifs de défiscalisation et de désocialisation des heures supplémentaires.",
+          "inferred": true,
+          "note": "Stabilisation et non assouplissement de la durée légale ; les 35 heures seront au contraire « strictement appliquées » dans la fonction publique."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "Stabiliser la législation sur le temps de travail, notamment concernant la rémunération des heures supplémentaires",
+          "note": "Maintien des dispositifs actuels de défiscalisation et de désocialisation des heures supplémentaires, sans exonération totale nouvelle."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -1,
+          "quote": "Pour remédier à cette situation tout en préservant le modèle par répartition, notre réforme indexera les deux paramètres de notre système de retraite (âge d'ouverture des droits et durée de cotisation) sur l'âge d'entrée dans un emploi stable.",
+          "inferred": true,
+          "note": "La réforme est explicitement adossée à la répartition ; aucune part de capitalisation n'est proposée dans le système de retraite."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-prog-2024-leg",
+      "date": "2024-06-01",
+      "title": "Un projet, une méthode — élections législatives anticipées des 30 juin et 7 juillet 2024",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Programme législatif 2024, explicitement placé « dans la continuité du programme présidentiel de 2022 de Marine Le Pen ». (Date du document : 2024-06 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "Préserver la souveraineté pleine et entière sur notre dissuasion nucléaire et garantir notre modèle d'armée complet",
+          "note": "Le programme européen range « une diplomatie et une défense européennes, dont la dépossession de notre dissuasion nucléaire » parmi les politiques refusées."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Supprimer les impôts sur l'héritage direct pour les familles modestes et les classes moyennes"
+        },
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Renoncer à l'interdiction de la vente des voitures à moteur thermique à l'horizon 2035 et inciter les constructeurs français à développer des véhicules propres abordables"
+        },
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Supprimer les Zones à Faibles Emissions"
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Abroger toutes les interdictions et obligations liées aux DPE (travaux, mise en location...) et mettre en place un accompagnement pragmatique des rénovations de logements en lien avec les professionnels"
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Refuser tout transfert de compétences vers l'Union européenne dans les domaines de la défense et de la diplomatie, favoriser une préférence européenne dans les achats militaires effectués par les États européens"
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Restriction du regroupement familial par le durcissement des conditions (emploi stable, ressources précisément définies, etc.)"
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Suppression du droit du sol",
+          "note": "Le projet référendaire prévoit la transmission de la nationalité « pour l'essentiel » par filiation et la fin de l'acquisition automatique par le mariage."
+        },
+        {
+          "questionId": "imm-07",
+          "value": 2,
+          "quote": "Instaurer l'obligation de dépôt des demandes d'asile dans les ambassades et consulats"
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Instaurer dans la Constitution un RIC législatif",
+          "note": "Revendication toujours affichée sur la page d'accueil du RN en septembre 2026 (« Pour le RIC »)."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Simplifier drastiquement le millefeuille territorial pour réduire la dépense et rendre du pouvoir aux élus de proximité",
+          "note": "Simplification annoncée sans précision sur une fusion départements/régions ; le contre-budget 2026 supprime les CESER."
+        },
+        {
+          "questionId": "num-02",
+          "value": 2,
+          "quote": "Privatiser l'audiovisuel public",
+          "note": "Les 22 mesures lient la privatisation à la suppression de la redevance ; le contre-budget 2026 baisse la dotation à l'audiovisuel public."
+        },
+        {
+          "questionId": "san-06",
+          "value": -2,
+          "quote": "Durcir la lutte contre le trafic et la consommation de drogue",
+          "inferred": true,
+          "note": "Aucun document ne traite du cannabis récréatif ; le programme propose au contraire de durcir la répression de la consommation."
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Augmenter le nombre d'étudiants en médecine (fin du numerus apertus)",
+          "note": "Le livret santé prévoit aussi d'« ouvrir un nombre de places suffisantes dans les facultés de médecine » et 10 000 places d'IFSI supplémentaires."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "Réformer une partie de la justice des mineurs (abaissement de la majorité pénale à 16 ans, possibilité de comparution immédiate...)"
+        },
+        {
+          "questionId": "sec-13",
+          "value": 2,
+          "quote": "Durcir la lutte contre le trafic et la consommation de drogue"
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Réserver les allocations familiales aux Français et conditionner à 5 années de travail en France l'accès aux prestations sociales non-contributives comme le RSA (si nécessaire par référendum constitutionnel)"
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif, qui incite les jeunes à entrer de manière précoce sur le marché du travail et prend en compte la pénibilité réelle des emplois faiblement qualifiés"
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Annulation de la réforme de l'assurance chômage de juillet 2024",
+          "note": "Mesure d'urgence par décret dès juillet 2024 : la réforme qui réduisait la durée d'indemnisation devait être annulée."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-22-mesures",
+      "date": "2022-01-01",
+      "title": "22 mesures pour 2022",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/22-mesures",
+      "publisher": "Rassemblement National",
+      "summary": "Page toujours en ligne en septembre 2026 sous la rubrique « Le projet », présentée comme « l'intégralité du programme de Marine Le Pen pour la France ». (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Porter le budget de la défense à 55 milliards d'euros à l'horizon 2027.",
+          "note": "55 Md€ représentent environ 2 % du PIB, en deçà des 3 % visés par l'énoncé ; le programme 2024 se borne à « sanctuariser la trajectoire budgétaire de la Loi de Programmation Militaire »."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 2,
+          "quote": "Baisser la TVA de 20% à 5.5% sur les produits énergétiques (carburants, fioul, gaz et électricité) en tant que biens de première nécessité."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Sortir du marché européen de l'électricité pour retrouver des prix décents."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 2,
+          "quote": "Expulser systématiquement les clandestins, délinquants et criminels étrangers.",
+          "inferred": true,
+          "note": "Expulsion systématique et immédiate ; la rétention systématique n'est pas nommée, mais le projet référendaire prévoit expressément le contentieux des mesures « plaçant en rétention » les étrangers en instance d'éloignement."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Instaurer le Référendum d'Initiative Citoyenne et mettre en place la proportionnelle."
+        },
+        {
+          "questionId": "log-08",
+          "value": 1,
+          "quote": "Créer un Fonds de Garantie des Loyers pour protéger les propriétaires.",
+          "note": "Fonds public de garantie des loyers, présenté comme protégeant les propriétaires et non comme une garantie universelle bénéficiant aussi aux locataires."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Rétablir les peines planchers pour que tout criminel et délinquant aient une sanction."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Supprimer toute possibilité de réduction et d'aménagements de peine, en particulier pour les violences contre les personnes."
+        },
+        {
+          "questionId": "sec-10",
+          "value": 2,
+          "quote": "Instituer une présomption de légitime défense pour les forces de l'ordre."
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2,
+          "quote": "Établir une perpétuité réelle.",
+          "note": "Le livret sécurité précise que pour les condamnations à perpétuité « une libération conditionnelle ne pourra intervenir qu'après une commutation de la peine par grâce »."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2,
+          "quote": "Réindexer les retraites sur l'inflation pour un pouvoir d'achat respectueux d'une vie de travail.",
+          "note": "Le contre-budget 2026 chiffre « l'indexation des retraites et le dégel des prestations » à 3,61 Md€."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 1,
+          "quote": "Revaloriser le minimum vieillesse à 1 000 € par mois et augmenter les petites retraites.",
+          "note": "Cible de 1 000 € par mois, inférieure au SMIC ; aucune garantie explicite d'une pension au niveau du SMIC pour une carrière complète."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Refuser tout allongement de l'âge de départ à la retraite."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "Permettre aux entreprises une hausse des salaires de 10% (jusqu'à 3 smic) en exonérant cette augmentation de cotisations patronales.",
+          "note": "Exonération ciblée, conditionnée à une hausse de salaire et plafonnée à 3 SMIC ; ce n'est pas une baisse générale des cotisations patronales sur les bas salaires."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-contre-budget-2026",
+      "date": "2025-10-23",
+      "title": "Contre-budget 2026 du groupe Rassemblement National",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "publisher": "Groupe Rassemblement National à l'Assemblée nationale",
+      "summary": "Présenté en conférence de presse le 23 octobre 2025 ; document budgétaire officiel le plus récent, diffusé par le RN sous la rubrique « Le projet ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "Taxe sur les superdividendes. CVEC affectée au budget général. Taxe sur les rachats d'actions.",
+          "note": "Contre-budget 2026 : 0,75 Md€ de taxe sur les superdividendes et 8,4 Md€ de taxe sur les rachats d'actions ; le livret économique prévoit en outre de taxer à 33 % les « profits exorbitants » de crise."
+        },
+        {
+          "questionId": "edu-05",
+          "value": -1,
+          "quote": "Hausse des frais de scolarité des étudiants étrangers sauf conventions interétatiques",
+          "inferred": true,
+          "note": "Hausse des frais visant les seuls étudiants étrangers ; aucun document ne propose de relever les frais pour les étudiants français."
+        },
+        {
+          "questionId": "env-10",
+          "value": -1,
+          "quote": "Suppression de la hausse de 2025 des taxes sur le secteur aérien",
+          "inferred": true,
+          "note": "Aucune interdiction de vols intérieurs n'est proposée ; le programme défend la mobilité et allège la fiscalité du transport aérien."
+        },
+        {
+          "questionId": "eur-10",
+          "value": -2,
+          "quote": "Baisse de l'Aide Publique au Développement.",
+          "note": "Contre-budget 2026 : 2,3 Md€ d'économies au titre de la « rationalisation de l'Aide Publique au Développement »."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-manifeste-2022",
+      "date": "2022-03-01",
+      "title": "Manifeste de Marine Le Pen, candidate à la présidence de la République (« M la France »)",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20220325180640id_/https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "publisher": "Campagne présidentielle de Marine Le Pen (mlafrance.fr)",
+      "summary": "Manifeste présidentiel 2022, 36 pages. Copie archivée : le site de campagne mlafrance.fr n'est plus en ligne. (Date du document : 2022-03 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Je souhaite que ce soient les services de l'État qui constituent le recours direct pour valider des prix minimums en cas de litiges lors des négociations commerciales",
+          "note": "Le livret économique prévoit « une intervention de l'État dans l'élaboration des indices utilisés pour fixer des prix garantis »."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "L'intégralité des activités hydroélectriques sera maintenue dans le giron public et contrôlée par EDF.",
+          "note": "Les 22 mesures prévoient par ailleurs de « renationaliser les autoroutes », première utilisation du fonds souverain."
+        },
+        {
+          "questionId": "edu-03",
+          "value": 2,
+          "quote": "vérification du niveau à l'issue du primaire qui débouche sur des classes de niveau dès le début du collège, permettant une adaptation des enseignements aux besoins réels des différents publics",
+          "note": "Modèle suisse revendiqué, avec suppression du collège unique et orientation précoce."
+        },
+        {
+          "questionId": "edu-06",
+          "value": -1,
+          "quote": "un Service national du patrimoine, ouvert aux jeunes de 18 à 24 ans, d'une durée de six mois renouvelables une fois, chargé d'oeuvrer à la restauration, à la protection et à la valorisation de notre patrimoine bâti mais aussi naturel sera mis en place sur la base du volontariat",
+          "inferred": true,
+          "note": "Le seul service national proposé est volontaire et patrimonial ; aucun service national universel obligatoire n'est prévu."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Mon ambition n'est pas seulement de préserver le nucléaire français, elle est d'en faire le pivot de notre politique énergétique, pour le plus grand bien des consommateurs et de la lutte contre le réchauffement climatique."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Pour rendre le premier principe concret, le référendum modifiera un certain nombre d'articles de notre Constitution afin d'intégrer la question migratoire à notre texte suprême",
+          "note": "Référendum annoncé « dans les six mois de l'élection présidentielle », avec un projet de loi référendaire déjà rédigé."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 2,
+          "quote": "Les Français pourront utiliser le Référendum d'Initiative Citoyenne que je mettrai en place pour se saisir de ces questions de sociétés.",
+          "note": "Le programme 2024 ajoute : « Réserver au peuple seul, par référendum, le pouvoir de modifier la Constitution »."
+        },
+        {
+          "questionId": "log-09",
+          "value": 1,
+          "quote": "je souhaite que soit supprimé l'impôt sur la fortune immobilière, IFI, qui entrave la conservation et la transmission des patrimoines et épargne de tout effort contributif les fortunes exclusivement mobilières",
+          "note": "Allègement de la fiscalité du patrimoine immobilier (suppression de l'IFI, abrogation des obligations DPE), sans mesure ciblée sur l'imposition des revenus locatifs."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Le retour de l'ordre républicain dans tous les endroits où les trafics de drogue, les bandes ou les mafias font régner leur propre loi constitue à mes yeux une priorité.",
+          "inferred": true,
+          "note": "Approche répressive assumée (peines planchers, exécution des courtes peines, 85 000 places de prison) ; le parquet national dédié et les prisons de haute sécurité ne sont pas nommés."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-dossier-retraites",
+      "date": "2022-01-01",
+      "title": "Dossier de presse : la réforme des retraites de Marine Le Pen",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20220410190439id_/https://mlafrance.fr/pdfs/dossier-presse-retraites.pdf",
+      "publisher": "Campagne présidentielle de Marine Le Pen (mlafrance.fr)",
+      "summary": "Copie archivée du dossier de presse de la campagne 2022. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-02",
+          "value": 1,
+          "quote": "toute personne entrée dans la vie professionnelle entre 17 et 20 ans, sans condition particulière, pourra bénéficier d'un taux plein dès 60 ans, avec 40 annuités",
+          "note": "Retraite à 60 ans réservée aux carrières commencées entre 17 et 20 ans ; pour une entrée à 25 ans l'âge reste 62 ans et 168 trimestres."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-sante",
+      "date": "2022-01-01",
+      "title": "Livret thématique : La santé",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-la-sante.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": -1,
+          "quote": "Réduire le nombre de déserts médicaux grâce à des incitations financières fortes, celles existantes, inefficaces, étant supprimées.",
+          "inferred": true,
+          "note": "La réponse aux déserts médicaux passe par une rémunération de la consultation modulée selon le lieu d'installation, et non par une régulation de l'installation des médecins."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Recruter en masse des personnels soignants pour combler les postes vacants et revaloriser leurs salaires.",
+          "note": "2 Md€ sur cinq ans pour les salaires, 10 000 places supplémentaires en IFSI, moratoire sur la suppression de lits ; les 22 mesures annoncent un plan santé de 20 Md€."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Transformation de l'AME en un dispositif qui prenne en charge pour les adultes les seuls soins urgents, comme dans tous les pays de l'Union européenne.",
+          "note": "Le programme 2024 et le contre-budget 2026 reprennent la mesure sous le nom de remplacement de l'AME par une « aide d'urgence vitale »."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "De sécuriser la délivrance et l'utilisation des cartes Vitale en remplaçant le modèle actuel par des cartes infalsifiables contenant des données biométriques."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-vote-2107",
+      "date": "2025-05-27",
+      "title": "Scrutin public n°2107 — proposition de loi relative au droit à l'aide à mourir (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2107",
+      "publisher": "Assemblée nationale",
+      "summary": "Marine Le Pen figure nommément dans la liste des 101 députés du groupe RN ayant voté « Contre ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": -2,
+          "quote": "Scrutin public n°2107 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (première lecture).",
+          "note": "Vote personnel de Marine Le Pen : « Contre » (elle figure nommément dans la liste des 101 députés RN ayant voté contre, 27 mai 2025)."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-ecole",
+      "date": "2022-01-01",
+      "title": "Livret thématique : L'école",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-l-ecole.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-01",
+          "value": 2,
+          "quote": "Port d'un uniforme à l'école primaire et au collège."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "les salaires des enseignants du primaire au lycée seront revalorisés de 3 % par an pendant 5 ans, soit une augmentation de plus de 15 % sur le quinquennat",
+          "note": "Financement annoncé « en large partie » par une réduction des dépenses administratives du ministère."
+        },
+        {
+          "questionId": "edu-08",
+          "value": 1,
+          "quote": "Instauration de sanctions-plancher qui devront être appliquées lors des conseils de discipline sous peine de sanctions contre l'encadrement des établissements.",
+          "inferred": true,
+          "note": "Le livret renforce l'autorité disciplinaire des enseignants et de l'institution (plainte obligatoire, sanctions-plancher) mais ne traite pas du redoublement."
+        },
+        {
+          "questionId": "lib-10",
+          "value": 2,
+          "quote": "Interdiction par la loi du port du voile islamique pour les accompagnantes de sorties scolaires, en inscrivant dans les textes le statut de « collaborateur occasionnel du service public », soumis au principe de laïcité, des accompagnateurs.",
+          "note": "Sur le sport, la revendication « Pour interdire le port du burkini » figurait encore sur la page d'accueil du RN en septembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-ecologie",
+      "date": "2022-01-01",
+      "title": "Livret thématique : L'écologie / L'environnement",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-lecologie.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Aucun produit agricole ne pourra être vendu en France s'il ne respecte pas les normes imposées aux producteurs français, les corps de contrôle (DGCCRF notamment, Douanes) se voyant rendre les moyens d'exercer leur mission aux frontières."
+        },
+        {
+          "questionId": "agr-05",
+          "value": -1,
+          "quote": "Les élevages industriels seront contrôlés en fonction de leur qualité sanitaire.",
+          "inferred": true,
+          "note": "Contrôle sanitaire des élevages industriels, sans limitation progressive ; le livret sur les animaux précise que ses mesures « prennent en compte les nécessités de l'élevage »."
+        },
+        {
+          "questionId": "env-03",
+          "value": 2,
+          "quote": "Nous prononcerons un moratoire sur l'éolien et le solaire ; pour l'éolien, nous lancerons le démantèlement progressif des sites en commençant par ceux qui arrivent en fin de vie."
+        },
+        {
+          "questionId": "env-05",
+          "value": -2,
+          "quote": "Nous libérerons les Français de ces engagements irraisonnés. Nous suivrons la voie française pour atteindre les objectifs de l'accord de Paris. Nous sortirons du « Green deal » et de l'enfer administratif qu'il impose aux petites entreprises sous le nom de « taxonomie »",
+          "note": "La trajectoire de réduction est appréciée chaque année « en fonction des trajectoires des autres pays et de la volonté des Français » : refus d'objectifs sectoriels contraignants."
+        },
+        {
+          "questionId": "env-08",
+          "value": -2,
+          "quote": "Voilà pourquoi nous proposons une transition sans endettement public accru et sans hausse d'impôt sur la base d'investissements fléchés et de transferts fiscaux qui s'équilibrent.",
+          "inferred": true,
+          "note": "Rejet explicite de toute hausse d'impôt pour la transition et de « l'écologie punitive » ; la seule taxe carbone défendue est une taxe aux frontières de l'UE, sans redistribution aux ménages."
+        },
+        {
+          "questionId": "env-14",
+          "value": -1,
+          "quote": "La France n'a pas à sacrifier le bien-être de sa population pour corriger les erreurs ou les abus des autres pays ! Elle doit prendre sa part, toute sa part, mais seulement sa part, de l'effort écologique mondial.",
+          "note": "Les objectifs de l'accord de Paris sont revendiqués, mais subordonnés au niveau de vie des Français et aux trajectoires des autres pays."
+        },
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "Entreprises industrielles, logistiques et de distribution comme exploitations diverses devront réaliser dans la mesure du possible la compensation de toute artificialisation des terres, et les collectivités auront l'obligation de réhabilitation des friches industrielles",
+          "inferred": true,
+          "note": "Le livret écologie pose la règle « pas de nouvelles implantations sans occupation des implantations anciennes réhabilitées » et le livret agriculture consacre une section à « lutter contre l'artificialisation des terres agricoles » ; aucun document officiel ne demande l'abrogation du ZAN, mais la compensation retenue est conditionnelle (« dans la mesure du possible »)."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "En application du concept de démétropolisation, les Primes à l'Aménagement du Territoire seront rétablies afin d'inciter entreprises, services et commerces à s'installer dans les zones rurales désertées.",
+          "note": "Le manifeste annonce que le renforcement du maillage territorial « permettra un retour des services publics » ; la question du déficit de ces services n'est pas traitée explicitement."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-agriculture",
+      "date": "2022-01-01",
+      "title": "Livret thématique : L'agriculture",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-l-agriculture.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "l'État mettra en place un plan de soutien de cinq ans propre à l'agriculture biologique",
+          "note": "Plan de soutien de cinq ans ; l'accès au bio dans les cantines scolaires serait toutefois réservé aux produits français."
+        },
+        {
+          "questionId": "agr-08",
+          "value": -1,
+          "quote": "La création de réserves d'eau et la mise en place de systèmes d'irrigation adaptés aux enjeux environnementaux sont incontournables pour assurer l'avenir des productions agricoles d'une partie importante de notre pays.",
+          "inferred": true,
+          "note": "Le livret propose de faciliter le stockage de l'eau pour l'agriculture ; aucune restriction supplémentaire des prélèvements en période de sécheresse n'est envisagée."
+        },
+        {
+          "questionId": "env-07",
+          "value": 2,
+          "quote": "Il n'y aura désormais plus d'interdiction de substances actives sans solution équivalente et économiquement soutenable.",
+          "note": "Marine Le Pen a personnellement voté « pour » la loi Duplomb (scrutin n°2957, 8 juillet 2025), qui rouvre l'usage de l'acétamipride."
+        },
+        {
+          "questionId": "env-13",
+          "value": 2,
+          "quote": "La création de réserves d'eau et la mise en place de systèmes d'irrigation adaptés aux enjeux environnementaux sont incontournables pour assurer l'avenir des productions agricoles d'une partie importante de notre pays. L'État veillera à faciliter la mise en place et le financement de ces infrastructures."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Quant aux trois projets de traités en cours de négociation entre l'Union européenne et respectivement l'Australie, la Nouvelle-Zélande et le MERCOSUR (Argentine, Brésil, Paraguay et Uruguay) je m'opposerai à la poursuite des négociations, étant entendu que la France ne les ratifiera pas."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-immigration",
+      "date": "2022-01-01",
+      "title": "Livret thématique : Contrôler l'immigration (avec le projet de loi référendaire « Citoyenneté, identité, immigration »)",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-controle-de-limmigration.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen, toujours diffusé sur rassemblementnational.fr/livrets-thematiques. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "Dès lors que la sortie de l'Union européenne n'est pas à l'ordre du jour, seule la situation politique nouvelle qui résultera de l'adoption par référendum d'une révision constitutionnelle permettra au président de la République et au Gouvernement d'engager une renégociation de nombreux textes de droit dérivé, voire des Traités eux-mêmes.",
+          "note": "Maintien dans l'UE explicitement assumé, mais avec l'objectif de la transformer en « Alliance européenne des nations » et de remplacer la Commission par un secrétariat général."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "seuls peuvent être admis à entrer sur le territoire, à y séjourner durablement et à y exercer une activité professionnelle les étrangers possédant les qualifications nécessaires pour exercer des fonctions, des emplois ou des missions qui ne peuvent être exercées par des nationaux",
+          "note": "Réduction drastique de l'immigration légale, décidée par référendum puis par la loi ; le mécanisme de quotas annuels votés chaque année par le Parlement n'est pas repris comme tel."
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "La régularisation d'un étranger en situation irrégulière ne sera pas possible, sauf dans des cas exceptionnels. Seules pourront être prises des décisions individuelles, et non plus des régularisations en masse."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2,
+          "quote": "La loi pourra n'autoriser la venue en France que des seules personnes qui ont obtenu le statut de réfugié et non des personnes dans l'attente d'une décision."
+        },
+        {
+          "questionId": "imm-08",
+          "value": 2,
+          "quote": "Peut perdre la qualité de Français, dans les conditions fixées par la loi, toute personne s'étant livré à un acte incompatible avec cette qualité et préjudiciable aux intérêts de la France.",
+          "note": "Déchéance inscrite dans un nouvel article 2-1 de la Constitution soumis à référendum."
+        },
+        {
+          "questionId": "imm-09",
+          "value": -2,
+          "quote": "Un étudiant étranger admis sur le territoire pour y suivre des études scolaires ou universitaires doit le quitter à la fin de celles-ci."
+        },
+        {
+          "questionId": "imm-10",
+          "value": 2,
+          "quote": "La loi permettra d'instaurer la priorité nationale dans certains domaines, notamment pour l'accès à l'emploi et au logement.",
+          "note": "Le site du RN portait encore en septembre 2026 la pétition « Logement : avec Marine Le Pen, appliquons la priorité nationale »."
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "quote": "Il permet d'éviter la dénonciation pure et simple de la Convention européenne de sauvegarde des droits de l'Homme et des libertés fondamentales (CEDH), qui réduirait les garanties de l'État de droit pour les Français, alors qu'il suffit de rendre inapplicables les stipulations qui concernent l'immigration.",
+          "note": "Pas de sortie de la CEDH, mais inapplicabilité de ses stipulations devant les juridictions françaises en matière d'entrée, de séjour et d'éloignement (art. 16 du projet de loi référendaire)."
+        },
+        {
+          "questionId": "imm-12",
+          "value": -2,
+          "quote": "seuls les nationaux français ont le droit de vote et sont éligibles ; ces dispositions seront en tout état de cause sans effet sur celles, dérogatoires, prévues à l'article 88-3, qui autorisent la participation des citoyens de l'Union européenne à l'élection des conseils municipaux"
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-securite",
+      "date": "2022-01-01",
+      "title": "Livret thématique : La sécurité",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-la-securite.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "Des mesures particulières seront prises pour mieux prévenir et réprimer les violences commises à l'encontre des conjoints ou ex-conjoints. Le volontarisme dont fait preuve l'Espagne depuis plusieurs années dans ce domaine fait défaut en France.",
+          "note": "Jugement dans des délais très brefs et protection effective des victimes, sans budget dédié chiffré ni juridictions spécialisées."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "La loi de programmation prévoira que 85.000 places de prison seront disponibles à l'horizon de 2028.",
+          "note": "Environ 25 000 places de plus que les quelque 60 000 existantes en 2021."
+        },
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "La loi instaurera l'obligation pour les communes de plus de 10 000 habitants de se doter d'une police municipale.",
+          "note": "Obligation de créer des polices municipales et meilleure coordination avec les maires, mais rien sur l'extension de leurs pouvoirs de police judiciaire ni sur leur armement systématique."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Une loi de programmation pour la sécurité et la justice permettra d'augmenter le budget de la sécurité et de la justice de 1,5 milliard d'euros par an pour créer 7000 postes de policiers et gendarmes",
+          "note": "Hausse de 1,5 Md€ par an pour la sécurité et la justice réunies et doublement du nombre de magistrats (20 000) ; ce n'est pas un doublement du budget de la justice."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-prog-2024-eur",
+      "date": "2024-01-01",
+      "title": "Notre projet pour une Europe des nations — élections européennes du 9 juin 2024",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Programme européen signé par Marine Le Pen et Jordan Bardella ; Marine Le Pen y signe aussi l'encadré de conclusion. (Date du document : 2024 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Favoriser et privilégier l'acquisition d'équipements et d'armements européens.",
+          "note": "Complété par « Soutenir une préférence européenne dans la production d'armement sur le sol européen »."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Réaffirmer la supériorité de la Constitution française sur les normes et juridictions européennes."
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2,
+          "quote": "Refuser l'élargissement de l'UE aux Balkans, à la Turquie et à l'Ukraine, qui ruinerait notre agriculture et exercerait une pression à la baisse sur le salaire des Français."
+        },
+        {
+          "questionId": "eur-09",
+          "value": 1,
+          "quote": "Pour préserver notre capacité à produire, le Rassemblement National revendique un pouvoir de dérogation aux règles européennes, à l'instar d'autres États membres.",
+          "inferred": true,
+          "note": "Pouvoir de dérogation revendiqué sur les règles européennes en général et supériorité de la Constitution affirmée ; les règles budgétaires européennes ne sont pas nommées."
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "Restreindre la libre-circulation de l'Espace Schengen aux seuls ressortissants des pays membres.",
+          "note": "Complété par « Instaurer une double frontière, française et européenne : contrôler les frontières nationales » ; le livret immigration prévoit de renégocier Schengen."
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Refuser tout impôt prélevé par l'Union européenne, qui pénaliserait les États membres et les consommateurs."
+        },
+        {
+          "questionId": "log-03",
+          "value": 1,
+          "quote": "Renforcer l'accès au logement, en assouplissant les obligations européennes de rénovation énergétique des bâtiments (DPE) qui mettent en difficulté les propriétaires et locataires, entraînent une baisse de la capacité du parc locatif et aggravent l'inflation.",
+          "note": "Allègement des normes de rénovation énergétique et « pause réglementaire » générale ; pas de mesure spécifique sur les normes de construction et d'urbanisme."
+        },
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "Élargir les domaines éligibles aux Projets importants d'intérêt européen commun (PIIEC) et en assouplir les règles d'accès afin de créer un environnement complet en faveur de l'Intelligence artificielle.",
+          "note": "Soutien à l'IA et assouplissement des règles d'accès aux financements ; en contrepartie, le livret numérique impose l'hébergement des données en France ou dans l'UE."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-communique-2026",
+      "date": "2026-09-19",
+      "title": "Communiqué de Marine Le Pen et Jordan Bardella sur la détérioration de la situation sécuritaire en Europe et les actions hybrides russes",
+      "sourceType": "communique",
+      "sourceUrl": "https://rassemblementnational.fr/communiques/communique_rn",
+      "publisher": "Rassemblement National",
+      "summary": "Communiqué signé par Marine Le Pen ; document officiel le plus récent portant sur l'Ukraine et la Russie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": -1,
+          "quote": "Il doit pouvoir porter, notamment, sur le niveau du soutien financier accordé à l'Ukraine et sur les conditions de ce soutien, comme sur l'insuffisance des initiatives visant à rechercher des formats d'échange diplomatique susceptibles de contribuer à une issue au conflit.",
+          "inferred": true,
+          "note": "Communiqué du 19 septembre 2026 : Marine Le Pen demande un débat sur le niveau et les conditions du soutien à l'Ukraine et privilégie « la recherche d'une issue diplomatique », tout en refusant de faciliter les buts de guerre russes ; le soutien militaire et les armes de longue portée ne sont pas abordés."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-defense",
+      "date": "2022-01-01",
+      "title": "Livret thématique : La défense",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-la-defense.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen, toujours accessible sur le site du RN. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "La priorité sera de quitter le commandement intégré de l'OTAN ; la participation de la France au commandement militaire intégré de cette organisation est incompatible avec son statut de puissance souveraine"
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-famille",
+      "date": "2022-01-01",
+      "title": "Livret thématique : La famille",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-la-famille.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "l'interdiction de la Gestion pour Autrui (GPA), technique qui se fonde sur la marchandisation du corps de femmes, sera renforcée pour éviter les contournements de la loi en ayant recours à des filières étrangères"
+        },
+        {
+          "questionId": "lib-08",
+          "value": 1,
+          "quote": "Marine Le Pen s'engage à un moratoire de trois ans sur les sujets sociétaux ; la seule façon d'ouvrir des débats sur ces sujets ne pourra se faire pendant trois ans que par le biais du Referendum d'Initiative Citoyenne que Marine Le Pen mettra en place.",
+          "inferred": true,
+          "note": "Moratoire de trois ans sur les sujets de société, l'IVG n'étant pas nommée ; le moratoire n'empêche pas « la stricte application de la loi » en vigueur."
+        },
+        {
+          "questionId": "log-05",
+          "value": 1,
+          "quote": "Un prêt public à taux zéro sur dix ans, pouvant aller jusqu'à 100 000 euros, viendra compléter tout prêt immobilier souscrit auprès d'une banque par les couples dont la moyenne d'âge est inférieure à trente ans, et dont au moins l'un des deux membres est Français.",
+          "note": "Nouveau prêt public à taux zéro, mais réservé aux jeunes couples dont un membre est Français, et non étendu à tous les territoires et à davantage de ménages."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-vote-2957",
+      "date": "2025-07-08",
+      "title": "Scrutin public n°2957 — proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (loi Duplomb, texte de la CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
+      "publisher": "Assemblée nationale",
+      "summary": "Marine Le Pen figure nommément dans la liste des 119 députés du groupe RN ayant voté « Pour ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Scrutin public n°2957 sur l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
+          "note": "Vote personnel de Marine Le Pen : « Pour » (8 juillet 2025). Le livret agriculture écarte toute interdiction nationale de substances actives sans alternative, et le programme européen dénonce « les incessantes surtranspositions franco-françaises »."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-animaux",
+      "date": "2022-01-01",
+      "title": "Livret thématique : La protection des animaux",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-la-protection-des-animaux.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-06",
+          "value": -1,
+          "quote": "elles n'ont pas pour finalité l'interdiction de la chasse ou les essais à finalité thérapeutique sur les animaux, si et seulement si ceux-ci sont indispensables",
+          "inferred": true,
+          "note": "Le livret exclut explicitement de viser la chasse et prévoit une concertation avec les milieux cynégétiques ; aucune mesure d'encadrement supplémentaire n'est proposée."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-enfance",
+      "date": "2022-01-01",
+      "title": "Livret thématique : La protection de l'enfance",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-la-protection-de-lenfance.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Cette situation nécessite des mesures pour empêcher les mineurs de moins de quinze ans de posséder des comptes sur les réseaux sociaux."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-numerique",
+      "date": "2022-01-01",
+      "title": "Livret thématique : Le numérique",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-le-numerique.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Payer en France des impôts correspondant à l'activité qu'ils y ont et aux profits qu'ils y font, notamment en ce qui concerne les cryptoactifs qui doivent être placés sous le régime commun des marchés financiers",
+          "note": "Le livret prévoit d'agir « tant en modifiant le droit français qu'en impulsant une modification de la réglementation européenne » ; le contre-budget 2026 ajoute une taxe sur l'utilisation du réseau par les géants du numérique."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-projet-patrimoine",
+      "date": "2022-01-01",
+      "title": "Livret thématique : Le patrimoine",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/projet/projet-le-patrimoine.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Livret thématique de Marine Le Pen. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-08",
+          "value": 1,
+          "quote": "le budget annuel pour l'entretien et la restauration des monuments historiques, de l'ordre de 330 millions d'euros en moyenne depuis des années, est insuffisant. Il devra être porté à un milliard d'euros",
+          "note": "Triplement du budget du patrimoine ; en sens inverse, le contre-budget 2026 baisse la dotation à l'audiovisuel public et supprime les aides à la presse."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-ppl-islamistes",
+      "date": "2021-02-21",
+      "title": "Proposition de loi visant à combattre les idéologies islamistes",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/mesures/proposition-de-loi-ideologies-islamistes.pdf",
+      "publisher": "Marine Le Pen (proposition de loi déposée à l'Assemblée nationale)",
+      "summary": "Texte déposé par Marine Le Pen le 21 février 2021, mis en avant sur la page « 22 mesures » du RN (mesure n°2).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": 2,
+          "quote": "Sont interdits, dans l'espace public, les signes ou tenues constituant par eux-mêmes une affirmation sans équivoque et ostentatoire des idéologies visées à l'article 1er.",
+          "note": "Interdiction visant les signes et tenues islamistes, et non l'ensemble des signes religieux ; le site du RN affichait en septembre 2026 « Pour interdire le port du burkini »."
+        },
+        {
+          "questionId": "lib-02",
+          "value": 2,
+          "quote": "L'État veille à ce que les idéologies visées à l'article 1er ne puissent, sous aucune forme, explicite, symbolique ou implicite, faire l'objet de manifestations ou diffusions, de la part de quiconque, au sein des établissements d'enseignement",
+          "note": "S'applique à tous les établissements d'enseignement, université comprise, mais vise spécifiquement les idéologies islamistes."
+        },
+        {
+          "questionId": "lib-07",
+          "value": 1,
+          "quote": "par toute personne physique ou morale étrangère, à une personne morale ou à une personne physique, française ou étrangère, se livrant à des activités ayant pour objet ou pour effet la manifestation ou la diffusion des idéologies visées à l'article 1er.",
+          "note": "L'article 5 de la proposition de loi de Marine Le Pen interdit tout financement étranger des activités diffusant les idéologies islamistes ; il ne s'agit pas d'une interdiction générale du financement des lieux de culte par des États étrangers."
+        },
+        {
+          "questionId": "lib-11",
+          "value": -1,
+          "quote": "Tout regroupement de personnes, dans l'espace public, se donnant pour objet ou ayant pour effet la manifestation ou la diffusion des idéologies visées à l'article 1er peut, pour ce seul motif, être interdit par l'autorité compétente, même à titre préventif",
+          "inferred": true,
+          "note": "Interdiction préventive de rassemblements et de publications : dans le champ des idéologies islamistes, l'ordre public prime explicitement sur les libertés d'expression et de manifestation."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-langue-francaise",
+      "date": "2022-01-01",
+      "title": "Dossier de presse : la défense de la langue française",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20220410190451id_/https://mlafrance.fr/pdfs/tracts-dossier-presse-defense-langue-francaise.pdf",
+      "publisher": "Campagne présidentielle de Marine Le Pen (mlafrance.fr)",
+      "summary": "Copie archivée du dossier de presse de la campagne 2022. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-05",
+          "value": 2,
+          "quote": "nous interdirons définitivement l'écriture inclusive, à l'école, à l'université, dans les administrations mais aussi dans tous les secteurs qui, directement ou indirectement, dépendent de l'Etat"
+        }
+      ]
     }
   ]
 }

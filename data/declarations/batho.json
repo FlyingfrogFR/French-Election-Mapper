@@ -2,95 +2,538 @@
   "candidateId": "batho",
   "declarations": [
     {
-      "id": "batho-2025-11-candidature",
-      "date": "2025-11-25",
-      "title": "Annonce de candidature (Génération écologie)",
-      "sourceType": "discours",
-      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "publisher": "Wikipédia (source secondaire)",
-      "summary": "Écologie de rupture (« décroissance ») : sortie du nucléaire, planification contraignante, opposition aux mégabassines, aux pesticides et à l'expansion des centres de données, soutien au bio et au bien-être animal.",
+      "id": "batho-ge-budget-2025",
+      "date": "2025-07-16",
+      "title": "Budget : le moment de cécité",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2025/07/16/budget-le-moment-de-cecite/",
+      "publisher": "Génération Écologie (commission Économie de la décroissance)",
+      "summary": "Texte d'une commission thématique du parti, non d'un responsable à titre personnel.",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "En agissant uniquement sur les dépenses, le budget Bayrou ignore sciemment d’autres leviers, largement documentés, pour sécuriser les ressources de l’État.",
+          "note": "La baisse des dépenses comme priorité est rejetée ; le communiqué sur la « dette écologique » dénonce aussi la « spirale course à la croissance-dette-austérité »."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 1,
+          "quote": "Refus de taxer les grandes fortunes, laxisme face aux entreprises subventionnées sans contrôle, blanc-seing donné aux activités délétères pour la santé environnementale par soumission aux lobbies, mise à genoux des services publics et des plus fragiles",
+          "inferred": true,
+          "note": "Le refus de taxer les grandes fortunes est dénoncé, mais c'est la « taxe Zucman » et non le rétablissement de l'ISF qui est nommée comme levier."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "“Taxe Zucman” sur les très hauts patrimoines, refonte des aides publiques aux entreprises sur lesquelles le Sénat a enquêté tout récemment… Ce ne sont pas les solutions qui manquent, mais elles sont écartées par principe"
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-retraites-2023",
+      "date": "2023-01-07",
+      "title": "Résolution du Conseil National sur la réforme des retraites",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.generationecologie.fr/publication/resolution-du-conseil-national-sur-la-reforme-des-retraites/",
+      "publisher": "Génération Écologie (conseil national)",
+      "summary": "PDF : https://www.generationecologie.fr/app/uploads/2023/07/RESOLUTION-DU-CONSEIL-NATIONAL-RETRAITES-adoptee.pdf",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "C’est pourquoi Génération Écologie s’oppose frontalement à la réforme portée par le gouvernement.",
+          "inferred": true,
+          "note": "Opposition frontale à la réforme portant l'âge à 64 ans ; en octobre 2025, Delphine Batho relève favorablement « la suspension de la réforme des retraites » obtenue du Premier ministre. Le mot « abrogation » n'apparaît pas dans les textes officiels consultés."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "s’attaquer au droit à la retraite n’est ni une urgence ni une nécessité",
+          "note": "La résolution dénonce le report de l'âge légal comme l'expression d'un « ”toujours plus ” de productivisme »."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-vivre-autrement",
+      "date": "2023-12-16",
+      "title": "VIVRE AUTREMENT ! – motion d'orientation adoptée par la 14e convention nationale",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.generationecologie.fr/vivre-autrement/",
+      "publisher": "Génération Écologie",
+      "summary": "Texte d'orientation et feuille de route du parti, présenté sur le site comme « le texte d'orientation et notre feuille de route ». PDF : https://www.generationecologie.fr/app/uploads/2025/07/VIVRE-AUTREMENT-14eme-convention-nationale.pdf",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": 1,
+          "quote": "En France, l’abolition du présidentialisme et la perspective de nouvelles institutions démocratiques sont la pierre angulaire du changement pour sortir du système de la croissance, lever une nouvelle espérance et battre l’extrême-droite.",
+          "inferred": true,
+          "note": "Rupture institutionnelle revendiquée (abolition du présidentialisme, nouvelles institutions), mais aucune assemblée constituante ni « VIe République » n'est proposée dans les textes officiels."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 1,
+          "quote": "Reprendre la maîtrise des conditions de vie passe par le combat pour le temps libéré et pour un nouvel équilibre entre vie personnelle et professionnelle permettant d’avoir le temps de vivre.",
+          "inferred": true,
+          "note": "Objectif de « temps libéré » posé comme priorité programmatique, sans mesure légale de 32 heures ou de semaine de 4 jours."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-etat-resilience",
+      "date": "2024-12-07",
+      "title": "Pour un État-Résilience – cahier d'acteur, contribution à la consultation publique sur le PNACC-3",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.generationecologie.fr/publication/pour-un-etat-resilience/",
+      "publisher": "Génération Écologie (conseil exécutif)",
+      "summary": "PDF cité : https://www.generationecologie.fr/app/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Elle implique de consacrer tous les moyens de la politique agricole commune à la transformation agroécologique, à la conversion à l’agriculture biologique, à la sortie des modes d’élevage industriels pour favoriser le pâturage",
+          "sourceUrl": "https://www.generationecologie.fr/app/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+          "page": "8",
+          "note": "Confirmé le 21 juillet 2026 : réorienter radicalement les fonds publics pour qu'ils « soutiennent l'agriculture biologique »."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "à la sortie des modes d’élevage industriels pour favoriser le pâturage",
+          "sourceUrl": "https://www.generationecologie.fr/app/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+          "page": "8",
+          "note": "Le communiqué du 21 mai 2026 dénonce l'allègement des procédures applicables aux « installations d'élevage industriel, en dépit des risques sanitaires, du bien-être animal »."
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "application et renforcement des dispositifs existants : plans de prévention des risques, zéro artificialisation nette, etc.",
+          "sourceUrl": "https://www.generationecologie.fr/app/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+          "page": "6",
+          "inferred": true,
+          "note": "Le ZAN figure parmi les pistes que Génération Écologie regrette de voir ignorées ; le communiqué du 1er octobre 2024 dénonce « l'abandon de la lutte contre l'artificialisation des sols sous la pression du lobby du béton »."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "La remédiation aux inégalités, la solidarité, l’entraide, un réel partage des ressources limitées, la justice climatique, la réparation des services publics, à commencer par celui de la santé et des métiers de l’humain susceptibles d’être fortement sollicités",
+          "sourceUrl": "https://www.generationecologie.fr/app/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+          "page": "3",
+          "inferred": true,
+          "note": "« Réparation » du service public de santé et des métiers de l'humain, sans plan chiffré d'embauches ni de revalorisations."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-10pct-2024",
+      "date": "2024-02-01",
+      "title": "10 % !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2024/02/01/10-2/",
+      "publisher": "Génération Écologie",
+      "summary": "Texte signé « Delphine Batho, coordinatrice nationale ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
           "questionId": "env-01",
-          "value": -2
-        },
-        {
-          "questionId": "env-02",
-          "value": 2
-        },
-        {
-          "questionId": "env-04",
-          "value": 2
-        },
+          "value": -2,
+          "quote": "occultant – par ailleurs – le risque financier hasardeux que représente le choix d’un nouveau programme nucléaire EPR",
+          "inferred": true,
+          "note": "Delphine Batho qualifie le nouveau programme EPR de risque financier hasardeux ; la commission Économie de la décroissance dénonce de son côté « l'objectif de construction de 14 nouvelles centrales nucléaires » (communiqué du 26 septembre 2023)."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-declaration-principes",
+      "date": "2021-07-10",
+      "title": "Déclaration de principes de Génération Écologie",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.generationecologie.fr/publication/declaration-de-principes-de-generation-ecologie/",
+      "publisher": "Génération Écologie",
+      "summary": "Adoptée à la 13e convention nationale de Lyon.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "env-05",
-          "value": 2
-        },
+          "value": 2,
+          "quote": "La décroissance vise, par la régulation écologique décidée démocratiquement, à rechercher un équilibre entre les nécessités humaines, et les nécessités de la préservation du climat et des écosystèmes.",
+          "inferred": true,
+          "note": "La planification proposée est plus contraignante que des objectifs sectoriels : réduction programmée de la consommation d'énergie et de matières premières, « plafonnement de l'empreinte carbone » (motion Vivre autrement !)."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-cp-duplomb2-apr2026",
+      "date": "2026-04-03",
+      "title": "Loi Duplomb 2 : le gouvernement ne doit pas céder aux coups de pression de l'agrochimie",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2026/04/03/loi-duplomb-2-le-gouvernement-ne-doit-pas-ceder-aux-coups-de-pression-de-lagrochimie/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué institutionnel, sans signature individuelle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "env-07",
-          "value": -2
-        },
+          "value": -2,
+          "quote": "nous dénonçons l’acharnement du sénateur Duplomb à vouloir, coûte que coûte, autoriser des pesticides interdits en France. Ces substances ont été prohibées pour de bonnes raisons : leur dangerosité pour la santé humaine et pour la biodiversité.",
+          "note": "Le parti appelle à « un barrage citoyen contre la loi Duplomb 2 » qui vise à réautoriser les néonicotinoïdes (communiqué du 3 février 2026)."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-aerien-2024",
+      "date": "2024-03-12",
+      "title": "13 mars : journée européenne pour la décroissance du trafic aérien",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2024/03/12/13-mars-journee-europeenne-pour-la-decroissance-du-trafic-aerien/",
+      "publisher": "Génération Écologie",
+      "summary": "Article signé Abel Cuvidad et Cécile Faure, mais rappelant explicitement le programme adopté par le parti depuis 2019 et la proposition de loi déposée par Delphine Batho en juin 2020.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "env-10",
-          "value": 2
+          "value": 2,
+          "quote": "Dès 2019, Génération Écologie avait défendu un programme clair : – suppression des liaisons aériennes pour lesquelles il existe une alternative en transport en commun en moins de 5 heures.",
+          "note": "Seuil proposé (5 h) plus strict que les 4 h de l'énoncé ; article signé par deux responsables du parti mais rappelant le programme adopté par Génération Écologie."
         },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "– Baisse du prix du train, relance des trains de nuit – Augmentation du prix des vols via une taxe immédiate sur le kérosène",
+          "inferred": true,
+          "note": "Relance du ferroviaire (prix, trains de nuit) financée par la fiscalité aérienne ; l'effet sur la dette publique n'est pas abordé."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-agricole-mai2026",
+      "date": "2026-05-21",
+      "title": "Loi d'urgence agricole : la grande régression !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2026/05/21/loi-durgence-agricole-la-grande-regression/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué institutionnel, sans signature individuelle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "env-13",
-          "value": -2
-        },
+          "value": -2,
+          "quote": "Il facilite la construction de réservoirs d’eau à grande échelle, les fameuses méga-bassines, symboles de la maladaptation au changement climatique."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-candidature-2025",
+      "date": "2025-11-26",
+      "title": "« Je suis candidate à l'élection présidentielle pour reconstruire une écologie capable de gouverner »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2025/11/26/je-suis-candidate-a-lelection-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner/",
+      "publisher": "Génération Écologie",
+      "summary": "Extraits de l'entretien de Delphine Batho annonçant sa candidature, publiés par le parti.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "env-14",
-          "value": 2
+          "value": 2,
+          "quote": "Une très large partie de la société française sait pertinemment que vouloir sauver la croissance du PIB est incompatible avec la sécurité climatique, celle de notre approvisionnement en eau et en nourriture.",
+          "note": "Le parti se définit comme « le parti de la décroissance » : la sécurité climatique prime explicitement sur la croissance du PIB."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-cp-immigration-2023",
+      "date": "2023-12-20",
+      "title": "Immigration : une loi de régression inédite, contraire aux valeurs républicaines",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2023/12/20/immigration-une-loi-de-regression-inedite-contraire-aux-valeurs-republicaines/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué signé par Quentin Guillemain, co-coordinateur et porte-parole, mais énonçant la condamnation de la loi par Génération Écologie elle-même.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "Elle remet en cause le droit du sol et intègre dans notre droit social le poison de la préférence nationale, défendus depuis des décennies par l’extrême droite.",
+          "note": "Communiqué signé par le porte-parole du parti mais formulant la condamnation de la loi par Génération Écologie."
         },
         {
-          "questionId": "num-04",
-          "value": -2
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "Elle remet en cause le droit du sol et intègre dans notre droit social le poison de la préférence nationale, défendus depuis des décennies par l’extrême droite.",
+          "note": "La « préférence nationale » est qualifiée de « poison » introduit dans le droit social."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-cp-dpg-2025",
+      "date": "2025-10-14",
+      "title": "Préparer l'alternative écologiste au système politique en place",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2025/10/14/preparer-lalternative-ecologiste-au-systeme-politique-en-place/",
+      "publisher": "Génération Écologie",
+      "summary": "Réaction au discours de politique générale, signée « Delphine Batho, coordinatrice nationale ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-13",
+          "value": 1,
+          "quote": "Le Premier ministre a toutefois été contraint au compromis en annonçant l’abandon du 49-3 et la suspension de la réforme des retraites.",
+          "inferred": true,
+          "note": "L'abandon du 49-3 est relevé comme un acquis du rapport de force ; la suppression de l'article n'est pas explicitement demandée."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-valeurs",
+      "date": "2026-01-01",
+      "title": "Nos valeurs",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.generationecologie.fr/a-propos/generation-ecologie/nos-valeurs/",
+      "publisher": "Génération Écologie",
+      "summary": "Page de doctrine du site officiel (consultée le 20 septembre 2026). (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Nous sommes pro-européens, pour faire de notre continent un pionnier de cette nouvelle perspective.",
+          "note": "La résolution du 16 décembre 2023 « réaffirme son attachement à l'Europe et à ses idéaux de paix, de démocratie et de solidarité entre les peuples »."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-cp-defense-2025",
+      "date": "2025-03-05",
+      "title": "Ni Trump, ni Poutine : en tant qu'écologistes, nous prendrons toute notre part à l'effort de défense du pays et de l'Europe",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2025/03/05/ni-trump-ni-poutine-en-tant-quecologistes-nous-prendrons-toute-notre-part-a-leffort-de-defense-du-pays-et-de-leurope/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué signé « Delphine BATHO, coordinatrice nationale ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "En tant qu’écologistes, nous prendrons toute notre part à l’effort de défense du pays et de l’Europe, et à l’affrontement avec les idéologies totalitaires qui nous menacent à l’extérieur et à l’intérieur.",
+          "inferred": true,
+          "note": "Soutien à l'effort de défense sans aucun chiffrage ; le communiqué budgétaire de 2025 reproche à la France de limiter les dépenses de sécurité « à l'armement » au détriment de la sécurité climatique."
         },
         {
-          "questionId": "agr-03",
-          "value": 2
+          "questionId": "def-02",
+          "value": 1,
+          "quote": "L’ouverture du débat stratégique sur la protection de l’Europe par notre dissuasion nucléaire n’a de sens que dans la clarté d’une défense européenne strictement indépendante des États-Unis.",
+          "inferred": true,
+          "note": "Soutien conditionnel : le débat sur l'extension de la dissuasion n'a de sens que dans une défense européenne indépendante des États-Unis."
         },
         {
-          "questionId": "agr-05",
-          "value": 2
-        },
-        {
-          "questionId": "agr-08",
-          "value": 2
-        },
-        {
-          "questionId": "eco-02",
-          "value": 2
-        },
-        {
-          "questionId": "eco-03",
-          "value": 2
-        },
-        {
-          "questionId": "tra-01",
-          "value": 2
-        },
-        {
-          "questionId": "imm-06",
-          "value": 1
-        },
-        {
-          "questionId": "ins-03",
-          "value": 2
-        },
-        {
-          "questionId": "ins-09",
-          "value": 1
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "L’ouverture du débat stratégique sur la protection de l’Europe par notre dissuasion nucléaire n’a de sens que dans la clarté d’une défense européenne strictement indépendante des États-Unis.",
+          "note": "La résolution géopolitique de 2023 dénonce « l'absence de politique européenne de défense »."
         },
         {
           "questionId": "eur-04",
-          "value": 1
+          "value": 1,
+          "quote": "Génération Écologie partage le diagnostic posé par le Président de la République sur la menace que représente la Russie de Poutine pour l’Europe et pour la France, et sur la nécessité de défendre l’Ukraine abandonnée par les États-Unis.",
+          "inferred": true,
+          "note": "Soutien à la défense de l'Ukraine, sans mention de durée ni d'armes de longue portée ; le communiqué du 24 février 2026 appelant à « renforcer le soutien à l'Ukraine […] militaire » est signé par un autre responsable du parti."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-cp-mercosur-2025",
+      "date": "2025-09-04",
+      "title": "Accord avec le Mercosur : non, c'est non !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2025/09/04/accord-avec-le-mercosur-non-cest-non/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué signé « Delphine BATHO, coordinatrice nationale de Génération Écologie ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 1,
+          "quote": "celles et ceux qui s’y opposent, défendent la santé environnementale et la lutte contre la concurrence déloyale, proposent la garantie du revenu agricole, et veulent organiser la conversion massive à l’agriculture biologique",
+          "inferred": true,
+          "note": "« Garantie du revenu agricole » revendiquée, sans mécanisme de prix minimums garantis explicitement décrit."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Génération Écologie appelle le Parlement européen et la France à ne pas ratifier cet accord."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-cp-mercosur-2026",
+      "date": "2026-01-09",
+      "title": "Accord avec le Mercosur : la France doit saisir la Cour de justice de l'Union européenne",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2026/01/09/accord-avec-le-mercosur-la-france-doit-saisir-la-cour-de-justice-de-lunion-europeenne/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué institutionnel, sans signature individuelle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 1,
+          "quote": "Les arrêtés pris par le gouvernement français prétendant mettre en place des « mesures miroirs » ne concernent que 5 substances actives sur les 72 interdites dans l’Union européenne",
+          "inferred": true,
+          "note": "Les mesures miroirs existantes sont jugées trop étroites (« de la poudre aux yeux ») ; le parti réclame une protection réelle contre la concurrence déloyale."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-eau-2026",
+      "date": "2026-01-20",
+      "title": "Eau : un « moratoire » contraire à l'État de droit",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2026/01/20/eau-un-moratoire-contraire-a-letat-de-droit/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué institutionnel citant l'intervention de Delphine Batho à l'Assemblée nationale en 2023.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-08",
+          "value": 2,
+          "quote": "l’eau n’est pas inépuisable, elle va être de plus en plus rare ; la décroissance de la consommation d’eau s’impose, pour préserver les usages les plus vitaux",
+          "note": "Citation de Delphine Batho reprise par le parti ; le communiqué dénonce « la suspension […] de tous les textes fixant les volumes d'eau agricoles prélevables » et « le déblocage d'un “maximum de projets” d'irrigation agricole »."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-energie-2026",
+      "date": "2026-06-22",
+      "title": "Quelle politique énergétique pour la France ? (intervention de Delphine Batho aux Entretiens de Terra Nova)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.generationecologie.fr/2026/06/22/quelle-politique-energetique-pour-la-france/",
+      "publisher": "Génération Écologie",
+      "summary": "Verbatims de la candidate publiés par le parti.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": -2,
+          "quote": "Cela conduit à prendre de mauvaises décisions, comme le fait de faire de la France la plaque tournante des data centers pour l’IA, sans souveraineté numérique, sans réflexion sur l’empreinte carbone que cela représente, sans égard pour la consommation d’eau et d’énergie.",
+          "note": "Delphine Batho, candidate, demande aussi si « est-ce bien raisonnable […] de se lancer sans débat dans la multiplication des data centers »."
+        }
+      ]
+    },
+    {
+      "id": "batho-ge-25nov-2025",
+      "date": "2025-11-25",
+      "title": "25 novembre : Stop aux violences contre les femmes !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2025/11/25/25-novembre-stop-aux-violences-contre-les-femmes/",
+      "publisher": "Génération Écologie",
+      "summary": "Communiqué institutionnel, sans signature individuelle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "Génération Écologie soutient les mobilisations pour l'élimination des violences à l'égard des femmes, et appelle le gouvernement à un sursaut pour un plan ambitieux.",
+          "inferred": true,
+          "note": "Demande d'un « plan ambitieux » sans budget ni juridictions spécialisées chiffrés."
         }
       ]
     }

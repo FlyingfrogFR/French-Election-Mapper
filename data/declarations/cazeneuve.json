@@ -38,7 +38,7 @@
           "quote": "Mais ces dernières années, nos paysans ont quitté leurs exploitations pour descendre dans la rue : concurrence déloyale, normes européennes que nos voisins n’appliquent pas, charges qui s’accumulent, distributeurs qui dictent leurs prix",
           "page": "p. 41",
           "inferred": true,
-          "note": "Il dénonce la concurrence déloyale et demande une « approche commerciale moins naïve » à l'Europe ; les clauses miroirs ne sont pas nommées."
+          "note": "Il dénonce la concurrence déloyale et demande à l'Europe une « approche commerciale moins naïve » ; le discours du 10 mars 2024 reproche au pouvoir d'approuver des accords commerciaux « sans réciprocité ni clauses miroirs »."
         },
         {
           "questionId": "def-01",
@@ -210,35 +210,11 @@
           "note": "L'appartenance à l'UE n'est jamais posée en question : il propose de la réformer et de l'approfondir (réforme budgétaire, politique industrielle commune, décision à la majorité)."
         },
         {
-          "questionId": "eur-03",
-          "value": 1,
-          "quote": "Cet effort n’a de sens que dans une architecture européenne de sécurité. Reconnaître d’abord les préoccupations légitimes de nos partenaires de l’Est et du Nord face à la Russie. Engager ensuite, y compris avec le Royaume-Uni, une réflexion sur ce que notre dissuasion peut y apporter. Et coordonner la protection antimissile du continent",
-          "page": "p. 52",
-          "inferred": true,
-          "note": "Il veut une architecture européenne de sécurité, des coopérations européennes planifiées et une protection antimissile coordonnée, mais « dans l'OTAN sans rien y abdiquer » et « pour l'Europe de la défense sans prétendre s'y substituer »."
-        },
-        {
-          "questionId": "eur-04",
-          "value": 1,
-          "quote": "La défense de la France est inséparable de celle de l’Europe, et celle de l’Ukraine indissociable de l’idée d’un continent libre",
-          "page": "p. 52",
-          "inferred": true,
-          "note": "Soutien politique appuyé à l'Ukraine ; ni la durée du soutien militaire ni les armes de longue portée ne sont évoquées."
-        },
-        {
           "questionId": "eur-05",
           "value": 2,
           "quote": "Assumer ses alliances sans s’y dissoudre. Demeurer dans l’OTAN, sans rien y abdiquer, et contribuer à l’Europe de la défense sans prétendre s’y substituer",
           "page": "p. 52",
           "note": "Proposition 25 : « dans l'OTAN sans rien y abdiquer »."
-        },
-        {
-          "questionId": "eur-12",
-          "value": -1,
-          "quote": "Ce sursaut appelle une réforme budgétaire et une politique industrielle commune ; une doctrine de la concurrence moins dogmatique et une approche commerciale moins naïve ; une défense crédible, enfin, et une politique migratoire pensée à l’échelle du continent",
-          "page": "p. 54",
-          "inferred": true,
-          "note": "Il renvoie la politique migratoire à l'échelle européenne ; aucun rétablissement de contrôles nationaux permanents ni suspension de Schengen n'est proposé."
         },
         {
           "questionId": "imm-06",
@@ -446,6 +422,57 @@
           "quote": "Elle repose sur la complémentarité du nucléaire et des énergies renouvelables, deux piliers d’une même indépendance",
           "inferred": true,
           "note": "Renouvelables présentés comme un pilier ; la lettre de 2026 parle de « rationalisation des investissements dans les énergies renouvelables », sans moratoire."
+        }
+      ]
+    },
+    {
+      "id": "cazeneuve-europe2024",
+      "date": "2024-03-10",
+      "title": "Discours de Bernard Cazeneuve à la convention thématique « L’Europe avec la Convention », Paris XI (espace Olympe de Gouges), 10 mars 2024",
+      "sourceType": "discours",
+      "sourceUrl": "https://assets.nationbuilder.com/laconvention/pages/348/attachments/original/1725484797/Discours-Convention-10-MARS-def.pdf",
+      "publisher": "La Convention",
+      "summary": "PDF du texte intégral (14 pages, « Seul le prononcé fait foi »), mis en ligne par La Convention sur la page « L’Europe avec la convention tenue à Olympes de GOUGES Paris XI » (https://www.la-convention.fr/convention_thematique_europe). Antérieur à la lettre de 2026 : utilisé seulement pour les sujets que la lettre ne traite pas, ou pour préciser une position qu’elle confirme. Copie archivée : https://web.archive.org/web/20260312125544/https://assets.nationbuilder.com/laconvention/pages/348/attachments/original/1725484797/Discours-Convention-10-MARS-def.pdf",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "C’est assumer l’ambition d’une véritable politique industrielle de défense : un fonds européen de défense puissant, des mécanismes d’achat groupé, et d’abord au profit de l’Ukraine",
+          "note": "Fonds européen de défense puissant, achats groupés et « pilier européen fort » dans l'OTAN. La lettre de 2026 confirme : « architecture européenne de sécurité », coopérations européennes planifiées, « protection antimissile coordonnée du continent », mais « sans prétendre s'y substituer » à la défense nationale."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2,
+          "quote": "Ce qui se joue actuellement en Ukraine a quelque chose d’existentiel pour le projet européen, parce que si nous laissons la Russie gagner en Ukraine, si nous tolérons la victoire de l’autocratie et de la violence, POUTINE poursuivra sa course folle. Ne pas aider l’Ukraine à sauver sa liberté serait, à terme, renoncer à la nôtre",
+          "inferred": true,
+          "note": "Il propose un fonds européen de défense et des « mécanismes d'achat groupé, et d'abord au profit de l'Ukraine » ; la lettre de 2026 confirme (« la défense de l'Ukraine indissociable de l'idée d'un continent libre »). Ni la durée du soutien ni les armes de longue portée ne sont nommées."
+        },
+        {
+          "questionId": "eur-12",
+          "value": -1,
+          "quote": "Nous croyons aussi que l’Europe peut défendre efficacement ses frontières dans le respect des droits humains, en redéfinissant pour le clarifier le mandat de l’agence Frontex ou en œuvrant à la mise en place d’un système d’asile unifié à l’échelle européenne",
+          "inferred": true,
+          "note": "Il traite les frontières et l'asile à l'échelle européenne (mandat de Frontex clarifié, système d'asile unifié) ; la lettre de 2026 reprend « une politique migratoire pensée à l'échelle du continent ». Aucun rétablissement de contrôles nationaux permanents ni suspension de Schengen n'est proposé."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 1,
+          "quote": "Plus concrètement encore, cela signifie la pérennisation et l’amplification de la capacité d’endettement proprement européenne, sans laquelle il n’est pas de capacités d’investissement authentiquement européennes",
+          "inferred": true,
+          "note": "Il demande une capacité d'endettement et d'investissement propre à l'Union et pose « la question de la justice fiscale continentale » (rééquilibrage capital/travail au niveau européen) ; l'expression « ressources propres » n'est pas employée."
+        },
+        {
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "Mais nous sommes aussi la gauche qui n’esquive pas le débat sur l’immigration avec la droite. Précisément parce que nous n’opposons pas accueillir et maîtriser, réguler et intégrer, attachés que nous sommes à la conception républicaine de la nation – communauté d’adhésion à des valeurs et contrat fondé sur le droit du sol",
+          "inferred": true,
+          "note": "Attachement explicite au droit du sol comme fondement de la conception républicaine de la nation. Discours de mars 2024 : la lettre de 2026 ne revient pas sur le sujet."
         }
       ]
     },
