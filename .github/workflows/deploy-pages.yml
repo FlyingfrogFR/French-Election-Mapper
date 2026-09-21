@@ -38,6 +38,11 @@ jobs:
           VITE_FEEDBACK_ORIGIN: ${{ vars.VITE_FEEDBACK_ORIGIN }}
         run: npm run build
       - uses: actions/configure-pages@v5
+        with:
+          # Activates GitHub Pages on the repository if it is not already on, instead of failing with
+          # "Get Pages site failed". Needs the `pages: write` permission declared above. Without this,
+          # a human has to open Settings → Pages and pick "GitHub Actions" before the first deployment.
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
