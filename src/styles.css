@@ -118,7 +118,8 @@ button.link { background: none; border: none; padding: 0; color: var(--accent); 
 .mode-choice input { margin-right: 8px; }
 
 /* Questionnaire */
-.questionnaire { display: grid; grid-template-columns: 240px 1fr; gap: 24px; align-items: start; }
+.questionnaire { display: grid; grid-template-columns: 240px 1fr; gap: 24px; align-items: start; min-width: 0; }
+.questionnaire > * { min-width: 0; }
 @media (max-width: 860px) { .questionnaire { grid-template-columns: 1fr; } .topic-nav { position: static !important; } }
 .topic-nav { position: sticky; top: 70px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
 .topic-nav ol { list-style: none; padding: 0; margin: 10px 0; }
@@ -172,7 +173,8 @@ button.link { background: none; border: none; padding: 0; color: var(--accent); 
 .bar { position: relative; height: 22px; background: var(--accent-soft); border-radius: 6px; min-width: 120px; overflow: hidden; }
 .bar-fill { height: 100%; background: var(--accent); }
 .bar-value { position: absolute; inset: 0; display: flex; align-items: center; padding-left: 8px; font-size: 0.85rem; font-weight: 600; color: var(--text); mix-blend-mode: difference; color: #fff; }
-.table-scroll { overflow-x: auto; }
+.table-scroll { overflow-x: auto; max-width: 100%; }
+.card { min-width: 0; }
 .compare td, .compare th { min-width: 160px; }
 .compare td:first-child { min-width: 260px; }
 .source-line { font-size: 0.8rem; color: var(--muted); margin-top: 4px; }
@@ -219,7 +221,8 @@ button.link { background: none; border: none; padding: 0; color: var(--accent); 
 
 /* On small screens the topic list becomes a horizontal strip so the questions stay above the fold. */
 @media (max-width: 860px) {
-  .topic-nav ol { display: flex; overflow-x: auto; gap: 4px; padding-bottom: 4px; scrollbar-width: thin; }
+  .topic-nav { min-width: 0; }
+  .topic-nav ol { display: flex; overflow-x: auto; gap: 4px; padding-bottom: 4px; scrollbar-width: thin; max-width: 100%; }
   .topic-nav li { flex: 0 0 auto; }
   .topic-nav li a { flex-direction: column; align-items: flex-start; gap: 0; border: 1px solid var(--border); }
   .topic-nav li.current a { border-color: var(--accent); }

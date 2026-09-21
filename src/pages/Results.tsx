@@ -6,6 +6,7 @@ import { candidateById, dataset, questionsByTopic } from '../lib/dataset';
 import { buildAnonymousPayload, feedbackEndpoint, sendAnonymousFeedback } from '../lib/feedback';
 import { formatDate } from '../lib/format';
 import { CONFIDENCE_WEIGHTS, percent, type CandidateResult } from '../lib/matching';
+import { quoteKey, useQuotes } from '../lib/quotes';
 import { exportState, loadState, type Feedback } from '../lib/storage';
 import { useAppState } from '../state/AppState';
 
@@ -27,6 +28,7 @@ function downloadJson(name: string, content: string) {
 
 export default function Results() {
   const { results, feedback, setFeedback, reset } = useAppState();
+  const quotes = useQuotes();
   const [compare, setCompare] = useState<string[]>([]);
   const [sending, setSending] = useState<'idle' | 'sending' | 'sent' | 'failed'>('idle');
   const [consent, setConsent] = useState(false);
@@ -338,7 +340,7 @@ export default function Results() {
                                       source
                                     </a>{' '}
                                     · {formatDate(p.date)} · <ReviewBadge status={p.review} /> <InferredBadge inferred={p.inferred} />
-                                    <Quote text={p.quote} />
+                                    <Quote text={quotes[quoteKey(s.candidate.id, q.id)]?.quote} />
                                     {p.note && <div className="note">{p.note}</div>}
                                   </div>
                                 )}

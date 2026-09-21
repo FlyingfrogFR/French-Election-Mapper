@@ -155,11 +155,15 @@ export interface DerivedPosition {
   sourceUrl: string;
   sourceTitle: string;
   sourceType: (typeof SOURCE_TYPES)[number];
+  /** Only in the full audit copy: the app fetches quotes separately (see public/data/quotes.json). */
   quote?: string;
   page?: string;
   inferred?: boolean;
   note?: string;
 }
+
+/** Lazily fetched map of verbatim quotes, keyed by `<candidateId>|<questionId>`. */
+export type QuoteMap = Record<string, { quote: string; page?: string }>;
 
 export interface CandidateRecord extends Candidate {
   positions: Record<string, DerivedPosition>;
@@ -168,8 +172,12 @@ export interface CandidateRecord extends Candidate {
   stats: { known: number; verified: number; pending: number; disputed: number; declarations: number };
 }
 
-export interface DeclarationRecord extends Declaration {
+export interface DeclarationRecord extends Omit<Declaration, 'positions'> {
   candidateId: string;
+  /** Number of positions this declaration sets. The positions themselves are only in the audit copy. */
+  positionCount: number;
+  /** Present in the full audit copy served at data/dataset.json, omitted from the bundled copy. */
+  positions?: Declaration['positions'];
 }
 
 export interface Dataset {

@@ -26,7 +26,7 @@ function rss(ds: Dataset, siteUrl: string): string {
       <link>${escapeXml(d.sourceUrl)}</link>
       <guid isPermaLink="false">${escapeXml(d.id)}</guid>
       <pubDate>${new Date(`${d.date}T12:00:00Z`).toUTCString()}</pubDate>
-      <description>${escapeXml(d.summary)} (${d.positions.length} position(s) renseignée(s), statut : ${d.review.status})</description>
+      <description>${escapeXml(d.summary)} (${d.positionCount} position(s) renseignée(s), statut : ${d.review.status})</description>
     </item>`,
     )
     .join('\n');
@@ -50,9 +50,28 @@ try {
     ? new Date(Number(process.env.SOURCE_DATE_EPOCH) * 1000).toISOString()
     : new Date().toISOString();
   const dataset = deriveDataset(raw, generatedAt);
+  // Full audit copy: everything, including every quote and every declaration's positions.
   const json = JSON.stringify(dataset, null, 2);
-  // The bundled copy is compact (smaller download); the public copy is pretty-printed (easier to audit).
-  const compact = JSON.stringify(dataset);
+
+  // Bundled copy: same positions and provenance, but the verbatim quotes and the declarations'
+  // position lists are left out. They are large and only needed on demand, so the app fetches
+  // quotes.json when it actually displays a quote. Nothing else differs.
+  const quotes: Record<string, { quote: string; page?: string }> = {};
+  const app = {
+    ...dataset,
+    candidates: dataset.candidates.map((c) => ({
+      ...c,
+      positions: Object.fromEntries(
+        Object.entries(c.positions).map(([qid, p]) => {
+          if (p.quote) quotes[`${c.id}|${qid}`] = { quote: p.quote, ...(p.page ? { page: p.page } : {}) };
+          const { quote: _quote, page: _page, ...rest } = p;
+          return [qid, rest];
+        }),
+      ),
+    })),
+    declarations: dataset.declarations.map(({ positions: _positions, ...d }) => d),
+  };
+  const compact = JSON.stringify(app);
 
   const generatedDir = join(ROOT, 'src', 'generated');
   const publicDir = join(ROOT, 'public', 'data');
@@ -61,6 +80,7 @@ try {
   writeFileSync(join(generatedDir, 'dataset.json'), compact);
   writeFileSync(join(publicDir, 'dataset.json'), json);
   writeFileSync(join(publicDir, 'VERSION'), `${dataset.version}\n`);
+  writeFileSync(join(publicDir, 'quotes.json'), JSON.stringify(quotes));
   writeFileSync(join(publicDir, 'updates.xml'), rss(dataset, process.env.VITE_SITE_URL ?? 'https://example.org/'));
 
   console.log(

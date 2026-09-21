@@ -2,11 +2,13 @@ import { Link, useParams } from 'react-router-dom';
 import { InferredBadge, PositionChip, Quote, ReviewBadge, StatusBadge } from '../components/Badges';
 import { candidateById, dataset, questionsByTopic } from '../lib/dataset';
 import { formatDate } from '../lib/format';
+import { quoteKey, useQuotes } from '../lib/quotes';
 import { SOURCE_TYPE_LABELS } from '../lib/schema';
 import NotFound from './NotFound';
 
 export default function CandidateDetail() {
   const { candidateId } = useParams();
+  const quotes = useQuotes();
   const c = candidateId ? candidateById.get(candidateId) : undefined;
   if (!c) return <NotFound />;
   const decls = dataset.declarations.filter((d) => d.candidateId === c.id);
@@ -76,10 +78,10 @@ export default function CandidateDetail() {
                         <a href={p.sourceUrl} rel="noopener noreferrer">
                           {p.sourceTitle}
                         </a>{' '}
-                        {p.page && <> (p. {p.page})</>} · {SOURCE_TYPE_LABELS[p.sourceType]} · {formatDate(p.date)} · <ReviewBadge status={p.review} />{' '}
+                        {quotes[quoteKey(c.id, q.id)]?.page && <> (p. {quotes[quoteKey(c.id, q.id)]?.page})</>} · {SOURCE_TYPE_LABELS[p.sourceType]} · {formatDate(p.date)} · <ReviewBadge status={p.review} />{' '}
                         <InferredBadge inferred={p.inferred} />
                       </p>
-                      <Quote text={p.quote} />
+                      <Quote text={quotes[quoteKey(c.id, q.id)]?.quote} />
                       {p.note && <p className="note">{p.note}</p>}
                     </li>
                   );
@@ -105,7 +107,7 @@ export default function CandidateDetail() {
                 <a href={d.sourceUrl} rel="noopener noreferrer">
                   Consulter la source
                 </a>{' '}
-                · {d.positions.length} position{d.positions.length > 1 ? 's' : ''} renseignée{d.positions.length > 1 ? 's' : ''} · identifiant <code>{d.id}</code>
+                · {d.positionCount} position{d.positionCount > 1 ? 's' : ''} renseignée{d.positionCount > 1 ? 's' : ''} · identifiant <code>{d.id}</code>
               </p>
               {d.review.notes && <p className="note">{d.review.notes}</p>}
             </li>

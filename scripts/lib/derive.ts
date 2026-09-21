@@ -26,7 +26,7 @@ export function datasetHash(raw: RawData): string {
 
 export function deriveDataset(raw: RawData, generatedAt: string): Dataset {
   const declarations: DeclarationRecord[] = raw.declarationFiles
-    .flatMap((f) => f.declarations.map((d) => ({ ...d, candidateId: f.candidateId })))
+    .flatMap((f) => f.declarations.map((d) => ({ ...d, candidateId: f.candidateId, positionCount: d.positions.length })))
     .sort((a, b) => (a.date === b.date ? a.id.localeCompare(b.id) : b.date.localeCompare(a.date)));
 
   const byCandidate = new Map<string, DeclarationRecord[]>();
@@ -45,7 +45,7 @@ export function deriveDataset(raw: RawData, generatedAt: string): Dataset {
       const positions: Record<string, DerivedPosition> = {};
       // Declarations are sorted newest first: the first one that mentions a question wins.
       for (const d of decls) {
-        for (const p of d.positions) {
+        for (const p of d.positions ?? []) {
           if (positions[p.questionId]) continue;
           positions[p.questionId] = {
             value: p.value,

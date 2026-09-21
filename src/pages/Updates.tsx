@@ -43,7 +43,7 @@ export default function Updates() {
                     <a href={d.sourceUrl} rel="noopener noreferrer">
                       Source
                     </a>{' '}
-                    · {d.positions.length} position{d.positions.length > 1 ? 's' : ''}
+                    · {d.positionCount} position{d.positionCount > 1 ? 's' : ''}
                   </p>
                 </li>
               );
