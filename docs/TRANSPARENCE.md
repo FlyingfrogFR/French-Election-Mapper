@@ -55,10 +55,19 @@ npm run data:check-quotes                        # toutes les positions
 npm run data:check-quotes -- --candidate=melenchon
 ```
 
-Le script télécharge chaque source citée (page web ou PDF), la normalise et cherche la citation.
-Il échoue si une citation est introuvable dans la source. Une source peut être signalée « injoignable »
-lorsque son éditeur bloque les téléchargements automatisés : cela ne veut pas dire que la citation est
-fausse, mais que la vérification doit être refaite à la main.
+Le script télécharge chaque source citée (page web ou PDF, y compris les copies archivées), la
+normalise (espaces, apostrophes, tirets, ligatures, entités HTML, mots coupés en fin de ligne des PDF)
+et cherche la citation. Il échoue si une citation est introuvable dans la source.
+
+**Résultat du contrôle complet** sur les 1553 positions issues de 229 documents officiels de
+21 candidat·es : 1364 citations retrouvées mot pour mot, 59 retrouvées à des coupures de
+lignes près dans des PDF, **aucune introuvable**.
+
+130 citations n'ont pas pu être contrôlées automatiquement : elles proviennent toutes du programme
+des Écologistes, dont l'hébergeur refuse les téléchargements automatisés (erreur 403). Elles ont été
+vérifiées à la main sur le PDF officiel ouvert dans un navigateur. Pour refaire ce contrôle, ouvrez le
+document, enregistrez son texte, puis relancez le script en pointant `QUOTES_CACHE` sur un dossier
+contenant ce texte (le nom du fichier est l'empreinte SHA-1 de l'URL, suivie de `.txt`).
 
 ## 8. Licences
 
