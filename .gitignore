@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+dist/
+coverage/
+# Generated at build time from data/ (see scripts/build-dataset.ts)
+src/generated/
+public/data/
+# Feedback server local store (never commit aggregated counters by accident)
+server/store/
+.env
+.env.*
+*.log
+.DS_Store

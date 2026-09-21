@@ -1,0 +1,560 @@
+{
+  "candidateId": "asselineau",
+  "declarations": [
+    {
+      "id": "asselineau-upr-programme-2022",
+      "date": "2022-02-15",
+      "title": "Notre programme de libération nationale pour 2022 – Programme présidentiel de François Asselineau (28 engagements)",
+      "sourceType": "programme",
+      "sourceUrl": "https://upr.fr/notre-programme/programme-2022",
+      "publisher": "Union Populaire Républicaine (site officiel upr.fr)",
+      "summary": "Programme présidentiel 2022, republié sur le site rénové de l’UPR (2026) ; le PDF associé (20220215_Programme-presi-leg-2022.pdf) est daté du 15/02/2022. La page « Notre programme » indique : « Notre programme présidentiel 2027 sera publié prochainement. En cours d’élaboration ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 1,
+          "quote": "Ainsi, sera mise en place une exemption pure et simple de TVA sur les denrées alimentaires vendues en circuit court ou coopératif, ainsi que sur les produits français issus de l’agriculture biologique ou de permaculture.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#14--la-relocalisation-écologique",
+          "note": "Soutien fiscal (exemption de TVA) plutôt qu’aides directes."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Nous interdirons les élevages en batterie et industriels de type « ferme de 1 000 vaches ».",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#15--revenus-des-agriculteurs-25"
+        },
+        {
+          "questionId": "def-01",
+          "value": 2,
+          "quote": "Nous porterons le budget de la défense à hauteur d’au moins 3% du PIB sur la durée du quinquennat (contre 1,9% en 2019)",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#26--la-france-et-son-armée"
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "La force de défense doit se doter des techniques les plus modernes d’armement, en revalorisant la filière française de production",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#26--la-france-et-son-armée",
+          "note": "Valorisation de la filière française ; pas d’obligation d’achat national « même plus cher »."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 1,
+          "quote": "Nous réaliserons le plus grand plan d’économies budgétaires des 50 dernières années, sans dégrader la qualité des services publics.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#4--plus-27-milliards-déconomies-par-an",
+          "note": "27 Md€ d’économies annuelles (sortie de l’UE et de l’OTAN, suppression des conseils régionaux…), mais objectif de financer services publics et baisses d’impôts, sans référence au seuil de 3 % dont l’UPR refuse la contrainte."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 1,
+          "quote": "ainsi que d’un impôt exceptionnel de solidarité pour les quelques dizaines de très grandes fortunes s’étant accrues pendant la crise de la Covid-19",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#6--fiscalité--soulager-les-classes-moyennes",
+          "note": "Impôt exceptionnel ciblé sur les très grandes fortunes, pas un ISF permanent."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 1,
+          "quote": "Attachés à favoriser la transmission entre les générations, nous diminuerons de 5 points l’ensemble des droits de succession en dessous d’une valeur de 300 000 € par héritier.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#6--fiscalité--soulager-les-classes-moyennes",
+          "note": "Baisse limitée (5 points) sous 300 000 € par héritier."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "À la baisse de la TVA sur une large gamme de produits de consommation courante, et à la fin de la double-taxation des carburants (TVA payée sur les prix déjà augmentés par la TICPE)",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#6--fiscalité--soulager-les-classes-moyennes",
+          "note": "Fin de la TVA sur la TICPE et baisse de TVA sur les produits courants ; pas de taux de 5,5 % sur l’énergie."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "les tarifs de l’électricité et du gaz seront gelés pendant au moins les deux premières années du mandat, et nous imposerons une baisse de 10% des tarifs autoroutiers.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#7--retour-des-services-publics",
+          "note": "Gel des tarifs de l’énergie et baisse des péages ; pas de blocage général des produits de première nécessité."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "La France doit redevenir un modèle d’innovation pour le monde. Pour cela, l’État doit reprendre son rôle d’acteur stratégique dans les investissements d’avenir.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#10--investir-dans-la-recherche",
+          "note": "Contrôle des changes et des capitaux contre les délocalisations, pôle public du médicament, écotaxe sur les poids lourds étrangers, politique agricole nationale."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "À la création de deux nouvelles tranches d’imposition pour les très hauts revenus (supérieurs à 250 000 € et 500 000 € par an)",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#6--fiscalité--soulager-les-classes-moyennes"
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Nous renationaliserons ou cesserons le processus de privatisation rampante et de dégradation de la qualité de service de plusieurs grandes entreprises, en particulier :",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#7--retour-des-services-publics",
+          "note": "Liste : gaz, eau, EDF, ENEDIS, La Poste, concessionnaires d’autoroutes, TDF, RATP et SNCF ; référendum pour inscrire la propriété nationale des grands services publics dans la Constitution."
+        },
+        {
+          "questionId": "edu-01",
+          "value": 1,
+          "quote": "Le port de vêtements neutres pour les élèves sera favorisé",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#8--reconstruire-lécole",
+          "note": "Tenue neutre « favorisée », non imposée."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Dans le secteur public, c’est l’échelle des rémunérations et, en priorité, celle des fonctionnaires de terrain (personnel hospitalier, policiers et gendarmes, militaires, enseignants) qui sera revue pour s’aligner sur cette augmentation générale du pouvoir d’achat.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#1--pouvoir-dachat-pour-tous-smic-24",
+          "note": "Revalorisation alignée sur la hausse du SMIC (+24 %), partagée avec d’autres fonctionnaires de terrain."
+        },
+        {
+          "questionId": "edu-10",
+          "value": 1,
+          "quote": "l’interdiction des téléphones portables en cours sera scrupuleusement appliquée dans les faits, sous peine de sanctions disciplinaires.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#8--reconstruire-lécole",
+          "note": "Interdiction « en cours » appliquée à tous les niveaux ; pas de mesure spécifique aux lycées."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Nous aiderons notre jeunesse et lutterons contre la précarité étudiante en réévaluant les bourses de 25% sur le quinquennat et pérennisant les repas à 1€.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#17--famille--assurer-lavenir",
+          "note": "Revalorisation de 25 % du montant, pas d’extension explicite à davantage de familles."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Nous mettrons un terme à la politique d’ouverture de nos services publics à la concurrence imposée par la Commission européenne.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#7--retour-des-services-publics",
+          "inferred": true,
+          "note": "Sortie de l’UE, gel des tarifs de l’électricité et du gaz, fin du projet Hercule : sortie du marché européen de l’électricité implicite."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Nous interdirons les pesticides dangereux pour la santé humaine et la biodiversité tels le glyphosate, en nous assurant qu’il n’y ait pas de perte de revenus pour les agriculteurs.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#15--revenus-des-agriculteurs-25",
+          "inferred": true
+        },
+        {
+          "questionId": "env-08",
+          "value": -1,
+          "quote": "La mondialisation sauvage est la première responsable du dérèglement climatique. En sortir sera bien plus efficace que n’importe quelle mesure d’écologie punitive.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#14--la-relocalisation-écologique",
+          "inferred": true,
+          "note": "Rejet de l’« écologie punitive » ; une écotaxe est prévue uniquement sur les poids lourds étrangers."
+        },
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Créant un grand plan d’incitations et d’investissement pour favoriser le recours au ferroutage (transport des camions par le rail) dans le transit des marchandises",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#14--la-relocalisation-écologique",
+          "note": "Interdiction de toute fermeture de petite ligne ferroviaire ; l’effet sur la dette n’est pas discuté."
+        },
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Cela impose en premier lieu de dénoncer juridiquement les traités européens, de sortir de l’UE et de l’euro, de sortir de l’OTAN",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#programme-2022"
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Interdire tous les transferts de souveraineté à des institutions supranationales qui ne soient pas strictement limités dans leur objet et dans leur temps",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#13--le-ric-et-la-démocratisation",
+          "inferred": true,
+          "note": "Suppression des références à la construction européenne dans la Constitution et sortie de l’UE : primauté du droit national obtenue par le Frexit."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Interdire tous les transferts de souveraineté à des institutions supranationales qui ne soient pas strictement limités dans leur objet et dans leur temps",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#13--le-ric-et-la-démocratisation",
+          "inferred": true,
+          "note": "Sortie de l’UE et de l’OTAN, « armée forte et autonome » : opposition à une défense européenne intégrée."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Nous engagerons notre retrait de l’OTAN, indispensable pour retrouver une diplomatie souveraine et respectée dans le monde entier",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#27--être-une-puissance-déquilibre"
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Nous garantirons et revaloriserons de 25% les revenus des agriculteurs, et cesserons immédiatement les négociations de traités transcontinentaux.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#15--revenus-des-agriculteurs-25",
+          "inferred": true,
+          "note": "Le Mercosur n’est pas nommé ; le CETA est dénoncé et les traités transcontinentaux de type TAFTA rejetés."
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2,
+          "quote": "Pour réinvestir dans l’hôpital, il faut nous libérer des contraintes budgétaires de l’UE et l’euro.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#11--hôpital--30-000-lits"
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "Cela impose en premier lieu de dénoncer juridiquement les traités européens, de sortir de l’UE et de l’euro, de sortir de l’OTAN",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#programme-2022"
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "Pour ce faire, nous nous retirerons de l’Espace Schengen et établirons des contrôles à toutes les frontières, en tenant compte des accommodements nécessaires, par exemple pour les travailleurs frontaliers.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#22--contrôler-limmigration"
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Suppression des coûts budgétaires liés à notre appartenance à l’Union européenne (12 milliards d’euros par an d’économies)",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#4--plus-27-milliards-déconomies-par-an",
+          "inferred": true
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Nous ferons respecter nos frontières dès la première année du quinquennat, en donnant un coup d’arrêt à l’immigration subie.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#22--contrôler-limmigration",
+          "note": "Contrôle des frontières et niveau « soutenable » ; pas de quotas votés par le Parlement."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Un référendum organisé avant la fin de l’année 2022 demandera notamment aux Français de trancher : • La politique de regroupement familial ; • Les modifications à apporter au droit du sol",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#22--contrôler-limmigration"
+        },
+        {
+          "questionId": "imm-03",
+          "value": 0,
+          "quote": "Un référendum organisé avant la fin de l’année 2022 demandera notamment aux Français de trancher : • La politique de regroupement familial ; • Les modifications à apporter au droit du sol",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#22--contrôler-limmigration",
+          "note": "La politique de regroupement familial est renvoyée à un référendum, sans position propre."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 1,
+          "quote": "Les modifications à apporter au droit du sol, dont le système actuel pose des problèmes particulièrement criants à Mayotte et en Guyane.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#22--contrôler-limmigration",
+          "inferred": true,
+          "note": "Modifications du droit du sol soumises à référendum ; le « système actuel » est jugé problématique."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2,
+          "quote": "Il n’est plus possible que l’Europe occidentale en général, et la France en particulier, soient la destination ultra-majoritaire des réfugiés",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#22--contrôler-limmigration",
+          "inferred": true
+        },
+        {
+          "questionId": "imm-08",
+          "value": 1,
+          "quote": "Proposer aux Français de modifier la Constitution pour instaurer la déchéance de nationalité française des personnes ayant rejoint à l’étranger une entreprise terroriste portant atteinte aux intérêts fondamentaux de la nation",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#24--lutter-vraiment-contre-le-terrorisme",
+          "note": "Déchéance limitée aux personnes ayant rejoint une entreprise terroriste à l’étranger."
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "quote": "Nous retirerons la France de certains articles de la Convention européenne des Droits de l’Homme (CEDH) pour la même raison.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#22--contrôler-limmigration",
+          "note": "« pour la même raison » : contrôle des arrivées et reconduites à la frontière."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Nous proposerons ainsi aux Français de modifier la constitution pour : • Créer le Référendum d’initiative citoyenne (RIC)",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#13--le-ric-et-la-démocratisation"
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Introduire un système de proportionnelle partielle aux élections législatives",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#13--le-ric-et-la-démocratisation"
+        },
+        {
+          "questionId": "ins-05",
+          "value": 2,
+          "quote": "Réduire de 35% le nombre de parlementaires en portant le nombre de députés de 577 à 500 et le nombre de sénateurs de 348 à environ 100",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#13--le-ric-et-la-démocratisation"
+        },
+        {
+          "questionId": "ins-06",
+          "value": 1,
+          "quote": "Rétablir le septennat pour le mandat du Président de la République, et passer la durée du mandat des députés de 5 à 4 ans",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#13--le-ric-et-la-démocratisation",
+          "note": "Septennat rétabli ; caractère non renouvelable non précisé."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Suppression des Conseils régionaux – remplacés par des Établissements publics administratifs de coopération légers",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#4--plus-27-milliards-déconomies-par-an"
+        },
+        {
+          "questionId": "lib-07",
+          "value": 2,
+          "quote": "Parce que certains États sont engagés dans la promotion d’un islam radical, nous interdirons tout financement étranger des lieux de culte en France",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#24--lutter-vraiment-contre-le-terrorisme"
+        },
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "nous veillerons à la bonne application des dispositions protégeant les femmes victimes de violences : traitement de toutes les plaintes, éloignement du conjoint violent, bracelets anti-rapprochement.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#23--sécurité--renforcement-police-et-justice",
+          "note": "Application des dispositifs existants ; pas de budget dédié ni de juridictions spécialisées."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 1,
+          "quote": "Nous protègerons la souveraineté numérique de la France et défendrons la liberté d’expression des Français face aux GAFAM.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#25--linternet-libre-et-souverain",
+          "inferred": true,
+          "note": "Chapitre « Retour aux libertés » : interdiction constitutionnelle des confinements généralisés et de la surveillance ; le droit de manifestation n’est pas traité."
+        },
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "Nous lutterons enfin contre l’étalement urbain qui participe à l’artificialisation des sols",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#14--la-relocalisation-écologique",
+          "inferred": true,
+          "note": "Lutte contre l’artificialisation (moratoire sur les zones commerciales périphériques) ; le ZAN n’est pas nommé."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Nous soutiendrons un développement équilibré du territoire, en rétablissant des obligations de service public exigeantes dans les zones rurales.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#7--retour-des-services-publics",
+          "note": "Moratoire sur la fermeture d’hôpitaux publics et de maternités, interdiction de fermer les petites lignes ferroviaires."
+        },
+        {
+          "questionId": "num-02",
+          "value": -1,
+          "quote": "Nous imposerons par la loi à tous les médias audiovisuels privés et publics de diffuser un nombre suffisant de productions cinématographiques françaises classiques et contemporaines",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#9--culture--priorité-patrimoine",
+          "inferred": true,
+          "note": "L’audiovisuel public est maintenu et encadré (Cour supérieure de l’audiovisuel) ; TDF renationalisée."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Nous taxerons les multinationales géantes du net (en particulier les GAFAM) sur leurs profits réalisés grâce au marché français, sous peine d’exclusion de ce marché.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#25--linternet-libre-et-souverain"
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "nous interdirons en conséquence la concentration des médias dans les mains de grands groupes",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#13--le-ric-et-la-démocratisation"
+        },
+        {
+          "questionId": "num-07",
+          "value": -2,
+          "quote": "De même, nous proposerons l’interdiction constitutionnelle de toute surveillance généralisée de la population, par QR code, Passe sanitaire ou vaccinal , Digital ID Wallet etc.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#12--retour-aux-libertés"
+        },
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "Par réallocation interne et augmentation du budget du ministère de la Culture, nous multiplierons progressivement par 10 les fonds destinés aux grands projets de restauration historique",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#9--culture--priorité-patrimoine",
+          "note": "Aussi : budget de la recherche +50 %."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Nous augmenterons de 15% le budget de l’hôpital public dès le premier budget voté sous le quinquennat",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#11--hôpital--30-000-lits",
+          "note": "Réouverture de 30 000 lits, 80 % de l’apport budgétaire affecté aux lits et postes de soignants."
+        },
+        {
+          "questionId": "san-03",
+          "value": 1,
+          "quote": "nous encouragerons les Français à une pratique de santé préventive, en consolidant l’Assurance Maladie et mettant fin aux déremboursements.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#11--hôpital--30-000-lits",
+          "note": "Fin des déremboursements, sans engagement de remboursement à 100 %."
+        },
+        {
+          "questionId": "san-04",
+          "value": -1,
+          "quote": "nous encouragerons les Français à une pratique de santé préventive, en consolidant l’Assurance Maladie et mettant fin aux déremboursements.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#11--hôpital--30-000-lits",
+          "inferred": true,
+          "note": "Fin des déremboursements : orientation contraire à une hausse du reste à charge."
+        },
+        {
+          "questionId": "san-10",
+          "value": -2,
+          "quote": "Protection du consentement éclairé des patients et de la liberté vaccinale.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#12--retour-aux-libertés",
+          "note": "Suppression du passe sanitaire ou vaccinal."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Nous rétablirons des peines planchers pour les auteurs récidivistes de ces mêmes infractions, avec des planchers augmentant à chaque nouvelle récidive",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#23--sécurité--renforcement-police-et-justice"
+        },
+        {
+          "questionId": "sec-03",
+          "value": 1,
+          "quote": "en supprimant l’aménagement automatique des peines de moins d’un an pour les auteurs de ces infractions (ainsi que les auteurs de comportements qui présentent un risque élevé de dégénérer en infractions violentes, tels que les cambriolages et le trafic de stupéfiants)",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#23--sécurité--renforcement-police-et-justice",
+          "note": "Limité aux atteintes violentes aux personnes, cambriolages et trafic de stupéfiants."
+        },
+        {
+          "questionId": "sec-07",
+          "value": -2,
+          "quote": "Nous consacrerons également par la loi la neutralité du net et l’interdiction des dispositifs de surveillance généralisée.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#25--linternet-libre-et-souverain",
+          "inferred": true,
+          "note": "Interdiction constitutionnelle de toute surveillance généralisée de la population."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Nous augmenterons de 20% le budget de la justice et de 20% le budget de la police pour renforcer la chaîne pénale, afin que toute condamnation prononcée soit exécutée.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#23--sécurité--renforcement-police-et-justice",
+          "note": "+20 %, loin d’un doublement."
+        },
+        {
+          "questionId": "sec-11",
+          "value": 1,
+          "quote": "Nous introduirons dans notre droit pénal la peine de perpétuité incompressible pour les auteurs de crimes terroristes.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#24--lutter-vraiment-contre-le-terrorisme",
+          "note": "Perpétuité incompressible limitée aux crimes terroristes."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "l’augmentation des budgets de la police permettra de remettre en place une police de proximité dans les quartiers, qui a prouvé son efficacité.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#23--sécurité--renforcement-police-et-justice",
+          "note": "Police de proximité rétablie ; pas d’arbitrage explicite face aux unités d’intervention."
+        },
+        {
+          "questionId": "soc-01",
+          "value": 1,
+          "quote": "Pour ce faire, nous donnerons accès aux allocations familiales dès le premier enfant à charge, revaloriserons de 10% le montant des allocations versées pour le deuxième enfant, et de 15% le montant des allocations versées pour le troisième enfant.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#17--famille--assurer-lavenir",
+          "note": "Extension à « toutes les familles » et dès le premier enfant ; la fin explicite des conditions de ressources n’est pas formulée."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "La loi imposera donc que le montant des pensions soit systématiquement réévalué, chaque année, d’un niveau au moins égal au taux d’inflation",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#18--garantir-les-retraites",
+          "note": "Garantie d’indexation pour les pensions ; les minima sociaux ne sont pas visés."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "La lutte contre la fraude fiscale s’accompagnera d’un plan de répression de la fraude aux prestations sociales (estimée à un montant allant de 14 à 45 milliards d’euros par an).",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#5--fin-de-lévasion-fiscale-et-des-délocalisations",
+          "note": "Renforcement des contrôles ; pas de carte Vitale biométrique (l’UPR veut interdire la surveillance généralisée)."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Nous mettrons fin au processus de réforme – par le bas – des retraites, car le rebond d’activité que favorisera notre programme économique créera la richesse suffisante pour assurer l’équilibre du système de retraites dans un avenir prévisible.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#18--garantir-les-retraites",
+          "inferred": true,
+          "note": "Texte de février 2022, antérieur à la réforme de 2023 : refus des réformes « par le bas » et des GOPE imposant l’allongement des carrières."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Nous mettrons fin au processus de réforme – par le bas – des retraites, car le rebond d’activité que favorisera notre programme économique créera la richesse suffisante pour assurer l’équilibre du système de retraites dans un avenir prévisible.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#18--garantir-les-retraites",
+          "inferred": true
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Nous augmenterons le SMIC brut de +24% sur le quinquennat (soit une moyenne de +4,4% par an cumulés sur 5 ans)",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#1--pouvoir-dachat-pour-tous-smic-24"
+        },
+        {
+          "questionId": "tra-05",
+          "value": 1,
+          "quote": "Ainsi, les allocations-chômage pourront être supprimées après deux refus de propositions d’embauche correspondant aux critères géographiques du demandeur d’emploi.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#3--un-million-demplois",
+          "inferred": true,
+          "note": "Durcissement de l’indemnisation (suppression après deux refus) plutôt que réduction de la durée ; réservé aux « dernières années du quinquennat »."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "Nous proposerons ainsi aux Français d’inscrire dans la Constitution le principe selon lequel le régime général de retraites se fait par répartition.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#18--garantir-les-retraites",
+          "note": "La capitalisation reste un choix « personnel et facultatif » hors régime général."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "Nous diminuerons les charges patronales de 50% pour les petites et moyennes entreprises et rétablirons le solde commercial de la France en 3 ans.",
+          "sourceUrl": "https://upr.fr/notre-programme/programme-2022#2--charges-patronales-pme--50",
+          "note": "Baisse ciblée sur les PME (toutes rémunérations), pas sur les bas salaires en particulier."
+        }
+      ]
+    },
+    {
+      "id": "asselineau-upr-fondamentaux",
+      "date": "2026-01-01",
+      "title": "Nos fondamentaux – Le mouvement de libération nationale pour : indépendance de la France, souveraineté du peuple, intérêt des Français",
+      "sourceType": "autre",
+      "sourceUrl": "https://upr.fr/nos-fondamentaux",
+      "publisher": "Union Populaire Républicaine (site officiel upr.fr)",
+      "summary": "Page de synthèse des fondamentaux du parti (site 2026). (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "Incessibilité de l’arme nucléaire et du siège permanent (ONU)",
+          "inferred": true,
+          "note": "Le programme 2022 propose aussi d’inscrire dans la Constitution l’incessibilité du siège au Conseil de sécurité."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2,
+          "quote": "La reconnaissance du vote blanc",
+          "note": "Figure parmi les fondamentaux « souveraineté du peuple »."
+        }
+      ]
+    },
+    {
+      "id": "asselineau-upr-analyse-2026-08-24",
+      "date": "2026-08-24",
+      "title": "Démentiel : Zelensky exige que l’UE lui verse beaucoup plus d’argent",
+      "sourceType": "communique",
+      "sourceUrl": "https://upr.fr/analyses/dementiel-zelensky-exige-que-lue-lui-verse-beaucoup-plus-dargent",
+      "publisher": "Union Populaire Républicaine (rubrique Analyses du site officiel)",
+      "summary": "Analyse publiée par le parti sur son site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Mais la probabilité s’accroît aussi de mois en mois que la Russie finisse par répliquer pour de bon aux frappes des missiles fournis par le Royaume-Uni et la France.",
+          "inferred": true,
+          "note": "L’UPR dénonce les milliards versés à l’Ukraine et les livraisons de missiles ; le programme 2022 (antérieur à la guerre) prévoyait la fin des sanctions contre la Russie."
+        }
+      ]
+    }
+  ]
+}

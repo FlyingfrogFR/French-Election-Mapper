@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Validate data, typecheck, test, build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - name: Validate data files (schema, sources, consistency)
+        run: npm run data:validate
+      - name: Build dataset and print its version
+        run: |
+          npm run data:build
+          echo "DATASET_VERSION=$(cat public/data/VERSION)" >> "$GITHUB_ENV"
+      - run: npm run typecheck
+      - run: npx vitest run
+      - run: npm run feedback:test
+      - run: npx vite build
+      - name: Summary
+        run: |
+          {
+            echo "### Jeu de données \`$DATASET_VERSION\`"
+            echo
+            npm run -s data:freshness -- --markdown
+          } >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,69 @@
+name: Mise à jour hebdomadaire des déclarations
+
+# Every Monday at 07:00 UTC (and on demand): opens or refreshes the weekly checklist issue that drives
+# the review of what every candidate declared during the week. See docs/MISES-A-JOUR.md.
+on:
+  schedule:
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  checklist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - name: Freshness report
+        run: npm run -s data:freshness -- --markdown > freshness.md
+      - name: Open or update the weekly issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('freshness.md', 'utf8');
+            const now = new Date();
+            const week = (() => {
+              const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+              const day = d.getUTCDay() || 7;
+              d.setUTCDate(d.getUTCDate() + 4 - day);
+              const yearStart = Date.UTC(d.getUTCFullYear(), 0, 1);
+              return `${d.getUTCFullYear()}-S${String(Math.ceil((((d - yearStart) / 86400000) + 1) / 7)).padStart(2, '0')}`;
+            })();
+            const title = `Mise à jour hebdomadaire des déclarations — semaine ${week}`;
+            const label = 'mise-a-jour-hebdo';
+            const body = [
+              `## ${title}`,
+              '',
+              'Objectif : pour chaque candidat·e, rechercher les prises de position publiques de la semaine (programme, discours, votes, entretiens, tribunes) et les ajouter dans `data/declarations/<candidat>.json` via une pull request qui cite la source.',
+              '',
+              report,
+              '',
+              '### Rappels',
+              '- Une position = une déclaration datée + une URL + un résumé ; jamais de position sans source.',
+              '- Une déclaration passe en `verified` seulement après relecture par une seconde personne.',
+              '- Les candidatures nouvelles ou retirées se déclarent dans `data/candidates.json` avec une source.',
+              '- Cette issue est générée automatiquement ; elle sera fermée quand toutes les cases seront cochées ou remplacée la semaine suivante.',
+            ].join('\n');
+            const { data: existing } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo, state: 'open', labels: label, per_page: 50,
+            });
+            const same = existing.find((i) => i.title === title);
+            if (same) {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: same.number, body: `Rapport de fraîcheur regénéré le ${now.toISOString().slice(0, 10)} :\n\n${report}` });
+              core.info(`Updated issue #${same.number}`);
+            } else {
+              for (const old of existing) {
+                await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: old.number, body: `Remplacée par la checklist de la semaine ${week}.` });
+                await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo, issue_number: old.number, state: 'closed', state_reason: 'completed' });
+              }
+              const { data: created } = await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title, body, labels: [label] });
+              core.info(`Created issue #${created.number}`);
+            }

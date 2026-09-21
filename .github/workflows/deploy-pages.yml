@@ -1,0 +1,52 @@
+name: Déploiement GitHub Pages
+
+# Deploys the static site on every push to main. Each deployment embeds the commit SHA and dataset hash
+# shown in the footer, so anyone can match what is served with what is in the repository.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - name: Build
+        env:
+          # Served from https://<owner>.github.io/<repo>/ unless a custom domain is configured (then set VITE_BASE_PATH=/ in repository variables).
+          VITE_BASE_PATH: ${{ vars.VITE_BASE_PATH || format('/{0}/', github.event.repository.name) }}
+          VITE_SITE_URL: ${{ vars.VITE_SITE_URL || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+          VITE_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          VITE_OPERATOR_NAME: ${{ vars.VITE_OPERATOR_NAME }}
+          VITE_OPERATOR_CONTACT: ${{ vars.VITE_OPERATOR_CONTACT }}
+          VITE_FEEDBACK_ENDPOINT: ${{ vars.VITE_FEEDBACK_ENDPOINT }}
+          VITE_FEEDBACK_ORIGIN: ${{ vars.VITE_FEEDBACK_ORIGIN }}
+        run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,565 @@
+{
+  "candidateId": "philippe",
+  "declarations": [
+    {
+      "id": "philippe-2024-09-candidature",
+      "date": "2024-09-03",
+      "title": "Annonce de candidature à l'élection présidentielle 2027",
+      "sourceType": "interview",
+      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "publisher": "Wikipédia (source secondaire)",
+      "summary": "Édouard Philippe annonce le 3 septembre 2024 qu'il sera candidat en 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+      },
+      "positions": []
+    },
+    {
+      "id": "philippe-ep-adidas",
+      "date": "2026-07-05",
+      "title": "Discours de lancement de campagne à l'Adidas Arena",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne)",
+      "summary": "Transcription intégrale publiée par le candidat ; également en ligne sur horizonsleparti.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "nous devons nous battre au niveau européen, pour exiger de nos partenaires commerciaux à l'extérieur de l'Europe, les mêmes exigences environnementales que celles qui pèsent sur nos producteurs"
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Nous sommes tout à fait capables de le faire aussi, en baissant la dépense plutôt qu'en augmentant les impôts. Et en travaillant plus.",
+          "note": "Objectif chiffré sur la page programme : ramener le déficit de plus de 5 % à 2 % du PIB en fin de quinquennat, avec une règle d'or constitutionnelle."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Et je vous le redis : il faut baisser les dépenses sociales, supprimer les niches fiscales, avant de songer à augmenter les impôts de ceux qui travaillent."
+        },
+        {
+          "questionId": "eco-10",
+          "value": -1,
+          "quote": "Aux catégories les plus aisées, qu'on n'a pas besoin de réinventer des impôts idiots pour leur demander, à elles aussi, de contribuer au redressement national.",
+          "inferred": true,
+          "note": "Il demande une contribution des plus aisés mais écarte la création de nouveaux impôts, et met les baisses de dépenses avant toute hausse d'impôt."
+        },
+        {
+          "questionId": "edu-01",
+          "value": -1,
+          "quote": "Liberté d'imposer ou non s'ils le veulent, le port d'un uniforme, de fixer les règles en matière de discipline en fonction des établissements.",
+          "note": "Il veut laisser le choix de l'uniforme à chaque établissement, donc pas de généralisation nationale."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Nous devrons mettre en oeuvre un grand plan fret ferroviaire pour faire disparaître des millions de camions de nos routes",
+          "note": "Plan massif sur le fret ferroviaire, mais dans un cadre de baisse de la dépense publique et de réduction du déficit."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Et oui, comme vous, je crois en l'Europe politique que nous construisons avec nos partenaires. Je crois dans une Europe forte, une Europe forte qui refuse le déclin et la vassalisation silencieuse."
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "En matière d'IA et de technologies, en matière d'énergie, de défense ou de marchés financiers, nous devons oser construire une souveraineté européenne intégrale, sans quoi nous serons toujours à la merci des plus nombreux ou des plus forts."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Un pays fidèle à son engagement européen, aux libertés en Europe. Aux côtés de l'Ukraine. Sans compromissions, sans ambiguïtés.",
+          "note": "Soutien affirmé à l'Ukraine ; rien sur la livraison d'armes de longue portée."
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2,
+          "quote": "Un pays fidèle à son engagement européen, aux libertés en Europe.",
+          "inferred": true,
+          "note": "Le manifeste d'Horizons fait du projet européen « la voie de la prospérité et de la souveraineté de la France » ; une sortie de l'euro est exclue, même si elle n'est pas discutée en tant que telle."
+        },
+        {
+          "questionId": "imm-11",
+          "value": -2,
+          "quote": "Ces pays n'ont pas modifié leur constitution, ils ne sont pas sortis de la Convention Européenne des Droits de l'Homme, ils ne sont pas sortis des traités européens. Et bien nous ferons comme eux, en veillant notamment à ce que les étrangers délinquants soient expulsés et n'aient plus droit aux aides sociales."
+        },
+        {
+          "questionId": "num-01",
+          "value": 1,
+          "quote": "Alors protégeons les plus jeunes, en fixant des limites.",
+          "inferred": true,
+          "note": "Il veut réglementer l'usage des écrans par les plus jeunes et défend « une régulation éthique et protectrice des enfants », sans énoncer de seuil de 15 ans pour les réseaux sociaux."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Alors oui, la Justice a besoin de beaucoup plus de moyens financiers, humains et numériques.",
+          "note": "Hausse des moyens revendiquée et poursuite du rattrapage engagé, mais aucun doublement du budget n'est promis ; il insiste sur le fait que « les moyens ne suffiront pas »."
+        },
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "quote": "J'assume de dire aux cadres et aux employés du secteur public et privé qu'il faudra travailler plus longtemps.",
+          "note": "La page programme parle de « travailler plus tout en prenant en compte la diversité des carrières » ; en entretien il cite les 67 ans italiens, espagnols et allemands comme la réponse européenne."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-entrepreneurs",
+      "date": "2026-01-01",
+      "title": "Ma proposition aux entrepreneurs, pour une politique économique de prospérité",
+      "sourceType": "communique",
+      "sourceUrl": "https://horizonsleparti.fr/ma-proposition-aux-entrepreneurs/",
+      "publisher": "Horizons",
+      "summary": "Texte signé d'Édouard Philippe publié sur le site de son parti. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": -2,
+          "quote": "C'est préparer l'avenir en aidant la jeunesse à réussir plutôt qu'en s'abandonnant et en se déchirant dans des débats d'arrière-garde : la suspension d'une réforme des retraites que chacun sait nécessaire, l'absurde taxe Zucman, le retour de l'ISF et la remise en cause du pacte Dutreil."
+        },
+        {
+          "questionId": "eco-03",
+          "value": -2,
+          "quote": "en se déchirant dans des débats d'arrière-garde : la suspension d'une réforme des retraites que chacun sait nécessaire, l'absurde taxe Zucman, le retour de l'ISF et la remise en cause du pacte Dutreil"
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-prospere",
+      "date": "2026-01-01",
+      "title": "Les priorités d'Édouard Philippe — Pour une France plus prospère",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page « Les priorités » du site de campagne : premières orientations du programme (économie, comptes publics, retraites, Europe économique, agriculture). (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Renforcer la compétitivité de notre agriculture : zéro surtransposition agricole, grand plan de transmission et de modernisation, création de 100 territoires de souveraineté alimentaire, inscription du développement agricole dans la Charte de l'environnement."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 1,
+          "quote": "Renforcer la compétitivité de notre agriculture : zéro surtransposition agricole, grand plan de transmission et de modernisation",
+          "inferred": true,
+          "note": "« Grand plan de transmission » annoncé ; il défend par ailleurs le pacte Dutreil contre sa remise en cause, sans détailler de nouvelles exonérations."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Conclure un pacte fiscal inédit avec les entreprises : 50 Md€ de baisses d'impôts de production contre 50 Md€ d'aides publiques improductives en moins, le plus grand choc de compétitivité jamais réalisé."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 0,
+          "quote": "Protéger le marché européen face à la concurrence déloyale chinoise, en imposant transferts de technologie, quotas de production et joint-ventures dans les secteurs stratégiques et permettre l'émergence de géants capables de sauver notre industrie automobile, sidérurgique et nucléaire.",
+          "note": "Position partagée : il défend des mesures fortes de protection commerciale, mais propose en même temps de supprimer 50 Md€ d'aides publiques aux entreprises, donc pas de réindustrialisation par la subvention."
+        },
+        {
+          "questionId": "eco-12",
+          "value": -1,
+          "quote": "Réorganiser massivement l'État en regroupant ou privatisant les agences et opérateurs enchevêtrés, et en simplifiant drastiquement les procédures.",
+          "inferred": true,
+          "note": "La privatisation visée porte sur les agences et opérateurs de l'État ; aucune nationalisation n'est proposée, et le manifeste d'Horizons plaide pour « un État moins dispendieux et recentré sur ses missions essentielles »."
+        },
+        {
+          "questionId": "eur-09",
+          "value": -2,
+          "quote": "Inscrire dans la Constitution une règle d'or de maîtrise des déficits, et ramener le déficit de plus de 5 % à 2 % du PIB en fin de quinquennat, comme l'ont fait l'Allemagne ou les Pays-Bas.",
+          "inferred": true,
+          "note": "Il veut aller au-delà des règles européennes (2 % de déficit) et inscrire une règle d'or dans la Constitution ; s'en affranchir est l'inverse de sa proposition."
+        },
+        {
+          "questionId": "san-02",
+          "value": -1,
+          "quote": "Stabiliser les dépenses de santé en dépensant mieux, en misant sur la prévention et les transformations technologiques plutôt que sur la seule hausse des moyens.",
+          "note": "À Reims (10 mai 2026) il disait vouloir « investir massivement dans notre système de santé » ; la page programme tranche pour la stabilisation des dépenses."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Garantir l'équilibre de notre système de retraites pour protéger les générations futures : travailler plus tout en prenant en compte la diversité des carrières, créer un pilier de capitalisation à 10-15 % des pensions d'ici quinze ans, confier la gestion du régime à l'équilibre aux partenaires sociaux."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "Rééquilibrer le financement du modèle social pour qu'il ne repose plus uniquement sur le travail et augmenter le salaire net des actifs.",
+          "inferred": true,
+          "note": "Allègement de la charge pesant sur le travail, sans ciblage explicite des bas salaires."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-france2",
+      "date": "2025-10-17",
+      "title": "Édouard Philippe était l'invité de Caroline Roux sur France 2",
+      "sourceType": "communique",
+      "sourceUrl": "https://horizonsleparti.fr/edouard-philippe-france-2-17-10-2025/",
+      "publisher": "Horizons",
+      "summary": "Compte rendu officiel de l'entretien publié par le parti du candidat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": -2,
+          "quote": "Édouard Philippe pense que c'est une concession trop importante qui va à l'encontre de la réalité : nous allons devoir collectivement travailler davantage. Dans la discussion parlementaire qui s'ouvrira, Horizons portera ses idées et nos parlementaires voteront contre cette suspension.",
+          "note": "Il s'oppose même à la simple suspension de la réforme de 2023, a fortiori à son abrogation."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-franceinter",
+      "date": "2025-06-04",
+      "title": "Édouard Philippe, invité du Grand entretien sur France Inter",
+      "sourceType": "communique",
+      "sourceUrl": "https://horizonsleparti.fr/edouard-philippe-etait-invite-du-grand-entretien-sur-france-inter-le-4-juin/",
+      "publisher": "Horizons",
+      "summary": "Compte rendu officiel de l'entretien publié par le parti du candidat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "L'essentiel, c'est le contre-discours, pas l'interdiction.",
+          "note": "Il est choqué par le voilement des fillettes mais doute de l'utilité et de la constitutionnalité d'une interdiction générale des signes religieux dans l'espace public."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Édouard Philippe déplore le fait que tous ceux qui racontent qu'on peut baisser l'âge de départ à la retraite sont dans le déni du réel."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-rtl",
+      "date": "2025-06-25",
+      "title": "Édouard Philippe, invité de RTL Matin",
+      "sourceType": "communique",
+      "sourceUrl": "https://horizonsleparti.fr/edouard-philippe-etait-linvite-de-rtl-matin-le-25-juin/",
+      "publisher": "Horizons",
+      "summary": "Compte rendu officiel de l'entretien publié par le parti du candidat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-06",
+          "value": 1,
+          "quote": "Selon Édouard Philippe, les 35 heures étaient une très mauvaise idée. Mais, réintroduire les 39 heures, n'apparaît pas forcément comme une très bonne idée non plus. Ce qui est vrai en tout cas, c'est qu'il va falloir travailler plus longtemps, dans la semaine, dans l'année, dans la vie.",
+          "note": "Assouplissement par la négociation plutôt que relèvement légal de la durée : il écarte explicitement un retour aux 39 heures imposées."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-marseille",
+      "date": "2025-05-17",
+      "title": "Discours du congrès de Marseille",
+      "sourceType": "discours",
+      "sourceUrl": "https://horizonsleparti.fr/discours-du-congres-de-marseille-17-mai-2025/",
+      "publisher": "Horizons",
+      "summary": "Congrès du parti dont Édouard Philippe est le président et le candidat désigné ; volet justice et sécurité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Bien sûr il faut construire des places de prison adaptées aux différents profils de détenus pour lutter contre la surpopulation carcérale.",
+          "note": "Construction de places de prison soutenue, sans objectif chiffré de 20 000 places."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 1,
+          "quote": "De l'injustice vécue par celui qui travaille dur pour gagner le SMIC, et qui ne comprend pas pourquoi son voisin, sans réellement travailler, gagne à peu près autant que lui.",
+          "inferred": true,
+          "note": "Il dénonce le fait que l'inactivité puisse rapporter autant que le travail, sans proposer de plafond chiffré des aides."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-sudradio",
+      "date": "2025-05-20",
+      "title": "Édouard Philippe, invité de Jean-Jacques Bourdin sur Sud Radio",
+      "sourceType": "communique",
+      "sourceUrl": "https://horizonsleparti.fr/edouard-philippe-etait-linvite-de-jean-jacques-bourdin-sur-sud-radio-le-20-mai/",
+      "publisher": "Horizons",
+      "summary": "Compte rendu officiel de l'entretien publié par le parti du candidat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 1,
+          "quote": "Sur le fond, sur cette question redoutablement complexe, il dit être, au fond de lui-même, partisan du système qui permettra le mieux possible et de façon encadrée aux gens de choisir.",
+          "note": "Favorable sur le principe à un dispositif encadré, tout en réservant sa position sur le texte en discussion."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-enfants",
+      "date": "2026-01-01",
+      "title": "Les priorités d'Édouard Philippe — Pour une France plus attentive à ses enfants",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Protection de l'enfance, école, politique familiale. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Revaloriser massivement le métier de professeur en augmentant les rémunérations et en révisant le recrutement, la formation et l'accompagnement tout au long de la carrière."
+        },
+        {
+          "questionId": "edu-08",
+          "value": 1,
+          "quote": "Faire des chefs d'établissements les véritables patrons de l'école : liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, de choisir et d'évaluer les enseignants.",
+          "inferred": true,
+          "note": "Le pouvoir disciplinaire est donné au chef d'établissement plutôt qu'aux enseignants eux-mêmes ; rien sur le redoublement."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-conquerante",
+      "date": "2026-01-01",
+      "title": "Les priorités d'Édouard Philippe — Pour une France plus conquérante",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Intelligence artificielle, énergie, climat, adaptation. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Peser à l'échelle européenne avec un Buy European Tech Act et des achats technologiques groupés entre États membres.",
+          "inferred": true,
+          "note": "Préférence européenne explicite dans la commande publique technologique ; pas de règle générale d'achat d'armement français ou européen à tout prix."
+        },
+        {
+          "questionId": "env-01",
+          "value": 1,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire, en développant les renouvelables et en électrifiant massivement nos usages.",
+          "note": "Relance du nucléaire affirmée, sans chiffrage d'un programme au-delà des six EPR2 déjà décidés."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire, en développant les renouvelables et en électrifiant massivement nos usages."
+        },
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire, en développant les renouvelables et en électrifiant massivement nos usages.",
+          "inferred": true,
+          "note": "Le développement des renouvelables est revendiqué ; aucun moratoire éolien n'est envisagé."
+        },
+        {
+          "questionId": "env-14",
+          "value": 0,
+          "quote": "Concentrer l'action climatique sur ce qui réduit vraiment les émissions et crée de la croissance : fret de marchandises, rénovation, grande industrie.",
+          "note": "Ambition climatique maintenue (« écologie à impact », accélération de la décarbonation) mais explicitement ciblée sur ce qui crée aussi de la croissance."
+        },
+        {
+          "questionId": "log-03",
+          "value": 1,
+          "quote": "Donner de l'ombre à nos villes en multipliant les plantations d'arbres et en levant les règles d'urbanisme qui freinent l'adaptation des espaces publics.",
+          "inferred": true,
+          "note": "Allègement des règles d'urbanisme visé au titre de l'adaptation climatique ; la page « prospère » ajoute un moratoire normatif général."
+        },
+        {
+          "questionId": "num-04",
+          "value": 2,
+          "quote": "Ouvrir un accès préférentiel à notre énergie décarbonée pour les acteurs nationaux et européens, avec des règles de raccordement inspirées des AI Growth Zones britanniques.",
+          "note": "Complété par le doublement de la capacité de calcul en cinq ans et la simplification du cadre juridique européen de l'IA."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-sure",
+      "date": "2026-01-01",
+      "title": "Les priorités d'Édouard Philippe — Pour une France plus sûre",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Justice, narcotrafic, immigration, armées. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-03",
+          "value": -1,
+          "quote": "Porter le nombre de réservistes de 45 000 à 250 000 et le service militaire volontaire de 3 000 à 50 000 places par an.",
+          "inferred": true,
+          "note": "Massification par la réserve et le service militaire volontaire, et non par le rétablissement d'un service obligatoire."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Mettre en place une politique de quotas migratoires permettant de choisir notre immigration économique.",
+          "note": "Quotas revendiqués, mais pour choisir l'immigration économique ; il assume par ailleurs le besoin d'accueillir médecins, aides-soignants et ingénieurs étrangers."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Restreindre l'immigration familiale."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "Mettre fin au dévoiement de l'asile en faisant voter chaque année par le Parlement une liste de pays sûrs.",
+          "note": "Il défend le droit d'asile mais veut en restreindre l'accès ; aucune ouverture de voies légales supplémentaires n'est proposée."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Utiliser les centres de retour prévus par le règlement européen retour.",
+          "inferred": true,
+          "note": "Recours aux centres de retour et expulsion immédiate des étrangers délinquants ; pas de rétention systématique de tous les OQTF explicitement proposée."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Mettre en place des peines planchers pour les infractions les plus graves, en particulier lorsqu'elles portent atteinte à l'intégrité physique des personnes dépositaires de l'autorité publique.",
+          "note": "Peines planchers ciblées sur les infractions les plus graves plutôt que sur la récidive."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Mettre en place des courtes peines en s'inspirant des pays du Nord qui condamnent dès la première infraction à une peine courte et dissuasive plutôt que d'enfermer trop tard et trop longtemps.",
+          "note": "Complété par la suppression du juge d'application des peines « afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui »."
+        },
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "Donner un pouvoir de sanction pénale aux maires afin qu'ils puissent réprimer les petites infractions, ces incivilités qui pourrissent la vie de millions de Français.",
+          "inferred": true,
+          "note": "Pouvoirs judiciaires accrus donnés aux maires ; rien sur l'armement systématique des polices municipales."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 1,
+          "quote": "Lever l'excuse de minorité pour les faits en lien avec le narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
+          "note": "Levée de l'excuse de minorité limitée aux faits liés au narcotrafic, sans seuil d'âge de 16 ans."
+        },
+        {
+          "questionId": "sec-07",
+          "value": 1,
+          "quote": "Créer un « état d'urgence narco » avec des moyens juridiques d'exception limités dans le temps et dans l'espace, allant jusqu'à l'utilisation ciblée de la reconnaissance faciale.",
+          "note": "Reconnaissance faciale admise, mais de façon ciblée et dans un régime d'exception limité dans le temps et l'espace."
+        },
+        {
+          "questionId": "sec-13",
+          "value": 2,
+          "quote": "Être intraitable avec les consommateurs : opérations “place nette” dans les boîtes de nuit et festivals, recouvrement forcé des amendes, y compris sur les prestations sociales."
+        }
+      ]
+    },
+    {
+      "id": "philippe-ep-narcotrafic",
+      "date": "2026-01-01",
+      "title": "Le plan d'Édouard Philippe contre le narcotrafic",
+      "sourceType": "programme",
+      "sourceUrl": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+      "publisher": "Horizons",
+      "summary": "13 mesures présentées comme celles d'Édouard Philippe. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Livrer la guerre contre le narcotrafic avec les mêmes armes que contre le terrorisme",
+          "note": "Plan en 13 mesures : état d'urgence narco, fiche S financière, régime carcéral spécifique, DGSI mobilisée."
+        }
+      ]
+    },
+    {
+      "id": "philippe-horizons-manifeste",
+      "date": "2021-10-09",
+      "title": "Manifeste d'Horizons — « Pour une nouvelle offre politique »",
+      "sourceType": "autre",
+      "sourceUrl": "https://horizonsleparti.fr/le-manifeste/",
+      "publisher": "Horizons",
+      "summary": "Texte fondateur du parti créé et présidé par Édouard Philippe.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "Nous défendons la démocratie représentative dans le cadre des institutions de la Vème République qui permettent à chaque citoyen de faire valoir son opinion tout en garantissant la force de gouverner du pouvoir exécutif."
+        }
+      ]
+    }
+  ]
+}

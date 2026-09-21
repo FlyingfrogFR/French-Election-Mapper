@@ -1,0 +1,510 @@
+{
+  "candidateId": "cazeneuve",
+  "declarations": [
+    {
+      "id": "cazeneuve-lettre",
+      "date": "2026-07-15",
+      "title": "Tenir la promesse de la France — Lettre de Bernard Cazeneuve aux Françaises et aux Français (86 pages, dont « Les propositions de Bernard Cazeneuve »)",
+      "sourceType": "programme",
+      "sourceUrl": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "publisher": "Bernard Cazeneuve / La Convention (la-convention.fr)",
+      "summary": "Document de référence du projet présenté le 16 juillet 2026, daté « Paris, le 15 juillet 2026 » en tête de la lettre. Mis en avant sur la page d'accueil de la-convention.fr sous le lien « Lire la lettre en intégralité (86 pages) ». Le chapitre VIII (p. 77-85) énumère les 30 propositions. Copie archivée : https://web.archive.org/web/20260831093026/https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 1,
+          "quote": "C’est défendre une vocation républicaine : celle du pays qui sait produire ce qui le nourrit, et payer dignement ses producteurs",
+          "page": "p. 41",
+          "inferred": true,
+          "note": "Proposition 20 : « prix dignes pour les producteurs » ; aucun mécanisme de prix minimums garantis n'est décrit."
+        },
+        {
+          "questionId": "agr-02",
+          "value": 1,
+          "quote": "Le pays crée chaque année des normes dont l’accumulation paralyse à la fois les citoyens et les entreprises, avec un goût prononcé pour la surtransposition des directives et règlements européens",
+          "page": "p. 34",
+          "inferred": true,
+          "note": "Il dénonce la surtransposition des normes européennes et, pour l'agriculture, « des normes européennes que nos voisins n'appliquent pas » ; l'alignement sur le minimum européen n'est pas formulé comme tel."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 1,
+          "quote": "Mais ces dernières années, nos paysans ont quitté leurs exploitations pour descendre dans la rue : concurrence déloyale, normes européennes que nos voisins n’appliquent pas, charges qui s’accumulent, distributeurs qui dictent leurs prix",
+          "page": "p. 41",
+          "inferred": true,
+          "note": "Il dénonce la concurrence déloyale et demande à l'Europe une « approche commerciale moins naïve » ; le discours du 10 mars 2024 reproche au pouvoir d'approuver des accords commerciaux « sans réciprocité ni clauses miroirs »."
+        },
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Cela suppose de réarmer, à proportion de la menace. De consolider notre industrie de défense et de planifier nos coopérations européennes, en privilégiant les productions nationales et continentales. Et de donner enfin à nos forces les moyens qui leur manquent",
+          "page": "p. 52",
+          "inferred": true,
+          "note": "Réarmement « à proportion de la menace », sans objectif chiffré en points de PIB."
+        },
+        {
+          "questionId": "def-02",
+          "value": 1,
+          "quote": "Engager ensuite, y compris avec le Royaume-Uni, une réflexion sur ce que notre dissuasion peut y apporter",
+          "page": "p. 52",
+          "note": "Ouverture d'une réflexion sur l'apport de la dissuasion française à la sécurité européenne, sans engagement d'extension."
+        },
+        {
+          "questionId": "def-03",
+          "value": -1,
+          "quote": "Je veux une réserve citoyenne plus ambitieuse, ouverte à davantage de Français : non pour militariser la société",
+          "page": "p. 52",
+          "inferred": true,
+          "note": "Réserve citoyenne volontaire élargie plutôt que rétablissement d'un service militaire obligatoire."
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "De consolider notre industrie de défense et de planifier nos coopérations européennes, en privilégiant les productions nationales et continentales",
+          "page": "p. 52",
+          "note": "Proposition 25 : « préférence aux productions nationales et continentales » ; repris au discours de Cergy (« assumer la priorité que nous lui donnons lorsqu'il s'agit d'acquérir les équipements qui sortent de ses usines »)."
+        },
+        {
+          "questionId": "eco-01",
+          "value": -1,
+          "quote": "Cette dérive doit peu à un excès de dépenses pour nos malades, nos aînés ou nos enfants. Elle doit beaucoup à des choix fiscaux qui ont délibérément privé l’État de ses recettes",
+          "page": "p. 25",
+          "inferred": true,
+          "note": "Il assume « vérité budgétaire et maîtrise de la dette » mais impute le déficit aux choix fiscaux, non aux dépenses sociales : la baisse des dépenses n'est pas érigée en priorité."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 1,
+          "quote": "Une fiscalité qui atteint réellement les très grandes fortunes, les plus hauts revenus du capital, les rentes financières qui s’accumulent sans contribuer au financement de l’innovation et à l’investissement productif relève de l’équité et non de la démagogie",
+          "page": "p. 35",
+          "inferred": true,
+          "note": "Il range la suppression de l'ISF parmi les choix ayant privé l'État de recettes et veut une fiscalité atteignant réellement les très grandes fortunes, sans proposer explicitement le rétablissement de l'ISF."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 1,
+          "quote": "De même, une réduction des aides fiscales financerait plus utilement une baisse des impôts pesant sur la production, plus élevés en France que chez nos principaux voisins",
+          "page": "p. 36",
+          "note": "Baisse des seuls impôts de production, financée par une réduction des aides fiscales ; rien sur l'impôt sur les sociétés."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Simplifier l’impôt, avec moins de dérogations, moins de niches, moins de complexité, c’est aussi le rendre plus juste",
+          "page": "p. 35",
+          "note": "Proposition 18 : « simplification de l'impôt : moins de dérogations, moins de niches »."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Reconstruire exige de la durée plutôt que des annonces : un plan sur dix ans, des filières stratégiques sécurisées par l’État, des règles stables, des incitations fiscales ciblées sur la recherche et les investissements productifs",
+          "page": "p. 40",
+          "note": "Plan de réindustrialisation sur dix ans, filières sécurisées par l'État, incitations fiscales ciblées ; côté commercial, il demande à l'Europe une « approche commerciale moins naïve »."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 1,
+          "quote": "D’abord, que les plus hauts revenus contribuent à proportion de ce qu’ils tirent de la vie nationale. Les écarts qui se sont creusés, ces dernières décennies, ne sont plus soutenables, ni politiquement ni moralement",
+          "page": "p. 35",
+          "inferred": true,
+          "note": "Il veut que les plus hauts revenus contribuent davantage mais ne propose pas de tranches supplémentaires, et demande par ailleurs une simplification de l'impôt."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Le travail ne doit pas être davantage taxé que le capital. Le sentiment, largement répandu, que celui qui se lève tôt paie pour celui qui spécule, est corrosif pour le pacte républicain",
+          "page": "p. 35",
+          "inferred": true,
+          "note": "Rééquilibrage travail/capital et fiscalité sur « les plus hauts revenus du capital et les rentes » ; ni les dividendes ni les rachats d'actions ne sont nommés."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Si le savoir est au cœur de l’école, ce que je crois, alors les professeurs, qui en sont les passeurs, y tiennent la première place. Ils doivent être mieux formés, mieux payés, mieux considérés",
+          "page": "p. 45",
+          "note": "Proposition 22 : « des enseignants mieux formés, mieux payés, mieux considérés » ; les professeurs tiennent « la première place »."
+        },
+        {
+          "questionId": "edu-04",
+          "value": -1,
+          "quote": "Ce n’est pas la coexistence du public et du privé qui pose problème : elle est inscrite dans notre histoire, et beaucoup de parents se résignent au privé face à l’abandon de l’école publique",
+          "page": "p. 47",
+          "inferred": true,
+          "note": "Il écarte explicitement la coexistence public/privé comme problème et vise « l'évitement organisé » ; aucune réduction du financement du privé sous contrat n'est proposée."
+        },
+        {
+          "questionId": "edu-06",
+          "value": -1,
+          "quote": "Je veux une réserve citoyenne plus ambitieuse, ouverte à davantage de Français : non pour militariser la société, mais pour rappeler que la défense engage plus que le seul gouvernement",
+          "page": "p. 52",
+          "inferred": true,
+          "note": "Il retient une réserve citoyenne élargie et volontaire, pas un service national universel obligatoire."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 1,
+          "quote": "Généraliser l’apprentissage dès le premier cycle universitaire, encadrer le recours abusif aux stages, redonner au CDI sa place de norme pour les jeunes",
+          "page": "p. 50",
+          "inferred": true,
+          "note": "Apprentissage généralisé et « filière d'excellence » ; rien d'explicite sur le niveau des aides publiques à l'apprentissage."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Le deuxième donnera à chaque étudiant boursier, au cours de ses deux premières années, là où l’on décroche le plus, une aide supplémentaire d’au moins deux mille euros",
+          "page": "p. 48",
+          "inferred": true,
+          "note": "Hausse du montant pour les boursiers (au moins 2 000 € sur deux ans) ; l'extension du nombre de bénéficiaires n'apparaît que dans le texte de 2023 de La Convention (« réformer le système des bourses pour mieux tenir compte de la situation de ceux issus des classes moyennes »)."
+        },
+        {
+          "questionId": "env-01",
+          "value": 1,
+          "quote": "Elle suppose d’assumer l’atout que représente pour la Nation la filière électronucléaire. Il serait irresponsable de s’en passer. Le renouvellement du parc impliquera une planification, et une rationalisation des investissements dans les énergies renouvelables, pour rendre attractive l’électrification des usages",
+          "page": "p. 40",
+          "inferred": true,
+          "note": "Renouvellement planifié du parc nucléaire ; aucun chiffre ni mention d'un programme au-delà des six EPR2."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Elle suppose d’assumer l’atout que représente pour la Nation la filière électronucléaire. Il serait irresponsable de s’en passer",
+          "page": "p. 40",
+          "note": "Rejet explicite d'une sortie du nucléaire."
+        },
+        {
+          "questionId": "env-05",
+          "value": 1,
+          "quote": "Entre ces deux impasses, il nous faut promouvoir une écologie populaire, la planifier pour la rendre juste. Cela signifie rénover massivement les logements en accomplissant un geste à la fois social et climatique, développer les transports collectifs dans les territoires qui en manquent",
+          "page": "p. 43",
+          "inferred": true,
+          "note": "Écologie « populaire et planifiée » et DATAR du climat rattachée au Premier ministre ; pas d'objectifs contraignants secteur par secteur."
+        },
+        {
+          "questionId": "env-07",
+          "value": -1,
+          "quote": "C’est veiller à la qualité de ce que nous produisons et mangeons, et donc à la santé de nos concitoyens, car les produits que l’on répand dans nos champs finissent dans nos assiettes",
+          "page": "p. 41",
+          "inferred": true,
+          "note": "Il lie qualité des produits épandus et santé publique et veut accompagner la mutation vers des exploitations « plus sobres et plus sûres » ; aucune réautorisation de pesticides n'est envisagée."
+        },
+        {
+          "questionId": "env-14",
+          "value": 1,
+          "quote": "La transition écologique n’est pas le dérivatif de ceux qui sont à l’abri du besoin : elle est la condition de tout",
+          "page": "p. 42",
+          "inferred": true,
+          "note": "« Réduire nos émissions, devoir auquel nous ne renoncerons pas » ; il refuse en revanche la décroissance et une écologie punitive."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Je crois à l’Europe qu’il nous faut encore construire. Elle doit être la communauté puissante de nations qu’unit la fraternité d’un destin commun, et non un marché harmonisé",
+          "page": "p. 53",
+          "inferred": true,
+          "note": "L'appartenance à l'UE n'est jamais posée en question : il propose de la réformer et de l'approfondir (réforme budgétaire, politique industrielle commune, décision à la majorité)."
+        },
+        {
+          "questionId": "eur-05",
+          "value": 2,
+          "quote": "Assumer ses alliances sans s’y dissoudre. Demeurer dans l’OTAN, sans rien y abdiquer, et contribuer à l’Europe de la défense sans prétendre s’y substituer",
+          "page": "p. 52",
+          "note": "Proposition 25 : « dans l'OTAN sans rien y abdiquer »."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 1,
+          "quote": "Le droit d’asile, hérité de la Révolution et inscrit dans notre Constitution, n’est pas un vestige, mais un engagement de civilisation",
+          "page": "p. 55",
+          "inferred": true,
+          "note": "Défense du droit d'asile comme « engagement de civilisation » ; aucun objectif d'accueil accru ni voie légale nouvelle n'est proposé."
+        },
+        {
+          "questionId": "imm-11",
+          "value": -1,
+          "quote": "Le respect intransigeant de la République, sans concession au dégagisme de l’époque ni à la tentation de l’État de droit révisable",
+          "page": "p. 61",
+          "inferred": true,
+          "note": "La CEDH n'est pas nommée, mais il refuse explicitement « la tentation de l'État de droit révisable »."
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "Faut-il pour autant précipiter un changement de régime, alors que la Nation, dans son histoire, a si souvent souffert du grand fracas institutionnel ? Mieux vaut, par la loi comme par la pratique, rendre au Président son rôle de garant du pacte républicain et d’une certaine conception de l’intérêt général",
+          "page": "p. 30",
+          "note": "Refus explicite du changement de régime au profit d'une correction des usages (septennat, rôle du Premier ministre)."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Introduire une dose de proportionnelle dans le mode de scrutin législatif y contribuerait utilement",
+          "page": "p. 30",
+          "note": "Proposition 12 : « dose de proportionnelle aux législatives »."
+        },
+        {
+          "questionId": "ins-06",
+          "value": 1,
+          "quote": "Il faut pour cela rétablir le septennat, et redonner au Premier ministre un rôle conforme à l’esprit et à la lettre de la Constitution",
+          "page": "p. 30",
+          "note": "Rétablissement du septennat proposé explicitement ; rien sur son caractère renouvelable ou non."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 1,
+          "quote": "Les majorités successives ont gouverné par ordonnances et par procédures accélérées, en usant et parfois en abusant de l’article 49.3 de la Constitution. Ces mécanismes ont été employés au-delà de toute raison",
+          "page": "p. 30",
+          "note": "Proposition 12 : « discipline sur le 49.3, les ordonnances et les procédures accélérées » — encadrement, pas suppression."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "En France, tous les trois jours, un féminicide se produit. Or des plaintes demeurent sans suite, des hébergements d’urgence manquent, des dispositifs d’alerte sont saturés",
+          "page": "p. 18",
+          "inferred": true,
+          "note": "Proposition 3 : « le féminisme érigé en inspiration des grandes politiques publiques — lutte contre les violences et les féminicides » ; ni budget dédié ni juridictions spécialisées ne sont chiffrés."
+        },
+        {
+          "questionId": "log-01",
+          "value": 1,
+          "quote": "Il ne s’agit pas là seulement des conséquences mécaniques du marché, mais du résultat de choix politiques qui ont volontairement sacrifié l’investissement dans le logement social, laissé la spéculation prendre le pas sur l’habitation et renoncé à réguler",
+          "page": "p. 22",
+          "inferred": true,
+          "note": "Il impute la crise au renoncement à réguler et à la spéculation ; l'encadrement des loyers n'est pas nommé, la réponse annoncée étant un grand plan de construction et de rénovation."
+        },
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "C’est préserver le foncier agricole, cette terre nourricière que l’artificialisation et la spéculation menacent, et en garantir l’accès à celles et ceux qui veulent en vivre",
+          "page": "p. 42",
+          "inferred": true,
+          "note": "Préservation du foncier nourricier contre l'artificialisation ; l'objectif « zéro artificialisation nette » n'est pas nommé."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Une Nation n’est pas une capitale qui rayonne sur une périphérie. Elle est une présence qui se doit, égale, à chaque ville, chaque village, chaque quartier, chaque île",
+          "page": "p. 21",
+          "inferred": true,
+          "note": "Exigence d'une présence égale de l'État partout ; la condition « même s'ils sont déficitaires » n'est pas traitée en tant que telle."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Puisque l’Europe a choisi de se donner du temps, la France n’attendra pas : ce que l’Union remet à demain, l’État le garantira dès aujourd’hui dans ses services publics",
+          "page": "p. 59",
+          "note": "INESIA transformée en autorité dotée d'un pouvoir contraignant, la France n'attendant pas l'Union ; le discours de Cergy ajoute « un droit à la qualification continue financé par une contribution sur les profits du numérique »."
+        },
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "Nos chercheurs et nos ingénieurs comptent parmi les meilleurs du monde, pour un coût qui rend l’investissement rentable ici plutôt qu’ailleurs. Et notre électricité, décarbonée et pilotable, héritage du choix nucléaire : aucun centre de calcul ne tourne sans elle",
+          "page": "p. 57",
+          "inferred": true,
+          "note": "Il veut ramener l'épargne européenne vers la puissance de calcul en s'appuyant sur l'électricité décarbonée (« aucun centre de calcul ne tourne sans elle ») ; rien sur des procédures simplifiées."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "La République a donc le devoir de fixer des limites à la concentration capitalistique des médias",
+          "page": "p. 32",
+          "note": "Proposition 14 : « Médias : limites fixées par la loi à la concentration capitalistique »."
+        },
+        {
+          "questionId": "san-04",
+          "value": -1,
+          "quote": "On a ensuite invoqué le déficit ainsi creusé pour couper dans les prestations. On a relevé les franchises médicales",
+          "page": "p. 26",
+          "inferred": true,
+          "note": "La hausse des franchises médicales est citée parmi les coupes dans les prestations qu'il dénonce ; il ne propose pas pour autant leur suppression."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Restaurer la confiance dans la justice est désormais urgent. Il y faudra des moyens, une indépendance reconnue sans arrière-pensée, et des magistrats protégés contre toutes les intimidations",
+          "page": "p. 31",
+          "inferred": true,
+          "note": "Moyens et indépendance pour la justice, sans chiffrage ni engagement de doublement du budget."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "La technique existe, elle est éprouvée : unités spécialisées, peines réellement exécutées, coopération européenne renforcée, Parquet européen aux compétences élargies, gel des avoirs, traque des financements qui alimentent les réseaux",
+          "page": "p. 20",
+          "note": "Il propose unités spécialisées, peines réellement exécutées, Parquet européen élargi, gel des avoirs — mais refuse le « tout-répressif » : « Une politique de sécurité qui n'investit pas dans l'école, les structures de prévention […] est condamnée à l'échec »."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "La police de proximité, celle à laquelle les populations des quartiers aspirent, ne peut devenir une réalité que si la Nation dispose d’effectifs dédiés et formés pour créer la nécessaire relation de confiance avec les citoyens",
+          "page": "p. 20",
+          "note": "Proposition 6 : « police de proximité dotée d'effectifs dédiés et formés » ; il ne l'oppose pas explicitement aux unités d'intervention."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "On a relevé les franchises médicales, gelé les pensions, désindexé les allocations, allongé les délais de carence",
+          "page": "p. 26",
+          "inferred": true,
+          "note": "Il range le gel des pensions et la désindexation des allocations parmi les coupes subies ; aucune règle d'indexation nouvelle n'est toutefois formulée."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 1,
+          "quote": "Aujourd’hui, en France, les dix-huit à vingt-quatre ans connaissent un taux de pauvreté presque deux fois supérieur à la moyenne nationale, alors qu’ils sont exclus, jusqu’à vingt-cinq ans, du revenu de solidarité active",
+          "page": "p. 48",
+          "inferred": true,
+          "note": "Il présente l'exclusion des 18-24 ans du RSA comme une injustice, mais y répond par une « avance jeunesse » de 3 000 € sous conditions de ressources plutôt que par l'ouverture du RSA."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 0,
+          "quote": "Mais nul ne peut l’imposer contre le sentiment de justice ni en dépit des réalités du travail, de la pénibilité, des fins de carrière difficiles : il faut reprendre la question patiemment, avec les partenaires sociaux, sans cette brutalité qui a tant abîmé la confiance et finalement aggravé la situation",
+          "page": "p. 23",
+          "inferred": true,
+          "note": "Il dénonce la brutalité de la réforme de 2023 et rouvre le dossier avec les partenaires sociaux, mais ne propose pas son abrogation : le levier retenu est la durée de cotisation."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Le premier, c’est la durée de cotisation. C’est le levier le plus juste, il valorise le travail accompli, indépendamment de l’âge où l’on a commencé. Plutôt que de reculer encore l’âge légal au prix d’un débat sans issue, il faut reprendre, sur des bases nouvelles et négociées, la trajectoire d’allongement engagée en 2014",
+          "page": "p. 24",
+          "inferred": true,
+          "note": "Il propose de reprendre la trajectoire d'allongement de 2014 ; un retour à 60 ans est l'inverse de la logique du texte."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Plutôt que de reculer encore l’âge légal au prix d’un débat sans issue, il faut reprendre, sur des bases nouvelles et négociées, la trajectoire d’allongement engagée en 2014",
+          "page": "p. 24",
+          "note": "Refus explicite d'un nouveau recul de l'âge légal, au profit de la durée de cotisation."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -1,
+          "quote": "Les retraites doivent être consolidées dans le cadre d’un système par répartition que nul ne saurait remettre en cause, car lui seul assure la justice",
+          "page": "p. 23",
+          "inferred": true,
+          "note": "La capitalisation n'est pas nommée, mais la répartition est présentée comme le seul système juste et comme non négociable."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Les exonérations de cotisations patronales sont passées de soixante-six milliards d’euros en 2017 à quatre-vingts en 2024",
+          "page": "p. 26",
+          "inferred": true,
+          "note": "Il traite la hausse des exonérations patronales comme une cause de l'assèchement des recettes sociales et veut toute exonération compensée à l'euro près (loi Veil rétablie, rétroactivement depuis 2019)."
+        }
+      ]
+    },
+    {
+      "id": "cazeneuve-cergy",
+      "date": "2025-11-16",
+      "title": "Discours de Bernard Cazeneuve, Cergy-Pontoise, dimanche 16 novembre 2025",
+      "sourceType": "discours",
+      "sourceUrl": "https://web.archive.org/web/20260821173150/https://www.la-convention.fr/discours_de_bernard_cazeneuve_cergy_pontoise_dimanche_16_novembre_2025",
+      "publisher": "La Convention",
+      "summary": "Texte intégral du discours de clôture du rassemblement « Retrouvons-nous ! » de Cergy-Pontoise, publié sur la-convention.fr. URL d'origine (protégée par Cloudflare) : https://www.la-convention.fr/discours_de_bernard_cazeneuve_cergy_pontoise_dimanche_16_novembre_2025",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Elle repose sur la complémentarité du nucléaire et des énergies renouvelables, deux piliers d’une même indépendance",
+          "inferred": true,
+          "note": "Renouvelables présentés comme un pilier ; la lettre de 2026 parle de « rationalisation des investissements dans les énergies renouvelables », sans moratoire."
+        }
+      ]
+    },
+    {
+      "id": "cazeneuve-europe2024",
+      "date": "2024-03-10",
+      "title": "Discours de Bernard Cazeneuve à la convention thématique « L’Europe avec la Convention », Paris XI (espace Olympe de Gouges), 10 mars 2024",
+      "sourceType": "discours",
+      "sourceUrl": "https://assets.nationbuilder.com/laconvention/pages/348/attachments/original/1725484797/Discours-Convention-10-MARS-def.pdf",
+      "publisher": "La Convention",
+      "summary": "PDF du texte intégral (14 pages, « Seul le prononcé fait foi »), mis en ligne par La Convention sur la page « L’Europe avec la convention tenue à Olympes de GOUGES Paris XI » (https://www.la-convention.fr/convention_thematique_europe). Antérieur à la lettre de 2026 : utilisé seulement pour les sujets que la lettre ne traite pas, ou pour préciser une position qu’elle confirme. Copie archivée : https://web.archive.org/web/20260312125544/https://assets.nationbuilder.com/laconvention/pages/348/attachments/original/1725484797/Discours-Convention-10-MARS-def.pdf",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "C’est assumer l’ambition d’une véritable politique industrielle de défense : un fonds européen de défense puissant, des mécanismes d’achat groupé, et d’abord au profit de l’Ukraine",
+          "note": "Fonds européen de défense puissant, achats groupés et « pilier européen fort » dans l'OTAN. La lettre de 2026 confirme : « architecture européenne de sécurité », coopérations européennes planifiées, « protection antimissile coordonnée du continent », mais « sans prétendre s'y substituer » à la défense nationale."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2,
+          "quote": "Ce qui se joue actuellement en Ukraine a quelque chose d’existentiel pour le projet européen, parce que si nous laissons la Russie gagner en Ukraine, si nous tolérons la victoire de l’autocratie et de la violence, POUTINE poursuivra sa course folle. Ne pas aider l’Ukraine à sauver sa liberté serait, à terme, renoncer à la nôtre",
+          "inferred": true,
+          "note": "Il propose un fonds européen de défense et des « mécanismes d'achat groupé, et d'abord au profit de l'Ukraine » ; la lettre de 2026 confirme (« la défense de l'Ukraine indissociable de l'idée d'un continent libre »). Ni la durée du soutien ni les armes de longue portée ne sont nommées."
+        },
+        {
+          "questionId": "eur-12",
+          "value": -1,
+          "quote": "Nous croyons aussi que l’Europe peut défendre efficacement ses frontières dans le respect des droits humains, en redéfinissant pour le clarifier le mandat de l’agence Frontex ou en œuvrant à la mise en place d’un système d’asile unifié à l’échelle européenne",
+          "inferred": true,
+          "note": "Il traite les frontières et l'asile à l'échelle européenne (mandat de Frontex clarifié, système d'asile unifié) ; la lettre de 2026 reprend « une politique migratoire pensée à l'échelle du continent ». Aucun rétablissement de contrôles nationaux permanents ni suspension de Schengen n'est proposé."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 1,
+          "quote": "Plus concrètement encore, cela signifie la pérennisation et l’amplification de la capacité d’endettement proprement européenne, sans laquelle il n’est pas de capacités d’investissement authentiquement européennes",
+          "inferred": true,
+          "note": "Il demande une capacité d'endettement et d'investissement propre à l'Union et pose « la question de la justice fiscale continentale » (rééquilibrage capital/travail au niveau européen) ; l'expression « ressources propres » n'est pas employée."
+        },
+        {
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "Mais nous sommes aussi la gauche qui n’esquive pas le débat sur l’immigration avec la droite. Précisément parce que nous n’opposons pas accueillir et maîtriser, réguler et intégrer, attachés que nous sommes à la conception républicaine de la nation – communauté d’adhésion à des valeurs et contrat fondé sur le droit du sol",
+          "inferred": true,
+          "note": "Attachement explicite au droit du sol comme fondement de la conception républicaine de la nation. Discours de mars 2024 : la lettre de 2026 ne revient pas sur le sujet."
+        }
+      ]
+    },
+    {
+      "id": "cazeneuve-logement",
+      "date": "2023-10-14",
+      "title": "Nos propositions pour le logement — « Propositions logement & habitat »",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20260607203757/https://www.la-convention.fr/nos_propositions_pour_le_logement",
+      "publisher": "La Convention",
+      "summary": "Texte de propositions publié par La Convention à l'occasion de la convention régionale de Saint-Brieuc du 14 octobre 2023, consacrée au logement et à l'habitat ; clôture assurée par Bernard Cazeneuve. Toujours en ligne dans la rubrique « Événements et Propositions ». URL d'origine : https://www.la-convention.fr/nos_propositions_pour_le_logement",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Particulièrement vilipendée par la droite, la même qui déplore aujourd’hui la crise du logement, la loi SRU a pourtant permis la construction de 210 000 logements entre 2017 et 2019. Le gouvernement devrait finalement remercier la gauche car sans la loi SRU, la bombe sociale aurait explosé depuis longtemps",
+          "note": "Défense explicite de la loi SRU et de l'obligation de 25 % de logements sociaux, avec mise en cause des 1 105 communes déficitaires."
+        },
+        {
+          "questionId": "log-05",
+          "value": 1,
+          "quote": "Pour l’accession sociale à la propriété, c’est la maltraitance du prêt à taux zéro (PTZ) auquel l’accès se réduit comme peau de chagrin",
+          "inferred": true,
+          "note": "Il dénonce la restriction de l'accès au PTZ et veut des « mécanismes innovants d'accession à la propriété » (lettre, proposition 8)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "candidateId": "lisnard",
+  "declarations": [
+    {
+      "id": "lisnard-ne-questions",
+      "date": "2026-01-01",
+      "title": "FAQ officielle « Les questions qu'on nous pose » (réponses sourcées et citations datées de David Lisnard)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Pages de questions-réponses du site du parti ; chaque page cite verbatim des interventions de David Lisnard avec date et source. Utilisées quand le programme écrit est muet. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "On doit baisser la dépense publique dès la première année […] en taillant dans les 1200 entités publiques qui ont été créées depuis 20 ans, qui ont recruté 440 000 fonctionnaires pour 100 milliards de dépenses publiques",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+          "note": "Trajectoire annoncée : 80 Md€ d'économies dès la première année, au moins 200 Md€ au total ; la baisse de la dépense précède toujours toute baisse d'impôt."
+        },
+        {
+          "questionId": "eco-10",
+          "value": -1,
+          "quote": "toujours ce que l’on veut c’est que on baisse les prélèvements obligatoires en France. Ils sont les plus élevés du monde",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-baisser-les-impots/",
+          "inferred": true,
+          "note": "Aucune mention de nouvelles tranches d'impôt sur le revenu ; l'engagement documenté est de baisser les prélèvements obligatoires (120 Md€ de cotisations, 40 Md€ d'impôts de production), jamais d'en créer."
+        },
+        {
+          "questionId": "san-01",
+          "value": -2,
+          "quote": "Je suis contre la régulation […] plus on mettra des contraintes sur les médecins, plus ils se barrent à l’étranger",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/comment-david-lisnard-compte-t-il-lutter-contre-les-deserts-medicaux/"
+        },
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "Nous construirons enfin les vingt mille places de prison",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-construire-des-places-de-prison/",
+          "note": "Chiffre déjà présent dans son livre : « la réalisation de 20 000 places de prison supplémentaires »."
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2,
+          "quote": "Nous instaurerons la perpétuité réelle",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-les-peines-soient-reellement-executees/"
+        },
+        {
+          "questionId": "soc-04",
+          "value": -1,
+          "quote": "Sa réponse est de ne plus indexer les pensions au-delà d’environ 2 000 euros par mois et d’orienter le différentiel vers l’amorçage du nouvel étage.",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/",
+          "note": "Désindexation assumée des pensions supérieures à environ 2 000 € ; les petites pensions restent protégées."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "regroupant l’ensemble des aides en une allocation unique, plafonner […] un pourcentage du SMIC",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-regrouper-les-aides-sociales-en-une-allocation-unique/",
+          "note": "Objectif affiché : que le travail rapporte toujours davantage que l'inactivité."
+        },
+        {
+          "questionId": "tra-01",
+          "value": -2,
+          "quote": "il faut pas revenir sur les réformes qui avaient été décidées sur la réforme des retraites et sur la réforme du chômage",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/"
+        },
+        {
+          "questionId": "tra-04",
+          "value": -1,
+          "quote": "En baissant les cotisations, pas en imposant une hausse de salaire.",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/comment-david-lisnard-veut-il-augmenter-les-salaires-sans-augmenter-le-cout-du-travail/",
+          "inferred": true,
+          "note": "Il refuse d'augmenter les salaires par décision publique et privilégie la baisse des cotisations ; le SMIC n'est pas nommé."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 1,
+          "quote": "il faut pas revenir sur les réformes qui avaient été décidées sur la réforme des retraites et sur la réforme du chômage",
+          "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/",
+          "inferred": true,
+          "note": "Il défend le maintien de la réforme de l'assurance chômage (qui a réduit la durée d'indemnisation) mais ne propose pas de nouvelle réduction."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-livre-noir",
+      "date": "2026-01-01",
+      "title": "Le livre noir de la bureaucratie",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Carnet thématique : « Les 30 normes les plus citées qui rendent fou » avec, en regard, « Les solutions de Nouvelle Énergie ». (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-05",
+          "value": -1,
+          "quote": "Porter l’harmonisation obligatoire au niveau européen. À défaut dans deux ans, suspendre l’obligation française. Appliquer ce principe à toutes les normes bien-être animal franco-françaises sans réciprocité aux frontières.",
+          "inferred": true,
+          "note": "Suspension des normes de bien-être animal propres à la France et, dans le livret agriculture, « promouvoir et développer l'élevage » : aucune limitation de l'élevage intensif n'est envisagée."
+        },
+        {
+          "questionId": "eco-02",
+          "value": -2,
+          "quote": "supprimer l’IFI et le remplacer par une fiscalité foncière assise sur des valeurs vénales actualisées",
+          "inferred": true,
+          "note": "Le programme ne parle pas d'ISF mais propose de supprimer l'IFI (impôt sur la fortune subsistant) : le rétablissement d'un impôt sur l'ensemble du patrimoine est l'exact contraire."
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Supprimer l’interdiction de location des passoires thermiques et la remplacer par un bonus-malus incitatif."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Transformer l’avis conforme en avis simple pour tout ce qui ne touche pas la façade principale, la toiture visible et les éléments classés. Délai maximal de deux mois, passé lequel l’avis est réputé favorable.",
+          "note": "Le carnet entier vise à « diviser par deux les contraintes administratives » ; le programme veut « libérer le marché du logement »."
+        },
+        {
+          "questionId": "log-04",
+          "value": -1,
+          "quote": "Décentraliser l’objectif ZAN aux EPCI. Mobiliser en priorité les 55 000 ha de zones commerciales déjà artificialisées (potentiel : 1 million de logements). Supprimer la double peine : une commune ne peut être simultanément contrainte par le ZAN et sanctionnée par la loi SRU.",
+          "note": "Il ne supprime pas l'objectif mais le juge « inapplicable » en l'état et veut le décentraliser ; le ZAN national tel que prévu ne serait donc pas maintenu."
+        },
+        {
+          "questionId": "log-09",
+          "value": 1,
+          "quote": "Exonération automatique de plein droit pendant toute la durée des travaux faisant l’objet d’un permis ou d’une déclaration préalable déposé en mairie.",
+          "note": "Exonération de taxe sur les locaux vacants pendant les travaux, suppression de l'IFI et remplacement par une fiscalité foncière révisée : allègements ciblés pour les propriétaires bailleurs."
+        },
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "quote": "Permettre à tout accord d’entreprise de déroger à la durée légale à la hausse comme à la baisse, dans le respect du repos minimum de onze heures."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "Majoration des heures supplémentaires à 10 % par défaut, sans supplément de charges patronales.",
+          "inferred": true,
+          "note": "Allègement côté charges patronales seulement ; aucune exonération totale d'impôt sur le revenu et de cotisations n'est écrite."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-prog-2",
+      "date": "2026-01-01",
+      "title": "Programme de Nouvelle Énergie — « Réussir une nouvelle ambition française » (économie, social, sécurité, immigration)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Deuxième partie du programme. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 1,
+          "quote": "L’allègement de la fiscalité des entreprises doit se poursuivre par la diminution des impôts de production à travers la suppression de plusieurs contributions (C3S, CVAE…) ainsi que la réforme des droits de succession sur les entreprises.",
+          "inferred": true,
+          "note": "La réforme annoncée des droits de succession est limitée à la transmission d'entreprise et figure dans un paragraphe d'allègement fiscal ; aucune baisse générale des droits de succession n'est écrite."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "représenterait 11,5 milliards d’euros qui s’ajouteraient à la baisse de 10 milliards déjà prévue par le gouvernement, soit au total une diminution de moitié des impôts de production, de 2% à 1% du PIB",
+          "note": "Suppression de la C3S et, le cas échéant, de la CVAE ; la FAQ chiffre à 40 Md€ la baisse des impôts de production."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "la lutte contre l’enclavement de certaines zones géographiques à l’écart du développement doit passer par un plan d’investissement dans les infrastructures routières et ferroviaires",
+          "note": "Plan d'investissement routier ET ferroviaire pour le désenclavement, mais dans un cadre de désendettement strict (refus de toute dépense financée par la dette)."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Cela peut passer par une révision constitutionnelle, par des renégociations de traités internationaux, voire par d’autres dispositifs juridiques à imaginer. Un référendum sera nécessaire."
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "supprimer toute possibilité d’être régularisé après être entré clandestinement sur le territoire"
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "Le droit d’asile doit être réservé aux situations le justifiant.",
+          "inferred": true,
+          "note": "Restriction de l'asile et division par huit des titres de séjour ; il ouvre toutefois une voie légale en proposant l'examen des demandes dans les consulats."
+        },
+        {
+          "questionId": "log-02",
+          "value": -2,
+          "quote": "une mesure essentielle sera la suppression de l’article 55 de la loi SRU du 13 décembre 2000 obligeant les communes à disposer de 20% et bientôt 25% de logements sociaux"
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Le budget de la justice est de loin le plus faible d’Europe (0,20% du PIB) ainsi que par le nombre des juges (10,9 pour 100 000 habitants, la médiane étant de 17,7) et procureurs. Il faut rattraper la moyenne européenne.",
+          "note": "Objectif : rattraper la moyenne européenne et doubler le nombre de procureurs ; aucun engagement de doublement du budget en cinq ans."
+        },
+        {
+          "questionId": "soc-07",
+          "value": -1,
+          "quote": "conserver un socle de pension minimale par répartition pour tous les retraités, attribué à tous sans condition dès l’âge de 65 ans, complété par un minimum-vieillesse à hauteur de 1000 euros par mois",
+          "inferred": true,
+          "note": "Le niveau garanti retenu (1 000 € par mois) est inférieur au SMIC."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Tous les autres pays rallongent la durée d’activité jusqu’à 65 ans au moins. Mais la France reste dans le déni du problème et dans l’erreur sur la solution.",
+          "inferred": true,
+          "note": "Le programme fixe l'âge légal à 65 ans : le retour à 60 ans en est l'exact contraire."
+        },
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "quote": "la norme de l’âge légal de 65 ans est un impératif national urgent pour des raisons d’équilibre financier",
+          "note": "La FAQ (mise à jour du 31 août 2026) précise qu'il ne fait plus de l'âge sa réponse principale — il met en avant la capitalisation — mais ne revient pas sur l'objectif de 65 ans écrit au programme."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "faire évoluer tous les autres régimes vers la capitalisation , à partir des cotisations obligatoires des salariés et des employeurs",
+          "note": "Capitalisation « obligatoire et collective » ; cible de 116 Md€, soit environ 40 % du montant total des retraites."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "Par ailleurs, les charges pour les employeurs à domicile au niveau du SMIC seront supprimées. Un système de charges patronales négatives pour les embauches de personnes au RSA depuis plus de 2 ans sera créé.",
+          "note": "Allègements ciblés (emploi à domicile au SMIC, embauche de personnes au RSA) plutôt qu'une baisse générale des cotisations patronales sur les bas salaires."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-immigration",
+      "date": "2026-01-01",
+      "title": "Programme — Immigration",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page thématique de propositions. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "Diviser par huit la délivrance de titres de séjour Fixer des quotas de main-d’œuvre qualifiée et conditionner le regroupement familial à des critères de ressources et des tests d’intégration",
+          "note": "Le programme (partie 2) précise que « des quotas d'immigration doivent désormais être instaurés » ; il ne dit pas qu'ils seraient votés chaque année par le Parlement."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Fixer des quotas de main-d’œuvre qualifiée et conditionner le regroupement familial à des critères de ressources et des tests d’intégration",
+          "note": "La partie 2 du programme ajoute que « les titres de séjour “vie privée et familiale” seront également strictement limités »."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Mettre fin à l’automaticité du droit du sol"
+        },
+        {
+          "questionId": "imm-07",
+          "value": 2,
+          "quote": "Traiter les demandes d’asiles au sein de nos consulats à l’étranger"
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "quote": "Entamer un bras de fer avec la Cour européenne des droits de l’Homme (CEDH) pour réaffirmer la primauté de la souveraineté nationale",
+          "note": "La même page propose d'« Inscrire la primauté du droit national en matière migratoire dans la Constitution » et de « Sortir de la CEDH en dernier recours » ; le discours de Bayeux annonce la révision de l'article 55 de la Constitution."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Construire plus de centres de rétention administrative et allonger la durée de la rétention administrative à 24 mois",
+          "inferred": true,
+          "note": "Capacités de rétention fortement augmentées et expulsion systématique des étrangers condamnés ; le placement systématique en rétention de tous les OQTF n'est pas écrit tel quel."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Supprimer l’Aide Médicale d’État (AME) et la remplacer par une aide d’urgence : 700 millions d’euros d’économies"
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Conditionner les prestations sociales non contributives aux étrangers résidant régulièrement sur le territoire national depuis au moins cinq ans"
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-sante",
+      "date": "2026-01-01",
+      "title": "Programme — Santé",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page thématique de propositions. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-02",
+          "value": -1,
+          "quote": "Si notre système de santé dysfonctionne, ce n’est pas faute d’argent. C’est faute de souplesse, de clarté, de responsabilité.",
+          "inferred": true,
+          "note": "Il récuse le diagnostic du manque de moyens et propose une réorganisation (suppression des ARS, revalorisation aux responsabilités) dans un cadre de baisse de la dépense publique."
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Nous voulons doubler le nombre d’étudiants en médecine d’ici 2030, supprimer Parcoursup, simplifier la LAS/PASS, autoriser l’exercice sous supervision dès la 5e année, et ouvrir tous les lieux de stage, publics comme privés."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-education",
+      "date": "2026-01-01",
+      "title": "Programme — Éducation",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page thématique de propositions. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Nous proposons une augmentation de 20 % des rémunérations en cinq ans, conditionnée à une réorganisation profonde : autonomie accrue, présence renforcée dans l’établissement, formation continue obligatoire, évaluation régulière.",
+          "note": "Revalorisation forte mais explicitement conditionnée à des contreparties ; elle n'est pas présentée comme prioritaire sur les autres dépenses éducatives."
+        },
+        {
+          "questionId": "edu-04",
+          "value": -2,
+          "quote": "Nous proposons un droit réel au libre choix de l’école, garanti par la transparence des résultats et l’instauration progressive d’un chèque-éducation : un financement public équivalent, que la famille choisisse l’enseignement public ou privé."
+        },
+        {
+          "questionId": "edu-08",
+          "value": 1,
+          "quote": "Cela passe par la liberté donnée aux chefs d’établissement de recruter leurs équipes pédagogiques, d’appliquer leurs méthodes, de gérer leur budget, de refuser les élèves qui nuisent au collectif.",
+          "inferred": true,
+          "note": "L'autonomie et l'autorité sont rendues au chef d'établissement et au professeur (fin du passage automatique via un certificat de fin de primaire), sans que le dernier mot sur le redoublement et les sanctions soit explicitement attribué aux enseignants."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-prog-3",
+      "date": "2026-01-01",
+      "title": "Programme de Nouvelle Énergie — « Générer un renouveau civique » (école, décentralisation, écologie)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Troisième partie du programme. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-07",
+          "value": 1,
+          "quote": "Le « droit à l’excellence » doit être assuré pour tous dans un système de « logique de compétences », en particulièrement par le développement massif de l’apprentissage.",
+          "inferred": true,
+          "note": "Développement massif de l'apprentissage et révision de la limite d'âge ; le montant des aides publiques à l'apprentissage n'est pas traité explicitement."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Le libre-choix de l’école par les familles ainsi progressivement établi sera gagé par le développement des bourses sociales et au mérite",
+          "note": "Bourses sociales et au mérite développées, adossées au chèque-éducation ; il s'agit de l'enseignement scolaire, pas explicitement des bourses étudiantes."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "recherche et développement des technologies laser pour le traitement des déchets, prolongation de la durée de vie des réacteurs jusqu’à 60 ans, construction d’EPR de nouvelle génération, déploiement de mini-réacteurs nucléaires"
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Il est plus que temps de sortir de l’ambiguïté et de l’hypocrisie sur le nucléaire et affirmer sa priorité."
+        },
+        {
+          "questionId": "env-08",
+          "value": 1,
+          "quote": "Mais la fiscalité environnementale doit respecter trois règles : d’abord se faire à taxation totale constante, ensuite redistribuer les fruits de la taxation au bénéfice des « perdants » des nouvelles dispositions",
+          "note": "Il retient le principe pollueur-payeur et la redistribution, mais à taxation totale constante : pas de hausse nette de la fiscalité carbone."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-livret-agri",
+      "date": "2026-06-01",
+      "title": "Programme Agriculture — « Souveraineté, compétitivité, confiance »",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Carnet thématique agriculture (PDF). (Date du document : 2026-06 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Supprimer les surtranspositions françaises des normes européennes."
+        },
+        {
+          "questionId": "env-07",
+          "value": 2,
+          "quote": "La France interdit plus de 140 substances phytosanitaires autorisées ailleurs en Europe.",
+          "inferred": true,
+          "note": "Le livret demande de « Supprimer les surtranspositions françaises des normes européennes » et la page Agriculture « l'alignement réglementaire avec le marché commun » ; le discours de Bayeux déplore la censure de la loi Duplomb. L'alignement sur le droit européen revient à réautoriser des substances interdites en France."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-bayeux",
+      "date": "2026-06-17",
+      "title": "Discours de David Lisnard à Bayeux",
+      "sourceType": "discours",
+      "sourceUrl": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/Discours-de-David-Lisnard-a-Bayeux-17062026.pdf",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Discours institutionnel (PDF, 14 pages) mis en ligne par le parti dans la rubrique « Grands discours ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-09",
+          "value": 1,
+          "quote": "Récemment encore, la suppression des ZFE, des articles essentiels de la loi sur l’immigration ou encore de la loi Duplomb sur les contraintes liées au monde agricole ont subi la censure du Conseil constitutionnel.",
+          "page": "p. 5",
+          "inferred": true,
+          "note": "Il cite la censure de la suppression des ZFE parmi les décisions qu'il reproche au Conseil constitutionnel : il soutient donc cette suppression, sans en faire une proposition écrite de son programme."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Nous n’avons pas vocation à sortir de l’Europe.",
+          "page": "p. 10",
+          "note": "Le programme ajoute : « l'Europe institutionnelle est une conquête et un outil nécessaire dans le monde multipolaire actuel »."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Nous y mettrons fin en révisant l’article 55 de la constitution. Demain, quand le Parlement aura clairement décidé de s’en écarter sur un point précis, c’est la loi française qui s’appliquera, et non l’interprétation de la CEDH.",
+          "page": "p. 10"
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "La Constitution de 1958 est née des mains du peuple. C’est au peuple qu’il revient de la restaurer.",
+          "page": "p. 12",
+          "inferred": true,
+          "note": "Tout le discours de Bayeux propose de restaurer l'esprit de la Ve République (septennat, article 11, contrôle de constitutionnalité), et non de la remplacer par une VIe République issue d'une constituante."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Le référendum d’initiative populaire sera vraiment institué et rendu praticable, avec un seuil de signatures atteignable et, au terme du délai, un vote garanti.",
+          "page": "p. 9"
+        },
+        {
+          "questionId": "ins-06",
+          "value": 1,
+          "quote": "Le septennat sera rétabli. Le quinquennat se voulait moderne : il a dénaturé la présidence.",
+          "page": "p. 8",
+          "note": "Rétablissement du septennat annoncé, mais le discours ne dit pas qu'il serait non renouvelable."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 2,
+          "quote": "L’article 11 sera libéré de ses limites thématiques : tout sujet pourra être soumis au pays - l’immigration, l’école, la justice, la dépense publique.",
+          "page": "p. 9"
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Départements et régions seront réunis en une cinquantaine de provinces, aux compétences claires et entières sur le modèle de la carte établie en 1947 par Michel Debré, pour une action publique efficace.",
+          "page": "p. 11"
+        },
+        {
+          "questionId": "ins-12",
+          "value": -2,
+          "quote": "Il n’y aura pas de décentralisation asymétrique, pas de décentralisation à la carte, pas de statuts d’exception négociés sous la pression, pas de Français soumis à des lois différentes selon le lieu où ils vivent.",
+          "page": "p. 11"
+        },
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "Il y aurait un paradoxe à reprendre le contrôle de notre Constitution, de nos lois et de nos frontières, pour livrer nos données et nos systèmes à des serveurs que nous ne maîtrisons pas.",
+          "page": "p. 12",
+          "inferred": true,
+          "note": "Souveraineté de l'IA et des données revendiquée, IA au cœur de la performance publique, filières d'avenir « intelligence artificielle et data sciences » dans le programme ; aucune mesure écrite de simplification des procédures pour les centres de données."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-agriculture",
+      "date": "2026-01-01",
+      "title": "Programme — Agriculture",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page thématique de propositions. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Nous proposons d’en finir avec les surtranspositions françaises, l’alignement réglementaire avec le marché commun, et la mise en œuvre de clauses miroirs obligatoires pour les produits importés.",
+          "note": "Le livret agriculture ajoute : « Instaurer la réciprocité des normes dans les accords commerciaux » et « Appliquer unilatéralement des clauses de sauvegarde si nécessaire »."
+        },
+        {
+          "questionId": "env-13",
+          "value": 2,
+          "quote": "oui aux bassines, lorsqu’elles sont techniquement justifiées et localement décidées",
+          "note": "Le livre noir ajoute : « Déclarer les retenues d'eau agricoles d'intérêt général majeur : procédure accélérée (douze mois maximum) »."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-securite",
+      "date": "2026-01-01",
+      "title": "Programme — Sécurité",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page thématique de propositions. (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-02",
+          "value": 2,
+          "quote": "interdiction du voile à l’université",
+          "note": "Mesure listée dans le volet « Face à l'islamisme » ; la tribune sur la laïcité qualifie « chaque voile à l'université » d'« étendard politique »."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "rétablir les peines planchers pour les récidivistes, appliquer systématiquement une sanction, même courte, dès la première infraction"
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Il faut un basculement radical et supprimer les réductions de peine automatiques, mettre fin aux aménagements dès l’audience"
+        },
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "Il faut ainsi permettre aux communes volontaires d’armer leur police municipale et de disposer d’outils réels : accès aux fichiers, possibilité de verbalisation renforcée, procédures d’amendes forfaitaires délictuelles. Mais cela doit rester une liberté, jamais une obligation.",
+          "note": "La partie 2 du programme prévoit « l'attribution de la qualité d'officiers et d'agents de police judiciaire aux polices territoriales décentralisées », mais l'armement reste facultatif et laissé au libre choix des communes — pas systématique."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "Nous voulons abaisser la majorité pénale à 16 ans, inverser le principe de l’excuse de minorité dès 13 ans"
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Face au narcotrafic : cellules locales anti-stups sous autorité du préfet, confiscations ciblées et visibles, infiltration numérique des réseaux sociaux, coopération internationale renforcée, task forces dédiées en outre-mer."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "ramener les forces de sécurité sur le terrain (50 % de présence minimum, contre 37 % aujourd’hui)",
+          "inferred": true,
+          "note": "Priorité à la présence de terrain et création d'une police territoriale décentralisée ; l'expression « police de proximité » n'est pas employée."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-prog-1",
+      "date": "2026-01-01",
+      "title": "Programme de Nouvelle Énergie — « Être maître de notre destin » (institutions, dette, État, Europe)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+      "publisher": "Nouvelle Énergie (parti de David Lisnard)",
+      "summary": "Première des trois parties du programme publié sur le site du parti dont David Lisnard est président et candidat déclaré (31 mars 2026). (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Les dépenses régaliennes traditionnelles (défense, police, justice, diplomatie) ne représentent plus qu’un cinquième du Budget de l’Etat et moins d’un dixième des dépenses publiques. Un rééquilibrage vers l’Etat régalien s’impose",
+          "inferred": true,
+          "note": "Rééquilibrage budgétaire assumé vers le régalien, dont la défense ; aucune cible de 3 % du PIB n'apparaît dans les documents officiels consultés."
+        },
+        {
+          "questionId": "eur-09",
+          "value": -1,
+          "quote": "Là où l’encadrement par les normes européennes du Pacte de stabilité européen n’a pas suffi, la France doit désormais s’astreindre à une règle institutionnelle de limitation des déficits publics.",
+          "inferred": true,
+          "note": "Il juge les règles européennes insuffisantes et veut une règle d'or nationale plus stricte : s'en affranchir pour dépenser davantage est l'inverse de sa démarche."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-ne-laicite",
+      "date": "2025-12-09",
+      "title": "Tribune de David Lisnard — « Ne faisons pas de la laïcité un renoncement »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/ne-faisons-pas-de-la-laicite-un-renoncement/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Tribune signée David Lisnard, republiée intégralement sur le site du parti.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": 1,
+          "quote": "L’absence de tout signe religieux ostensible doit prévaloir partout où la République instruit, juge ou administre.",
+          "note": "L'interdiction visée porte sur les lieux où la République instruit, juge ou administre, et non sur l'ensemble de l'espace public."
+        }
+      ]
+    }
+  ]
+}

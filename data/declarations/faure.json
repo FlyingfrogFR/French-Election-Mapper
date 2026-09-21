@@ -1,0 +1,824 @@
+{
+  "candidateId": "faure",
+  "declarations": [
+    {
+      "id": "faure-2026-08-candidature",
+      "date": "2026-08-30",
+      "title": "Candidature à la primaire « Choisir 2027 »",
+      "sourceType": "communique",
+      "sourceUrl": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "publisher": "LCP",
+      "summary": "Olivier Faure, premier secrétaire du PS, se porte candidat à la primaire du camp social-démocrate (9-10 et 16-17 octobre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    },
+    {
+      "id": "faure-ps-projet-2026",
+      "date": "2026-06-30",
+      "title": "Le Projet socialiste – « Vivre libres » (6 parties, 20 chapitres)",
+      "sourceType": "programme",
+      "sourceUrl": "https://projet-socialiste.fr/projet/",
+      "publisher": "Parti socialiste (éditeur du site projet-socialiste.fr, directeur de la publication Floran Vadillo)",
+      "summary": "Projet présenté le 22 avril 2026, adopté par les adhérents du PS le 25 juin 2026 (83 %) et présenté à la presse le 30 juin 2026 par Chloé Ridel et Olivier Faure. Pages utilisées : /projet/vivre-libres/, /projet/etre-en-securites/, /projet/sepanouir-a-egalite/, /projet/vivre-avec-la-nature/, /projet/refaire-societe/, /projet/pacifier-le-monde/ (texte intégral rendu le 20 septembre 2026). Une version PDF antérieure (base du 21 avril 2026 transmise aux fédérations, 144 p.) est archivée : https://web.archive.org/web/20260821172925/https://www.ps29.org/wp-content/uploads/2026/04/PROJET_PS_V21avril-2.pdf ; le site web (version adoptée) fait foi ici.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Instaurer des prix minimums garantis basés sur les coûts de production réels, et encadrer les marges de l’agro-industrie et de la grande distribution.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/"
+        },
+        {
+          "questionId": "agr-02",
+          "value": -2,
+          "quote": "Harmoniser par le haut les règles sanitaires, sociales et environnementales au sein de l’Union européenne, afin de mettre fin aux concurrences internes entre États membres et de garantir aux agriculteurs une protection cohérente contre le dumping.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/",
+          "note": "Harmonisation par le haut et principe de non-abaissement des réglementations : l'inverse d'un alignement sur le minimum européen."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "notamment via le retour des aides au maintien de l’agriculture biologique, en atteignant nationalement l’objectif européen de 25 % de surfaces biologiques.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/"
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Imposer les mêmes normes aux produits que nous importons que celles qui s’appliquent à nos producteurs à l’aide de « mesures miroirs ».",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/"
+        },
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Mettre fin à l’élevage en cage et accompagner la reconversion des éleveurs par le rachat de dettes, la formation, des prêts à taux zéro, l’accès au foncier et la sécurisation des revenus.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/",
+          "note": "Fin de l'élevage en cage ; l'élevage reste défini comme « pilier de la souveraineté alimentaire »."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 1,
+          "quote": "Encadrer la chasse. Généraliser les méthodes non létales (stérilisation des chats libres, pigeonniers contraceptifs, gestion non létale des animaux liminaires).",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/",
+          "note": "Sans précision (pas de jours sans chasse)."
+        },
+        {
+          "questionId": "agr-08",
+          "value": 1,
+          "quote": "l’évolution de la disponibilité de l’eau devra être intégrée aux décisions publiques afin de garantir un partage soutenable de la ressource entre les besoins agricoles, industriels, énergétiques, environnementaux et domestiques.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/",
+          "inferred": true,
+          "note": "Hiérarchisation démocratique des usages et interdiction des méga-bassines ; les restrictions en période de sécheresse ne sont pas détaillées."
+        },
+        {
+          "questionId": "def-02",
+          "value": 1,
+          "quote": "Œuvrer à une meilleure articulation entre dissuasion nucléaire française et défense européenne, en ouvrant un espace structuré de dialogue stratégique avec nos partenaires européens",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Dialogue et articulation « dans le respect de la souveraineté nationale sur la décision », pas d'extension formelle de la dissuasion."
+        },
+        {
+          "questionId": "def-03",
+          "value": -1,
+          "quote": "Renforcer la place des citoyens dans la Défense par l’évolution de la réserve opérationnelle, un service national volontaire rénové et citoyen",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Service volontaire, pas de service militaire obligatoire."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Construire une industrie européenne de défense au service de notre autonomie stratégique, en favorisant la création de champions européens de la défense, en privilégiant la logique de coopération sur les logiques de concurrence dans l’attribution des financements et en européanisant nos chaînes de production.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Préférence industrielle européenne ; la question du surcoût n'est pas traitée."
+        },
+        {
+          "questionId": "eco-01",
+          "value": -1,
+          "quote": "Réformer les règles budgétaires européennes pour qu’elles favorisent les investissements d’avenir et la qualité des services publics plutôt que l’austérité comptable. En particulier, les nouvelles règles budgétaires ne se fonderont plus sur des cibles chiffrées sans fondement économique.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Rejette l'austérité et les cibles chiffrées ; la priorité française du retour sous 3 % par la baisse des dépenses n'est pas traitée en tant que telle."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 1,
+          "quote": "Instaurer la taxe Zucman de 2 % sur le patrimoine des grandes fortunes de plus de 100 millions d’euros et assujettir les émigrés fiscaux à son acquittement pendant une certaine durée sur le modèle de l’exit tax.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Pas de rétablissement de l'ISF proposé ; impôt sur l'ensemble du patrimoine (y compris financier) mais seulement au-delà de 100 M€."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Instaurer la taxe Zucman de 2 % sur le patrimoine des grandes fortunes de plus de 100 millions d’euros et assujettir les émigrés fiscaux à son acquittement pendant une certaine durée sur le modèle de l’exit tax.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "eco-04",
+          "value": -2,
+          "quote": "Préparer la « grande transmission » de l’héritage en créant un Impôt sur les grandes successions (IGS), sans impact pour 99 % des Français.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Propose l'inverse : hausse de la progressivité des droits sur les plus grandes successions et plafonnement du pacte Dutreil."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "la baisse de l’impôt sur les sociétés et des impôts de production, la diminution de l’impôt sur les dividendes pour les plus riches… Coûteuses pour les finances publiques, ces mesures n’ont pas provoqué l’effet de ruissellement annoncé.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Propose à la place un impôt sur les sociétés progressif et une taxation minimale des grandes entreprises."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Lutter contre l’inflation alimentaire en garantissant la transparence des prix et en encadrant les prix fixés par l’industrie agroalimentaire, grâce à une autorité européenne de contrôle.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Encadrement des prix (alimentation, énergie des artisans-commerçants, tarifs réglementés de l'électricité) plutôt que blocage temporaire."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Revoir l’ensemble des niches fiscales et sociales pour supprimer les niches inefficaces, plafonner celles qui bénéficient principalement aux hauts patrimoines et transformer les avantages fiscaux non évalués en crédits budgétaires transparents, votés et examinés chaque année.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Organiser un protectionnisme sectoriel assumé, à travers la mise en place immédiate de barrières douanières et de protections tarifaires strictes pour défendre nos filières clés (automobile, sidérurgie, chimie, médicaments, technologies d’avenir) face au dumping de la Chine et des États-Unis.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Plus une loi de programmation 2027-2032 sur la réindustrialisation et des aides publiques conditionnées."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "Préparer à la fusion de l’impôt sur le revenu, la CSG et la CRDS dans un nouvel impôt sur le revenu, qui bénéficierait d’un plus grand nombre de tranches pour une meilleure progressivité.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Supprimer le prélèvement forfaitaire unique (« flat tax ») et augmenter la CSG sur les revenus du capital permettant de financer une diminution de la CSG sur les revenus du travail.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Dividendes imposés comme les revenus du travail ; les rachats d'actions ne sont pas traités."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Opérer une nationalisation des autoroutes à travers la création d’un établissement public national (de type EPIC) – « Routes de France » – pour gérer les autoroutes et les routes nationales qui reprendrait progressivement les 9 000 km d’autoroutes concédées, à l’expiration des contrats actuels.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Aussi : réseaux de gaz et d'électricité regroupés sous une entreprise publique ; nationalisations en dernier recours dans l'énergie, la sidérurgie, la chimie."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Revaloriser la rémunération des enseignants pour rattraper la moyenne des pays de l’OCDE et proposer des compléments de rémunération ainsi qu’un accompagnement professionnel renforcé dans les établissements les plus défavorisés.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/"
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1,
+          "quote": "Conditionner les contrats d’association entre l’État et les établissements privés à des objectifs de mixité scolaire, moduler les dotations en fonction du respect de ces objectifs et généraliser la prise en compte du critère de l’IPS (indice de position sociale).",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/",
+          "note": "Modulation conditionnelle des dotations et interdiction des subventions supplémentaires, pas de réduction générale."
+        },
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "Maintenir des droits d’inscription faibles dans les filières de l’enseignement supérieur afin de garantir un accès large et égalitaire aux études supérieures.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/"
+        },
+        {
+          "questionId": "edu-06",
+          "value": -1,
+          "quote": "Renforcer la place des citoyens dans la Défense par l’évolution de la réserve opérationnelle, un service national volontaire rénové et citoyen",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Service national volontaire, non obligatoire."
+        },
+        {
+          "questionId": "edu-07",
+          "value": -1,
+          "quote": "Les aides publiques seront prioritairement orientées vers les jeunes les moins qualifiés et les formations infra-licence. Les exonérations patronales excessives ou insuffisamment ciblées seront progressivement réaffectées au financement de l’Éducation nationale et de la formation professionnelle.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Recentrage et réaffectation d'une partie des aides, pas de maintien au niveau actuel."
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "augmenter le budget dédié à l’éducation à la vie affective, relationnelle et sexuelle (EVARS) au collège et au lycée, pour déconstruire les préjugés et garantir l’effectivité de ces formations pour tous les élèves, dans tous les territoires.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/"
+        },
+        {
+          "questionId": "edu-10",
+          "value": 1,
+          "quote": "Favoriser un usage raisonné du téléphone portable dans les établissements scolaires et les interdire dans les classes.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/",
+          "note": "Interdiction en classe seulement, pas dans tout le lycée."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 2,
+          "quote": "Renforcer les moyens alloués aux établissements scolaires des quartiers prioritaires et y développer une offre éducative attractive : sections internationales, classes à projet artistique ou scientifique, classes préparatoires en lycée, sections de techniciens supérieurs.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/"
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Ce mix devra s’appuyer sur le parc nucléaire historique, qui sera partiellement renouvelé, ainsi que sur le développement des énergies renouvelables. Assurer la souveraineté de la filière nucléaire française en sécurisant durablement les approvisionnements en uranium.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "« le nucléaire autant que nécessaire, les énergies renouvelables autant que possible » ; pas de sortie."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "Planifier la montée en puissance des énergies renouvelables, avec le soutien de l’État et une simplification des procédures administratives.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "L'éolien n'est pas nommé mais toutes les renouvelables doivent monter en puissance."
+        },
+        {
+          "questionId": "env-04",
+          "value": 1,
+          "quote": "Rétablir et appliquer les exigences et objectifs initiaux du Pacte vert européen qui ont été affaiblis, reportés ou abandonnés, et bloquer toute tentative de déréglementation.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "L'échéance 2035 fait partie du Pacte vert ; elle n'est pas nommée."
+        },
+        {
+          "questionId": "env-05",
+          "value": 2,
+          "quote": "Créer des lettres de plafond écologique pour fixer à chaque ministère des objectifs environnementaux et climatiques opposables.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/"
+        },
+        {
+          "questionId": "env-06",
+          "value": 1,
+          "quote": "Sortir l’électricité de la logique de marché pour garantir l’accès de toutes et tous à une énergie abordable, en étendant les tarifs réglementés pour les particuliers, les services publics et les entreprises. Réserver la logique de marché aux échanges transfrontaliers.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Prix nationaux régulés mais maintien du marché pour les échanges transfrontaliers."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Il faut également veiller à empêcher toutes tentatives de réintroduction des produits interdits comme les néonicotinoïdes, en s’appuyant sur le principe de non-abaissement des réglementations déjà existantes.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/"
+        },
+        {
+          "questionId": "env-08",
+          "value": 2,
+          "quote": "Construire une fiscalité écologique et du carbone, compensée par une baisse des impôts touchant les classes populaires.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Aussi : fonds de sécurité climatique financé par une fiscalité carbone progressive excluant ménages pauvres et classes moyennes."
+        },
+        {
+          "questionId": "env-09",
+          "value": -1,
+          "quote": "Massifier l’accompagnement des français concernés par les ZFE métropolitaines en développant l’offre de leasing social de véhicules électriques neufs et d’occasion",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "inferred": true,
+          "note": "Accompagne les ZFE plutôt que de les supprimer."
+        },
+        {
+          "questionId": "env-10",
+          "value": 2,
+          "quote": "Encadrer plus strictement les vols intérieurs en les interdisant si une alternative en train est disponible en moins de 4h (un Paris-Marseille équivaut à 1h20 en avion, 3h30 en train).",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/"
+        },
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Investir dans le ferroviaire pour décupler l’offre de train et relier les territoires enclavés. Investir massivement pour moderniser le réseau, développer l’offre de trains de nuit, réouvrir les petites lignes de train du quotidien",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "La question de la dette n'est pas abordée."
+        },
+        {
+          "questionId": "env-13",
+          "value": -2,
+          "quote": "Adopter des solutions fondées sur la nature pour restaurer le cycle de l’eau (haies, zones humides, agroforesterie). Interdire les méga-bassines.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/"
+        },
+        {
+          "questionId": "env-14",
+          "value": 2,
+          "quote": "Planifier la sortie des énergies fossiles et la transition vers un mix énergétique 100 % décarboné en 2050 et disposer d’une énergie propre, disponible à tout moment, souveraine, mais aussi à un prix compétitif.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Veut aussi rétablir les objectifs initiaux du Pacte vert européen ; l'arbitrage avec la croissance n'est pas discuté."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "L’Union européenne doit protéger les peuples et renforcer leur liberté dans un monde qui inquiète. Pour cela, il faut renforcer le modèle européen, pas le détricoter.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Le maintien dans l'UE n'est pas formulé comme tel, mais tout le chapitre 4 vise une intégration accrue."
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "pour poursuivre l’européanisation de notre BITD et prendre le chemin de l’intégration européenne de nos armées et de leur commandement.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/"
+        },
+        {
+          "questionId": "eur-04",
+          "value": 2,
+          "quote": "Financer le soutien militaire et la reconstruction du pays à travers la saisie des 210 milliards d’avoirs publics russes immobilisés dans l’Union européenne.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/pacifier-le-monde/",
+          "note": "Soutien à la résistance ukrainienne « pour la placer en position de force » ; les armes de longue portée ne sont pas mentionnées."
+        },
+        {
+          "questionId": "eur-05",
+          "value": 1,
+          "quote": "Renforcer le pilier européen de l’OTAN, dans l’objectif de construire une nouvelle architecture de sécurité collective du continent européen",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Reste dans l'OTAN en renforçant son pilier européen ; le commandement intégré n'est pas mentionné."
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "Obtenir le respect du droit international par Israël à travers la suspension de l’accord d’association UE-Israël, des sanctions à l’encontre des ministres du gouvernement Netanyahou et des colons violents dans les territoires palestiniens occupés, un embargo strict sur les exportations d’armes vers Israël.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/pacifier-le-monde/"
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Refuser l’accord UE-Mercosur et tout accord qui exposerait les agriculteurs français et européens à une concurrence déloyale.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/"
+        },
+        {
+          "questionId": "eur-08",
+          "value": 1,
+          "quote": "Soutenir l’adhésion de l’Ukraine à l’Union européenne.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/pacifier-le-monde/",
+          "note": "Mais « Soumettre tout nouvel élargissement de l’Union européenne à une convergence sociale » (chapitre 4) ; les Balkans ne sont pas mentionnés."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2,
+          "quote": "Augmenter le niveau de l’APD pour atteindre 0,7 % du RNB et privilégier les dons aux pays les plus pauvres et les actions en faveur de l’égalité de genre.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/pacifier-le-monde/"
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2,
+          "quote": "Construire notre souveraineté en matière bancaire et financière en garantissant l’indépendance des systèmes de paiements européens face aux géants américains, en développant l’euro numérique.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Approfondit l'euro (euro numérique) ; une sortie n'est jamais envisagée."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2,
+          "quote": "Donner à l’Europe les moyens de ses ambitions en multipliant le budget européen par trois, à hauteur de 3 % du PIB européen, via de nouvelles ressources propres sans augmenter les impôts des classes moyennes et populaires.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/"
+        },
+        {
+          "questionId": "imm-01",
+          "value": -1,
+          "quote": "Redonner au Parlement le pouvoir de décider de la politique migratoire, qui doit cesser d’être gérée par décrets et circulaires. Adopter une loi pluriannuelle fixant les orientations de cette politique et la dotant des moyens nécessaires à l’intégration.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Loi pluriannuelle votée par le Parlement, mais refus de la logique de réduction (« l’immigration ne « submerge » pas la France », nouvelles voies légales)."
+        },
+        {
+          "questionId": "imm-03",
+          "value": -2,
+          "quote": "Réaffirmer l’intangibilité du droit à la vie privée et familiale qui procède de la Convention européenne des droits de l’homme et de la Charte des droits fondamentaux de l’Union Européenne.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Le regroupement familial n'est pas nommé ; le droit à la vie familiale est déclaré intangible."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Régulariser et intégrer par le travail, lutter contre l’exploitation des travailleurs sans papiers. Permettre l’obtention d’un titre de séjour à toute personne étrangère disposant d’un contrat de travail depuis au moins 6 mois.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Régularisation par le travail plus large que les seuls métiers en tension."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "Créer 30 000 places d’hébergement dignes pour les demandeurs d’asile, via des centres d’hébergement dans lesquels ils pourront effectuer les démarches nécessaires à l’examen de leur demande",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Aussi : relance des programmes de réinstallation de réfugiés, 10 000 visas humanitaires par an et 20 000 réinstallations sur 5 ans (partie « Pacifier le monde »)."
+        },
+        {
+          "questionId": "imm-07",
+          "value": -2,
+          "quote": "Refuser les créations de « Hub de retour » visant à externaliser les politiques migratoires, les rendant inhumaines et irrespectueuses des droits fondamentaux.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "imm-09",
+          "value": 2,
+          "quote": "Renforcer les voies légales d’entrée pour les étudiants, les chercheurs, les artistes. Accorder un titre de séjour « jeune diplômé » d’un an aux étudiants étrangers terminant leurs études.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "imm-11",
+          "value": -2,
+          "quote": "Réaffirmer l’intangibilité du droit à la vie privée et familiale qui procède de la Convention européenne des droits de l’homme et de la Charte des droits fondamentaux de l’Union Européenne.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Réaffirme la CEDH comme intangible ; la dérogation n'est pas discutée en tant que telle."
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2,
+          "quote": "Étendre le droit de vote aux étrangers extra-européens aux élections locales.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Instaurer une démocratie continue et participative en facilitant l’usage du référendum grâce à l’abaissement du seuil pour le référendum d’initiative partagée (RIP) avec 1 million de signatures et la création d’un référendum d’initiative citoyenne (RIC).",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Instaurer un mode de scrutin proportionnel pour les élections législatives, inspiré du modèle allemand, qui combine l’élection de députés dans des circonscriptions locales et une répartition des sièges selon les voix obtenues nationalement par chaque parti.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1,
+          "quote": "Renforcer la prise en compte du vote blanc en considérant une élection comme invalide si le nombre de votes blancs dépasse 50 % des suffrages exprimés.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Prise en compte partielle (invalidation au-delà de 50 %), pas de comptabilisation générale dans les suffrages exprimés."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "Instaurer une démocratie continue et participative en facilitant l’usage du référendum grâce à l’abaissement du seuil pour le référendum d’initiative partagée (RIP) avec 1 million de signatures et la création d’un référendum d’initiative citoyenne (RIC).",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Usage élargi du référendum en général ; l'article 11 et les questions de société ne sont pas visés explicitement."
+        },
+        {
+          "questionId": "ins-08",
+          "value": 2,
+          "quote": "Mettre en place une obligation citoyenne de participation aux principaux scrutins, comme en Grèce, Belgique et au Luxembourg.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Abaisser le droit de vote à 16 ans.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "ins-10",
+          "value": -1,
+          "quote": "Faire du Département l’échelon opérationnel de la bifurcation, grâce à sa reconnaissance comme autorité organisatrice de la prévention des risques",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Clarification des compétences et renforcement du département plutôt que suppression ou fusion d'échelons."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "supprimer le vote bloqué (art. 44 al. 3) et supprimer la possibilité de recourir au 49 al. 3 en dehors de l’examen des lois de finances et de financement de la sécurité sociale.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "Refuser et interdire la GPA (gestation pour autrui). Renforcer les partenariats internationaux contre l’exploitation reproductive, en priorité contre les GPA commerciales et les détournements de l’adoption internationale.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/"
+        },
+        {
+          "questionId": "lib-08",
+          "value": 1,
+          "quote": "Garantir un accès à l’IVG universel et gratuit, partout en France.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/",
+          "inferred": true,
+          "note": "Protège et garantit l'accès ; aucune modification des délais ou conditions n'est proposée."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Adopter une loi intégrale contre les violences sexistes et sexuelles. Mobiliser 2,6 milliards d’euros par an pour lutter contre les VSS, dès maintenant, en appliquant réellement les dispositifs déjà prévus par le droit.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/",
+          "note": "Aussi : création d'unités de juridiction spécialisées."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 1,
+          "quote": "Faire le bilan et réviser les lois « d’exception » qui portent atteinte aux libertés publiques, afin de mieux concilier liberté individuelle et sécurité collective.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Révision des lois d'exception et doctrine de maintien de l'ordre fondée sur la désescalade ; parle de concilier plutôt que de faire primer."
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Garantir à chacun l’accès au logement digne et abordable en encadrant les loyers, en stoppant la diminution des aides au logement, en améliorant l’accession à la propriété avec le bail réel solidaire, le prêt à taux zéro et la défiscalisation des intérêts d’emprunt pour les primo-accédants",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Confirmé par le communiqué du 4 juin 2026 (ps-com-loyers-2026-06) demandant la pérennisation de l'encadrement des loyers."
+        },
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Réviser la loi SRU pour améliorer et équilibrer l’offre de logements sociaux, avec de véritables sanctions dissuasives pour les villes carencées.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Protéger les terres agricoles pour l’avenir en encadrant les usages non alimentaires des terres et en luttant contre l’artificialisation des sols, via la défense de l’objectif zéro artificialisation nette.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/"
+        },
+        {
+          "questionId": "log-05",
+          "value": 1,
+          "quote": "Instauration d’un Prêt à Taux Zéro (PTZ) « Territoires ». Afin de favoriser l’installation durable des jeunes actifs et des familles dans les villes petites et moyennes, créer un prêt à taux zéro spécifique et bonifié, ciblé sur l’acquisition de la résidence principale dans ces communes.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Extension ciblée (villes petites et moyennes, jeunes primo-accédants modestes), pas à tous les territoires."
+        },
+        {
+          "questionId": "log-06",
+          "value": 1,
+          "quote": "Prioriser les logements à destination de l’habitat de longue durée en remettant à plat la fiscalité locative au bénéfice du logement permanent et en poursuivant l’encadrement des locations touristiques (type Airbnb) et des résidences secondaires.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Fiscalité locative revue « au bénéfice du logement permanent » ; durcissement non chiffré."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Aucune fermeture d’un service public de proximité en zone rurale ne pourra intervenir sans concertation préalable et solution alternative.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "log-09",
+          "value": -1,
+          "quote": "Instaurer une taxe anti-rente ciblant les multi-propriétaires dès le quatrième logement (hors résidence principale) pour briser la rente immobilière et la spéculation.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Alourdit la fiscalité des investisseurs multipropriétaires ; aucun allègement pour les bailleurs."
+        },
+        {
+          "questionId": "num-02",
+          "value": -2,
+          "quote": "Défendre et renforcer l’audiovisuel public en sécurisant son financement avec une contribution universelle et progressive en fonction des revenus. Renoncer définitivement au projet délétère de holding et de fusion de l’audiovisuel public.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Instaurer une taxation des flux de données numériques distribués sur le territoire français, au taux de 0,10 euro par gigaoctet, afin de financer l’infrastructure du réseau utilisé par les plateformes.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Aussi : durcissement du DMA/DSA, taxe GAFAM portée à 10 %, autorité unique CNIL-ARCOM."
+        },
+        {
+          "questionId": "num-04",
+          "value": 0,
+          "quote": "Les nouveaux data centers et autres installations industrielles fortement consommatrices d’énergie devront assurer le développement de capacités locales de production d’électricité renouvelable, notamment solaire, couvrant la majorité de leurs besoins.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Veut des capacités de calcul et un cloud souverains mais conditionne les data centers ; aucune simplification de procédure."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Lutter contre la concentration des médias par l’instauration de seuils anti-concentration exigeants.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "num-06",
+          "value": -1,
+          "quote": "Associer les acteurs de la culture à la définition des offres du pass culture, renforcer la part collective du pass culture et faire disparaître la part individuelle.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "note": "Maintien de la seule part collective, suppression de la part individuelle."
+        },
+        {
+          "questionId": "num-07",
+          "value": 1,
+          "quote": "Garantir la protection des données des utilisateurs par une vérification d’identité numérique sécurisée et open-source, qui ne permettrait la levée de l’anonymat que sur décision de justice, et sans que les plateformes aient accès aux données personnelles.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Vérification d'identité proposée sans être formulée comme une obligation d'accès aux services."
+        },
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "Garantir la souveraineté culturelle de la France. Aller vers 2 % du budget à la culture et l’information, en consacrant le budget du service public de l’audiovisuel.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Lutter contre les déserts médicaux en régulant l’installation des médecins libéraux – flécher leur installation dans les zones sous-dotées, la rendre impossible dans les zones déjà bien pourvues, sauf en cas de remplacement et de départ à la retraite",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/"
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Créer autant de lits que nécessaire pour les besoins d’hospitalisation en aval des urgences, en gériatrie, pédiatrie et maternité, et en psychiatrie.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Budgets hospitaliers pluriannuels fondés sur les besoins, fin des pénuries de soignants par la formation, revalorisation des métiers de la santé (« Grenelle de la première ligne », prime « santé 2030 »)."
+        },
+        {
+          "questionId": "san-03",
+          "value": 1,
+          "quote": "Créer une mutuelle publique gérée par la Sécurité sociale, pour garantir le remboursement intégral d’un panier de soins et de médicaments essentiels (la « Grande Sécu »)",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Remboursement à 100 % limité à un panier de soins essentiels (« reste à charge zéro pour tous ») ; les franchises ne sont pas explicitement supprimées."
+        },
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Cette suppression de doublon permettra d’économiser les 3,5 milliards d’euros actuellement dépensés en frais de marketing par les mutuelles privées, restituant immédiatement 50 € par an à chaque assuré, tout en garantissant un reste à charge zéro pour tous.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "inferred": true,
+          "note": "Un reste à charge zéro est l'inverse d'une hausse des franchises."
+        },
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Adopter d’urgence la proposition de loi instaurant un droit à la fin de vie libre puis accompagner les professionnels de santé face à la nouvelle donne",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/"
+        },
+        {
+          "questionId": "san-06",
+          "value": 1,
+          "quote": "Lancer une convention citoyenne sur l’usage des drogues et la légalisation du cannabis. La légalisation devra aller de pair avec un contrôle étatique strict sur la production et la commercialisation de cannabis, et le renforcement de la prévention des addictions.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Légalisation envisagée favorablement mais soumise à une convention citoyenne."
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "en renforçant les formations en santé pour mettre fin aux pénuries de médecins, infirmiers, kinésithérapeutes, manipulateurs radio, dentiste, etc. et en réformant le numerus apertus pour les voies médicales",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Aucune mention de la sélectivité."
+        },
+        {
+          "questionId": "san-08",
+          "value": 2,
+          "quote": "en l’interdisant dans les zones déjà bien dotées, en y conditionnant l’accès aux praticiens ayant effectué 2 années d’activité hospitalière après l’internat, et y imposer un plafond des dépassements d’honoraire à 50 % du tarif opposable.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/"
+        },
+        {
+          "questionId": "san-10",
+          "value": 1,
+          "quote": "Défendre la vaccination et étendre la politique vaccinale. Développer l’information pédagogique sur les vaccins dès l’école et à l’université. Promouvoir la vaccination chez les personnes âgées et la rendre obligatoire pour les professionnels de santé exerçant auprès de personnes fragiles.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Obligation étendue aux soignants auprès de personnes fragiles seulement ; rien sur de nouvelles obligations pour les enfants."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Rénover l’ensemble du parc pénitentiaire en plus d’un effort de construction de nouvelles places pour garantir la dignité de la détention.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Nouvelles places sans objectif chiffré, dans une logique de dignité et de peines alternatives."
+        },
+        {
+          "questionId": "sec-03",
+          "value": -1,
+          "quote": "Favoriser la réinsertion des personnes incarcérées. Réviser le droit des peines pour promouvoir les peines alternatives en milieu ouvert.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "inferred": true,
+          "note": "Promotion des peines alternatives, à l'opposé de l'exécution systématique des courtes peines."
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2,
+          "quote": "Instaurer un récépissé de contrôle d’identité.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/"
+        },
+        {
+          "questionId": "sec-06",
+          "value": -2,
+          "quote": "Conserver l’indépendance de la Justice des mineurs et les protéger. Préserver la spécificité de la justice des mineurs en maintenant l’équilibre entre protection et sanction propre au juge des enfants et abroger la loi Attal de 2025.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "inferred": true,
+          "note": "L'« excuse de minorité » n'est pas nommée mais la loi Attal (2025) qui l'a restreinte serait abrogée."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Augmenter les moyens de la Justice. Engager un plan de recrutement pour combler les vacances de postes de magistrats et greffiers.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Pas d'objectif de doublement."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 0,
+          "quote": "Doter le Parquet national anticriminalité organisée (PNACO) des moyens nécessaires.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "note": "Renforce le parquet dédié et la police judiciaire, mais « la sécurité durable repose d’abord sur la cohésion sociale » et débat sur la légalisation du cannabis : position mixte."
+        },
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Réviser la loi du 28 février 2017 relative à la sécurité publique qui encadre les conditions d’ouverture du feu par les forces de l’ordre en cas de refus d’obtempérer, afin qu’elles soient conformes aux conditions de la légitime défense, c’est-à-dire à l’absolue nécessité et la stricte proportionnalité.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "inferred": true,
+          "note": "Veut restreindre les conditions d'ouverture du feu, à l'opposé d'une présomption de légitime défense."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "Reconstruire une police de proximité. Cette police de proximité devra reposer sur une présence visible, régulière et humaine, sur la prévention, la connaissance du terrain et le lien avec les habitants.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/"
+        },
+        {
+          "questionId": "sec-13",
+          "value": -1,
+          "quote": "la criminalisation de sa production, de sa distribution et de sa consommation enrichit les réseaux de narcotrafiquants et ne permet pas de concentrer les moyens de l’Etat pour lutter contre les trafics les plus dangereux.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/etre-en-securites/",
+          "inferred": true,
+          "note": "Concerne le cannabis (débat sur la légalisation) ; les autres drogues ne sont pas traitées."
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2,
+          "quote": "Défendre l’aide médicale d’État (AME) et développer les dispositifs d’accompagnement psychologique pour les personnes victimes de la traite.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "soc-05",
+          "value": 1,
+          "quote": "Lutter contre la grande pauvreté dès 18 ans avec le revenu d’autonomie pour les 18–25 ans, articulé avec les parcours de formation, d’insertion et d’emploi, et conçu pour être simple d’accès et immédiatement mobilisable.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/",
+          "inferred": true,
+          "note": "Revenu d'autonomie 18-25 ans (et allocation d'autonomie conditionnée aux revenus parentaux) plutôt qu'un RSA ouvert à 18 ans."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Après l’abrogation de la réforme Borne, convoquer une conférence sociale pour définir un nouveau système de retraite par répartition qui permette à chacun de profiter d’une retraite en bonne santé",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Retour de l'âge légal à 62 ans, 43 annuités réductibles selon la pénibilité."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -1,
+          "quote": "L’âge légal de départ, ramené à 62 ans, ne disparaîtra pas pour autant : il continuera de jouer un rôle de protection minimale pour les salariés.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "62 ans et non 60 ans ; départ anticipé possible seulement via la pénibilité."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "L’âge légal de départ, ramené à 62 ans, ne disparaîtra pas pour autant : il continuera de jouer un rôle de protection minimale pour les salariés.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Propose l'inverse (abaissement à 62 ans)."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Réhausser le SMIC à 1 690 € net et ouvrir une conférence sociale pour augmenter les salaires au-dessus du SMIC.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/"
+        },
+        {
+          "questionId": "tra-06",
+          "value": -1,
+          "quote": "notamment l’expérimentation de la semaine de quatre jours et la réduction progressive du temps de travail lorsque les conditions économiques et sociales le permettent.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Va dans le sens inverse (réduction du temps de travail), mais de façon conditionnelle et par la négociation."
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2,
+          "quote": "Refonder le RSA pour en garantir l’inconditionnalité et l’automaticité.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/refaire-societe/"
+        },
+        {
+          "questionId": "tra-08",
+          "value": -1,
+          "quote": "assujettir aux cotisations sociales certains compléments de salaire attribués aux plus hauts revenus (attributions gratuites d’actions, dividendes, intéressement, participation, avantages en nature) et les revenus tirés des heures supplémentaires versés aux travailleurs dont la rémunération est supérieure à 3 SMIC",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "inferred": true,
+          "note": "Réduit l'exonération des heures supplémentaires au-dessus de 3 SMIC ; l'exonération totale n'est pas envisagée."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 1,
+          "quote": "notamment l’expérimentation de la semaine de quatre jours et la réduction progressive du temps de travail lorsque les conditions économiques et sociales le permettent.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/",
+          "note": "Par la négociation sociale et l'expérimentation, pas par une loi contraignante."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "Face aux offensives du patronat en faveur de la retraite par capitalisation, nous réaffirmons le rôle central du régime par répartition, pilier de notre République sociale.",
+          "sourceUrl": "https://projet-socialiste.fr/projet/vivre-libres/"
+        }
+      ]
+    }
+  ]
+}

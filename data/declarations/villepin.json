@@ -1,0 +1,707 @@
+{
+  "candidateId": "villepin",
+  "declarations": [
+    {
+      "id": "villepin-fh-bigbang",
+      "date": "2026-08-28",
+      "title": "Chronique « Big Bang : la règle républicaine » (chantier Fiscalité)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Fiscalité » du Projet France 2027 : la chronique la plus chiffrée du corpus.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 1,
+          "quote": "La baisse de la dépense publique fera l’essentiel de cet effort, à travers l’abolition des niches fiscales qui sont des dépenses fiscales largement inefficaces, en contribuant aux deux tiers de l’effort, par paliers annuels de près de 12 milliards d’euros.",
+          "note": "Il s'engage à ramener le déficit sous 3 % en 2031, mais un tiers de l'effort vient de hausses d'impôts (patrimoine, fiscalité environnementale, fraude) : la baisse de la dépense n'est donc pas la seule priorité."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "un impôt unique sur le patrimoine, incluant l’ensemble des sources de la fortune, et une imposition unique renforcée des successions",
+          "note": "Impôt unique sur le patrimoine appelé à rapporter 8 milliards d'euros de plus, dans une refonte de la fiscalité en neuf grands impôts."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 1,
+          "quote": "L’Impôt unique sur le patrimoine a vocation à rapporter 8 milliards d’euros de plus. La fiscalité environnementale doit rapporter de l’ordre de 9 milliards d’euros.",
+          "inferred": true,
+          "note": "Il propose un impôt unique sur l'ensemble du patrimoine « visant à ce que les plus riches prennent leur part », mais ne reprend pas le dispositif précis de la taxe Zucman (plancher de 2 % au-dessus de 100 M€)."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "une imposition unique renforcée des successions, en contrepartie d’une défiscalisation intégrale des transmissions de son vivant, pour inciter à passer le témoin et à jouer le jeu du relais générationnel",
+          "note": "Il durcit les droits de succession au décès tout en défiscalisant intégralement les donations du vivant : pas de baisse d'ensemble."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Mais les 400 niches doivent être refermées, en assumant d’affronter le chien qui mord, tapi dans chacune d’entre elles. Ce sera le sens de cette loi d’extinction de toutes les niches fiscales et sociales.",
+          "note": "Environ 175 Md€ de niches fiscales et sociales visées, avec une extinction progressive et compensée sur le quinquennat."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Il est temps de constituer un grand fonds national de souveraineté et de solidarité qui soit la propriété commune de toute la nation, dont chaque Française et chaque Français serait depuis la naissance l’actionnaire",
+          "note": "Le fonds réunit « l'ensemble des actifs nationaux » et serait abondé « après 2031, également [par] les revenus des autoroutes reprises en régie »."
+        },
+        {
+          "questionId": "env-08",
+          "value": 2,
+          "quote": "Un impôt de justice environnementale fusionnant l’ensemble des taxes existantes, autour du grand principe d’un prix unique du carbone incitant à la décarbonation, dont les recettes carbone seraient redistribuées à tous sous forme d’un dividende climat universel.",
+          "note": "Rendement attendu de l'ordre de 9 Md€ supplémentaires, intégralement redistribués."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "basculer plus de deux cents milliards d’euros de cotisations salariés et employeurs non contributives (famille, santé, handicap) vers la CSG",
+          "inferred": true,
+          "note": "Le basculement vise « une baisse de 3% du coût du travail » pour l'ensemble des salaires, sans ciblage particulier sur les bas salaires."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-europe",
+      "date": "2026-03-06",
+      "title": "Chronique « Le moment européen : manifeste pour une Europe souveraine » (chantier Europe)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Europe » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-02",
+          "value": 2,
+          "quote": "Il faut enfin travailler, à travers notre dissuasion nucléaire, à une meilleure prise en compte des intérêts de sécurité européens avec définition d’une nouvelle doctrine stratégique dans le cadre du Conseil de sécurité européen.",
+          "note": "Il pose des garde-fous : cette dissuasion « ne saurait s'insérer dans le cadre otanien sans rompre avec les principes de la dissuasion française »."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Cela impose de protéger le modèle de production européen respectueux des consommateurs et de l’environnement grâce à la taxe carbone aux frontières (MACF), qui doit être étendue et améliorée",
+          "note": "Protection commerciale assumée (MACF étendu, Instrument Anti-Coercition, arsenal de pilotage de la politique commerciale) et réindustrialisation soutenue par le fonds national de souveraineté."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "C'est l'existence même du projet européen qui est menacée aujourd'hui, depuis sa cohésion et son unité à l'intérieur jusqu'à sa puissance et son exemplarité à l'extérieur.",
+          "inferred": true,
+          "note": "La chronique est un « manifeste pour une Europe souveraine » : elle propose de refonder l'Union de l'intérieur (Conseil de sécurité européen, ressources propres, défense commune), jamais d'en sortir."
+        },
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "consolider le pilier européen au sein de l’OTAN pour le rendre capable, le plus tôt possible, de tenir debout tout seul",
+          "note": "Il ajoute : « Il faut produire un projet de sécurité dans l'OTAN, mais viable sans l'OTAN » et assume « un appel à une Europe commune de la défense »."
+        },
+        {
+          "questionId": "eur-05",
+          "value": 0,
+          "quote": "Soyons réalistes sur l’OTAN : elle va rester morte-vivante encore longtemps, trop nécessaire à court terme, trop condamnée à long terme par l’imprévisibilité américaine. Il faut produire un projet de sécurité dans l’OTAN, mais viable sans l’OTAN.",
+          "note": "Il ne propose pas de sortir du commandement intégré mais juge l'OTAN condamnée à long terme et veut prévenir sa transformation en « police globale aux mains de l'Amérique »."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 1,
+          "quote": "les modèles d’accords comme celui du Mercosur ne font plus le poids dans la nouvelle géoéconomie",
+          "inferred": true,
+          "note": "Il juge ce type d'accord dépassé et propose de lui substituer la protection par le MACF et les standards communs, sans demander explicitement le rejet du traité."
+        },
+        {
+          "questionId": "eur-08",
+          "value": -1,
+          "quote": "Pause sur les élargissements au-delà des engagements pris et des procédures en cours, indépendamment de leur issue, en réservant le cas ukrainien",
+          "note": "Pause générale sur l'élargissement, avec une exception ukrainienne (procédure accélérée à seuils ou statut d'association)."
+        },
+        {
+          "questionId": "eur-12",
+          "value": 1,
+          "quote": "Pause sur Schengen : à moyen terme, nous ne parviendrons pas à autre chose qu’à davantage de déchirures, si les Etats ne sont pas davantage responsabilisés sur le contrôle de leurs frontières.",
+          "inferred": true,
+          "note": "Il demande une responsabilisation des États sur le contrôle de leurs frontières et une « pause sur Schengen », sans aller jusqu'à des contrôles nationaux permanents."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2,
+          "quote": "La clé, c’est à la fois davantage de ressources propres européennes et l’emprunt mutualisé à l’échelle de l’Union, pour financer des politiques nationales validées pour leur valeur collective."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-pactesocial",
+      "date": "2025-12-02",
+      "title": "Chronique « La rupture du pacte social »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/la-rupture-du-pacte-social.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique de diagnostic social.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 1,
+          "quote": "la réforme des retraites, imposée sans dialogue, a repoussé l’âge légal sans tenir compte de la pénibilité ni des parcours de vie discontinus",
+          "inferred": true,
+          "note": "Il critique la réforme de 2023 et veut la « remettre sur le métier » par la négociation, jusqu'à supprimer l'âge légal ; il n'emploie jamais le mot « abrogation » et fait du référendum un point d'aboutissement."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-sorbonne",
+      "date": "2026-03-27",
+      "title": "« Le moment français » — discours de la Sorbonne (texte socle du projet)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "publisher": "La France Humaniste",
+      "summary": "Discours désigné comme « texte socle » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-09",
+          "value": 1,
+          "quote": "Un accueil des meilleurs étudiants et chercheurs étrangers.",
+          "inferred": true,
+          "note": "Il plaide pour l'accueil des meilleurs étudiants et chercheurs étrangers, sans traiter explicitement de leur droit de rester travailler après leur diplôme."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Un État qui fonctionne : cela suppose la clarté à la fois pour l’exécution effective des peines et pour l’exécution des OQTF pour les migrants sans titre de séjour, aujourd’hui dramatiquement bas, bien au-dessous des normes de nos voisins.",
+          "inferred": true,
+          "note": "Il veut une exécution effective des OQTF, sans proposer un placement systématique en rétention."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Nous avons besoin pour débloquer le pays d'un référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux, préparé par une convention citoyenne permanente."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "lutter contre les violences sexistes et sexuelles par des réorganisations et des formations adéquates",
+          "note": "Priorité affichée, mais sans budget dédié ni juridictions spécialisées."
+        },
+        {
+          "questionId": "num-01",
+          "value": 1,
+          "quote": "grâce à des règles claires : pas d’algorithme de recommandation, pas de scrolling pour les plus jeunes",
+          "inferred": true,
+          "note": "Il encadre les usages des plus jeunes (algorithmes, scrolling, interdiction des portables à l'école) plutôt qu'il n'interdit l'accès aux réseaux sociaux avant 15 ans."
+        },
+        {
+          "questionId": "num-05",
+          "value": 1,
+          "quote": "assurer l’indépendance, la sincérité et l’équité de tous les médias, en posant clairement la question de la concentration de leur propriété car la démocratie ne peut survivre sans pluralisme réel de l’information",
+          "note": "Il pose la question de la concentration capitalistique des médias sans annoncer de dispositif législatif précis."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 1,
+          "quote": "cela suppose la clarté à la fois pour l’exécution effective des peines et pour l’exécution des OQTF",
+          "inferred": true,
+          "note": "Exécution effective des peines revendiquée, sans mesure précise sur les aménagements des peines de moins d'un an."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "C’est fixer des priorités fortes : déraciner aujourd’hui le narcotrafic qui sème la mort et empoisonne la vie de nos concitoyens",
+          "inferred": true,
+          "note": "Priorité donnée au narcotrafic dans une logique de « sécurité intégrale » unissant police et justice ; ni parquet dédié ni prisons de haute sécurité ne sont cités."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "assurer la sécurité du quotidien en augmentant les patrouilles dans les rues et en veillant à transmettre dès l’école le respect des règles minimales de civilité",
+          "note": "Sécurité du quotidien et patrouilles renforcées, articulées entre niveaux territoriaux ; l'expression « police de proximité » n'est pas employée."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Ma préférence va à un système plus souple, plus juste, plus simple. Il supprimerait l’âge légal et reposerait sur une règle de durée de cotisations, avec une prise en compte sérieuse de la pénibilité des métiers.",
+          "inferred": true,
+          "note": "Supprimer l'âge légal est l'inverse d'un relèvement au-delà de 64 ans."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 1,
+          "quote": "un fonds de souveraineté et de solidarité, fer de lance d’un patriotisme financier, réunissant les instruments publics éparpillés et mobilisant l'épargne nationale, dont tous les Français deviendraient actionnaires à travers un volet d’épargne retraite publique à rendement garanti",
+          "note": "Capitalisation publique, collective et à rendement garanti adossée à un fonds souverain, en complément de la répartition — pas une capitalisation individuelle de marché."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-travail",
+      "date": "2025-12-08",
+      "title": "Chronique « Un nouveau monde du travail »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/un-nouveau-monde-du-travail.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique consacrée au travail et à l'emploi.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Il est nécessaire d’abandonner le projet actuel de réforme de l’assurance-chômage qui vient à contre-temps et de reprendre la concertation."
+        },
+        {
+          "questionId": "tra-06",
+          "value": 1,
+          "quote": "Sur le temps de travail, et notamment les 35 heures ou les heures supplémentaires, comme sur les retraites et en particulier afin de gérer les conséquences de la pénibilité et permettre des départs anticipés, pour sortir des débats théologiques",
+          "inferred": true,
+          "note": "Il ouvre la possibilité de « sortir de la cote unique » et de confier davantage de liberté de négociation aux branches sur le temps de travail, sans proposer de relever la durée légale."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-social",
+      "date": "2025-12-04",
+      "title": "Chronique « Protection sociale »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/protection-sociale.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique consacrée à la refondation de la protection sociale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Le quota de logements sociaux doit être relevé dans les zones où les tensions sont les plus fortes, et les sanctions doivent devenir réellement dissuasives : non plus des amendes symboliques, mais la possibilité de préemption automatique et de substitution de maîtrise d’ouvrage lorsque l’obligation n’est pas respectée."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "Garanties d’accès d’abord, en réarmant l’hôpital tout en le rendant plus agile, en combattant les déserts médicaux",
+          "inferred": true,
+          "note": "« Réarmer l'hôpital » est annoncé sans plan chiffré d'embauches et dans un cadre de réduction des déficits (pilotage rigoureux de l'ONDAM)."
+        },
+        {
+          "questionId": "san-03",
+          "value": 1,
+          "quote": "Cette clarification doit être couplée à un bouclier sanitaire limitant le reste à charge annuel d’un ménage en fonction de son revenu. Au-delà de ce seuil, tout serait pris en charge.",
+          "note": "Plafonnement du reste à charge selon le revenu plutôt qu'une prise en charge intégrale de tous les soins ; il écarte l'étatisation d'une « Grande Sécurité sociale »."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "Désormais, la tolérance doit être nulle, les contrôles renforcés et mieux coordonnés, les outils numériques mobilisés avec intelligence et discernement.",
+          "note": "Renforcement de la lutte contre toutes les fraudes (2,5 Md€ attendus selon la Cour des comptes) ; aucune carte Vitale biométrique n'est proposée."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-sante",
+      "date": "2025-08-27",
+      "title": "Chronique « Santé et environnement »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/sante-et-environnement.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique consacrée à la santé environnementale et à l'accès aux soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": 1,
+          "quote": "J’entends aller plus loin en conditionnant l’attribution de bourses exceptionnelles aux étudiants en médecine à un engagement d’exercice dans les territoires les plus en crise.",
+          "note": "Il prend acte de la loi qui soumet l'installation à l'autorisation de l'ARS, met en garde contre une bureaucratisation excessive, et privilégie l'incitation conditionnelle."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-ecole",
+      "date": "2026-09-01",
+      "title": "Chronique « Refonder l'école pour refaire société » (chantier Éducation)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Éducation » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-04",
+          "value": 1,
+          "quote": "Le privé, largement financé sur fonds publics, doit prendre toute sa part de la mixité sociale. Assigner des objectifs clairs, publier des chiffres annuels, impliquer davantage dans l’inclusion, moduler la prise en charge publique en fonction de la condition sociale des élèves et des publics accueillis",
+          "note": "Modulation du financement public du privé sous contrat selon la mixité sociale, et non réduction générale."
+        },
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "Cela suppose l’interdiction effective des téléphones portables dans l’enceinte des établissements et la préservation de temps-sanctuaires sans aucune exposition aux nouvelles technologies, consacrés exclusivement au lien humain."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 1,
+          "quote": "Cela suppose enfin la personnalisation des moyens de l’enseignement prioritaire en fonction des Indices de Position Sociale des élèves plutôt que de zonages rigides.",
+          "note": "Il sanctuarise le budget de l'éducation (objectif de +20 % de dépense réelle par élève en dix ans) et cible les moyens sur l'indice de position sociale plutôt que sur les zonages."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-transformation",
+      "date": "2025-12-26",
+      "title": "Chronique « La grande transformation du monde »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/la-grande-transformation-du-monde.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique sur l'engagement citoyen et l'Europe sociale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-06",
+          "value": -1,
+          "quote": "Cela peut être un service national citoyen, volontaire et accessible à tous, organisé à un échelon de proximité, avec un encadrement souple et l’implication de tout le réseau associatif d’utilité publique.",
+          "inferred": true,
+          "note": "Il propose un service national citoyen explicitement volontaire, et non obligatoire."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-bifurcation",
+      "date": "2025-08-24",
+      "title": "Chronique « La bifurcation écologique »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/la-bifurcation-ecologique.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique sur l'énergie et la transition (volet énergétique du projet).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": 1,
+          "quote": "Nous devons viser un nucléaire, plus moderne, qui produise beaucoup moins de déchets et dont la gestion soit irréprochable, tout en évaluant lucidement le rôle d'un éventuel renouveau nucléaire.",
+          "note": "Réhabilitation et modernisation du parc, recherche nucléaire, mais le « renouveau nucléaire » reste à évaluer : aucun engagement chiffré au-delà des six EPR2."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Pour tenir cet objectif, nous devons poursuivre d'abord la grande épopée nucléaire que nous tenons en héritage du Général de Gaulle."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "la recherche nucléaire et la modernisation de nos centrales devront s'adosser au déploiement massif des renouvelables électriques. Eolien terrestre et marin, solaire, hydraulique, biomasse",
+          "inferred": true,
+          "note": "Le déploiement massif de l'éolien terrestre et marin est revendiqué : un moratoire en est l'exact contraire."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-ecogaulliste",
+      "date": "2026-06-28",
+      "title": "Chronique « Pourquoi je suis écogaulliste ? » (chantier Écologie)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Écologie » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-05",
+          "value": 2,
+          "quote": "Cette autorité suppose une planification élargie : une même vision de long terme qui fasse tenir ensemble la programmation budgétaire pluriannuelle, la planification énergétique et la planification écologique, une cohérence exigeante, inscrite dans la durée et soustraite aux à-coups des alternances.",
+          "note": "« À chaque objectif, un moyen » : planification dotée de moyens pluriannuels plutôt que d'objectifs sans budget."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-duplomb",
+      "date": "2025-07-20",
+      "title": "Chronique « Sur la loi Duplomb »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/sur-la-loi-duplomb.html",
+      "publisher": "La France Humaniste",
+      "summary": "Prise de position sur la loi Duplomb (réautorisation de l'acétamipride).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Non à la loi Duplomb, adoptée sans réflexion et sans concertation. Une loi dangereuse pour notre environnement, dangereuse pour la santé des Français",
+          "note": "La chronique Agriculture ajoute : « Il faut réduire de moitié l'usage total des produits phytosanitaires d'ici 2030 »."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-territoire",
+      "date": "2025-08-21",
+      "title": "Chronique « La grande adaptation du territoire »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/la-grande-adaptation-du-territoire.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique consacrée à l'aménagement du territoire, au logement et aux mobilités.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Sortir de cette spirale impose un choix clair d'adaptation: remettre la priorité de l’Etat sur les trains du quotidien, réinvestir dans les gares de petites et moyennes villes, rouvrir des lignes secondaires, électrifier le réseau classique et reconstruire un fret ferroviaire compétitif.",
+          "note": "L'effet sur la dette n'est pas abordé ici ; il s'engage par ailleurs à ramener le déficit sous 3 % en 2031."
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Le plan Zéro artificialisation nette (ZAN) adopté par le Parlement fixe avec raison un horizon ambitieux : celui de cesser, d’ici 2050, de consommer, de « mordre » sur le sol agricole et naturel.",
+          "note": "Il ajoute qu'il faut « mener une politique ferme pour pénaliser l'artificialisation et récompenser la réutilisation de lieux en friche »."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-gaulliste",
+      "date": "2026-05-24",
+      "title": "Chronique « Le chemin gaulliste » (chantier Institutions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Institutions » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "on demande au peuple de placer au-dessus des garanties constitutionnelles ordinaires une préférence nationale qui bouleverserait l’égalité devant la loi, les droits fondamentaux et nos engagements européens et internationaux"
+        },
+        {
+          "questionId": "imm-11",
+          "value": -2,
+          "quote": "Côté engagements internationaux le RN envisage de sortir de la Cour Européenne des Droits de l’Homme au nom d’un souverainisme juridique simpliste qui cache mal une volonté de s’affranchir des garanties des libertés individuelles.",
+          "inferred": true,
+          "note": "Il range la sortie de la CEDH parmi les périls « autoritaires » qui menacent 2027."
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "Ce chemin passe par le rassemblement, l’autorité, la loyauté et le réalisme constitutionnel. J’entends par là une forme de loyauté à l’intention originelle des auteurs de la Constitution, aux équilibres qu’ils ont su trouver et au sens des outils dont ils ont doté l’exécutif.",
+          "inferred": true,
+          "note": "Tout le chantier Institutions consiste à faire « rentrer la Ve dans son lit » plutôt qu'à la remplacer par une VIe République issue d'une constituante."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-gaza",
+      "date": "2025-08-01",
+      "title": "Chronique « Un génocide à Gaza »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/un-genocide-a-gaza.html",
+      "publisher": "La France Humaniste",
+      "summary": "Prise de position sur Gaza, avec une liste de mesures demandées à la France et à l'Union européenne.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "en décrétant la suspension immédiate de l’accord d’association entre l’Union européenne et Israël, tant que les violations des droits humains persistent"
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-agriculture",
+      "date": "2026-02-25",
+      "title": "Chronique « Souveraineté agricole et alimentaire » (chantier Agriculture)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Agriculture » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 1,
+          "quote": "Pour relancer une filière en difficulté, il faut d’abord un contrat d’objectifs pluriannuel sanctuarisé.",
+          "note": "Il estime que la filière bio « mérite d'être soutenue partout où elle offre des solutions » et demande un contrat d'objectifs pluriannuel sanctuarisé plutôt qu'une hausse chiffrée des aides."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Il faut rétablir l’équilibre par des contrôles, par la traçabilité, par des clauses miroirs, et par l’extension graduelle du mécanisme d’ajustement carbone aux frontières aux produits agricoles"
+        },
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Ces exploitations doivent en contrepartie assumer des exigences plus élevées en matière de traçabilité, de contrôle et de responsabilité en termes d’impact sur l’environnement et la santé.",
+          "inferred": true,
+          "note": "Il vise 500 000 exploitations à taille humaine en 2035 et impose des exigences accrues aux élevages les plus concentrés, sans annoncer de limitation de l'élevage intensif au nom du bien-être animal."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 1,
+          "quote": "Ce type d’exploitation, enraciné dans notre histoire et dans nos familles, doit être sanctuarisé et soutenu par des règles successorales adaptées, par un statut fiscal et social protecteur",
+          "note": "Règles successorales adaptées et statut fiscal protecteur pour l'exploitation familiale, complétés par des foncières publiques d'accès au foncier ; le mot « exonération » n'est pas employé."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-culture",
+      "date": "2026-07-23",
+      "title": "Chronique « La République culturelle : vivants, toujours ! » (chantier Culture)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Culture » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-02",
+          "value": -2,
+          "quote": "L’audiovisuel public doit jouer un rôle central dans la diffusion culturelle.",
+          "inferred": true,
+          "note": "Il propose un « prélèvement sur recettes pour l'audiovisuel public » et une redéfinition de ses missions : l'inverse d'une privatisation."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "et désormais également aussi aux réseaux sociaux et à l’intelligence artificielle : chaque canal nouveau est raccordé au financement de la création",
+          "note": "La chronique Fiscalité ajoute l'élargissement de l'assiette de la CSG « aux dépenses d'intelligence artificielle des entreprises et des ménages »."
+        },
+        {
+          "questionId": "num-06",
+          "value": -2,
+          "quote": "C’est le macronisme culturel, dont le Pass Culture avec son chèque pour solde de tout compte culturel est le symbole.",
+          "note": "Il finance la création vivante notamment « par la réaffectation des crédits Pass Culturel individuel »."
+        },
+        {
+          "questionId": "num-08",
+          "value": 1,
+          "quote": "L’engagement budgétaire de l’État se formule en stabilité : pérennisation du budget de la culture en termes réels sur cinq ans ; pluriannualité générale des financements, contrats d’objectifs et de moyens",
+          "note": "Il garantit le budget en termes réels (et non une hausse) mais y ajoute de nouvelles ressources affectées à la création : extension des taxes aux réseaux sociaux et à l'IA, redevance sur le domaine public."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-ia-non",
+      "date": "2026-06-13",
+      "title": "Chronique « IA : notre pouvoir de dire NON au monopole américain » (chantier Intelligence artificielle)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chantier « Intelligence artificielle » du Projet France 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "Cela suppose de nous renforcer de façon réaliste et systématique sur l’ensemble de la chaîne de valeur de l’IA : énergie, semi-conducteurs, data centers, cloud, algorithmes entraînés, agents IA.",
+          "inferred": true,
+          "note": "Il veut un État coactionnaire de la chaîne de valeur de l'IA, mais assorti d'un « critère d'éco-conception algorithmique » et d'une autorité de sûreté : pas de simplification des procédures."
+        }
+      ]
+    },
+    {
+      "id": "villepin-fh-identitaire",
+      "date": "2025-11-16",
+      "title": "Chronique « La France face au piège identitaire »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/la-france-face-au-piege-identitaire.html",
+      "publisher": "La France Humaniste",
+      "summary": "Chronique sur l'identité, la laïcité et l'immigration.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "Ce qui n’était qu’un débat sur la neutralité de l’école est devenu le signe d’un pays qui ne se reconnaît plus, pris dans les surenchères de la police vestimentaire.",
+          "inferred": true,
+          "note": "Il dénonce la « police vestimentaire » et veut appliquer pleinement la loi de 1905 sans l'étendre à l'espace public."
+        }
+      ]
+    }
+  ]
+}

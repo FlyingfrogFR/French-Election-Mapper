@@ -1,0 +1,34 @@
+name: Proposer ou contester une question
+description: Ajouter une affirmation manquante, ou signaler une formulation biaisée, ambiguë ou obsolète.
+title: '[Question] <thème> — <résumé>'
+labels: ['question']
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type
+      options:
+        - Nouvelle question
+        - Formulation biaisée ou ambiguë
+        - Question obsolète (mesure déjà adoptée, contexte dépassé)
+    validations:
+      required: true
+  - type: input
+    id: qid
+    attributes:
+      label: Identifiant de la question existante (si concernée)
+      placeholder: ex. imm-05
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Formulation proposée
+      description: Une affirmation à laquelle on peut répondre de « pas du tout d'accord » à « tout à fait d'accord », sans terme connoté (voir docs/CHARTE-EDITORIALE.md).
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Pourquoi
+      description: En quoi la question actuelle pose problème, ou pourquoi ce sujet manque et permet de distinguer les candidat·es.
+    validations:
+      required: true

@@ -1,0 +1,428 @@
+{
+  "candidateId": "arthaud",
+  "declarations": [
+    {
+      "id": "arthaud-lo-brochure-2027",
+      "date": "2026-06-26",
+      "title": "Nathalie Arthaud – Présidentielle 2027 : brochure de campagne (supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brochure officielle de campagne diffusée depuis la brève « Brochure de campagne » du 25/08/2026 (https://www.lutte-ouvriere.org/portail/breves/brochure-campagne-196541.html). Même texte que la brochure de la fête de LO de mai 2026 (brochure_caravane_2026-01_-_couleur.pdf). C'est un programme « révolutionnaire à imposer par les luttes, pas un programme électoral » : peu de mesures législatives détaillées.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": -2,
+          "quote": "Ministres et députés imposent l'austérité budgétaire mais votent 36 milliards de rallonge pour l'armée quasiment sans discussion. Les 10 milliards destinés au nouveau porte-avions manqueront pour les hôpitaux ou pour adapter les écoles au réchauffement climatique.",
+          "page": "23",
+          "inferred": true,
+          "note": "Refus explicite des hausses du budget militaire ; le seuil de 3 % n'est pas discuté."
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "Sous prétexte de réduire la dette de l'État, cette grande bourgeoisie veut tailler à la hache dans tous les budgets utiles à la population et imposer des plans d'austérité drastiques.",
+          "page": "6",
+          "inferred": true
+        },
+        {
+          "questionId": "eco-09",
+          "value": -2,
+          "quote": "Le protectionnisme ne protège ni l'emploi ni les salaires, il est une arme des capitalistes dans leur guerre contre d'autres capitalistes.",
+          "page": "16",
+          "note": "Section « Contre le protectionnisme » ; les 270 milliards d'aides publiques aux entreprises sont également dénoncés (p. 6)."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "Confiscation des bénéfices de ces profiteurs de guerre : les milliards pour les hôpitaux, les écoles, pas pour la guerre !",
+          "page": "12",
+          "inferred": true,
+          "note": "Va au-delà d'une taxation : confiscation des bénéfices ; p. 6 dénonce aussi qu'il n'est « jamais question » de taxer les profits."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Expropriation sans indemnité ni rachat de leurs actionnaires en commençant par ceux de l'industrie pétrolière et des industries de guerre !",
+          "page": "12",
+          "inferred": true,
+          "note": "Expropriation des grands groupes plutôt que renationalisation ; la privatisation des autoroutes est dénoncée dans la réponse TDIE 2022."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -1,
+          "quote": "C'est pour cela que tous les États se préparent ouvertement à la guerre. Ils consacrent des sommes de plus en plus folles à l'armée et ils réorientent l'industrie vers « l'économie de guerre ».",
+          "page": "22",
+          "inferred": true,
+          "note": "Hostilité à la militarisation et à l'« économie de guerre » ; la défense européenne intégrée n'est pas nommée."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Chaque missile lancé au-dessus du golfe Persique, chaque Rafale qui vole dans le ciel de l'Ukraine vient remplir un peu plus leurs coffres-forts.",
+          "page": "11",
+          "inferred": true,
+          "note": "Les livraisons d'armes sont présentées comme un enrichissement des marchands d'armes ; la page « Le capitalisme, c'est la guerre ! » ajoute que « les dirigeants américains fournissent les armes, tandis que la population ukrainienne… paie le prix du sang »."
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "À bas les barbelés, les traques, les expulsions ! À bas l'Europe-forteresse ! Régularisation de tous les sans-papiers, liberté de circulation et d'installation pour chaque être humain de cette planète ! Union de tous les travailleurs !",
+          "page": "14"
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation pour chaque être humain de cette planète !",
+          "page": "14",
+          "note": "Régularisation de tous les sans-papiers, sans condition de métier."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "À bas l'Europe-forteresse ! Régularisation de tous les sans-papiers, liberté de circulation et d'installation pour chaque être humain de cette planète !",
+          "page": "14",
+          "inferred": true,
+          "note": "Liberté de circulation et d'installation pour tous ; l'asile n'est pas traité en tant que tel."
+        },
+        {
+          "questionId": "imm-13",
+          "value": -2,
+          "quote": "À bas les barbelés, les traques, les expulsions ! À bas l'Europe-forteresse !",
+          "page": "14",
+          "inferred": true,
+          "note": "Rejet des expulsions et des « traques » ; la rétention n'est pas nommée."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Si nous demandions au personnel des hôpitaux, des Ehpad, de l'éducation, des transports publics, d'établir une liste d'embauches dont ils auraient besoin, on arriverait à des centaines de milliers d'emplois à créer tout de suite !",
+          "page": "10",
+          "note": "La réponse 2022 sur les déserts médicaux demande aussi « des plans d'embauches massives » financés « quoi qu'il en coûte »."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2,
+          "quote": "Nous devons imposer une augmentation massive des salaires, des allocations et des pensions et leur indexation sur la hausse des prix : quand les prix montent, notre salaire doit suivre !",
+          "page": "9"
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Pour réduire les impôts de ces grands groupes, financer leurs investissements, les exonérer de cotisations sociales, ils démolissent les droits des travailleurs, reculent l'âge de la retraite, taillent dans les budgets les plus utiles à la population, la santé, l'éducation, les transports...",
+          "page": "2",
+          "inferred": true,
+          "note": "Le recul de l'âge de la retraite est dénoncé comme le programme de la bourgeoisie ; l'abrogation de la réforme de 2023 n'est pas formulée telle quelle."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Aujourd'hui il faut gagner au moins 2 200 euros net par mois pour s'en sortir. Eh bien voilà ce que nous devons exiger !",
+          "page": "9",
+          "note": "« Augmentation massive des salaires » à imposer par les luttes (2 200 € net minimum), pas par décision de l'État."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Ils veulent baisser les salaires, les pensions et les allocations, réduire les indemnités des chômeurs, rembourser encore moins les soins et les médicaments...",
+          "page": "6",
+          "inferred": true,
+          "note": "La réduction des indemnités des chômeurs est dénoncée comme le programme des capitalistes."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Nous devons imposer une augmentation massive des salaires, des allocations et des pensions et leur indexation sur la hausse des prix : quand les prix montent, notre salaire doit suivre !",
+          "page": "9"
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "Il faut baisser le temps et la charge de travail sans perte de salaire pour permettre à tous de vivre.",
+          "page": "10",
+          "inferred": true,
+          "note": "Réduction du temps de travail sans perte de salaire, à imposer par les luttes et non par la loi ; 32 h / 4 jours non chiffrés."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Alors, pour que personne ne soit condamné au chômage, il faut recenser les besoins et imposer que le travail soit réparti entre tous.",
+          "page": "10",
+          "inferred": true,
+          "note": "Les licenciements des groupes « qui battent des records de profits » sont dénoncés (p. 1) et le partage du travail sans perte de salaire exigé ; l'« interdiction des licenciements » n'est pas écrite telle quelle dans la brochure 2027."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "Bardella a mis en avant un projet de réforme des retraites qui comporterait la suppression de la notion d'âge légal de départ et la mise en place d'un système par capitalisation. Voilà le vrai visage du « candidat du peuple » !",
+          "page": "27",
+          "inferred": true,
+          "note": "La capitalisation est dénoncée comme une attaque contre les travailleurs."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-lo-2022-profession-de-foi",
+      "date": "2022-03-07",
+      "title": "Profession de foi de Nathalie Arthaud – élection présidentielle 2022 (CNCCEP)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.cnccep.fr/pdfs/Candidat-01-Nathalie-Arthaud-Declaration.pdf",
+      "publisher": "Lutte ouvrière / CNCCEP",
+      "summary": "Document officiel de 2022 utilisé uniquement pour des mesures absentes de la brochure 2027 ; mentionné comme tel dans les notes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-12",
+          "value": 2,
+          "quote": "Sans travailleurs immigrés, aucun hôpital, aucun chantier du bâtiment ou de nettoyage, aucune usine ne fonctionnerait. Ces travailleurs sont bien plus utiles que les capitalistes Arnault ou Bolloré, ou leurs serviteurs du monde politique. Ils doivent avoir le droit de vote.",
+          "page": "3",
+          "inferred": true,
+          "note": "Profession de foi 2022 : droit de vote des travailleurs immigrés, sans précision d'élection."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "2 000 euros, c'est le minimum pour ne pas avoir à compter chaque euro, partir un peu en vacances ou ne pas craindre de se retrouver sans voiture. Et cela vaut pour les salaires, pour les pensions et les allocations des chômeurs et des handicapés.",
+          "page": "2",
+          "inferred": true,
+          "note": "Profession de foi 2022 : minimum de 2 000 € net pour les pensions ; la brochure 2027 demande 2 200 € net « pour s'en sortir » (p. 9)."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Comme l'est l'obligation faite aux plus de 60 ans de s'user à la tâche, alors que tant de jeunes sont au chômage.",
+          "page": "2",
+          "inferred": true,
+          "note": "Profession de foi 2022 : le travail au-delà de 60 ans est présenté comme une aberration ; la brochure 2027 ne fixe pas d'âge."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-lo-2022-reponses",
+      "date": "2022-01-01",
+      "title": "Quelques réponses à des questions posées à Nathalie Arthaud (campagne 2022 : ADMD, déserts médicaux, drogues, condition animale, TVA, transports, nucléaire)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-quelques-reponses-des-questions-posees-nathalie-arthaud",
+      "publisher": "Lutte ouvrière",
+      "summary": "Réponses écrites signées Nathalie Arthaud (PDF hébergés sur lutte-ouvriere.org, /medias/presentation/fichiers/2022/03/). Documents de 2022. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Il serait possible de supprimer les conditions scandaleuses d'élevage ou d'abattage (scandaleuses aussi bien pour les animaux que pour les hommes et femmes qui y travaillent) si le moteur de ces élevages et abattoirs intensifs n'était pas la course au profit à n'importe quel prix.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-condition-animale",
+          "inferred": true,
+          "note": "Courrier du 11 février 2022 ; pas de mesure de limitation progressive de l'élevage intensif."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 1,
+          "quote": "L'interdiction de la chasse à courre, loisir cruel de riches oisifs en mal de distraction, me semble justifiée.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-condition-animale",
+          "note": "Courrier du 11 février 2022 : interdiction de la chasse à courre seulement."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 1,
+          "quote": "Il faudrait supprimer la TVA et faire reposer la fiscalité exclusivement sur la classe riche qui en a les moyens, sur les profits du capital, sous toutes ses formes.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Supprimer-la-TVA.pdf",
+          "page": "1",
+          "inferred": true,
+          "note": "Réponse de 2022 : fiscalité à faire reposer sur la classe riche et le capital ; l'ISF n'est pas nommé."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 2,
+          "quote": "Il faudrait supprimer la TVA et faire reposer la fiscalité exclusivement sur la classe riche qui en a les moyens, sur les profits du capital, sous toutes ses formes.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Supprimer-la-TVA.pdf",
+          "page": "1",
+          "inferred": true,
+          "note": "Réponse de 2022 : va plus loin que la baisse à 5,5 % (suppression de la TVA)."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 1,
+          "quote": "Il n'y a aucune raison que les travailleurs soient ponctionnés pour faire fonctionner un État dont l'essentiel des dépenses sert à aider les capitaliste. Il faudrait supprimer la TVA et faire reposer la fiscalité exclusivement sur la classe riche qui en a les moyens",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Supprimer-la-TVA.pdf",
+          "page": "1",
+          "inferred": true,
+          "note": "Réponse de 2022 : fiscalité à faire reposer sur les riches ; les tranches de l'impôt sur le revenu ne sont pas évoquées."
+        },
+        {
+          "questionId": "env-02",
+          "value": 0,
+          "quote": "Poser le problème en termes de \"sortir\" ou \"ne pas sortir\" du nucléaire, indépendamment des conditions sociales et économiques dans lesquelles nous vivons, est au mieux une impasse, au pire une diversion.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Reseau-sortir-du-nucleaire.pdf",
+          "page": "1",
+          "note": "Réponse de 2022 au Réseau Sortir du nucléaire : refus de trancher la question hors du renversement du capitalisme."
+        },
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Ils pourront imposer l'embauche massive et immédiate de centaines de milliers de travailleurs dans la construction et l'entretien de voies ferrées, d'infrastructure et de matériel de transports collectifs.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/TDIE-transports-NathalieArthaud2022.pdf",
+          "page": "2",
+          "inferred": true,
+          "note": "Réponse TDIE 2022 : investissement massif dans le ferroviaire et gratuité des transports en commun, à imposer par les travailleurs ; la dette n'est pas discutée."
+        },
+        {
+          "questionId": "san-01",
+          "value": 1,
+          "quote": "il faut réfléchir à un système permettant l'installation de médecins et de pharmaciens en fonction des besoins réels des populations et pas sur le simple critère du profit personnel en s'installant dans des départements favorisés, quitte à les aider pour leur installation.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Deserts-medicaux.pdf",
+          "page": "1",
+          "note": "Réponse de 2022 ; formulation prudente (« réfléchir à un système »)."
+        },
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Je suis pour que la loi permette le suicide assisté c'est-à-dire l'euthanasie pour les personnes en phase avancée ou terminale, à condition qu'elle comporte le maximum de garde-fous pour un choix aussi grave",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Mourir-dans-la-dignite.pdf",
+          "page": "1",
+          "note": "Lettre à l'ADMD du 11 décembre 2021 (campagne 2022)."
+        },
+        {
+          "questionId": "san-06",
+          "value": 1,
+          "quote": "Je suis pour la dépénalisation du cannabis ce qui mettrait fin à la répression contre les consommateurs et les vendeurs. La prohibition du cannabis est un échec total.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Drogue-et-societe.pdf",
+          "page": "1",
+          "note": "Pour la dépénalisation ; sur la légalisation encadrée : « Il est bien difficile de le dire » (réponse 2022)."
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "Pour les médecins comme pour les infirmiers, ce ne sont pas les candidats qui manquent, mais les moyens de les former et les infrastructures nécessaires à ce qu'ils puissent ensuite travailler dans de bonnes conditions.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/medias/presentation/fichiers/2022/03/Deserts-medicaux.pdf",
+          "page": "1",
+          "inferred": true,
+          "note": "Réponse de 2022 : demande davantage de moyens de formation ; pas de chiffre."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-lo-positions",
+      "date": "2024-01-01",
+      "title": "Qui sommes-nous ? – Nos idées et positions politiques (portail Lutte ouvrière)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/index.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Pages thématiques permanentes du parti (Europe, immigration, logement, religions, féminisme, élections, etc.), non datées individuellement ; certaines reprennent des textes de 2018-2024. (Date du document : 2024 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-04",
+          "value": 2,
+          "quote": "Il faut arrêter toute forme de subvention à l'enseignement religieux.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-religions",
+          "inferred": true,
+          "note": "L'enseignement privé sous contrat est très majoritairement confessionnel ; la page vise l'enseignement religieux."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "Sortir de l'Union européenne ne réglera pas les problèmes des travailleurs.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-quitter-lunion-europeenne-et-retrouver-de-la-souverainete-une-diversion-et-un-mensonge",
+          "note": "Contre la sortie de l'UE (« une diversion et un mensonge ») tout en combattant « l'Europe des capitalistes »."
+        },
+        {
+          "questionId": "eur-08",
+          "value": 1,
+          "quote": "Si les travailleurs d'Ukraine veulent rejoindre l'Union européenne, et s'ils peuvent y gagner de pouvoir se déplacer plus facilement, tant mieux !",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/adhesion-lukraine-lunion-europeenne-sopposer-demagogie-nationaliste-164192",
+          "note": "Position nuancée : contre l'opposition « nationaliste » à l'adhésion, sans en faire une revendication."
+        },
+        {
+          "questionId": "eur-12",
+          "value": -2,
+          "quote": "En tant que communistes, nous combattons les idées nationalistes, la xénophobie et tout ce qui oppose les travailleurs les uns aux autres. Nous sommes favorables à tout ce qui va dans le sens de la disparition des frontières.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-europe"
+        },
+        {
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "La « préférence nationale » mise en avant par l'extrême droite consiste à retirer des droits à une partie des travailleurs, mais cela n'en a jamais donné plus aux autres.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/travailleurs-francais-immigres-laissons-diviser-164193"
+        },
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "Dans un pays riche comme la France, l'État ne consacre même pas le minimum de moyens que réclament les associations pour gérer les situations d'urgence !",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-feminisme",
+          "inferred": true,
+          "note": "Dénonce l'insuffisance des moyens ; pas de budget ni de juridictions spécialisées proposés."
+        },
+        {
+          "questionId": "log-01",
+          "value": 0,
+          "quote": "L'encadrement des loyers a une efficacité bien limitée et les APL sont diminuées par la politique de l'État.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-logement-un-droit-fondamental-conquerir",
+          "inferred": true,
+          "note": "Jugement mitigé sur l'encadrement des loyers ; la solution proposée est l'expropriation des grands groupes et la planification du logement."
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2,
+          "quote": "La « préférence nationale » mise en avant par l'extrême droite consiste à retirer des droits à une partie des travailleurs, mais cela n'en a jamais donné plus aux autres.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/travailleurs-francais-immigres-laissons-diviser-164193",
+          "inferred": true,
+          "note": "Refus de retirer des droits sociaux aux travailleurs étrangers ; la condition de cinq ans de résidence n'est pas discutée en tant que telle."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-lo-journal-2026",
+      "date": "2026-09-01",
+      "title": "Portail Lutte ouvrière – journal et agenda (septembre 2026)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/",
+      "publisher": "Lutte ouvrière",
+      "summary": "Article du journal « Nouveau service militaire : la même mise en condition » (16/09/2026) et appel à manifester contre la loi « permis de tuer » signé Nathalie Arthaud pour Lutte ouvrière (17/09/2026). (Date du document : 2026-09 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-03",
+          "value": -2,
+          "quote": "il s'agit en fait de faire accepter à la jeunesse de marcher au pas, de la transformer en chair à canon pour défendre « la patrie », « la Nation », en réalité les intérêts sonnants et trébuchants des grands groupes capitalistes.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/journal/nouveau-service-militaire-mise-condition-197136.html",
+          "inferred": true,
+          "note": "Article du journal Lutte ouvrière (16/09/2026) contre le nouveau service militaire volontaire ; un service obligatoire n'est pas discuté."
+        },
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Cette loi vise maintenant à assurer l'impunité de ces actes en leur reconnaissant par avance le caractere de légitime défense. Il faut dénoncer cette loi et les partis qui en sont les promoteurs.",
+          "sourceUrl": "https://www.lutte-ouvriere.org/portail/agenda/manifestations-contre-loi-permis-tuer-197205.html",
+          "note": "Appel à manifester (20/09/2026) contre la loi dite « permis de tuer » reconnaissant par avance la légitime défense des policiers, signé « Nathalie Arthaud pour Lutte ouvrière »."
+        }
+      ]
+    }
+  ]
+}

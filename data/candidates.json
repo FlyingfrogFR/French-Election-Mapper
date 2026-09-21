@@ -1,0 +1,1040 @@
+{
+  "election": {
+    "name": "Élection présidentielle française de 2027",
+    "firstRound": "2027-04-18",
+    "secondRound": "2027-05-02",
+    "sponsorshipDeadline": "2027-03-12",
+    "notes": "Chaque candidat doit réunir 500 parrainages d'élus issus d'au moins 30 départements avant le 12 mars 2027 (18 h). La liste officielle est arrêtée par le Conseil constitutionnel."
+  },
+  "primaries": {
+    "gauche-unitaire": {
+      "name": "Primaire de la gauche unitaire",
+      "date": "2026-10-11",
+      "organizers": "Les Écologistes, L'Après, Debout !",
+      "source": "https://en.wikipedia.org/wiki/2026_United_Left_primary"
+    },
+    "choisir-2027": {
+      "name": "Primaire « Choisir 2027 » (camp social-démocrate)",
+      "date": "2026-10-09/10 et 2026-10-16/17",
+      "organizers": "Parti socialiste et partenaires",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/"
+    }
+  },
+  "candidates": [
+    {
+      "id": "arthaud",
+      "firstName": "Nathalie",
+      "lastName": "Arthaud",
+      "displayName": "Nathalie Arthaud",
+      "party": "Lutte ouvrière",
+      "partyShort": "LO",
+      "status": "declared",
+      "declaredOn": "2025-12-08",
+      "statusNote": "Désignée candidate par Lutte ouvrière.",
+      "primary": null,
+      "website": "https://www.lutte-ouvriere.org/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "asselineau",
+      "firstName": "François",
+      "lastName": "Asselineau",
+      "displayName": "François Asselineau",
+      "party": "Union populaire républicaine",
+      "partyShort": "UPR",
+      "status": "declared",
+      "declaredOn": "2023-08-31",
+      "statusNote": "Candidature annoncée dès août 2023.",
+      "primary": null,
+      "website": "https://www.upr.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "attal",
+      "firstName": "Gabriel",
+      "lastName": "Attal",
+      "displayName": "Gabriel Attal",
+      "party": "Renaissance",
+      "partyShort": "RE",
+      "status": "declared",
+      "declaredOn": "2026-05-22",
+      "statusNote": "Candidature officialisée le 22 mai 2026.",
+      "primary": null,
+      "website": "https://parti-renaissance.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "France 24 — Présidentielle 2027 : qui sont les candidats officiellement déclarés ?",
+          "url": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+          "date": "2026-05-24"
+        }
+      ]
+    },
+    {
+      "id": "bardella",
+      "firstName": "Jordan",
+      "lastName": "Bardella",
+      "displayName": "Jordan Bardella",
+      "party": "Rassemblement national",
+      "partyShort": "RN",
+      "status": "potential",
+      "declaredOn": null,
+      "statusNote": "Candidat de substitution possible du RN si Marine Le Pen devenait définitivement inéligible (pourvoi en cassation en cours). Aucune candidature propre annoncée.",
+      "primary": null,
+      "website": "https://rassemblementnational.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "RTS — Condamnée en appel, Marine Le Pen pourra se présenter en 2027",
+          "url": "https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html",
+          "date": "2026-07-07"
+        }
+      ]
+    },
+    {
+      "id": "batho",
+      "firstName": "Delphine",
+      "lastName": "Batho",
+      "displayName": "Delphine Batho",
+      "party": "Génération écologie",
+      "partyShort": "GÉ",
+      "status": "declared",
+      "declaredOn": "2025-11-25",
+      "statusNote": "Candidate ; ne participe pas à la primaire de la gauche unitaire.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "bertrand",
+      "firstName": "Xavier",
+      "lastName": "Bertrand",
+      "displayName": "Xavier Bertrand",
+      "party": "Nous France",
+      "partyShort": "NF",
+      "status": "declared",
+      "declaredOn": "2026-08-26",
+      "statusNote": "Candidature déclarée ; refuse de participer à une primaire de la droite.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "bouamrane",
+      "firstName": "Karim",
+      "lastName": "Bouamrane",
+      "displayName": "Karim Bouamrane",
+      "party": "Parti socialiste (dissident)",
+      "partyShort": "PS",
+      "status": "declared",
+      "declaredOn": "2026-06-09",
+      "statusNote": "Maire de Saint-Ouen ; candidature hors primaire socialiste.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "cazeneuve",
+      "firstName": "Bernard",
+      "lastName": "Cazeneuve",
+      "displayName": "Bernard Cazeneuve",
+      "party": "La Convention",
+      "partyShort": "LC",
+      "status": "declared",
+      "declaredOn": "2026-07-16",
+      "statusNote": "Candidature présentée hors primaire socialiste.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan",
+      "firstName": "Nicolas",
+      "lastName": "Dupont-Aignan",
+      "displayName": "Nicolas Dupont-Aignan",
+      "party": "Debout la France",
+      "partyShort": "DLF",
+      "status": "declared",
+      "declaredOn": "2025-03-08",
+      "statusNote": "Candidature annoncée en mars 2025 et formalisée le 19 septembre 2026.",
+      "primary": null,
+      "website": "https://www.debout-la-france.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "egger",
+      "firstName": "Clara",
+      "lastName": "Egger",
+      "displayName": "Clara Egger",
+      "party": "Solution démocratique",
+      "partyShort": "SD",
+      "status": "declared",
+      "declaredOn": null,
+      "statusNote": "Candidature déclarée (petite formation).",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "faure",
+      "firstName": "Olivier",
+      "lastName": "Faure",
+      "displayName": "Olivier Faure",
+      "party": "Parti socialiste",
+      "partyShort": "PS",
+      "status": "primary",
+      "declaredOn": "2026-08-30",
+      "statusNote": "Premier secrétaire du PS ; candidat à la primaire « Choisir 2027 » (9-10 et 16-17 octobre 2026).",
+      "primary": "choisir-2027",
+      "website": "https://www.parti-socialiste.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "glucksmann",
+      "firstName": "Raphaël",
+      "lastName": "Glucksmann",
+      "displayName": "Raphaël Glucksmann",
+      "party": "Place publique",
+      "partyShort": "PP",
+      "status": "primary",
+      "declaredOn": "2026-08-23",
+      "statusNote": "Candidature officialisée le 23 août 2026 pour la primaire « Choisir 2027 » du camp social-démocrate.",
+      "primary": "choisir-2027",
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "guedj",
+      "firstName": "Jérôme",
+      "lastName": "Guedj",
+      "displayName": "Jérôme Guedj",
+      "party": "Parti socialiste",
+      "partyShort": "PS",
+      "status": "primary",
+      "declaredOn": null,
+      "statusNote": "Député ; candidat à la primaire « Choisir 2027 ».",
+      "primary": "choisir-2027",
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "hollande",
+      "firstName": "François",
+      "lastName": "Hollande",
+      "displayName": "François Hollande",
+      "party": "Divers gauche",
+      "partyShort": "DVG",
+      "status": "potential",
+      "declaredOn": null,
+      "statusNote": "Ancien président de la République ; décision annoncée pour décembre 2026 selon la presse.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "kazib",
+      "firstName": "Anasse",
+      "lastName": "Kazib",
+      "displayName": "Anasse Kazib",
+      "party": "Révolution permanente",
+      "partyShort": "RP",
+      "status": "declared",
+      "declaredOn": "2026-06-01",
+      "statusNote": "Candidature déclarée.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "labib",
+      "firstName": "Selma",
+      "lastName": "Labib",
+      "displayName": "Selma Labib",
+      "party": "NPA-Révolutionnaires",
+      "partyShort": "NPA-R",
+      "status": "declared",
+      "declaredOn": "2026-06-17",
+      "statusNote": "Candidature annoncée par le parti.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "lalanne",
+      "firstName": "Francis",
+      "lastName": "Lalanne",
+      "displayName": "Francis Lalanne",
+      "party": "France Libre",
+      "partyShort": "FL",
+      "status": "declared",
+      "declaredOn": "2026-08-19",
+      "statusNote": "Candidature déclarée.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "le-maire",
+      "firstName": "Bruno",
+      "lastName": "Le Maire",
+      "displayName": "Bruno Le Maire",
+      "party": "Divers centre",
+      "partyShort": "DVC",
+      "status": "potential",
+      "declaredOn": null,
+      "statusNote": "Ancien ministre ; décision annoncée pour octobre 2026 selon la presse.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "le-pen",
+      "firstName": "Marine",
+      "lastName": "Le Pen",
+      "displayName": "Marine Le Pen",
+      "party": "Rassemblement national",
+      "partyShort": "RN",
+      "status": "declared",
+      "declaredOn": "2026-07-07",
+      "statusNote": "Candidature confirmée après l'arrêt de la cour d'appel de Paris du 7 juillet 2026 (peine d'inéligibilité ferme réduite à 15 mois, déjà purgée). Pourvoi en cassation en cours ; la Cour de cassation a annoncé un examen avant la campagne.",
+      "primary": null,
+      "website": "https://rassemblementnational.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "RTS — Condamnée en appel, Marine Le Pen pourra se présenter en 2027",
+          "url": "https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "Cour d'appel de Paris — communiqué de presse du 7 juillet 2026",
+          "url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20CP.pdf",
+          "date": "2026-07-07"
+        }
+      ]
+    },
+    {
+      "id": "lisnard",
+      "firstName": "David",
+      "lastName": "Lisnard",
+      "displayName": "David Lisnard",
+      "party": "Nouvelle Énergie",
+      "partyShort": "NE",
+      "status": "declared",
+      "declaredOn": "2026-03-31",
+      "statusNote": "Maire de Cannes ; a quitté LR et demande une primaire ouverte de la droite.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "massard",
+      "firstName": "Lydie",
+      "lastName": "Massard",
+      "displayName": "Lydie Massard",
+      "party": "Union démocratique bretonne",
+      "partyShort": "UDB",
+      "status": "primary",
+      "declaredOn": "2026-04-02",
+      "statusNote": "Candidate à la primaire de la gauche unitaire prévue le 11 octobre 2026, dont la tenue est incertaine depuis le choix du PS d'une primaire séparée.",
+      "primary": "gauche-unitaire",
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Wikipedia — 2026 United Left primary",
+          "url": "https://en.wikipedia.org/wiki/2026_United_Left_primary",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    {
+      "id": "maurel",
+      "firstName": "Emmanuel",
+      "lastName": "Maurel",
+      "displayName": "Emmanuel Maurel",
+      "party": "Gauche républicaine et socialiste",
+      "partyShort": "GRS",
+      "status": "primary",
+      "declaredOn": "2026-09-04",
+      "statusNote": "Candidat à la primaire « Choisir 2027 ».",
+      "primary": "choisir-2027",
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak",
+      "firstName": "Antoine",
+      "lastName": "Mikolajczak",
+      "displayName": "Antoine Mikolajczak",
+      "party": "Équinoxe",
+      "partyShort": "EQX",
+      "status": "declared",
+      "declaredOn": null,
+      "statusNote": "Candidature déclarée (petite formation).",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "melenchon",
+      "firstName": "Jean-Luc",
+      "lastName": "Mélenchon",
+      "displayName": "Jean-Luc Mélenchon",
+      "party": "La France insoumise",
+      "partyShort": "LFI",
+      "status": "declared",
+      "declaredOn": "2026-05-03",
+      "statusNote": "Quatrième candidature (2012, 2017, 2022). Refuse de participer aux primaires de gauche.",
+      "primary": null,
+      "website": "https://lafranceinsoumise.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "France 24 — Présidentielle 2027 : qui sont les candidats officiellement déclarés ?",
+          "url": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+          "date": "2026-05-24"
+        }
+      ]
+    },
+    {
+      "id": "philippe",
+      "firstName": "Édouard",
+      "lastName": "Philippe",
+      "displayName": "Édouard Philippe",
+      "party": "Horizons",
+      "partyShort": "HOR",
+      "status": "declared",
+      "declaredOn": "2024-09-03",
+      "statusNote": "Première candidature déclarée, dès septembre 2024.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "France 24 — Présidentielle 2027 : qui sont les candidats officiellement déclarés ?",
+          "url": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+          "date": "2026-05-24"
+        }
+      ]
+    },
+    {
+      "id": "philippot",
+      "firstName": "Florian",
+      "lastName": "Philippot",
+      "displayName": "Florian Philippot",
+      "party": "Les Patriotes",
+      "partyShort": "LP",
+      "status": "declared",
+      "declaredOn": "2026-05-09",
+      "statusNote": "Candidature déclarée.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "retailleau",
+      "firstName": "Bruno",
+      "lastName": "Retailleau",
+      "displayName": "Bruno Retailleau",
+      "party": "Les Républicains",
+      "partyShort": "LR",
+      "status": "designated",
+      "declaredOn": "2026-04-19",
+      "statusNote": "Désigné candidat par les adhérents LR le 19 avril 2026 (73,8 % des voix).",
+      "primary": null,
+      "website": "https://republicains.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "France 24 — Présidentielle 2027 : qui sont les candidats officiellement déclarés ?",
+          "url": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+          "date": "2026-05-24"
+        }
+      ]
+    },
+    {
+      "id": "roussel",
+      "firstName": "Fabien",
+      "lastName": "Roussel",
+      "displayName": "Fabien Roussel",
+      "party": "Parti communiste français",
+      "partyShort": "PCF",
+      "status": "designated",
+      "declaredOn": "2026-09-06",
+      "statusNote": "Candidature validée par le vote des adhérents du PCF le 6 septembre 2026 (72 %).",
+      "primary": null,
+      "website": "https://www.pcf.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "royal",
+      "firstName": "Ségolène",
+      "lastName": "Royal",
+      "displayName": "Ségolène Royal",
+      "party": "Divers gauche",
+      "partyShort": "DVG",
+      "status": "primary",
+      "declaredOn": "2026-07-10",
+      "statusNote": "Candidate à la primaire « Choisir 2027 ».",
+      "primary": "choisir-2027",
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "ruffin",
+      "firstName": "François",
+      "lastName": "Ruffin",
+      "displayName": "François Ruffin",
+      "party": "Debout !",
+      "partyShort": "DEB",
+      "status": "primary",
+      "declaredOn": "2025-04-01",
+      "statusNote": "Candidat à la primaire de la gauche unitaire prévue le 11 octobre 2026, dont la tenue est incertaine depuis le choix du PS d'une primaire séparée.",
+      "primary": "gauche-unitaire",
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Wikipedia — 2026 United Left primary",
+          "url": "https://en.wikipedia.org/wiki/2026_United_Left_primary",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    {
+      "id": "tondelier",
+      "firstName": "Marine",
+      "lastName": "Tondelier",
+      "displayName": "Marine Tondelier",
+      "party": "Les Écologistes",
+      "partyShort": "ÉCO",
+      "status": "primary",
+      "declaredOn": "2025-12-08",
+      "statusNote": "Désignée par Les Écologistes (86 %) le 8 décembre 2025 pour la primaire de la gauche unitaire prévue le 11 octobre 2026. La tenue de cette primaire est incertaine depuis le choix des adhérents du PS (9 juillet 2026) d'organiser une primaire séparée ; une candidature autonome est envisagée.",
+      "primary": "gauche-unitaire",
+      "website": "https://lesecologistes.fr/",
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Wikipedia — 2026 United Left primary",
+          "url": "https://en.wikipedia.org/wiki/2026_United_Left_primary",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    {
+      "id": "villepin",
+      "firstName": "Dominique",
+      "lastName": "de Villepin",
+      "displayName": "Dominique de Villepin",
+      "party": "La France humaniste",
+      "partyShort": "LFH",
+      "status": "potential",
+      "declaredOn": null,
+      "statusNote": "Collecte des parrainages en cours ; pas de déclaration formelle recensée à ce jour.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "zemmour",
+      "firstName": "Éric",
+      "lastName": "Zemmour",
+      "displayName": "Éric Zemmour",
+      "party": "Reconquête",
+      "partyShort": "REC",
+      "status": "declared",
+      "declaredOn": "2026-09-17",
+      "statusNote": "Candidature confirmée le 17 septembre 2026 ; déclaration formelle attendue à l'automne.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+          "date": "2026-09-18"
+        }
+      ]
+    }
+  ]
+}

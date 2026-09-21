@@ -1,0 +1,824 @@
+[
+  {
+    "id": "eco-01",
+    "topic": "economie",
+    "statement": "La réduction des dépenses publiques doit être la priorité pour ramener le déficit sous 3 % du PIB.",
+    "context": "Le déficit public français dépasse 3 % du PIB depuis 2020 ; la réduction peut passer par des baisses de dépenses, des hausses de recettes ou les deux."
+  },
+  {
+    "id": "eco-02",
+    "topic": "economie",
+    "statement": "Un impôt sur la fortune (ISF) portant sur l'ensemble du patrimoine, y compris financier, doit être rétabli.",
+    "context": "L'ISF a été remplacé en 2018 par l'impôt sur la fortune immobilière (IFI), limité aux biens immobiliers."
+  },
+  {
+    "id": "eco-03",
+    "topic": "economie",
+    "statement": "Un impôt plancher de 2 % sur les patrimoines supérieurs à 100 millions d'euros (dite « taxe Zucman ») doit être instauré.",
+    "context": "Proposition de l'économiste Gabriel Zucman débattue au Parlement en 2025."
+  },
+  {
+    "id": "eco-04",
+    "topic": "economie",
+    "statement": "Les droits de succession doivent être réduits."
+  },
+  {
+    "id": "eco-05",
+    "topic": "economie",
+    "statement": "La TVA sur l'énergie (électricité, gaz, carburants) doit être abaissée à 5,5 %.",
+    "context": "Le taux normal de TVA est de 20 % ; le taux réduit de 5,5 % s'applique par exemple aux produits alimentaires."
+  },
+  {
+    "id": "eco-06",
+    "topic": "economie",
+    "statement": "L'impôt sur les sociétés et les impôts de production doivent être encore réduits pour renforcer la compétitivité des entreprises."
+  },
+  {
+    "id": "eco-07",
+    "topic": "economie",
+    "statement": "L'État doit pouvoir bloquer temporairement les prix de produits de première nécessité."
+  },
+  {
+    "id": "eco-08",
+    "topic": "economie",
+    "statement": "Des niches fiscales doivent être supprimées, même si cela augmente l'impôt de certains contribuables."
+  },
+  {
+    "id": "eco-09",
+    "topic": "economie",
+    "statement": "L'État doit financer la réindustrialisation par des aides publiques ciblées et des mesures de protection commerciale, même coûteuses."
+  },
+  {
+    "id": "eco-10",
+    "topic": "economie",
+    "statement": "L'impôt sur le revenu doit être rendu plus progressif avec des tranches supplémentaires pour les hauts revenus."
+  },
+  {
+    "id": "eco-11",
+    "topic": "economie",
+    "statement": "Les dividendes et les rachats d'actions des grandes entreprises doivent être davantage taxés."
+  },
+  {
+    "id": "eco-12",
+    "topic": "economie",
+    "statement": "Les entreprises publiques stratégiques (énergie, transports, autoroutes) doivent être renationalisées ou rester à 100 % publiques."
+  },
+  {
+    "id": "tra-01",
+    "topic": "travail",
+    "statement": "La réforme des retraites de 2023, qui porte l'âge légal de départ à 64 ans, doit être abrogée."
+  },
+  {
+    "id": "tra-02",
+    "topic": "travail",
+    "statement": "L'âge légal de départ à la retraite doit être ramené à 60 ans."
+  },
+  {
+    "id": "tra-03",
+    "topic": "travail",
+    "statement": "L'âge légal de départ à la retraite doit être relevé au-delà de 64 ans."
+  },
+  {
+    "id": "tra-04",
+    "topic": "travail",
+    "statement": "Le SMIC doit être augmenté de manière significative par décision de l'État, au-delà de l'indexation automatique."
+  },
+  {
+    "id": "tra-05",
+    "topic": "travail",
+    "statement": "La durée d'indemnisation du chômage doit être réduite pour inciter à la reprise d'emploi."
+  },
+  {
+    "id": "tra-06",
+    "topic": "travail",
+    "statement": "La durée légale du travail de 35 heures hebdomadaires doit être assouplie ou relevée."
+  },
+  {
+    "id": "tra-07",
+    "topic": "travail",
+    "statement": "Le versement du RSA doit être conditionné à des heures d'activité ou de formation obligatoires.",
+    "context": "La loi « plein emploi » de 2023 a introduit 15 heures d'activité hebdomadaires, généralisées en 2025."
+  },
+  {
+    "id": "tra-08",
+    "topic": "travail",
+    "statement": "Les heures supplémentaires doivent être totalement exonérées d'impôt sur le revenu et de cotisations."
+  },
+  {
+    "id": "tra-09",
+    "topic": "travail",
+    "statement": "Les salaires doivent être automatiquement indexés sur l'inflation."
+  },
+  {
+    "id": "tra-10",
+    "topic": "travail",
+    "statement": "La réduction du temps de travail (semaine de 4 jours, 32 heures) doit être encouragée par la loi."
+  },
+  {
+    "id": "tra-11",
+    "topic": "travail",
+    "statement": "Les licenciements dans des entreprises qui versent des dividendes doivent être interdits ou lourdement pénalisés."
+  },
+  {
+    "id": "tra-12",
+    "topic": "travail",
+    "statement": "Une part de capitalisation (épargne investie) doit être introduite dans le système de retraite."
+  },
+  {
+    "id": "tra-13",
+    "topic": "travail",
+    "statement": "Les cotisations patronales doivent être abaissées davantage sur les bas salaires pour favoriser l'embauche."
+  },
+  {
+    "id": "soc-01",
+    "topic": "social",
+    "statement": "Les allocations familiales doivent être versées sans condition de ressources.",
+    "context": "Depuis 2015, elles sont modulées selon les revenus du foyer."
+  },
+  {
+    "id": "soc-02",
+    "topic": "social",
+    "statement": "Un revenu minimum garanti (revenu universel) versé à tous doit être instauré."
+  },
+  {
+    "id": "soc-03",
+    "topic": "social",
+    "statement": "L'aide médicale d'État (AME) pour les étrangers en situation irrégulière doit être supprimée ou réduite à une aide d'urgence."
+  },
+  {
+    "id": "soc-04",
+    "topic": "social",
+    "statement": "Les minima sociaux et les pensions doivent être revalorisés chaque année au moins au niveau de l'inflation."
+  },
+  {
+    "id": "soc-05",
+    "topic": "social",
+    "statement": "Le RSA doit être ouvert dès 18 ans.",
+    "context": "Il est aujourd'hui réservé aux plus de 25 ans, sauf exceptions."
+  },
+  {
+    "id": "soc-06",
+    "topic": "social",
+    "statement": "Les prestations sociales non contributives doivent être réservées aux personnes ayant résidé légalement au moins cinq ans en France."
+  },
+  {
+    "id": "soc-07",
+    "topic": "social",
+    "statement": "Aucune pension de retraite pour une carrière complète ne doit être inférieure au SMIC."
+  },
+  {
+    "id": "soc-08",
+    "topic": "social",
+    "statement": "La lutte contre la fraude sociale doit être renforcée, y compris par une carte Vitale biométrique ou fusionnée avec la carte d'identité."
+  },
+  {
+    "id": "soc-09",
+    "topic": "social",
+    "statement": "Les aides sociales doivent être davantage plafonnées afin qu'un foyer ne perçoive jamais plus qu'un revenu du travail."
+  },
+  {
+    "id": "san-01",
+    "topic": "sante",
+    "statement": "L'installation des médecins doit être régulée par l'État pour lutter contre les déserts médicaux."
+  },
+  {
+    "id": "san-02",
+    "topic": "sante",
+    "statement": "L'hôpital public doit bénéficier d'un plan massif d'embauches et de revalorisations, financé par une hausse des dépenses publiques."
+  },
+  {
+    "id": "san-03",
+    "topic": "sante",
+    "statement": "La Sécurité sociale doit rembourser à 100 % les soins prescrits (fin des franchises et du reste à charge)."
+  },
+  {
+    "id": "san-04",
+    "topic": "sante",
+    "statement": "Les franchises médicales et participations forfaitaires doivent être augmentées pour responsabiliser les patients."
+  },
+  {
+    "id": "san-05",
+    "topic": "sante",
+    "statement": "L'aide à mourir (suicide assisté ou euthanasie) doit être légalisée sous conditions strictes."
+  },
+  {
+    "id": "san-06",
+    "topic": "sante",
+    "statement": "Le cannabis récréatif doit être légalisé et encadré par l'État."
+  },
+  {
+    "id": "san-07",
+    "topic": "sante",
+    "statement": "Le nombre de places en formation médicale et paramédicale doit être fortement augmenté, même au prix d'une baisse de sélectivité."
+  },
+  {
+    "id": "san-08",
+    "topic": "sante",
+    "statement": "Les dépassements d'honoraires des médecins doivent être plafonnés ou interdits."
+  },
+  {
+    "id": "san-09",
+    "topic": "sante",
+    "statement": "Les consultations chez un psychologue doivent être largement remboursées par la Sécurité sociale."
+  },
+  {
+    "id": "san-10",
+    "topic": "sante",
+    "statement": "La vaccination obligatoire doit être étendue à de nouvelles maladies pour les enfants et les soignants."
+  },
+  {
+    "id": "edu-01",
+    "topic": "education",
+    "statement": "Le port d'une tenue uniforme doit être généralisé dans les écoles et collèges publics."
+  },
+  {
+    "id": "edu-02",
+    "topic": "education",
+    "statement": "Les salaires des enseignants doivent être fortement revalorisés, en priorité sur les autres dépenses éducatives."
+  },
+  {
+    "id": "edu-03",
+    "topic": "education",
+    "statement": "Les groupes de niveau au collège doivent être généralisés."
+  },
+  {
+    "id": "edu-04",
+    "topic": "education",
+    "statement": "Le financement public de l'enseignement privé sous contrat doit être réduit."
+  },
+  {
+    "id": "edu-05",
+    "topic": "education",
+    "statement": "L'université doit rester quasi gratuite pour tous les étudiants."
+  },
+  {
+    "id": "edu-06",
+    "topic": "education",
+    "statement": "Un service national universel obligatoire (civil ou militaire) doit être instauré pour tous les jeunes."
+  },
+  {
+    "id": "edu-07",
+    "topic": "education",
+    "statement": "Les aides publiques à l'apprentissage doivent être maintenues à leur niveau actuel ou augmentées."
+  },
+  {
+    "id": "edu-08",
+    "topic": "education",
+    "statement": "Les enseignants doivent avoir le dernier mot sur le redoublement et les sanctions disciplinaires."
+  },
+  {
+    "id": "edu-09",
+    "topic": "education",
+    "statement": "L'éducation à la vie affective, relationnelle et sexuelle doit être dispensée dans toutes les écoles selon le programme national."
+  },
+  {
+    "id": "edu-10",
+    "topic": "education",
+    "statement": "Les téléphones portables doivent être interdits dans les lycées comme ils le sont au collège."
+  },
+  {
+    "id": "edu-11",
+    "topic": "education",
+    "statement": "Les moyens de l'éducation prioritaire doivent être fortement augmentés pour les établissements accueillant des élèves défavorisés."
+  },
+  {
+    "id": "edu-12",
+    "topic": "education",
+    "statement": "Les bourses étudiantes doivent être étendues à davantage de familles, quitte à augmenter leur coût."
+  },
+  {
+    "id": "env-01",
+    "topic": "ecologie",
+    "statement": "La France doit construire de nouveaux réacteurs nucléaires au-delà des six EPR2 déjà décidés."
+  },
+  {
+    "id": "env-02",
+    "topic": "ecologie",
+    "statement": "La France doit engager une sortie progressive du nucléaire."
+  },
+  {
+    "id": "env-03",
+    "topic": "ecologie",
+    "statement": "Un moratoire doit être décidé sur les nouveaux parcs éoliens."
+  },
+  {
+    "id": "env-04",
+    "topic": "ecologie",
+    "statement": "L'interdiction de vente des voitures thermiques neuves en 2035 doit être maintenue."
+  },
+  {
+    "id": "env-05",
+    "topic": "ecologie",
+    "statement": "Une planification écologique contraignante doit imposer des objectifs de réduction d'émissions à chaque secteur économique."
+  },
+  {
+    "id": "env-06",
+    "topic": "ecologie",
+    "statement": "La France doit sortir du marché européen de l'électricité pour fixer ses prix nationalement."
+  },
+  {
+    "id": "env-07",
+    "topic": "ecologie",
+    "statement": "Certains pesticides interdits (comme les néonicotinoïdes) doivent pouvoir être réautorisés temporairement pour protéger des filières agricoles."
+  },
+  {
+    "id": "env-08",
+    "topic": "ecologie",
+    "statement": "Une taxe carbone plus élevée doit être appliquée, avec redistribution des recettes aux ménages modestes."
+  },
+  {
+    "id": "env-09",
+    "topic": "ecologie",
+    "statement": "Les zones à faibles émissions (ZFE) doivent être supprimées."
+  },
+  {
+    "id": "env-10",
+    "topic": "ecologie",
+    "statement": "Les vols intérieurs doivent être interdits lorsqu'une alternative en train existe en moins de quatre heures."
+  },
+  {
+    "id": "env-11",
+    "topic": "ecologie",
+    "statement": "L'État doit investir massivement dans le ferroviaire, même si cela augmente la dette publique."
+  },
+  {
+    "id": "env-12",
+    "topic": "ecologie",
+    "statement": "L'interdiction de louer des logements très mal isolés (passoires thermiques) doit être maintenue selon le calendrier prévu."
+  },
+  {
+    "id": "env-13",
+    "topic": "ecologie",
+    "statement": "Les grandes retenues d'eau agricoles (« mégabassines ») doivent être autorisées."
+  },
+  {
+    "id": "env-14",
+    "topic": "ecologie",
+    "statement": "Les objectifs climatiques de la France doivent être maintenus même s'ils ralentissent la croissance à court terme."
+  },
+  {
+    "id": "imm-01",
+    "topic": "immigration",
+    "statement": "L'immigration légale doit être fortement réduite, avec des quotas annuels votés par le Parlement."
+  },
+  {
+    "id": "imm-02",
+    "topic": "immigration",
+    "statement": "Un référendum sur l'immigration doit être organisé, en révisant la Constitution si nécessaire."
+  },
+  {
+    "id": "imm-03",
+    "topic": "immigration",
+    "statement": "Le regroupement familial doit être restreint."
+  },
+  {
+    "id": "imm-04",
+    "topic": "immigration",
+    "statement": "Les étrangers en situation irrégulière travaillant dans des métiers en tension doivent pouvoir être régularisés."
+  },
+  {
+    "id": "imm-05",
+    "topic": "immigration",
+    "statement": "Le droit du sol (acquisition de la nationalité par la naissance en France) doit être supprimé ou fortement restreint."
+  },
+  {
+    "id": "imm-06",
+    "topic": "immigration",
+    "statement": "La France doit accueillir davantage de réfugiés au titre de l'asile, avec des voies d'accès légales et sûres."
+  },
+  {
+    "id": "imm-07",
+    "topic": "immigration",
+    "statement": "Les demandes d'asile doivent être examinées hors du territoire européen, dans des pays tiers."
+  },
+  {
+    "id": "imm-08",
+    "topic": "immigration",
+    "statement": "Les binationaux condamnés pour des crimes graves doivent pouvoir être déchus de la nationalité française."
+  },
+  {
+    "id": "imm-09",
+    "topic": "immigration",
+    "statement": "Les étudiants étrangers diplômés en France doivent pouvoir y rester travailler plus facilement."
+  },
+  {
+    "id": "imm-10",
+    "topic": "immigration",
+    "statement": "La « priorité nationale » (accès prioritaire des Français à l'emploi et au logement social) doit être inscrite dans la loi."
+  },
+  {
+    "id": "imm-11",
+    "topic": "immigration",
+    "statement": "La France doit pouvoir déroger à la Convention européenne des droits de l'homme pour expulser des étrangers jugés dangereux."
+  },
+  {
+    "id": "imm-12",
+    "topic": "immigration",
+    "statement": "Le droit de vote aux élections municipales doit être accordé aux étrangers non européens résidant légalement en France."
+  },
+  {
+    "id": "imm-13",
+    "topic": "immigration",
+    "statement": "Les personnes sous obligation de quitter le territoire (OQTF) doivent être systématiquement placées en rétention jusqu'à leur départ."
+  },
+  {
+    "id": "sec-01",
+    "topic": "securite",
+    "statement": "Les peines planchers pour les récidivistes doivent être rétablies."
+  },
+  {
+    "id": "sec-02",
+    "topic": "securite",
+    "statement": "Il faut construire au moins 20 000 places de prison supplémentaires."
+  },
+  {
+    "id": "sec-03",
+    "topic": "securite",
+    "statement": "Les peines de prison de moins d'un an doivent être exécutées, sans aménagement automatique."
+  },
+  {
+    "id": "sec-04",
+    "topic": "securite",
+    "statement": "Les policiers municipaux doivent avoir davantage de pouvoirs de police judiciaire et être systématiquement armés."
+  },
+  {
+    "id": "sec-05",
+    "topic": "securite",
+    "statement": "Un récépissé de contrôle d'identité doit être instauré pour lutter contre les contrôles discriminatoires."
+  },
+  {
+    "id": "sec-06",
+    "topic": "securite",
+    "statement": "L'atténuation de responsabilité pénale des mineurs (« excuse de minorité ») doit être supprimée pour les 16-18 ans."
+  },
+  {
+    "id": "sec-07",
+    "topic": "securite",
+    "statement": "La reconnaissance faciale par vidéosurveillance doit être autorisée dans l'espace public."
+  },
+  {
+    "id": "sec-08",
+    "topic": "securite",
+    "statement": "Le budget de la justice doit être doublé en cinq ans."
+  },
+  {
+    "id": "sec-09",
+    "topic": "securite",
+    "statement": "Le narcotrafic doit être combattu principalement par des moyens répressifs renforcés (parquet dédié, prisons de haute sécurité)."
+  },
+  {
+    "id": "sec-10",
+    "topic": "securite",
+    "statement": "Une présomption de légitime défense doit être instaurée pour les policiers faisant usage de leur arme."
+  },
+  {
+    "id": "sec-11",
+    "topic": "securite",
+    "statement": "La perpétuité réelle (sans possibilité de libération) doit être étendue aux crimes les plus graves."
+  },
+  {
+    "id": "sec-12",
+    "topic": "securite",
+    "statement": "La police de proximité doit être reconstituée et privilégiée par rapport aux unités d'intervention."
+  },
+  {
+    "id": "sec-13",
+    "topic": "securite",
+    "statement": "La consommation de drogues doit être davantage sanctionnée (amendes systématiques, casier)."
+  },
+  {
+    "id": "ins-01",
+    "topic": "institutions",
+    "statement": "Une VIe République doit remplacer la Ve, via une assemblée constituante."
+  },
+  {
+    "id": "ins-02",
+    "topic": "institutions",
+    "statement": "Le référendum d'initiative citoyenne (RIC) doit être instauré."
+  },
+  {
+    "id": "ins-03",
+    "topic": "institutions",
+    "statement": "Une part de proportionnelle doit être introduite aux élections législatives."
+  },
+  {
+    "id": "ins-04",
+    "topic": "institutions",
+    "statement": "Le vote blanc doit être reconnu et comptabilisé parmi les suffrages exprimés."
+  },
+  {
+    "id": "ins-05",
+    "topic": "institutions",
+    "statement": "Le nombre de parlementaires doit être réduit."
+  },
+  {
+    "id": "ins-06",
+    "topic": "institutions",
+    "statement": "Le mandat présidentiel doit revenir à sept ans, non renouvelable."
+  },
+  {
+    "id": "ins-07",
+    "topic": "institutions",
+    "statement": "Le champ du référendum doit être élargi aux questions de société (article 11 de la Constitution)."
+  },
+  {
+    "id": "ins-08",
+    "topic": "institutions",
+    "statement": "Le vote doit devenir obligatoire."
+  },
+  {
+    "id": "ins-09",
+    "topic": "institutions",
+    "statement": "Le droit de vote doit être abaissé à 16 ans."
+  },
+  {
+    "id": "ins-10",
+    "topic": "institutions",
+    "statement": "Le nombre d'échelons de collectivités territoriales doit être réduit (par exemple par fusion des départements et des régions)."
+  },
+  {
+    "id": "ins-11",
+    "topic": "institutions",
+    "statement": "Les mandats électifs doivent être limités à trois mandats consécutifs."
+  },
+  {
+    "id": "ins-12",
+    "topic": "institutions",
+    "statement": "La Corse et d'autres territoires doivent obtenir un statut d'autonomie renforcé, inscrit dans la Constitution."
+  },
+  {
+    "id": "ins-13",
+    "topic": "institutions",
+    "statement": "Le 49.3 (adoption d'une loi sans vote) doit être supprimé ou strictement limité."
+  },
+  {
+    "id": "eur-01",
+    "topic": "europe",
+    "statement": "La France doit rester membre de l'Union européenne."
+  },
+  {
+    "id": "eur-02",
+    "topic": "europe",
+    "statement": "La primauté du droit français sur le droit européen doit être inscrite dans la Constitution."
+  },
+  {
+    "id": "eur-03",
+    "topic": "europe",
+    "statement": "L'Union européenne doit se doter d'une défense commune plus intégrée."
+  },
+  {
+    "id": "eur-04",
+    "topic": "europe",
+    "statement": "La France doit soutenir militairement l'Ukraine aussi longtemps que nécessaire, y compris avec des armes de longue portée."
+  },
+  {
+    "id": "eur-05",
+    "topic": "europe",
+    "statement": "La France doit rester dans le commandement intégré de l'OTAN."
+  },
+  {
+    "id": "eur-06",
+    "topic": "europe",
+    "statement": "La France doit soutenir des sanctions contre Israël (suspension de l'accord d'association UE-Israël) en réponse à la guerre à Gaza."
+  },
+  {
+    "id": "eur-07",
+    "topic": "europe",
+    "statement": "L'accord commercial entre l'Union européenne et le Mercosur doit être rejeté."
+  },
+  {
+    "id": "eur-08",
+    "topic": "europe",
+    "statement": "L'élargissement de l'Union européenne (Ukraine, Balkans occidentaux) doit être soutenu."
+  },
+  {
+    "id": "eur-09",
+    "topic": "europe",
+    "statement": "La France doit pouvoir s'affranchir des règles budgétaires européennes si elles s'opposent à son programme national."
+  },
+  {
+    "id": "eur-10",
+    "topic": "europe",
+    "statement": "L'aide publique au développement doit être fortement augmentée."
+  },
+  {
+    "id": "eur-11",
+    "topic": "europe",
+    "statement": "La France doit sortir de l'euro."
+  },
+  {
+    "id": "eur-12",
+    "topic": "europe",
+    "statement": "Des contrôles permanents doivent être rétablis aux frontières nationales, en suspendant Schengen si nécessaire."
+  },
+  {
+    "id": "eur-13",
+    "topic": "europe",
+    "statement": "La France doit soutenir la création de ressources propres européennes (impôts perçus au niveau de l'Union)."
+  },
+  {
+    "id": "def-01",
+    "topic": "defense",
+    "statement": "Le budget de la défense doit atteindre au moins 3 % du PIB."
+  },
+  {
+    "id": "def-02",
+    "topic": "defense",
+    "statement": "La dissuasion nucléaire française doit pouvoir être étendue à la protection de partenaires européens."
+  },
+  {
+    "id": "def-03",
+    "topic": "defense",
+    "statement": "Un service militaire obligatoire doit être rétabli."
+  },
+  {
+    "id": "def-04",
+    "topic": "defense",
+    "statement": "Les armées doivent acheter en priorité du matériel français ou européen, même s'il est plus cher."
+  },
+  {
+    "id": "def-05",
+    "topic": "defense",
+    "statement": "L'épargne des Français doit être mobilisée pour financer l'industrie de défense (livret ou fonds dédié)."
+  },
+  {
+    "id": "log-01",
+    "topic": "logement",
+    "statement": "L'encadrement des loyers doit être généralisé dans les zones tendues."
+  },
+  {
+    "id": "log-02",
+    "topic": "logement",
+    "statement": "L'obligation de 25 % de logements sociaux (loi SRU) doit être maintenue et renforcée."
+  },
+  {
+    "id": "log-03",
+    "topic": "logement",
+    "statement": "Les normes de construction et d'urbanisme doivent être allégées pour construire plus vite."
+  },
+  {
+    "id": "log-04",
+    "topic": "logement",
+    "statement": "L'objectif « zéro artificialisation nette » des sols doit être maintenu."
+  },
+  {
+    "id": "log-05",
+    "topic": "logement",
+    "statement": "Le prêt à taux zéro doit être étendu à tous les territoires et à davantage de ménages."
+  },
+  {
+    "id": "log-06",
+    "topic": "logement",
+    "statement": "La fiscalité des locations touristiques de courte durée (type Airbnb) doit être durcie."
+  },
+  {
+    "id": "log-07",
+    "topic": "logement",
+    "statement": "Les services publics (écoles, bureaux de poste, gares) doivent être maintenus en zone rurale même s'ils sont déficitaires."
+  },
+  {
+    "id": "log-08",
+    "topic": "logement",
+    "statement": "Une garantie publique universelle des loyers doit être créée pour sécuriser propriétaires et locataires."
+  },
+  {
+    "id": "log-09",
+    "topic": "logement",
+    "statement": "La fiscalité des propriétaires bailleurs doit être allégée pour relancer l'offre locative."
+  },
+  {
+    "id": "agr-01",
+    "topic": "agriculture",
+    "statement": "Des prix minimums garantis doivent être instaurés pour les produits agricoles."
+  },
+  {
+    "id": "agr-02",
+    "topic": "agriculture",
+    "statement": "Les normes agricoles françaises doivent être alignées sur le minimum européen (fin des « surtranspositions »)."
+  },
+  {
+    "id": "agr-03",
+    "topic": "agriculture",
+    "statement": "L'agriculture biologique doit recevoir davantage d'aides publiques."
+  },
+  {
+    "id": "agr-04",
+    "topic": "agriculture",
+    "statement": "Les accords commerciaux doivent imposer des clauses miroirs strictes aux produits agricoles importés."
+  },
+  {
+    "id": "agr-05",
+    "topic": "agriculture",
+    "statement": "L'élevage intensif doit être progressivement limité au nom du bien-être animal."
+  },
+  {
+    "id": "agr-06",
+    "topic": "agriculture",
+    "statement": "La chasse doit être davantage encadrée (par exemple avec des jours sans chasse)."
+  },
+  {
+    "id": "agr-07",
+    "topic": "agriculture",
+    "statement": "La transmission des exploitations agricoles doit être facilitée par des exonérations fiscales."
+  },
+  {
+    "id": "agr-08",
+    "topic": "agriculture",
+    "statement": "Les prélèvements d'eau pour l'agriculture doivent être davantage restreints en période de sécheresse."
+  },
+  {
+    "id": "num-01",
+    "topic": "numerique",
+    "statement": "L'accès aux réseaux sociaux doit être interdit aux moins de 15 ans."
+  },
+  {
+    "id": "num-02",
+    "topic": "numerique",
+    "statement": "L'audiovisuel public (France Télévisions, Radio France) doit être privatisé."
+  },
+  {
+    "id": "num-03",
+    "topic": "numerique",
+    "statement": "Les grandes plateformes numériques doivent être davantage taxées et régulées, y compris au niveau national si l'Union européenne n'agit pas."
+  },
+  {
+    "id": "num-04",
+    "topic": "numerique",
+    "statement": "La France doit favoriser l'implantation de centres de données et d'infrastructures d'intelligence artificielle, y compris avec des procédures simplifiées."
+  },
+  {
+    "id": "num-05",
+    "topic": "numerique",
+    "statement": "La concentration des médias entre quelques propriétaires doit être davantage limitée par la loi."
+  },
+  {
+    "id": "num-06",
+    "topic": "numerique",
+    "statement": "Le pass Culture doit être maintenu."
+  },
+  {
+    "id": "num-07",
+    "topic": "numerique",
+    "statement": "Une identité numérique vérifiée doit être obligatoire pour accéder à certains services en ligne."
+  },
+  {
+    "id": "num-08",
+    "topic": "numerique",
+    "statement": "Le budget public de la culture doit être augmenté."
+  },
+  {
+    "id": "lib-01",
+    "topic": "societe",
+    "statement": "Le port de signes religieux ostensibles doit être interdit dans l'espace public."
+  },
+  {
+    "id": "lib-02",
+    "topic": "societe",
+    "statement": "Le port de signes religieux ostensibles doit être interdit à l'université."
+  },
+  {
+    "id": "lib-03",
+    "topic": "societe",
+    "statement": "La gestation pour autrui (GPA) doit être autorisée en France sous conditions."
+  },
+  {
+    "id": "lib-04",
+    "topic": "societe",
+    "statement": "Les traitements médicaux de transition de genre doivent être interdits pour les mineurs."
+  },
+  {
+    "id": "lib-05",
+    "topic": "societe",
+    "statement": "L'écriture inclusive doit être interdite dans les documents administratifs."
+  },
+  {
+    "id": "lib-06",
+    "topic": "societe",
+    "statement": "La collecte de statistiques sur les origines doit être autorisée pour mesurer les discriminations."
+  },
+  {
+    "id": "lib-07",
+    "topic": "societe",
+    "statement": "Le financement des lieux de culte par des États étrangers doit être interdit."
+  },
+  {
+    "id": "lib-08",
+    "topic": "societe",
+    "statement": "Les délais et conditions de l'IVG ne doivent plus être modifiés."
+  },
+  {
+    "id": "lib-09",
+    "topic": "societe",
+    "statement": "Les moyens de la lutte contre les violences faites aux femmes doivent être multipliés (budget dédié, juridictions spécialisées)."
+  },
+  {
+    "id": "lib-10",
+    "topic": "societe",
+    "statement": "Le voile doit être interdit pour les accompagnatrices de sorties scolaires et dans les compétitions sportives."
+  },
+  {
+    "id": "lib-11",
+    "topic": "societe",
+    "statement": "Les libertés d'expression et de manifestation doivent primer sur les objectifs de sécurité en cas de conflit."
+  }
+]

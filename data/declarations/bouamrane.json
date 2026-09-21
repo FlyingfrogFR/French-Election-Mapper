@@ -1,0 +1,64 @@
+{
+  "candidateId": "bouamrane",
+  "declarations": [
+    {
+      "id": "bouamrane-manifeste",
+      "date": "2026-01-01",
+      "title": "Manifeste « La France Humaine et Forte » — texte intégral de la déclaration de candidature de Karim Bouamrane",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.karimbouamrane2027.org/",
+      "publisher": "Karim Bouamrane / mouvement La France Humaine et Forte",
+      "summary": "Seul texte de fond publié sur le site officiel de campagne : il s'ouvre dans une fenêtre « Manifeste complet » depuis le lien « Lire le manifeste complet » de la page d'accueil (le texte est présent dans le HTML de https://www.karimbouamrane2027.org/, il n'existe pas d'URL propre ni de PDF). Site miroir identique : https://www.lafrancehumaineetforte.fr/. Page modifiée pour la dernière fois le 2 août 2026 (en-tête Last-Modified) ; candidature déclarée le 9 juin 2026. Signé « Karim Bouamrane ». (Date du document : 2026 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Une France forte, c'est une France qui investit dans sa défense, pour éviter la guerre. La dissuasion ne dissuade que si elle est crédible et nos soldats méritent les moyens de leur mission. J'augmenterai l'effort de défense",
+          "inferred": true,
+          "note": "Engagement explicite d'augmenter l'effort de défense, mais sans objectif chiffré en points de PIB."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Cette Europe concrète des peuples défendus, des frontières gardées, des crises surmontées ensemble, cette Europe qui tient ses citoyens à l'abri des tempêtes du monde. Elle est notre bien commun le plus précieux. La France l'a bâtie. Elle ne la laissera pas fléchir",
+          "inferred": true,
+          "note": "L'appartenance à l'Union n'est jamais mise en question : l'Europe est désignée comme « notre bien commun le plus précieux » et doit être consolidée."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 1,
+          "quote": "Une politique migratoire juste repose sur trois exigences : accueillir dignement ceux qui ont le droit de rester, agir à la source des migrations par le développement et la coopération, et reconduire ceux qui se maintiennent irrégulièrement sur notre territoire",
+          "inferred": true,
+          "note": "« Agir à la source des migrations par le développement et la coopération » ; aucun objectif chiffré de hausse de l'aide publique au développement n'est formulé."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 1,
+          "quote": "La France est de longue date une terre d’asile et elle doit le rester. Une France humaine est une France qui ne considère pas les étrangers comme des criminels",
+          "inferred": true,
+          "note": "Défense de la tradition d'asile et refus de criminaliser les étrangers ; aucun objectif d'accueil accru ni création de voies légales et sûres n'est proposé, le manifeste retenant aussi la reconduite des personnes en situation irrégulière."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "Et je dis fraternellement parce que je sais ce que la laïcité protège vraiment : pas une religion contre une autre, mais notre liberté, à toutes et tous. Je la défendrai sans compromis et sans instrumentalisation",
+          "inferred": true,
+          "note": "La laïcité est définie comme protection de la liberté de tous et non comme instrument d'interdiction ; le manifeste promet aussi de protéger « nos compatriotes musulmans contre l'islamophobie »."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Notre grande cause nationale sera celle de la protection des enfants alors que plus de 160 000 enfants sont victimes de violences physiques, morales et sexuelles et dont 80% sont commises par inceste. Elle est indissociable de celle de la protection des femmes victimes des violences conjugales ou sexuelles",
+          "inferred": true,
+          "note": "Protection des enfants et des femmes érigée en « grande cause nationale » et en priorité affichée du projet (« Après des siècles d'impunité, nous devons ouvrir l'ère de la protection des victimes ») ; ni budget dédié ni juridictions spécialisées ne sont mentionnés."
+        }
+      ]
+    }
+  ]
+}

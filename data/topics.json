@@ -1,0 +1,17 @@
+[
+  { "id": "economie", "order": 1, "title": "Économie, budget et fiscalité", "short": "Économie", "description": "Dépenses publiques, dette, impôts sur les ménages et les entreprises, politique industrielle." },
+  { "id": "travail", "order": 2, "title": "Travail, emploi et retraites", "short": "Travail", "description": "Âge de la retraite, salaires, temps de travail, assurance chômage, droits des salariés." },
+  { "id": "social", "order": 3, "title": "Pouvoir d'achat et protection sociale", "short": "Social", "description": "Prestations, minima sociaux, solidarité, lutte contre la fraude." },
+  { "id": "sante", "order": 4, "title": "Santé", "short": "Santé", "description": "Accès aux soins, hôpital, remboursements, fin de vie, drogues." },
+  { "id": "education", "order": 5, "title": "Éducation, jeunesse et enseignement supérieur", "short": "Éducation", "description": "École, enseignants, université, engagement des jeunes." },
+  { "id": "ecologie", "order": 6, "title": "Écologie, énergie et climat", "short": "Écologie", "description": "Nucléaire, renouvelables, transports, transition écologique, eau." },
+  { "id": "immigration", "order": 7, "title": "Immigration, asile et nationalité", "short": "Immigration", "description": "Flux migratoires, asile, régularisations, nationalité, droits des étrangers." },
+  { "id": "securite", "order": 8, "title": "Sécurité, justice et police", "short": "Sécurité", "description": "Peines, prisons, police, justice des mineurs, narcotrafic." },
+  { "id": "institutions", "order": 9, "title": "Institutions et démocratie", "short": "Institutions", "description": "Constitution, mode de scrutin, référendums, collectivités territoriales." },
+  { "id": "europe", "order": 10, "title": "Europe et international", "short": "Europe", "description": "Union européenne, OTAN, Ukraine, Proche-Orient, commerce international." },
+  { "id": "defense", "order": 11, "title": "Défense et souveraineté", "short": "Défense", "description": "Budget militaire, dissuasion, service militaire, industrie de défense." },
+  { "id": "logement", "order": 12, "title": "Logement et territoires", "short": "Logement", "description": "Loyers, logement social, construction, ruralité, services publics locaux." },
+  { "id": "agriculture", "order": 13, "title": "Agriculture et alimentation", "short": "Agriculture", "description": "Revenu des agriculteurs, normes, bio, commerce, bien-être animal." },
+  { "id": "numerique", "order": 14, "title": "Numérique, médias et culture", "short": "Numérique", "description": "Réseaux sociaux, plateformes, audiovisuel public, intelligence artificielle, culture." },
+  { "id": "societe", "order": 15, "title": "Société, laïcité et libertés", "short": "Société", "description": "Laïcité, égalité, droits des personnes, libertés publiques." }
+]

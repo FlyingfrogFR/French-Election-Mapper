@@ -1,0 +1,1164 @@
+{
+  "candidateId": "melenchon",
+  "declarations": [
+    {
+      "id": "melenchon-2026-05-candidature",
+      "date": "2026-05-03",
+      "title": "Annonce de candidature à l'élection présidentielle 2027",
+      "sourceType": "discours",
+      "sourceUrl": "https://melenchon2027.fr/",
+      "publisher": "Mélenchon 2027",
+      "summary": "Jean-Luc Mélenchon annonce sa quatrième candidature et refuse de participer aux primaires de la gauche.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
+      },
+      "positions": []
+    },
+    {
+      "id": "melenchon-aec-2025",
+      "date": "2025-01-28",
+      "title": "L’Avenir en commun – édition 2025 (831 mesures), programme de La France insoumise / Jean-Luc Mélenchon",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20260309030430/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/avenir_en_commun_2025.pdf",
+      "publisher": "La France insoumise (par Clémence Guetté, Hadrien Clouet et Jean-Luc Mélenchon)",
+      "summary": "Présenté le 28 janvier 2025 (melenchon.fr/2025/01/28/presentation-du-programme-lavenir-en-commun-edition-2025/). Copie archivée Wayback du 2026-03-09 du PDF officiel : l’URL d’origine redirige désormais vers melenchon2027.fr où le livre est « en cours de réactualisation ». Le champ page donne la page du PDF (70 pages) puis, entre parenthèses, les pages imprimées du livre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Garantir des prix rémunérateurs aux producteurs par des prix planchers pour les agriculteurs, interdire les ventes à perte",
+          "page": "PDF p. 51 (livre p. 100-101)"
+        },
+        {
+          "questionId": "agr-02",
+          "value": -2,
+          "quote": "instaurer un principe de non-régression écologique et sociale : aucune norme européenne ne peut s’appliquer si elle est moins ambitieuse qu’une norme nationale sur le plan social ou écologique",
+          "page": "PDF p. 66 (livre p. 130-131)",
+          "note": "Mesure inverse : primauté des normes nationales plus exigeantes ; clause de sauvegarde contre les importations ne respectant pas une norme sanitaire nationale (p. 102)."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "mettre en place une caisse de défaisance pour reprendre les dettes agricoles des convertis au 100 % bio",
+          "page": "PDF p. 51 (livre p. 100-101)",
+          "note": "Refonte de la PAC pour « favoriser la production écologiquement soutenable » (p. 102) ; cantines et restauration collective 100 % bio et locales (p. 45, 115)."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Instaurer un protectionnisme écologique en fonction des conditions de production et de rémunération du travail agricole : appliquer la clause de sauvegarde pour interdire l’importation de produits mettant en cause une norme sanitaire nationale",
+          "page": "PDF p. 52 (livre p. 102-103)",
+          "note": "« imposer le respect des normes sociales et écologiques pour la commercialisation des produits importés en France » (p. 76)."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Interdire les pratiques cruelles : poules et lapins en batterie, broyage des poussins, ablation de la queue, etc.",
+          "page": "PDF p. 55 (livre p. 108-109)",
+          "note": "Mesure clé « Interdire les fermes-usines » (p. 108) ; nouvelles normes d’élevage (accès à l’air libre, densité)."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 2,
+          "quote": "Interdire les pratiques de chasse et de « loisirs » cruelles pour les animaux (déterrage, chasses à courre, corrida, exploitation des animaux sauvages dans les cirques et les delphinariums, etc.)",
+          "page": "PDF p. 55 (livre p. 108-109)",
+          "note": "Encadrement par interdiction de certaines pratiques de chasse ; pas de « jours sans chasse » mentionnés."
+        },
+        {
+          "questionId": "agr-08",
+          "value": 2,
+          "quote": "Renforcer les effectifs de la police de l’eau et des inspecteurs de l’environnement présents sur tous les territoires pour contrôler plus strictement le captage par les industries d’eau en bouteille et par le secteur agricole",
+          "page": "PDF p. 53 (livre p. 104-105)",
+          "note": "« nouveau partage sobre de l’eau … en sanctuarisant les débits biologiques et les zones humides », moratoire sur les méga-bassines, « règle bleue » (p. 104-105)."
+        },
+        {
+          "questionId": "def-02",
+          "value": -1,
+          "quote": "Relancer les processus multilatéraux de désarmement nucléaire et conventionnel dans le cadre de la Conférence du désarmement de l’ONU et participer comme observateur au traité d’interdiction des armes nucléaires (TIAN)",
+          "page": "PDF p. 61 (livre p. 120-121)",
+          "inferred": true,
+          "note": "Pas de position explicite sur l’extension de la dissuasion ; le programme relance le désarmement, crée un « Commissariat à la dissuasion de demain » chargé des « options alternatives au nucléaire » (p. 120) et se retire de l’Europe de la défense (p. 131)."
+        },
+        {
+          "questionId": "def-03",
+          "value": 1,
+          "quote": "Ouvrir la possibilité d’un service militaire comme composante optionnelle du service citoyen obligatoire",
+          "page": "PDF p. 60 (livre p. 118-119)",
+          "note": "Service citoyen obligatoire de neuf mois avec « formation militaire initiale (avec droit d’objection de conscience) » (p. 48) ; le service militaire proprement dit reste optionnel."
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Prioriser l’acquisition de matériel militaire français dans l’armée",
+          "page": "PDF p. 60 (livre p. 118-119)",
+          "note": "Pôle public de l’armement (p. 119)."
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "Le carcan budgétaire nous enferme dans l’austérité et réduit notre capacité à investir dans la bifurcation écologique et sociale",
+          "page": "PDF p. 65 (livre p. 128-129)",
+          "note": "Refus explicite de l’austérité et des règles budgétaires européennes (« Cesser d’appliquer unilatéralement … les règles budgétaires », p. 131) ; plan d’investissement de 200 Md€ (p. 96)."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "Rétablir et renforcer l’impôt de solidarité sur la fortune (ISF), incluant un volet climatique visant à taxer les gros pollueurs",
+          "page": "PDF p. 27 (livre p. 52-53)"
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Introduire une garantie d’impôt de 2 % sur le patrimoine des milliardaires, dite taxe Zucman",
+          "page": "PDF p. 27 (livre p. 52-53)",
+          "note": "Le programme parle des « milliardaires » mais nomme explicitement la taxe Zucman."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -2,
+          "quote": "Augmenter les droits de succession sur les plus hauts patrimoines",
+          "page": "PDF p. 27 (livre p. 52-53)",
+          "note": "Mesure inverse : hausse des droits sur les plus hauts patrimoines et « héritage maximal de 12 millions d’euros » (p. 54)."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Réduire la TVA sur les produits de première nécessité et réinstaurer une « TVA grand luxe » pour la financer",
+          "page": "PDF p. 28 (livre p. 54-55)",
+          "inferred": true,
+          "note": "Le taux de 5,5 % et l’énergie ne sont pas cités dans la mesure TVA ; mais le programme range « alimentation, énergie, carburant » parmi les produits de première nécessité (p. 75)."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "Annuler les cadeaux fiscaux accordés sans contrepartie aux plus grandes entreprises ces dix dernières années",
+          "page": "PDF p. 49 (livre p. 96-97)",
+          "note": "Sens inverse : IS refondé avec barème progressif (p. 53), taxe permanente sur les superprofits (p. 54)."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Bloquer les prix des produits de première nécessité (alimentation, énergie, carburant) et interdire la « réduflation »",
+          "page": "PDF p. 38 (livre p. 74-75)"
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Évaluer chacune des niches fiscales et supprimer les niches injustes, inefficaces socialement ou nuisibles écologiquement",
+          "page": "PDF p. 28 (livre p. 54-55)",
+          "note": "Suppressions nommées : niche des meublés de tourisme (p. 61), privilèges fiscaux du mécénat culturel (p. 87), crédit impôt recherche (p. 46)."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Engager un plan de reconstruction industrielle pour mettre fin à la dépendance de la France dans les domaines stratégiques (semi-conducteurs, médicaments, etc.)",
+          "page": "PDF p. 39 (livre p. 76-77)",
+          "note": "Avec mesures antidumping d’urgence, droits de douane écologiques, taxe kilométrique aux frontières (p. 76-77) et pôles publics (p. 96)."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "Rendre l’impôt sur le revenu plus progressif avec un barème à 14 tranches contre 5 aujourd’hui",
+          "page": "PDF p. 27 (livre p. 52-53)"
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "Moduler l’impôt sur les sociétés selon l’usage des bénéfices pour encourager l’investissement en France et pénaliser le versement de dividendes",
+          "page": "PDF p. 26 (livre p. 50-51)",
+          "note": "Aussi « taxer les rachats d’action » (p. 50) et suppression de la flat tax (p. 53)."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Revenir sur les privatisations (aéroports, autoroutes, Française des Jeux, etc.)",
+          "page": "PDF p. 16 (livre p. 30-31)",
+          "note": "Renationalisation d’EDF et Engie (p. 99), de la SNCF, des autoroutes et aéroports stratégiques (p. 97)."
+        },
+        {
+          "questionId": "edu-01",
+          "value": -2,
+          "quote": "Suspendre l’expérimentation de l’uniforme",
+          "page": "PDF p. 22 (livre p. 42-43)"
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Rattraper le gel du point d’indice depuis 2010 et revaloriser les grilles salariales en engageant une négociation avec les organisations syndicales et mettre fin au Pacte enseignant",
+          "page": "PDF p. 22 (livre p. 42-43)",
+          "note": "Revalorisation forte proposée, mais pas « en priorité sur les autres dépenses éducatives » : le programme augmente aussi les recrutements, réduit les effectifs par classe, etc."
+        },
+        {
+          "questionId": "edu-03",
+          "value": -2,
+          "quote": "Garantir le droit de chaque élève à progresser au sein d’une même classe de niveau hétérogène tout au long de sa scolarité dans l’enseignement secondaire en mettant fin aux groupes de niveaux au collège",
+          "page": "PDF p. 22 (livre p. 42-43)"
+        },
+        {
+          "questionId": "edu-04",
+          "value": 2,
+          "quote": "Appliquer un malus au financement public des établissements privés sous contrat contribuant à la ségrégation socio-scolaire",
+          "page": "PDF p. 22 (livre p. 42-43)",
+          "note": "Aussi : « Abolir les privilèges de l’enseignement privé et abroger la loi Carle », interdiction des subventions facultatives des collectivités aux établissements privés sous contrat (p. 44-45), taxe d’apprentissage réservée au public (p. 45)."
+        },
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "Instaurer la gratuité de l’enseignement supérieur, de la licence au doctorat, quelle que soit la nationalité des étudiants",
+          "page": "PDF p. 24 (livre p. 46-47)"
+        },
+        {
+          "questionId": "edu-06",
+          "value": 2,
+          "quote": "Mettre en place une conscription citoyenne de neuf mois, pour les femmes et les hommes de moins de 25 ans, rémunérée au SMIC - revalorisé - ; elle comprend une formation militaire initiale (avec droit d’objection de conscience) et des tâches d’utilité publique",
+          "page": "PDF p. 25 (livre p. 48-49)",
+          "note": "Le programme abroge le SNU de Macron mais instaure un « service citoyen obligatoire avant l’âge de 25 ans » (p. 48), c’est-à-dire un service national obligatoire à dominante civile avec formation militaire initiale."
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "Fournir les moyens réels pour assurer à tous les élèves en collège et lycée les trois séances annuelles d’éducation à la vie affective et sexuelle prévues par la loi",
+          "page": "PDF p. 23 (livre p. 44-45)"
+        },
+        {
+          "questionId": "edu-11",
+          "value": 2,
+          "quote": "Mettre en place une véritable politique d’éducation prioritaire en refondant la carte du réseau d’éducation prioritaire (REP) en fonction des besoins",
+          "page": "PDF p. 22 (livre p. 42-43)",
+          "note": "Réduction des effectifs par classe « en priorisant les maternelles et les classes des actuelles REP » (p. 42)."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 2,
+          "quote": "Financer l’autonomie des jeunes détachés du foyer fiscal parental grâce à la garantie d’autonomie, qui les portera au-dessus du seuil de pauvreté (1 216 euros pour une personne seule)",
+          "page": "PDF p. 42 (livre p. 82-83)",
+          "inferred": true,
+          "note": "Les bourses ne sont pas citées ; le programme leur substitue une garantie d’autonomie pour les jeunes détachés du foyer fiscal, la gratuité du supérieur (p. 47) et le repas CROUS à 1 € (p. 82)."
+        },
+        {
+          "questionId": "env-01",
+          "value": -2,
+          "quote": "Sortir du nucléaire : abandonner les projets d’EPR (European Pressurized Reactor – Réacteur pressurisé européen), planifier le démantèlement, la réhabilitation et la reconversion des sites nucléaires",
+          "page": "PDF p. 50 (livre p. 98-99)"
+        },
+        {
+          "questionId": "env-02",
+          "value": 2,
+          "quote": "Sortir du nucléaire : abandonner les projets d’EPR (European Pressurized Reactor – Réacteur pressurisé européen), planifier le démantèlement, la réhabilitation et la reconversion des sites nucléaires",
+          "page": "PDF p. 50 (livre p. 98-99)",
+          "note": "« Planifier le passage à 100 % d’énergies renouvelables » (mesure clé, p. 98)."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "Mettre en oeuvre un plan d’urgence pour l’éolien maritime d’un point de vue énergétique et industriel",
+          "page": "PDF p. 67 (livre p. 132-133)",
+          "note": "Mesure inverse d’un moratoire : plan d’urgence éolien maritime et objectif 100 % renouvelables (p. 98)."
+        },
+        {
+          "questionId": "env-05",
+          "value": 2,
+          "quote": "Obliger les entreprises à mettre en œuvre une comptabilité carbone pour les émissions directes et indirectes certifiée par un organisme public agréé en commençant par les secteurs les plus émetteurs de gaz à effet de serre (GES)",
+          "page": "PDF p. 47 (livre p. 92-93)",
+          "note": "« accompagnée d’une trajectoire de baisse de leurs émissions » ; lois cadres de planification écologique et Conseil à la planification (p. 92)."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Annuler la libéralisation du marché de l’électricité et du gaz : stopper la privatisation des barrages hydroélectriques",
+          "page": "PDF p. 50 (livre p. 98-99)",
+          "note": "« Remettre en place des tarifs réglementés de l’énergie calculés à partir des coûts de production » (p. 99) ; désobéissance aux règles de la concurrence (p. 131)."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Planifier la réduction progressive des doses d’engrais et de pesticides, interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l’importation de productions qui en contiennent",
+          "page": "PDF p. 52 (livre p. 102-103)"
+        },
+        {
+          "questionId": "env-08",
+          "value": -1,
+          "quote": "le marché carbone étendu aux particuliers pour le logement et le transport. 2027 sera l’année pour remettre en cause des politiques qui nuisent aux peuples européens et à la planète.",
+          "page": "PDF p. 65 (livre p. 128-129)",
+          "inferred": true,
+          "note": "Pas de taxe carbone proposée ; l’extension de la tarification carbone aux ménages (logement, transport) est rangée parmi les politiques « qui nuisent aux peuples ». Le programme préfère droits de douane écologiques et interdictions."
+        },
+        {
+          "questionId": "env-09",
+          "value": 1,
+          "quote": "Décréter un moratoire sur les zones à faibles émissions (ZFE) dans leur conception actuelle, dont les critères induisent des inégalités sociales",
+          "page": "PDF p. 49 (livre p. 96-97)",
+          "note": "Moratoire sur les ZFE « dans leur conception actuelle », pas une suppression définitive."
+        },
+        {
+          "questionId": "env-10",
+          "value": 2,
+          "quote": "Supprimer les lignes aériennes quand l’alternative en train est inférieure à quatre heures",
+          "page": "PDF p. 49 (livre p. 96-97)"
+        },
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Lancer des grands travaux de rénovation des voies ferrées et de réouverture des lignes et gares fermées dans les trente dernières années",
+          "page": "PDF p. 40 (livre p. 78-79)",
+          "note": "Renationalisation de la SNCF (p. 97), plan d’investissement de 200 Md€ (p. 96), refus des règles budgétaires européennes (p. 131)."
+        },
+        {
+          "questionId": "env-12",
+          "value": 2,
+          "quote": "Rendre la rénovation des logements « passoires thermiques » obligatoire avant toute mise en location",
+          "page": "PDF p. 31 (livre p. 60-61)",
+          "note": "« interdire réellement la location des passoires thermiques » (p. 99)."
+        },
+        {
+          "questionId": "env-13",
+          "value": -2,
+          "quote": "Instaurer un moratoire sur le déploiement des méga-bassines",
+          "page": "PDF p. 53 (livre p. 104-105)"
+        },
+        {
+          "questionId": "env-14",
+          "value": 2,
+          "quote": "Relever les ambitions climatiques de la France avec pour objectif une baisse de 65 % des émissions en 2030 (au lieu de 50 % actuellement)",
+          "page": "PDF p. 47 (livre p. 92-93)"
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "Notre logique est simple. Tant qu’un accord de changement des traités n’est pas acquis, nous discutons avec nos partenaires et désobéissons aux règles bloquantes en parallèle. En cas d’accord, il sera soumis encore à référendum.",
+          "page": "PDF p. 66 (livre p. 130-131)",
+          "inferred": true,
+          "note": "Aucune sortie de l’UE proposée : stratégie plan A (renégociation des traités) / plan B (désobéissance) menée depuis l’intérieur (veto, contribution au budget, p. 130)."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Réaffirmer la supériorité des principes fondamentaux inscrits dans la Constitution de la 6e République sur le droit européen et instaurer un principe de non-régression écologique et sociale",
+          "page": "PDF p. 66 (livre p. 130-131)"
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Suspendre la participation (opt-out) de la France à certains programmes comme l’Europe de la défense et s’opposer à la reconduction d’un Commissaire européen à la Défense",
+          "page": "PDF p. 66 (livre p. 130-131)",
+          "note": "« L’Europe de la défense nous enferme dans les velléités belliqueuses de l’OTAN » (p. 129)."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -1,
+          "quote": "En Ukraine, agir pour créer un cadre diplomatique permettant d’obtenir un cessez-le-feu, le retrait des troupes russes, et l’ouverture de négociations pour une paix durable",
+          "page": "PDF p. 61 (livre p. 120-121)",
+          "inferred": true,
+          "note": "Priorité au cessez-le-feu et aux négociations ; ni soutien militaire « aussi longtemps que nécessaire » ni armes de longue portée. L’édition 2025 ne reprend pas la formule « Poursuivre le soutien à l’Ukraine » du programme européen 2024."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Se retirer immédiatement du commandement intégré de l’OTAN puis, par étapes, de l’organisation elle-même",
+          "page": "PDF p. 60 (livre p. 118-119)"
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "Mettre en place des sanctions contre le gouvernement Netanyahou, interrompre les accords de coopération économique avec Israël et décréter un embargo sur les armes",
+          "page": "PDF p. 62 (livre p. 122-123)",
+          "note": "Voir aussi le communiqué LFI du 13 janv. 2026 pour la suspension de l’accord d’association UE-Israël."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Utiliser le droit de veto de la France, par exemple pour refuser tous les nouveaux accords de libre-échange (avec le Mercosur, y compris révisé, le Chili, le Mexique, l’Inde, l’Indonésie, le Kenya, l’Australie, les Philippines, la Thaïlande, etc.)",
+          "page": "PDF p. 66 (livre p. 130-131)"
+        },
+        {
+          "questionId": "eur-08",
+          "value": -1,
+          "quote": "pour refuser tous les nouveaux accords de libre-échange (avec le Mercosur, y compris révisé, le Chili, le Mexique, l’Inde, l’Indonésie, le Kenya, l’Australie, les Philippines, la Thaïlande, etc.) et tout nouvel élargissement sans harmonisation sociale, fiscale et environnementale préalable",
+          "page": "PDF p. 66 (livre p. 130-131)",
+          "note": "Refus conditionnel : veto à tout élargissement « sans harmonisation sociale, fiscale et environnementale préalable » (même formule visant l’Ukraine dans le programme européen 2024)."
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2,
+          "quote": "Cesser d’appliquer unilatéralement les normes incompatibles avec nos engagements écologiques et sociaux telles que la directive sur le détachement des travailleurs, les règles budgétaires, les règles de la concurrence, la libre circulation des capitaux",
+          "page": "PDF p. 66 (livre p. 130-131)"
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2,
+          "quote": "Consacrer 0,7 % du revenu national brut à une aide publique au développement débarrassée du carcan néolibéral",
+          "page": "PDF p. 64 (livre p. 126-127)"
+        },
+        {
+          "questionId": "eur-11",
+          "value": -1,
+          "quote": "Faire racheter par la BCE la dette publique qui circule sur les marchés financiers sans passer par les banques privées et mettre en place une autorisation de découvert des États auprès de la BCE",
+          "page": "PDF p. 27 (livre p. 52-53)",
+          "inferred": true,
+          "note": "Aucune sortie de l’euro proposée : le programme mise sur la BCE (rachat de dette, dette perpétuelle à taux nul, « modification du statut de la BCE » dans le plan A, p. 130)."
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence",
+          "page": "PDF p. 63 (livre p. 124-125)",
+          "note": "Mesure inverse (facilitation des visas, régularisations) ; aucun quota proposé."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence",
+          "page": "PDF p. 63 (livre p. 124-125)",
+          "note": "Régularisation des travailleurs sans restriction aux métiers en tension."
+        },
+        {
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "Garantir le droit du sol intégral à tous les enfants nés en France, le rétablir sur l’ensemble du territoire national et faciliter l’accès à la nationalité française",
+          "page": "PDF p. 41 (livre p. 80-81)"
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "Prendre en charge les personnes migrantes grâce à des structures d’accueil et d’hébergement en nombre suffisant sur tout le territoire, en finir avec le délit de solidarité",
+          "page": "PDF p. 63 (livre p. 124-125)",
+          "inferred": true,
+          "note": "« Assumer notre devoir d’humanité envers les réfugiés », « Faciliter l’accès aux visas », « Garantir pleinement le droit d’asile » (p. 124-125) ; le programme ne chiffre pas un accueil « davantage »."
+        },
+        {
+          "questionId": "imm-09",
+          "value": 2,
+          "quote": "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence",
+          "page": "PDF p. 63 (livre p. 124-125)",
+          "inferred": true,
+          "note": "Régularisation des étudiants et carte de dix ans comme titre de référence ; « Abroger l’augmentation des frais d’inscription décidée par Macron pour les étudiants étrangers » (p. 46)."
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2,
+          "quote": "Instituer le droit de vote des étrangers aux élections locales",
+          "page": "PDF p. 41 (livre p. 80-81)"
+        },
+        {
+          "questionId": "ins-01",
+          "value": 2,
+          "quote": "Convoquer un référendum (article 11) pour engager le processus constituant et décider des modalités de composition de l’Assemblée constituante",
+          "page": "PDF p. 12 (livre p. 22-23)",
+          "note": "Mesure clé « Convoquer une Constituante pour passer à la 6e République » (p. 22)."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Instaurer le Référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
+          "page": "PDF p. 13 (livre p. 24-25)"
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Élire l’Assemblée nationale au scrutin proportionnel",
+          "page": "PDF p. 12 (livre p. 22-23)",
+          "note": "Proportionnelle intégrale, au-delà d’une simple « part »."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2,
+          "quote": "Reconnaître le vote blanc, mettre en place le vote obligatoire et instaurer un seuil de votes exprimés pour valider une élection",
+          "page": "PDF p. 13 (livre p. 24-25)"
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "Instaurer le Référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
+          "page": "PDF p. 13 (livre p. 24-25)",
+          "inferred": true,
+          "note": "L’article 11 n’est pas modifié en tant que tel, mais le RIC permettrait des référendums sur toute loi ; référendum obligatoire pour toute révision constitutionnelle ou nouveau traité européen (p. 25)."
+        },
+        {
+          "questionId": "ins-08",
+          "value": 2,
+          "quote": "Reconnaître le vote blanc, mettre en place le vote obligatoire et instaurer un seuil de votes exprimés pour valider une élection",
+          "page": "PDF p. 13 (livre p. 24-25)"
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Donner le droit de vote à 16 ans",
+          "page": "PDF p. 13 (livre p. 24-25)"
+        },
+        {
+          "questionId": "ins-10",
+          "value": 0,
+          "quote": "Supprimer les mégarégions et les métropoles technocratiques, et revenir sur l’obligation d’appartenance des communes à des intercommunalités",
+          "page": "PDF p. 17 (livre p. 32-33)",
+          "note": "Position mixte : suppression des échelons « technocratiques » (métropoles, intercommunalités géantes) mais affirmation des « trois échelons d’organisation décentralisée (communes, départements, régions) » (p. 25-26), donc contre la fusion départements-régions."
+        },
+        {
+          "questionId": "ins-11",
+          "value": 1,
+          "quote": "Rendre effectif le principe du non-cumul des mandats et des indemnités, y compris dans le temps",
+          "page": "PDF p. 14 (livre p. 26-27)",
+          "note": "Non-cumul « dans le temps » sans préciser le nombre de mandats consécutifs."
+        },
+        {
+          "questionId": "ins-12",
+          "value": 2,
+          "quote": "Donner à la Corse le statut garanti par l’article 74 de la Constitution",
+          "page": "PDF p. 14 (livre p. 26-27)",
+          "note": "Statut d’autonomie de l’article 74 ; « conférence sur l’avenir institutionnel des territoires insulaires et éloignés » (p. 26). Le programme refuse en revanche un « droit à la différenciation » général (p. 94)."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "Abolir les procédures de « votes forcés » du Parlement comme l’article 49.3 de la Constitution de la Ve République",
+          "page": "PDF p. 12 (livre p. 22-23)"
+        },
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "refuser la gestation pour autrui (GPA), faire prévaloir l’intérêt supérieur de l’enfant comme principe premier, en toutes circonstances",
+          "page": "PDF p. 18 (livre p. 34-35)",
+          "note": "Mesure clé « Constitutionnaliser la non-marchandisation du corps humain » (p. 34)."
+        },
+        {
+          "questionId": "lib-04",
+          "value": -2,
+          "quote": "Déjudiciariser le changement de sexe à l’état-civil en le rendant libre et gratuit devant un officier d’état civil, pour les mineurs, permettre cette modification avec l’accord d’un des parents",
+          "page": "PDF p. 18 (livre p. 34-35)",
+          "inferred": true,
+          "note": "Les traitements médicaux ne sont pas traités ; le programme facilite le changement de genre à l’état civil pour les mineurs et l’accès des personnes trans à la PMA, ce qui exclut une interdiction des transitions pour les mineurs."
+        },
+        {
+          "questionId": "lib-08",
+          "value": 1,
+          "quote": "Garantir l’égal accès et l’effectivité du droit à l’IVG et le choix de la méthode d’IVG et supprimer la double clause de conscience des médecins",
+          "page": "PDF p. 41 (livre p. 80-81)",
+          "inferred": true,
+          "note": "Le programme ne fige pas les conditions de l’IVG : il les modifie dans le sens d’un accès élargi (suppression de la double clause de conscience) et inscrit le « droit à l’avortement » dans la Constitution (p. 19), ce qui exclut tout recul."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Adopter une loi de lutte contre le sexisme et les violences faites aux femmes, et allouer les 2,6 milliards de budget demandé par les associations, notamment en matière de formation et de places d’hébergement",
+          "page": "PDF p. 40 (livre p. 78-79)"
+        },
+        {
+          "questionId": "lib-11",
+          "value": 2,
+          "quote": "Revenir sur toutes les dispositions liberticides qui ont instauré un état d’urgence permanent",
+          "page": "PDF p. 18 (livre p. 34-35)",
+          "inferred": true,
+          "note": "Priorité aux libertés déduite des mesures : abrogation des lois sécuritaires « inefficaces », interdiction de la nasse en manifestation, protection des journalistes en manifestation, amnistie des militants (p. 26, 36-37)."
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Encadrer les loyers partout sur le territoire et à la baisse dans les grandes villes",
+          "page": "PDF p. 31 (livre p. 60-61)"
+        },
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Rehausser le quota de logements sociaux dans les villes (loi SRU) à 30 %, dont 5 % consacrés aux résidences universitaires et foyers jeunes travailleurs, et aggraver les sanctions contre les communes hors la loi",
+          "page": "PDF p. 31 (livre p. 60-61)"
+        },
+        {
+          "questionId": "log-03",
+          "value": -2,
+          "quote": "Revenir sur la loi ELAN d’Emmanuel Macron pour imposer 100 % de logements accessibles dans les constructions neuves (comme le prévoit la loi de 2005)",
+          "page": "PDF p. 43 (livre p. 84-85)",
+          "inferred": true,
+          "note": "Sens inverse : rétablissement de normes assouplies par la loi ELAN, constructions « aux normes écologiques les plus ambitieuses » (p. 60), retour sur « les affaiblissements des normes environnementales » (p. 103)."
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "mettre en œuvre le « zéro artificialisation nette » des sols dès 2027 en hexagone",
+          "page": "PDF p. 52 (livre p. 102-103)",
+          "note": "ZAN accéléré à 2027."
+        },
+        {
+          "questionId": "log-06",
+          "value": 2,
+          "quote": "Lutter contre la spéculation sur le logement en limitant les locations de courte durée (de type AirBnB) à 60 jours par an et supprimer la niche fiscale sur les meublés de tourisme",
+          "page": "PDF p. 31 (livre p. 60-61)"
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Défendre et reconstruire le maillage de transports en commun et de services publics, notamment dans les départements ruraux, les quartiers populaires et les Outre-mer afin de garantir une distance maximale (de quinze à trente minutes, en voiture ou en transport collectif) entre tout lieu d’habitation et les services publics essentiels",
+          "page": "PDF p. 29 (livre p. 56-57)"
+        },
+        {
+          "questionId": "log-08",
+          "value": 2,
+          "quote": "Mettre en place une garantie universelle des loyers créant un filet de sécurité contre les impayés de loyers pour les locataires, comme pour les propriétaires",
+          "page": "PDF p. 31 (livre p. 60-61)"
+        },
+        {
+          "questionId": "log-09",
+          "value": -1,
+          "quote": "Refonder la taxe foncière pour la rendre progressive et que chacun paie à hauteur de son patrimoine total réel",
+          "page": "PDF p. 28 (livre p. 54-55)",
+          "inferred": true,
+          "note": "Sens inverse : taxe foncière progressive, suppression de la niche des meublés de tourisme et plafond de cinq logements transmissibles par héritage (p. 61) ; la fiscalité des bailleurs n’est pas traitée en tant que telle."
+        },
+        {
+          "questionId": "num-02",
+          "value": -2,
+          "quote": "Garantir l’indépendance, le pluralisme et le financement de l’audiovisuel public en instaurant une contribution audiovisuelle dédiée, universelle et progressive",
+          "page": "PDF p. 14 (livre p. 26-27)",
+          "note": "Mesure inverse de la privatisation ; présidents de France Télévisions et Radio France élus par le Parlement (p. 28)."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Instaurer une neutralité des plateformes pour empêcher les espaces numériques qui servent à transmettre des informations d’être des instruments d’influence au service des convictions personnelles de leurs dirigeants",
+          "page": "PDF p. 15 (livre p. 28-29)",
+          "inferred": true,
+          "note": "Régulation nationale des plateformes ; côté fiscal, « impôt universel sur les entreprises » avec décisions unilatérales « en cas de blocage des négociations européennes ou internationales » (p. 54) ; « Aller plus loin que le règlement européen de protection des données » (p. 135)."
+        },
+        {
+          "questionId": "num-04",
+          "value": -1,
+          "quote": "Baisser la production de chaleur et la consommation électrique des data centers et soumettre ceux-ci à une autorisation de construction",
+          "page": "PDF p. 69 (livre p. 136-137)",
+          "note": "Position mixte : autorisation de construction (contraire à des procédures simplifiées) mais « cloud véritablement public, composé de data centers publics » et mission nationale de maîtrise de l’IA (p. 136-137)."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Adopter une loi anti-concentration dans les médias et engager leur démocratisation",
+          "page": "PDF p. 15 (livre p. 28-29)"
+        },
+        {
+          "questionId": "num-06",
+          "value": -2,
+          "quote": "Faire de l’éducation artistique et culturelle une priorité en réorientant les moyens du Pass Culture vers des projets collectifs et d’éducation populaire",
+          "page": "PDF p. 44 (livre p. 86-87)",
+          "inferred": true,
+          "note": "Le pass n’est pas supprimé nommément mais ses moyens sont réorientés ; le programme le qualifie de « bon d’achat » et de « vision purement marchande » (p. 86)."
+        },
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "Porter le budget consacré à l’art, à la culture et à la création à 1 % du PIB par an pour mener une politique culturelle ambitieuse, émancipatrice et à l’image de la France d’aujourd’hui",
+          "page": "PDF p. 44 (livre p. 86-87)"
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Réguler l’installation des médecins et généraliser les guichets uniques pour toutes les démarches d’installation des soignants",
+          "page": "PDF p. 57 (livre p. 112-113)"
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Engager un plan pluriannuel de recrutement des professionnels du soin et du médico-social (médecins, infirmiers, aides-soignants et personnels administratifs), revaloriser les métiers, les salaires",
+          "page": "PDF p. 57 (livre p. 112-113)",
+          "note": "Remplacement de l’ONDAM par un « objectif national des besoins d’assurance-maladie » (p. 112-113) ; réouverture de lits et de services."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Reconstruire le service public hospitalier et instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les mutuelles dans la Sécurité sociale",
+          "page": "PDF p. 56 (livre p. 110-111)"
+        },
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Abroger la hausse des franchises médicales de 2024",
+          "page": "PDF p. 57 (livre p. 112-113)"
+        },
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Ajouter le droit de mourir dans la dignité (y compris avec assistance) et l’accès garanti à des soins palliatifs dans la Constitution",
+          "page": "PDF p. 18 (livre p. 34-35)"
+        },
+        {
+          "questionId": "san-06",
+          "value": 2,
+          "quote": "Légaliser et encadrer par un monopole d’État la consommation, la production et la vente de cannabis à des fins récréatives dans des conditions permettant de lutter contre l’addiction",
+          "page": "PDF p. 57 (livre p. 112-113)"
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Financer l’augmentation du nombre de places en faculté de médecine en partant des besoins et la création d’écoles normales de santé dans les territoires",
+          "page": "PDF p. 57 (livre p. 112-113)",
+          "note": "Le programme supprime par ailleurs la sélection Parcoursup (p. 47)."
+        },
+        {
+          "questionId": "san-09",
+          "value": 2,
+          "quote": "Permettre le suivi psychologique ambulatoire par le conventionnement de professionnels",
+          "page": "PDF p. 57 (livre p. 112-113)",
+          "inferred": true,
+          "note": "Conventionnement = prise en charge par l’Assurance maladie ; s’ajoute au « 100 % Sécu » des soins prescrits (p. 111)."
+        },
+        {
+          "questionId": "sec-02",
+          "value": -1,
+          "quote": "en finir avec la surpopulation carcérale par la mise en place d’un mécanisme contraignant de régulation carcérale",
+          "page": "PDF p. 32 (livre p. 62-63)",
+          "inferred": true,
+          "note": "La réponse du programme à la surpopulation est un mécanisme de régulation carcérale, non la construction de places ; aucun programme de construction n’est proposé."
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2,
+          "quote": "Mettre en place le récépissé de contrôle d’identité par les forces de l’ordre pour lutter contre le contrôle au faciès, accompagné de dispositifs de formation, de contrôle et de sanctions",
+          "page": "PDF p. 41 (livre p. 80-81)"
+        },
+        {
+          "questionId": "sec-06",
+          "value": -2,
+          "quote": "Garantir le respect des principes de l’ordonnance de février 1945 sur l’enfance en conflit avec la loi, abroger le code de justice pénale des mineurs de Dupond-Moretti pour instaurer un code de l’enfance",
+          "page": "PDF p. 33 (livre p. 64-65)",
+          "inferred": true,
+          "note": "L’ordonnance de 1945 fonde l’atténuation de responsabilité des mineurs (primauté de l’éducatif) ; le programme veut en garantir les principes."
+        },
+        {
+          "questionId": "sec-07",
+          "value": -2,
+          "quote": "Interdire dans la loi tout usage des technologies de reconnaissance faciale dans les espaces et établissements publics sur le territoire français, ainsi que leur expérimentation",
+          "page": "PDF p. 33 (livre p. 64-65)"
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Planifier des moyens pour la justice et recruter davantage de fonctionnaires : magistrats, greffiers, agents de la protection judiciaire de la jeunesse",
+          "page": "PDF p. 31 (livre p. 60-61)",
+          "note": "Hausse des moyens sans objectif chiffré de doublement du budget."
+        },
+        {
+          "questionId": "sec-09",
+          "value": -1,
+          "quote": "S’attaquer aux causes des addictions, pour engager une politique de réduction des risques plutôt que de continuer une politique de répression des consommateurs",
+          "page": "PDF p. 58 (livre p. 114-115)",
+          "note": "Position mixte : pilotage confié au ministère de la Santé et légalisation du cannabis, mais « Accroître les forces de police et des douanes à des fins d’investigation et de remontées des filières » et renforcement des effectifs contre les réseaux mafieux (p. 65, 114)."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "Rétablir la police de proximité et démanteler les BAC (brigades anticriminalité) et les BRAV-M (Brigades de répression des actions violentes motorisées)",
+          "page": "PDF p. 32 (livre p. 62-63)"
+        },
+        {
+          "questionId": "sec-13",
+          "value": -2,
+          "quote": "S’attaquer aux causes des addictions, pour engager une politique de réduction des risques plutôt que de continuer une politique de répression des consommateurs",
+          "page": "PDF p. 58 (livre p. 114-115)",
+          "note": "Légalisation encadrée du cannabis récréatif (p. 113)."
+        },
+        {
+          "questionId": "soc-02",
+          "value": 1,
+          "quote": "Créer une garantie d’autonomie qui permettra que nul ne soit privé de sa dignité pour vivre : le revenu mensuel de chaque personne atteindra le seuil de pauvreté (1 216 euros pour une personne seule)",
+          "page": "PDF p. 30 (livre p. 58-59)",
+          "inferred": true,
+          "note": "Revenu minimum garanti (complément jusqu’au seuil de pauvreté), mais pas un revenu universel versé à tous."
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2,
+          "quote": "Garantir l’accès à l’aide médicale d’État (AME)",
+          "page": "PDF p. 63 (livre p. 124-125)"
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "Indexer le montant des retraites sur les salaires",
+          "page": "PDF p. 38 (livre p. 74-75)",
+          "inferred": true,
+          "note": "Indexation des retraites sur les salaires (et non explicitement sur l’inflation) ; « Augmenter immédiatement le SMIC à 1600 € net mensuel et les minima sociaux » (p. 75) ; minimum vieillesse au seuil de pauvreté (p. 74). Pas de règle annuelle d’indexation des minima sociaux."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 2,
+          "quote": "Financer l’autonomie des jeunes détachés du foyer fiscal parental grâce à la garantie d’autonomie, qui les portera au-dessus du seuil de pauvreté (1 216 euros pour une personne seule)",
+          "page": "PDF p. 42 (livre p. 82-83)",
+          "inferred": true,
+          "note": "Le programme ne parle pas de RSA à 18 ans mais crée une garantie d’autonomie (1 216 €) pour les jeunes détachés du foyer fiscal, et dénonce le refus du RSA aux jeunes (p. 82)."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "Porter a minima au niveau du SMIC revalorisé toutes les pensions pour une carrière complète (salarié, indépendant, agriculteur), et le minimum vieillesse au niveau du seuil de pauvreté",
+          "page": "PDF p. 38 (livre p. 74-75)"
+        },
+        {
+          "questionId": "soc-08",
+          "value": -2,
+          "quote": "Interdire certains usages de l’intelligence artificielle et du « big data » qui vont à l’encontre des droits sociaux : identifications biométriques, surveillance pour l’évaluation des droits sociaux",
+          "page": "PDF p. 69 (livre p. 136-137)",
+          "inferred": true,
+          "note": "La carte Vitale biométrique n’est pas nommée, mais le programme interdit les identifications biométriques et la surveillance pour l’évaluation des droits sociaux, et « les pratiques de notation des allocataires de prestations sociales » (p. 59). La lutte contre la fraude visée par le programme est la fraude fiscale (p. 54)."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Abroger la réforme d’Emmanuel Macron passant l’âge de départ à la retraite à 64 ans et restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
+          "page": "PDF p. 38 (livre p. 74-75)"
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Abroger la réforme d’Emmanuel Macron passant l’âge de départ à la retraite à 64 ans et restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
+          "page": "PDF p. 38 (livre p. 74-75)"
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Abroger la réforme d’Emmanuel Macron passant l’âge de départ à la retraite à 64 ans et restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
+          "page": "PDF p. 38 (livre p. 74-75)",
+          "note": "Mesure inverse (retour à 60 ans)."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Porter immédiatement le SMIC mensuel à 1600 euros net et indexer les salaires sur l’inflation dans le privé et dans la fonction publique",
+          "page": "PDF p. 35 (livre p. 68-69)"
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Revenir sur les réformes Macron en abrogeant l’éligibilité et les méthodes de calcul du montant et de la durée de l’allocation pour indemniser les chômeurs en fonction de leurs derniers salaires",
+          "page": "PDF p. 36 (livre p. 70-71)",
+          "note": "Sens inverse : « Indemniser les chômeurs dès le premier jour de la fin de contrat » (p. 70)."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -2,
+          "quote": "Rétablir immédiatement la durée légale hebdomadaire à 35 heures (en majorant les heures supplémentaires, cotisations incluses, à 25 % pour les 4 premières et 50 % au-delà), passer aux 32 heures dans les métiers pénibles ou de nuit",
+          "page": "PDF p. 34 (livre p. 66-67)"
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2,
+          "quote": "Abroger la loi France Travail et l’obligation de réaliser 15h d’activités hebdomadaires contre le revenu de remplacement (allocation-chômage, RSA, ASS, etc.)",
+          "page": "PDF p. 36 (livre p. 70-71)"
+        },
+        {
+          "questionId": "tra-08",
+          "value": -1,
+          "quote": "en majorant les heures supplémentaires, cotisations incluses, à 25 % pour les 4 premières et 50 % au-delà",
+          "page": "PDF p. 34 (livre p. 66-67)",
+          "inferred": true,
+          "note": "Les heures supplémentaires restent soumises à cotisations (« cotisations incluses ») ; l’exonération d’impôt sur le revenu n’est pas abordée."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Porter immédiatement le SMIC mensuel à 1600 euros net et indexer les salaires sur l’inflation dans le privé et dans la fonction publique",
+          "page": "PDF p. 35 (livre p. 68-69)"
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "passer aux 32 heures dans les métiers pénibles ou de nuit, et favoriser leur généralisation par la négociation collective",
+          "page": "PDF p. 34 (livre p. 66-67)",
+          "note": "32 h par la loi pour les métiers pénibles/de nuit, généralisation favorisée par la négociation ; sixième semaine de congés payés (p. 67)."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Interdire les licenciements boursiers et économiques par les entreprises qui versent des dividendes ou bénéficient des aides de l’État",
+          "page": "PDF p. 26 (livre p. 50-51)"
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2025-06-23",
+      "date": "2025-06-23",
+      "title": "« Fin de conclave, début de censure » – communiqué",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2025/06/23/fin-de-conclave-debut-de-censure/",
+      "publisher": "La France insoumise",
+      "summary": "Voir aussi le blog officiel du candidat : melenchon.fr/2025/01/09/la-nuit-des-longues-fourchettes/ (« C’est la retraite jouée en Bourse ! »).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "Il faut censurer François Bayrou, qui a utilisé ce conclave pour réhabiliter l’idée des retraites-casino par capitalisation.",
+          "note": "L’AEC 2025 ne cite pas la capitalisation (financement par hausse des cotisations, p. 74). Même position sur le blog officiel du candidat (9 janv. 2025) : « C’est la retraite jouée en Bourse ! »."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2024-11-12",
+      "date": "2024-11-12",
+      "title": "« Avalanche de plans sociaux dans l’industrie : la France insoumise appelle le Parlement à sauver les salariés » – communiqué",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2024/11/12/avalanche-de-plans-sociaux-dans-lindustrie-la-france-insoumise-appelle-le-parlement-a-sauver-les-salaries/",
+      "publisher": "La France insoumise",
+      "summary": "Document officiel : « Avalanche de plans sociaux dans l’industrie : la France insoumise appelle le Parlement à sauver les salariés » – communiqué.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "170 milliards d’aides gouvernementales par le biais d’exonérations de cotisations patronales et des cadeaux fiscaux sans précédent",
+          "inferred": true,
+          "note": "Les exonérations de cotisations patronales sont dénoncées comme cause du « carnage » industriel ; aucune baisse supplémentaire n’est proposée. L’AEC 2025 veut « Annuler les cadeaux fiscaux accordés sans contrepartie aux plus grandes entreprises » (p. 96)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2023-12-23",
+      "date": "2023-12-23",
+      "title": "« Loi immigration : nous saisissons le Conseil constitutionnel » – communiqué des députés insoumis, socialistes, écologistes et GDR",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2023/12/23/loi-immigration-nous-saisissons-le-conseil-constitutionnel/",
+      "publisher": "Groupe LFI-NUPES à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Document officiel : « Loi immigration : nous saisissons le Conseil constitutionnel » – communiqué des députés insoumis, socialistes, écologistes et GDR.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-03",
+          "value": -2,
+          "quote": "Les articles 1er B et 1er C constituent une atteinte à la vie privée et au droit à mener une vie familiale normale en ce qui concerne le regroupement familial.",
+          "note": "Saisine du Conseil constitutionnel contre les restrictions du regroupement familial de la loi immigration 2023 ; le communiqué du 25 janv. 2024 range « les restrictions au regroupement familial » parmi les « mesures lepénistes » censurées. L’AEC 2025 abroge « les dernières lois asile et immigration » (p. 125)."
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2,
+          "quote": "L’article 1er N, qui conditionne l’accès aux prestations sociales à la durée de résidence en France, est contraire au principe d’égalité.",
+          "note": "LFI a saisi le Conseil constitutionnel contre la condition de durée de résidence pour les prestations sociales de la loi immigration 2023 (qualifiée de « préférence nationale » dans le communiqué du 25 janv. 2024)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-livret-sante-2022",
+      "date": "2022-01-01",
+      "title": "Livret thématique n°13 « Soigner le système de santé pour notre bien commun » – Les livrets thématiques de l’Avenir en commun, édition 2022",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20250603222128/https://programme.lafranceinsoumise.fr/livrets/sante/",
+      "publisher": "La France insoumise / Union populaire",
+      "summary": "Copie archivée Wayback (2025-06-03) de la page programme.lafranceinsoumise.fr/livrets/sante/ (le site redirige désormais vers melenchon2027.fr). PDF archivé : https://web.archive.org/web/20240529005316/https://programme.lafranceinsoumise.fr/wp-content/uploads/2024/02/Livret_UP_13_SANTE_web-ok.pdf. Document plus ancien que l’AEC 2025, utilisé uniquement pour san-08. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 2,
+          "quote": "Après revalorisation des rémunérations, mettre fin aux dépassements d’honoraires dans une réforme plus profonde du financement",
+          "note": "Absent de l’AEC 2025 ; position tirée du livret thématique santé (édition 2022) de l’Avenir en commun, conditionnée à une revalorisation préalable des rémunérations."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-euro-2024",
+      "date": "2024-01-01",
+      "title": "Programme de l’Union populaire pour les élections européennes 2024 (La France insoumise)",
+      "sourceType": "programme",
+      "sourceUrl": "https://lafranceinsoumise.fr/wp-content/uploads/2024/05/PROGRAMME-UNION-POPULAIRE_EURO-2024.pdf",
+      "publisher": "La France insoumise",
+      "summary": "Programme officiel LFI coordonné par l’espace « Bataille des idées » (C. Guetté, H. Clouet), version finale mai 2024. Utilisé seulement pour des points sur lesquels l’édition 2025 de l’AEC est muette (eur-12, eur-13, imm-07). Page = page du PDF. (Date du document : 2024 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-12",
+          "value": -1,
+          "quote": "Refuser les réintroductions injustifiées des contrôles aux frontières internes de l’Union européenne, garantir les droits des exilés illégalement détenus, maltraités et refoulés d’un État membre à l’autre",
+          "page": "PDF p. 86",
+          "note": "Refus des réintroductions « injustifiées » de contrôles (formulation conditionnelle). L’AEC 2025 dit seulement « Sortir de l’impasse de la politique de Schengen et Frontex » (p. 124), formule ambiguë."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2,
+          "quote": "Ce plan sera financé par de nouvelles ressources propres européennes fondées sur la justice fiscale, les droits de douanes et le partage des richesses",
+          "page": "PDF p. 9",
+          "note": "L’AEC 2025 est muette (elle prévoit de « Conditionner la contribution française au budget de l’Union européenne », p. 130)."
+        },
+        {
+          "questionId": "imm-07",
+          "value": -2,
+          "quote": "Refuser l’externalisation des frontières européennes dans des pays tiers, en particulier dans les régimes autoritaires qui violent les droits humains",
+          "page": "PDF p. 85",
+          "note": "Mesure clé du même chapitre : « Garantir le droit d’asile sur le sol européen ». L’AEC 2025 est muette ; le communiqué LFI du 12 déc. 2025 dénonce aussi le renvoi vers des pays tiers « comme le Royaume-Uni l’avait envisagé avec le Rwanda »."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2023-12-19-faites-tomber",
+      "date": "2023-12-19",
+      "title": "« Faites tomber la loi immigration : écrivez aux député·es macronistes ! » (modèle de lettre officiel de LFI)",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/faites-tomber-la-loi-immigration/",
+      "publisher": "La France insoumise",
+      "summary": "Page de campagne du site officiel de LFI contre la loi immigration de décembre 2023.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-08",
+          "value": -2,
+          "quote": "Il reprend à son compte la déchéance de nationalité proposée par François Hollande en 2016 et restée depuis comme une tâche indélébile.",
+          "note": "Absent de l’AEC 2025 ; position tirée de la campagne officielle de LFI contre la loi immigration (déchéance de nationalité qualifiée de position historique de l’extrême droite)."
+        },
+        {
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "le gouvernement a cédé sur les piliers de notre République en reprenant à son compte les positions historiques de l’extrême droite française. Ainsi, le texte proposé à l’issue de la CMP comprend notamment un principe de préférence nationale pour des allocations pourtant universelles",
+          "inferred": true,
+          "note": "La préférence nationale est rejetée pour les allocations ; l’emploi et le logement social ne sont pas nommés, mais l’AEC 2025 prévoit un « plan d’action global contre les discriminations (emploi, logement, éducation, santé, etc.) » (p. 81)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2025-12-12",
+      "date": "2025-12-12",
+      "title": "« Alerte : attaques gravissimes contre la Convention européenne des Droits de l’Homme ! » – communiqué du groupe LFI",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2025/12/12/alerte-attaques-gravissimes-contre-la-convention-europeenne-des-droits-de-lhomme/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Document officiel : « Alerte : attaques gravissimes contre la Convention européenne des Droits de l’Homme ! » – communiqué du groupe LFI.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-11",
+          "value": -2,
+          "quote": "ils réclament ni plus ni moins que d’aller vers la normalisation de la double peine pour les étrangers condamnés (remettant ainsi en cause l’article 8 de la Convention européenne des Droits de l’Homme, qui garantit le respect de la vie familiale)",
+          "note": "Le groupe LFI dénonce des « attaques intolérables contre la Convention européenne des Droits de l’Homme » visant à faciliter l’expulsion d’étrangers condamnés et les renvois vers des pays tiers."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2023-12-15",
+      "date": "2023-12-15",
+      "title": "« Stop à la xénophobie et au racisme, stop à la loi immigration ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2023/12/15/stop-a-la-loi-immigration/",
+      "publisher": "La France insoumise",
+      "summary": "Document officiel : « Stop à la xénophobie et au racisme, stop à la loi immigration ! ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-13",
+          "value": -2,
+          "quote": "pour les durcir à nouveau : faciliter des expulsions, ajouter de nouvelles conditions à remplir pour la régularisation et la naturalisation des personnes étrangères, restreindre les motifs et les droits de recours pour l’obtention de l’asile en France, élargir et allonger la rétention administrative.",
+          "inferred": true,
+          "note": "L’extension et l’allongement de la rétention administrative sont dénoncés parmi les « volets répressifs » ; la rétention systématique des OQTF n’est pas traitée en tant que telle. L’AEC 2025 interdit l’enfermement des enfants en CRA (p. 65)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2024-11-14",
+      "date": "2024-11-14",
+      "title": "Communiqué de la France insoumise (procès du RN : peines planchers)",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2024/11/14/communique-de-la-france-insoumise-8/",
+      "publisher": "La France insoumise",
+      "summary": "Document officiel : Communiqué de la France insoumise (procès du RN : peines planchers).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": -2,
+          "quote": "Les peines planchers et les peines automatiques ne doivent exister dans aucun domaine.",
+          "note": "Absent de l’AEC 2025 ; communiqué officiel (à propos du procès du RN)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-lfi-com-2026-07-03",
+      "date": "2026-07-03",
+      "title": "« Présomption de légitime défense policière : non à l’aggravation du permis de tuer ! » – communiqué du groupe LFI",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/07/03/presomption-de-legitime-defense-policiere-non-a-laggravation-du-permis-de-tuer/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Document officiel : « Présomption de légitime défense policière : non à l’aggravation du permis de tuer ! » – communiqué du groupe LFI.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "sous couvert de « présomption de légitime défense ». Reprenant une revendication de longue date du Rassemblement national, désormais soutenue par le gouvernement, ce permis de tuer porterait un coup historique à l’État de droit, banaliserait la violence d’Etat",
+          "note": "L’AEC 2025 abroge déjà « la loi Cazeneuve sur le refus d’obtempérer, dite « permis de tuer » » (p. 37)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-up2022-reponse-tetu",
+      "date": "2022-01-01",
+      "title": "Réponses de l’Union populaire (campagne Mélenchon 2022) au questionnaire de Têtu – site officiel du programme",
+      "sourceType": "autre",
+      "sourceUrl": "https://web.archive.org/web/20250917085747/https://programme.lafranceinsoumise.fr/reponses-aux-associations/tetu/",
+      "publisher": "La France insoumise / Union populaire (programme.lafranceinsoumise.fr)",
+      "summary": "Copie archivée Wayback (2025-09-17). Document de campagne 2022, utilisé uniquement pour lib-05. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-05",
+          "value": -2,
+          "quote": "Autoriser l’utilisation de l’écriture inclusive au sein de l’administration ? Oui. Nos communications et nos outils numériques utilisant l’écriture inclusive, nous ne nous lancerons bien évidemment pas dans une absurde interdiction d’un mode d’expression que nous approuvons et utilisons au quotidien.",
+          "note": "Absent de l’AEC 2025 ; réponse officielle de la campagne 2022 (site du programme)."
+        }
+      ]
+    }
+  ]
+}
