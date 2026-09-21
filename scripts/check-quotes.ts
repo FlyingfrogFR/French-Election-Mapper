@@ -35,6 +35,11 @@ function waybackRaw(url: string): string {
   return m && !m[2].endsWith('id_') ? `${m[1]}${m[2]}id_${m[3]}${m[4]}` : url;
 }
 
+/** PDFs break words across lines ("incon-\ntournables"); glue them back before matching. */
+function dehyphenate(text: string): string {
+  return text.replace(/-\s+/g, '');
+}
+
 function normalise(text: string): string {
   let t = text.normalize('NFKC');
   for (const [a, b] of [
@@ -59,20 +64,22 @@ function stripHtml(raw: string): string {
     .replace(/&#(\d+);/g, (_m, d) => String.fromCodePoint(Number(d)));
 }
 
-async function extract(url: string): Promise<string> {
+async function extract(url: string, viaCurl = false): Promise<string> {
   const isPdf = url.toLowerCase().split('?')[0].endsWith('.pdf');
   const target = isPdf ? waybackRaw(url) : url;
-  const key = createHash('sha1').update(target).digest('hex');
+  const key = createHash('sha1').update(`${viaCurl ? 'curl:' : ''}${target}`).digest('hex');
   const cached = join(CACHE, `${key}.txt`);
   if (existsSync(cached)) return readFileSync(cached, 'utf8');
   if (offline) return '';
   mkdirSync(CACHE, { recursive: true });
   const download = async (): Promise<Buffer | null> => {
-    try {
-      const res = await fetch(target, { headers: { 'user-agent': UA, 'accept-language': 'fr' }, redirect: 'follow' });
-      if (res.ok) return Buffer.from(await res.arrayBuffer());
-    } catch {
-      /* fall through to curl */
+    if (!viaCurl) {
+      try {
+        const res = await fetch(target, { headers: { 'user-agent': UA, 'accept-language': 'fr' }, redirect: 'follow' });
+        if (res.ok) return Buffer.from(await res.arrayBuffer());
+      } catch {
+        /* fall through to curl */
+      }
     }
     // Some publishers reject plain fetch but accept a full browser header set.
     try {
@@ -118,6 +125,13 @@ function coverage(quote: string, source: string): number {
   return grams.filter((g) => source.includes(g)).length / grams.length;
 }
 
+function grade(quote: string, source: string): 'exact' | 'fuzzy' | 'MISSING' {
+  const q = dehyphenate(quote);
+  const s = dehyphenate(source);
+  if (source.includes(quote) || s.includes(q)) return 'exact';
+  return Math.max(coverage(quote, source), coverage(q, s)) >= 0.6 ? 'fuzzy' : 'MISSING';
+}
+
 const raw = loadRawData();
 const cache = new Map<string, string>();
 const counts = { exact: 0, fuzzy: 0, MISSING: 0, NOFETCH: 0, skipped: 0 };
@@ -136,12 +150,20 @@ for (const file of raw.declarationFiles) {
       checked++;
       const url = pos.sourceUrl ?? decl.sourceUrl;
       if (!cache.has(url)) cache.set(url, normalise(await extract(url)));
-      const source = cache.get(url) as string;
+      let source = cache.get(url) as string;
       const quote = normalise(pos.quote);
-      let level: keyof typeof counts;
-      if (!source) level = 'NOFETCH';
-      else if (source.includes(quote)) level = 'exact';
-      else level = coverage(quote, source) >= 0.6 ? 'fuzzy' : 'MISSING';
+      let level: keyof typeof counts = source ? grade(quote, source) : 'NOFETCH';
+      // A plain fetch sometimes returns a partial page; a full browser header set usually gets the rest.
+      if (level !== 'exact' && level !== 'fuzzy') {
+        const retryKey = `curl:${url}`;
+        if (!cache.has(retryKey)) cache.set(retryKey, normalise(await extract(url, true)));
+        const retry = cache.get(retryKey) as string;
+        if (retry) {
+          source = `${source} ${retry}`;
+          cache.set(url, source);
+          level = grade(quote, source);
+        }
+      }
       counts[level]++;
       if (level === 'MISSING' || level === 'NOFETCH') {
         problems.push(`  ${level.padEnd(7)} ${file.candidateId}/${pos.questionId}  ${url}\n            « ${pos.quote.slice(0, 120)} »`);
