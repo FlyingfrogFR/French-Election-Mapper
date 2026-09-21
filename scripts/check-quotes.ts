@@ -24,6 +24,12 @@ import { loadRawData, ROOT } from './lib/load.ts';
 const CACHE = process.env.QUOTES_CACHE || join(ROOT, '.cache', 'quotes');
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
+/** Minimal shape of pdf-parse 2's PDFParse class, so the script stays typed without pulling its types in. */
+interface PdfParser {
+  getText(): Promise<{ text: string }>;
+  destroy?(): Promise<void>;
+}
+
 const args = process.argv.slice(2);
 const only = args.find((a) => a.startsWith('--candidate='))?.split('=')[1];
 const limit = Number(args.find((a) => a.startsWith('--limit='))?.split('=')[1] ?? '0');
@@ -117,13 +123,17 @@ async function extract(url: string, viaCurl = false): Promise<string> {
     let text: string;
     if (buf.subarray(0, 5).toString('latin1').startsWith('%PDF')) {
       const require = createRequire(import.meta.url);
+      // pdf-parse 2 exposes a PDFParse class instead of a callable module.
+      const { PDFParse } = require('pdf-parse') as { PDFParse: new (opts: { data: Uint8Array }) => PdfParser };
+      const parser = new PDFParse({ data: new Uint8Array(buf) });
       // pdf.js logs font warnings on stdout for many real-world PDFs; they are irrelevant here.
       const warn = console.warn;
       console.warn = () => {};
       try {
-        text = (await require('pdf-parse')(buf)).text as string;
+        text = (await parser.getText()).text;
       } finally {
         console.warn = warn;
+        await parser.destroy?.();
       }
     } else {
       text = stripHtml(buf.toString('utf8'));
