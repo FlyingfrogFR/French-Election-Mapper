@@ -238,23 +238,45 @@ export default function Results() {
           </tbody>
         </table>
         {results.excluded.length > 0 && (
-          <details>
-            <summary>{results.excluded.length} candidat·es non classé·es</summary>
-            <ul>
-              {results.excluded.map((r) => (
-                <li key={r.candidate.id}>
-                  <Link to={`/candidats/${r.candidate.id}`}>{r.candidate.displayName}</Link> ({r.candidate.partyShort}) — {EXCLUSION_LABELS[r.exclusionReason ?? 'no-positions']}
-                  {r.score !== null && r.exclusionReason !== 'status' && (
-                    <>
-                      {' '}
-                      · affinité indicative {percent(r.score)} sur {r.used} question{r.used > 1 ? 's' : ''}
-                    </>
-                  )}
-                  .
-                </li>
-              ))}
-            </ul>
-          </details>
+          <div className="unranked">
+            <h3>Candidat·es non classé·es ({results.excluded.length})</h3>
+            <p className="hint">
+              Une candidature n'est classée que si ses positions sont documentées sur au moins{' '}
+              {Math.round(results.options.minCoverage * 100)} % des questions auxquelles vous avez répondu. En dessous, la comparaison porterait
+              sur un échantillon trop étroit et favoriserait mécaniquement les programmes les moins détaillés. L'affinité indicative ci-dessous est
+              calculée sur les seules questions documentées : à lire avec prudence.
+            </p>
+            <table className="ranking">
+              <thead>
+                <tr>
+                  <th scope="col">Candidat·e</th>
+                  <th scope="col">Affinité indicative</th>
+                  <th scope="col">Couverture</th>
+                  <th scope="col">Raison</th>
+                </tr>
+              </thead>
+              <tbody>
+                {[...results.excluded]
+                  .sort((a, b) => (b.score ?? -1) - (a.score ?? -1) || a.candidate.lastName.localeCompare(b.candidate.lastName, 'fr'))
+                  .map((r) => (
+                    <tr key={r.candidate.id}>
+                      <td>
+                        <Link to={`/candidats/${r.candidate.id}`}>{r.candidate.displayName}</Link>
+                        <br />
+                        <small>{r.candidate.party}</small>
+                      </td>
+                      <td>{r.score === null ? '—' : percent(r.score)}</td>
+                      <td>
+                        {percent(r.coverage)} <small>({r.used} q.)</small>
+                      </td>
+                      <td>
+                        <small>{EXCLUSION_LABELS[r.exclusionReason ?? 'no-positions']}</small>
+                      </td>
+                    </tr>
+                  ))}
+              </tbody>
+            </table>
+          </div>
         )}
       </section>
 

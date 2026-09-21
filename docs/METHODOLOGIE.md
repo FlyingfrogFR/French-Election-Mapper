@@ -34,7 +34,7 @@ Règles de classement (`DEFAULT_OPTIONS`) :
 | Paramètre | Valeur | Effet |
 |---|---|---|
 | `minAnswered` | 10 | En dessous, aucun classement n'est produit. |
-| `minCoverage` | 0,5 | En dessous, le ou la candidat·e est affiché·e « non classé·e » avec son affinité indicative. |
+| `minCoverage` | 0,5 | En dessous, le ou la candidat·e est affiché·e « non classé·e », avec son affinité indicative et sa couverture. |
 | `includeStatuses` | déclaré, désigné, primaire | Les candidatures pressenties ne sont jamais classées. |
 | égalités | — | Ordre alphabétique du nom de famille (jamais l'ordre du fichier). |
 
@@ -81,3 +81,4 @@ Le jeu de données porte une empreinte SHA-256 (12 caractères) calculée sur le
 - Une échelle en cinq points aplatit des positions conditionnelles ; la note attachée à chaque position documente la nuance.
 - Le choix et la formulation des questions influencent le résultat ; ils suivent la [charte éditoriale](CHARTE-EDITORIALE.md) et sont discutables publiquement.
 - La couverture inégale entre candidat·es est une propriété des données, visible et mesurée, pas corrigée artificiellement.
+- Le seuil de couverture a un effet contre-intuitif : plus vous répondez à de questions, plus il devient exigeant pour les candidatures dont le programme ne couvre que quelques thèmes. Sur le questionnaire complet, seules les candidatures ayant publié un projet détaillé sont classées. C'est assumé : comparer une candidature sur le seul tiers du questionnaire où elle s'est exprimée reviendrait à la mesurer sur un terrain choisi, et avantagerait mécaniquement les programmes les moins détaillés. Les autres candidatures restent affichées, avec leur affinité indicative et leur couverture.
