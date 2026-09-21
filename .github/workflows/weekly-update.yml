@@ -24,7 +24,7 @@ jobs:
       - name: Freshness report
         run: npm run -s data:freshness -- --markdown > freshness.md
       - name: Open or update the weekly issue
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const fs = require('fs');
