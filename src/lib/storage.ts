@@ -28,6 +28,8 @@ export interface PersistedState {
 const KEY_STATE = `boussole2027:v${STORAGE_VERSION}:state`;
 const KEY_MODE = `boussole2027:v${STORAGE_VERSION}:mode`;
 const KEY_CONSENT = `boussole2027:v${STORAGE_VERSION}:notice-acknowledged`;
+/** Owned by src/lib/theme.ts; listed here so "erase everything" really erases everything. */
+const KEY_THEME = `boussole2027:v${STORAGE_VERSION}:theme`;
 
 function backend(mode: StorageMode): Storage | null {
   try {
@@ -90,7 +92,7 @@ export function clearAll(): void {
     const s = backend(mode);
     if (!s) continue;
     try {
-      for (const key of [KEY_STATE, KEY_MODE, KEY_CONSENT]) s.removeItem(key);
+      for (const key of [KEY_STATE, KEY_MODE, KEY_CONSENT, KEY_THEME]) s.removeItem(key);
     } catch {
       /* ignore */
     }

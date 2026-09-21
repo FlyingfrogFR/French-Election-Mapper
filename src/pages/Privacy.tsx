@@ -96,6 +96,13 @@ export default function Privacy() {
               <td>Idem.</td>
             </tr>
             <tr>
+              <td>Votre choix de thème (clair, sombre ou système)</td>
+              <td>Dans votre navigateur.</td>
+              <td>Afficher le site dans le thème que vous avez choisi.</td>
+              <td>Idem : préférence d'affichage, sous votre contrôle.</td>
+              <td>Jusqu'à effacement par vous.</td>
+            </tr>
+            <tr>
               <td>Avis anonyme envoyé (facultatif)</td>
               <td>
                 {endpoint ? (

@@ -7,14 +7,15 @@ import { useAppState } from '../state/AppState';
 
 export default function Home() {
   const { results, noticeSeen, markNoticeSeen, mode, setMode } = useAppState();
-  const rankable = dataset.candidates.filter((c) => DEFAULT_OPTIONS.includeStatuses.includes(c.status)).length;
+  // Only candidacies whose positions are actually documented can be compared, so that is the number to show.
+  const documented = dataset.candidates.filter((c) => DEFAULT_OPTIONS.includeStatuses.includes(c.status) && c.stats.known > 0).length;
   return (
     <>
       <section className="hero">
         <h1>Quel·le candidat·e à la présidentielle 2027 est le plus proche de vos idées ?</h1>
         <p className="lead">
           Répondez à {dataset.stats.questions} questions réparties en {dataset.topics.length} thèmes. La boussole compare vos réponses aux positions
-          documentées de {rankable} candidat·es et vous indique la personne la plus proche, avec un indice de confiance. Puis vous nous dites si
+          documentées de {documented} candidat·es et vous indique la personne la plus proche, avec un indice de confiance. Puis vous nous dites si
           vous êtes d'accord.
         </p>
         <div className="cta-row">

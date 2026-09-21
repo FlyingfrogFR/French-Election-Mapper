@@ -3,6 +3,7 @@ import { NavLink, Outlet, useLocation } from 'react-router-dom';
 import { dataset } from '../lib/dataset';
 import { formatDate, REPO_URL } from '../lib/format';
 import { useAppState } from '../state/AppState';
+import ThemeToggle from './ThemeToggle';
 
 const nav = [
   { to: '/', label: 'Accueil', end: true },
@@ -29,14 +30,13 @@ export default function Layout() {
       <header className="site-header">
         <div className="container header-inner">
           <NavLink to="/" className="brand" end>
-            <span className="brand-mark" aria-hidden="true">
-              ◎
-            </span>
+            <span className="brand-flag" aria-hidden="true" />
             <span>
               Boussole <strong>2027</strong>
             </span>
           </NavLink>
-          <nav aria-label="Navigation principale">
+          <div className="header-end">
+            <nav aria-label="Navigation principale">
             <ul>
               {nav.map((n) => (
                 <li key={n.to}>
@@ -51,7 +51,9 @@ export default function Layout() {
                 </li>
               ))}
             </ul>
-          </nav>
+            </nav>
+            <ThemeToggle />
+          </div>
         </div>
       </header>
       <main id="main" className="container">
