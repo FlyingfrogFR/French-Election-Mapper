@@ -1,4 +1,6 @@
-import { defineConfig } from 'vite';
+// `vitest/config` re-exports Vite's defineConfig with the `test` section added, so the project keeps
+// a single config file. Importing it from 'vite' would reject `test` as an unknown property.
+import { defineConfig } from 'vitest/config';
 import react from '@vitejs/plugin-react';
 import { execSync } from 'node:child_process';
 import { copyFileSync, existsSync } from 'node:fs';

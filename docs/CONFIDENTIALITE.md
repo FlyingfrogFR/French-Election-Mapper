@@ -18,7 +18,7 @@ L'architecture élimine le traitement plutôt que de le sécuriser : les répons
 
 ### T1 — Questionnaire et calcul d'affinité
 
-- **Données** : réponses (−2…+2), pondérations, avis sur le résultat. Catégorie particulière : opinions politiques.
+- **Données** : réponses (−2…+2), pondérations, avis sur le résultat, choix de thème d'affichage. Catégorie particulière : opinions politiques.
 - **Responsable** : la personne elle-même sur son appareil. L'éditeur du site n'y a pas accès (exemption art. 2.2.c pour l'usage personnel ; pour l'éditeur, absence de traitement).
 - **Destinataires** : aucun. **Transferts** : aucun. **Durée** : à la discrétion de la personne.
 
