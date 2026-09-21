@@ -46,22 +46,40 @@ function normalise(text: string): string {
     ['’', "'"], ['‘', "'"], [' ', ' '], [' ', ' '],
     ['«', '"'], ['»', '"'], ['“', '"'], ['”', '"'], ['œ', 'oe'], ['Œ', 'OE'],
   ]) t = t.split(a).join(b);
-  return t.replace(/[‐-―−]/g, '-').replace(/\s+/g, ' ').trim().toLowerCase();
+  return (
+    t
+      .replace(/[‐-―−]/g, '-')
+      .replace(/\s+/g, ' ')
+      // Stripping inline tags leaves spaces around apostrophes ("c 'est", "d' arrière-garde"); French has none.
+      .replace(/\s*'\s*/g, "'")
+      .trim()
+      .toLowerCase()
+  );
 }
+
+/** Named HTML entities that appear in French pages; without them accented words never match. */
+const ENTITIES: Record<string, string> = {
+  nbsp: ' ', amp: '&', quot: '"', apos: "'", lt: '<', gt: '>',
+  rsquo: "'", lsquo: "'", ldquo: '"', rdquo: '"', laquo: '"', raquo: '"',
+  hellip: '…', mdash: '—', ndash: '–', deg: '°', euro: '€', times: '×', middot: '·',
+  agrave: 'à', acirc: 'â', aelig: 'æ', ccedil: 'ç',
+  eacute: 'é', egrave: 'è', ecirc: 'ê', euml: 'ë',
+  icirc: 'î', iuml: 'ï', ocirc: 'ô', oelig: 'œ', ouml: 'ö',
+  ugrave: 'ù', ucirc: 'û', uuml: 'ü', ntilde: 'ñ', yuml: 'ÿ',
+};
 
 function stripHtml(raw: string): string {
   const withoutScripts = raw.replace(/<(script|style)[^>]*>[\s\S]*?<\/\1>/gi, ' ');
   return withoutScripts
     .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&rsquo;|&#8217;/g, "'")
-    .replace(/&amp;/g, '&')
-    .replace(/&quot;/g, '"')
-    .replace(/&laquo;|&raquo;/g, '"')
-    .replace(/&eacute;/g, 'é')
-    .replace(/&egrave;/g, 'è')
-    .replace(/&agrave;/g, 'à')
-    .replace(/&#(\d+);/g, (_m, d) => String.fromCodePoint(Number(d)));
+    .replace(/&#x([0-9a-f]+);/gi, (_m, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_m, d) => String.fromCodePoint(Number(d)))
+    .replace(/&([a-z]+);/gi, (m, name: string) => {
+      const lower = ENTITIES[name.toLowerCase()];
+      if (!lower) return m;
+      // &Eacute; is the capital of &eacute;
+      return name[0] === name[0].toUpperCase() && name !== name.toUpperCase() ? lower.toUpperCase() : lower;
+    });
 }
 
 async function extract(url: string, viaCurl = false): Promise<string> {
