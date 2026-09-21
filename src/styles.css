@@ -177,6 +177,18 @@ button.link { background: none; border: none; padding: 0; color: var(--accent); 
 .bar-fill { height: 100%; background: var(--accent); }
 .bar-value { position: absolute; inset: 0; display: flex; align-items: center; padding-left: 8px; font-size: 0.85rem; font-weight: 600; color: var(--text); mix-blend-mode: difference; color: #fff; }
 .table-scroll { overflow-x: auto; max-width: 100%; }
+
+/* On phones a wide table must scroll inside its card, never widen the page.
+   `display: block` turns the table itself into the scroll container, so no markup change is needed. */
+@media (max-width: 760px) {
+  .card table { display: block; width: 100%; max-width: 100%; overflow-x: auto; }
+  .card table th, .card table td { white-space: normal; }
+}
+
+/* Long URLs and identifiers must wrap rather than push the layout sideways.
+   Summaries of sources often contain a raw URL, which no space would ever break. */
+body { overflow-wrap: break-word; }
+a, code, .source-line { overflow-wrap: anywhere; }
 .card { min-width: 0; }
 .compare td, .compare th { min-width: 160px; }
 .compare td:first-child { min-width: 260px; }
