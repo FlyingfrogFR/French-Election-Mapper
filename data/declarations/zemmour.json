@@ -2,400 +2,6 @@
   "candidateId": "zemmour",
   "declarations": [
     {
-      "id": "zemmour-2022-programme",
-      "date": "2022-03-01",
-      "title": "Programme présidentiel 2022 d'Éric Zemmour",
-      "sourceType": "programme",
-      "sourceUrl": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "publisher": "Reconquête (référence secondaire, à remplacer par le programme 2022 archivé)",
-      "summary": "Immigration zéro et « remigration », ministère de la remigration, suppression de l'AME, fin du regroupement familial et du droit du sol, priorité nationale ; fermeté pénale ; baisse des impôts et des droits de succession ; nucléaire ; primauté du droit national.",
-      "review": {
-        "status": "pending",
-        "reviewers": [],
-        "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
-      },
-      "positions": [
-        {
-          "questionId": "imm-01",
-          "value": 2,
-          "note": "« Immigration zéro » et politique de remigration."
-        },
-        {
-          "questionId": "imm-02",
-          "value": 2
-        },
-        {
-          "questionId": "imm-03",
-          "value": 2
-        },
-        {
-          "questionId": "imm-04",
-          "value": -2
-        },
-        {
-          "questionId": "imm-05",
-          "value": 2,
-          "note": "Suppression du droit du sol."
-        },
-        {
-          "questionId": "imm-06",
-          "value": -2
-        },
-        {
-          "questionId": "imm-07",
-          "value": 2
-        },
-        {
-          "questionId": "imm-08",
-          "value": 2
-        },
-        {
-          "questionId": "imm-09",
-          "value": -1
-        },
-        {
-          "questionId": "imm-10",
-          "value": 2
-        },
-        {
-          "questionId": "imm-11",
-          "value": 2
-        },
-        {
-          "questionId": "imm-12",
-          "value": -2
-        },
-        {
-          "questionId": "imm-13",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": 2
-        },
-        {
-          "questionId": "soc-06",
-          "value": 2
-        },
-        {
-          "questionId": "soc-08",
-          "value": 2
-        },
-        {
-          "questionId": "soc-09",
-          "value": 2
-        },
-        {
-          "questionId": "sec-01",
-          "value": 2
-        },
-        {
-          "questionId": "sec-02",
-          "value": 2
-        },
-        {
-          "questionId": "sec-03",
-          "value": 2
-        },
-        {
-          "questionId": "sec-04",
-          "value": 2
-        },
-        {
-          "questionId": "sec-05",
-          "value": -2
-        },
-        {
-          "questionId": "sec-06",
-          "value": 2
-        },
-        {
-          "questionId": "sec-07",
-          "value": 2
-        },
-        {
-          "questionId": "sec-09",
-          "value": 2
-        },
-        {
-          "questionId": "sec-10",
-          "value": 2
-        },
-        {
-          "questionId": "sec-11",
-          "value": 2
-        },
-        {
-          "questionId": "sec-13",
-          "value": 2
-        },
-        {
-          "questionId": "lib-01",
-          "value": 2
-        },
-        {
-          "questionId": "lib-02",
-          "value": 2
-        },
-        {
-          "questionId": "lib-03",
-          "value": -2
-        },
-        {
-          "questionId": "lib-04",
-          "value": 2
-        },
-        {
-          "questionId": "lib-05",
-          "value": 2
-        },
-        {
-          "questionId": "lib-06",
-          "value": -2
-        },
-        {
-          "questionId": "lib-07",
-          "value": 2
-        },
-        {
-          "questionId": "lib-10",
-          "value": 2
-        },
-        {
-          "questionId": "eco-01",
-          "value": 2
-        },
-        {
-          "questionId": "eco-02",
-          "value": -2
-        },
-        {
-          "questionId": "eco-03",
-          "value": -2
-        },
-        {
-          "questionId": "eco-04",
-          "value": 2,
-          "note": "Suppression des droits de succession en ligne directe jusqu'à un plafond élevé."
-        },
-        {
-          "questionId": "eco-06",
-          "value": 2
-        },
-        {
-          "questionId": "eco-10",
-          "value": -2
-        },
-        {
-          "questionId": "tra-01",
-          "value": -2
-        },
-        {
-          "questionId": "tra-05",
-          "value": 2
-        },
-        {
-          "questionId": "tra-06",
-          "value": 2
-        },
-        {
-          "questionId": "tra-07",
-          "value": 2
-        },
-        {
-          "questionId": "tra-08",
-          "value": 2
-        },
-        {
-          "questionId": "tra-13",
-          "value": 2
-        },
-        {
-          "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "env-02",
-          "value": -2
-        },
-        {
-          "questionId": "env-03",
-          "value": 2
-        },
-        {
-          "questionId": "env-04",
-          "value": -2
-        },
-        {
-          "questionId": "env-05",
-          "value": -2
-        },
-        {
-          "questionId": "env-08",
-          "value": -2
-        },
-        {
-          "questionId": "env-09",
-          "value": 2
-        },
-        {
-          "questionId": "env-12",
-          "value": -2
-        },
-        {
-          "questionId": "env-14",
-          "value": -2
-        },
-        {
-          "questionId": "eur-01",
-          "value": 1
-        },
-        {
-          "questionId": "eur-02",
-          "value": 2
-        },
-        {
-          "questionId": "eur-03",
-          "value": -2
-        },
-        {
-          "questionId": "eur-04",
-          "value": -1
-        },
-        {
-          "questionId": "eur-05",
-          "value": -1
-        },
-        {
-          "questionId": "eur-06",
-          "value": -2
-        },
-        {
-          "questionId": "eur-07",
-          "value": 2
-        },
-        {
-          "questionId": "eur-08",
-          "value": -2
-        },
-        {
-          "questionId": "eur-12",
-          "value": 2
-        },
-        {
-          "questionId": "eur-13",
-          "value": -2
-        },
-        {
-          "questionId": "edu-01",
-          "value": 2
-        },
-        {
-          "questionId": "edu-03",
-          "value": 2
-        },
-        {
-          "questionId": "edu-04",
-          "value": -2
-        },
-        {
-          "questionId": "edu-08",
-          "value": 2
-        },
-        {
-          "questionId": "edu-09",
-          "value": -2
-        },
-        {
-          "questionId": "ins-01",
-          "value": -2
-        },
-        {
-          "questionId": "ins-03",
-          "value": 1
-        },
-        {
-          "questionId": "ins-07",
-          "value": 2
-        },
-        {
-          "questionId": "def-01",
-          "value": 2
-        },
-        {
-          "questionId": "def-04",
-          "value": 2
-        },
-        {
-          "questionId": "san-05",
-          "value": -2
-        },
-        {
-          "questionId": "san-06",
-          "value": -2
-        },
-        {
-          "questionId": "num-01",
-          "value": 1
-        },
-        {
-          "questionId": "num-02",
-          "value": 2
-        },
-        {
-          "questionId": "agr-02",
-          "value": 2
-        },
-        {
-          "questionId": "agr-06",
-          "value": -2
-        },
-        {
-          "questionId": "log-03",
-          "value": 2
-        },
-        {
-          "questionId": "log-04",
-          "value": -2
-        }
-      ]
-    },
-    {
-      "id": "zemmour-2026-09-rentree",
-      "date": "2026-09-13",
-      "title": "Discours de rentrée aux universités d'été de Reconquête (Port-Marly) : IA et remigration",
-      "sourceType": "discours",
-      "sourceUrl": "https://actu.orange.fr/politique/presidentielle-2027-eric-zemmour-place-l-ia-et-la-remigration-au-centre-du-programme-reconquete-magic-CNT000002rSkIx.html",
-      "publisher": "AFP via Orange Actu",
-      "summary": "Appel à un « vote du sursaut » ; l'intelligence artificielle présentée comme réponse à l'immigration ; expulsion des étrangers délinquants et des étrangers au chômage depuis plus d'un an, même en situation régulière.",
-      "review": {
-        "status": "pending",
-        "reviewers": [],
-        "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
-      },
-      "positions": [
-        {
-          "questionId": "num-04",
-          "value": 2
-        },
-        {
-          "questionId": "imm-01",
-          "value": 2,
-          "note": "Expulsion des étrangers, même en situation régulière, au chômage depuis plus d'un an."
-        },
-        {
-          "questionId": "imm-13",
-          "value": 2
-        },
-        {
-          "questionId": "soc-06",
-          "value": 2
-        }
-      ]
-    },
-    {
       "id": "zemmour-2026-09-candidature",
       "date": "2026-09-17",
       "title": "Confirmation de candidature",
@@ -410,6 +16,695 @@
         "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified »."
       },
       "positions": []
+    },
+    {
+      "id": "zemmour-prog-2022",
+      "date": "2022-03-01",
+      "title": "Mon programme pour que la France reste la France – programme présidentiel d'Éric Zemmour (2022)",
+      "sourceType": "programme",
+      "sourceUrl": "https://assets.nationbuilder.com/themes/61c071ce4764e8b1483d1a8c/attachments/original/1648220408/programme_eric_zemmour_presidentielle_2022.pdf",
+      "publisher": "Éric Zemmour / Reconquête!",
+      "summary": "DOCUMENT DE 2022 (campagne présidentielle 2022), 73 pages, toujours en ligne sur l'hébergeur des sites de campagne et lié depuis programme.ericzemmour.fr (copie d'archive : https://web.archive.org/web/20221231143534/https://programme.ericzemmour.fr/). Au 20/09/2026, aucun programme présidentiel 2027 n'a été publié : c'est le document programmatique le plus complet du candidat, et la base explicitement revendiquée par Reconquête!. (Date du document : 2022-03 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Ne plus accabler de contraintes les paysans français en interdisant la surtransposition dans notre droit des normes européennes",
+          "page": "34"
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Interdire toutes les importations de produits agricoles que les agriculteurs français n'ont pas le droit de produire en France compte tenu des normes de production françaises et européennes",
+          "page": "34",
+          "note": "Le programme européen 2024 parle de « clauses de réciprocité » à faire respecter partout."
+        },
+        {
+          "questionId": "agr-06",
+          "value": -2,
+          "quote": "Sanctuariser la pratique de la chasse et de la pêche comme des éléments constitutifs de notre patrimoine culturel et reconnaître les chasseurs, les pêcheurs et les agriculteurs comme des acteurs de la vie rurale et de l'entretien de la nature",
+          "page": "54"
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Exonérer de droit de donation et succession toute transmission familiale d'une exploitation agricole",
+          "page": "34"
+        },
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Augmenter annuellement le budget de la défense jusqu'à 70 milliards d'euros en 2030 afin de moderniser nos forces nucléaires et conventionnelles et améliorer la capacité d'intervention de chacune de nos armées",
+          "page": "17",
+          "inferred": true,
+          "note": "Forte hausse (70 Md€ en 2030 contre ~41 Md€ en 2022) mais aucune cible exprimée en % du PIB ; ce montant reste en deçà de 3 % du PIB."
+        },
+        {
+          "questionId": "def-03",
+          "value": -1,
+          "quote": "Permettre chaque année à 10 000 jeunes d'effectuer un service militaire volontaire afin de mieux s'assimiler à la communauté nationale",
+          "page": "18",
+          "inferred": true,
+          "note": "Service militaire volontaire et contingenté, pas de rétablissement de la conscription obligatoire."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Le plan d'économies prévu doit nous permettre d'amorcer une réduction du déficit public dès 2023 pour atteindre un solde public de -1,7 % fin 2027, en repassant sous le seuil des 3 % de déficit dès 2025.",
+          "page": "73",
+          "note": "65 Md€ d'économies en année pleine (dont 20 Md€ sur les aides sociales aux étrangers extra-européens) ; texte de 2022."
+        },
+        {
+          "questionId": "eco-02",
+          "value": -2,
+          "quote": "Empêcher que les propriétaires ne soient pénalisés par la hausse des prix de l'immobilier et favoriser l'enracinement en exonérant la résidence principale du calcul de l'Impôt sur la Fortune Immobilière",
+          "page": "44",
+          "inferred": true,
+          "note": "Le programme réduit l'assiette de l'IFI (et permet d'en déduire 50 % des investissements en PME) : l'exact contraire du rétablissement d'un ISF élargi au patrimoine financier."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Exonérer 95 % des familles françaises de droits de succession en mettant en place une franchise de 200 000 euros par enfant au décès de leurs parents",
+          "page": "46",
+          "note": "Complété par des donations de 200 000 € par enfant tous les 10 ans sans impôt."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Baisser massivement les impôts de production à hauteur de 30 milliards d'euros supplémentaires par an, en supprimant en priorité la Contribution Sociale de Solidarité des Sociétés (C3S), la Cotisation sur la Valeur Ajoutée des Entreprises (CVAE) et la Cotisation Foncière des Entreprises (CFE)",
+          "page": "25",
+          "note": "Complété par un taux d'IS à 15 % pour les TPE-PME jusqu'à 300 000 € de bénéfices."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 1,
+          "quote": "Mettre fin au projet Hercule visant au démantèlement d'EDF et garantir l'intégrité de ce fleuron national",
+          "page": "32",
+          "inferred": true,
+          "note": "Intégrité d'EDF garantie et remplacement de l'ARENH, mais aucune renationalisation générale (autoroutes, transports) n'est proposée."
+        },
+        {
+          "questionId": "edu-01",
+          "value": 1,
+          "quote": "Lutter contre le harcèlement scolaire, le communautarisme et les inégalités sociales en rendant le port de la blouse obligatoire à l'école primaire",
+          "page": "22",
+          "note": "Blouse obligatoire à l'école primaire seulement, pas au collège."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Revaloriser les salaires des enseignants en accélérant la progression des carrières et en attribuant des Primes d'Excellence Professorale fondées sur la qualité de la transmission du savoir évaluée grâce à de plus fréquentes inspections",
+          "page": "22",
+          "note": "Revalorisation au mérite ; aucune priorité affichée sur les autres dépenses éducatives."
+        },
+        {
+          "questionId": "edu-03",
+          "value": 2,
+          "quote": "Mettre un terme au collège unique en instituant des classes de niveaux, tout en conservant des passerelles entre les diverses filières et les divers niveaux",
+          "page": "22"
+        },
+        {
+          "questionId": "edu-06",
+          "value": -1,
+          "quote": "Permettre chaque année à 10 000 jeunes d'effectuer un service militaire volontaire afin de mieux s'assimiler à la communauté nationale",
+          "page": "10",
+          "inferred": true,
+          "note": "Service volontaire limité à 10 000 jeunes par an, à l'opposé d'un service national universel obligatoire."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 2,
+          "quote": "Favoriser l'embauche des apprentis en CDI en réinstaurant et maintenant l'exonération de cotisations patronales et salariales à hauteur du SMIC pendant 2 ans en cas d'embauche de l'apprenti par l'entreprise d'accueil",
+          "page": "30",
+          "note": "Avec l'exonération des cotisations salariales des apprentis portée de 79 % à 100 % du SMIC."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Faciliter l'accès aux bourses sociales et au mérite pour les enfants des classes moyennes en supprimant effectivement les bourses pour les étudiants absentéistes",
+          "page": "24",
+          "note": "Extension aux classes moyennes financée par la suppression des bourses des étudiants absentéistes."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Assurer le renouvellement de notre parc nucléaire et accompagner la hausse de la demande d'électricité en lançant un programme de construction d'au moins 14 nouveaux réacteurs nucléaires EPR2 à horizon 2050",
+          "page": "31"
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Supprimer l'objectif de réduire à 50 % la part du nucléaire dans notre mix électrique en 2035 et allonger la durée de vie du parc existant à 60 ans au moins",
+          "page": "31"
+        },
+        {
+          "questionId": "env-03",
+          "value": 2,
+          "quote": "Mettre fin à tous les projets d'éoliennes actuels et futurs, sur terre comme sur mer",
+          "page": "32",
+          "note": "Va au-delà d'un moratoire : arrêt définitif, confirmé en 2024 par la suppression de tous les financements de l'éolien."
+        },
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Ne pas empêcher des millions de Français de circuler dans leur propre agglomération en mettant fin à toute interdiction pour certains véhicules de circuler en ville (ZFE-m, Zones à Faibles Émissions Mobilité)",
+          "page": "28"
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Refaire des lignes de trains « de proximité » la priorité budgétaire de la SNCF en identifiant les lignes à moderniser et en soutenant les politiques de désenclavement par le train",
+          "page": "55",
+          "inferred": true,
+          "note": "Priorité au ferroviaire de proximité (et, en 2024, à un plan européen pour le fret), mais dans un cadre général de réduction de la dépense publique."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "je veux donc que la France reprenne la main et défende ses intérêts au sein de l'Union européenne",
+          "page": "13",
+          "inferred": true,
+          "note": "Maintien dans l'UE avec renégociation immédiate des règles migratoires et « Europe des Nations » ; aucune sortie n'est proposée."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Instaurer la supériorité des nouvelles lois nationales sur tout texte international antérieur et sur tout acte dérivé qui en résulte en modifiant l'article 55 de la Constitution",
+          "page": "6",
+          "note": "Repris en 2024 : « Modifier l'article 55 de notre Constitution pour sanctuariser la primauté du droit national sur le droit européen »."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -1,
+          "quote": "Agir pour rétablir la paix en Ukraine puis mener un dialogue de fond avec tous les acteurs dont la Russie pour construire un nouvel ordre de sécurité européen viable et durable",
+          "page": "16",
+          "inferred": true,
+          "note": "Texte de 2022 : priorité au rétablissement de la paix et au dialogue avec la Russie, aucun engagement de soutien militaire à l'Ukraine."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Sortir du commandement militaire intégré de l'OTAN pour retrouver une voix indépendante, tout en demeurant au sein de l'Alliance atlantique",
+          "page": "16"
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Opposer le veto de la France à toute négociation actuelle et future de traité de libre-échange pour défendre nos entreprises et nos agriculteurs",
+          "page": "14",
+          "note": "Le programme européen 2024 vise nommément l'accord avec le Mercosur et propose un moratoire sur les accords de libre-échange."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Organiser, en même temps que les élections législatives suivant l'élection présidentielle, un grand référendum sur l'immigration, la sécurité et la justice pour soumettre à l'approbation des Français mes mesures prioritaires dans ces domaines",
+          "page": "6",
+          "note": "Complété par la modification de l'article 55 de la Constitution pour faire primer la loi nationale."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Supprimer le droit au regroupement familial et tous les droits automatiques liés à l'immigration familiale",
+          "page": "7"
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "Interdire définitivement la régularisation de tout étranger entré illégalement sur le territoire français",
+          "page": "8"
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Supprimer le droit du sol, ainsi un enfant dont les deux parents sont étrangers ne pourra devenir français qu'après naturalisation, sans aucune automaticité",
+          "page": "8"
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2,
+          "quote": "Revenir à l'esprit originel du droit d'asile en le limitant à une centaine d'individus chaque année (contre près de 140 000 aujourd'hui)",
+          "page": "7"
+        },
+        {
+          "questionId": "imm-07",
+          "value": 2,
+          "quote": "exiger que les demandes d'asile soient déposées en dehors du territoire national, dans nos consulats, pour éviter l'installation des déboutés qui ne repartent jamais",
+          "page": "7"
+        },
+        {
+          "questionId": "imm-08",
+          "value": 2,
+          "quote": "Déchoir de la nationalité française puis expulser les criminels binationaux et les délinquants récidivistes",
+          "page": "12"
+        },
+        {
+          "questionId": "imm-09",
+          "value": -1,
+          "quote": "Sélectionner au mérite les étudiants étrangers, en n'accueillant que les profils les plus prometteurs dans les filières utiles pour notre pays",
+          "page": "7",
+          "inferred": true,
+          "note": "Sélection au mérite et hausse « sensible » des droits d'inscription des étudiants étrangers ; aucune facilité de maintien après le diplôme."
+        },
+        {
+          "questionId": "imm-10",
+          "value": 2,
+          "quote": "Réserver aux Français, en priorité les plus modestes, l'attribution des logements sociaux",
+          "page": "44",
+          "note": "Préférence nationale au logement social ; le programme européen 2024 ajoute la « préférence nationale et européenne à l'embauche »."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Expulser systématiquement tous les délinquants étrangers dès leur condamnation et les criminels à l'issue de leur peine",
+          "page": "8",
+          "inferred": true,
+          "note": "Expulsions systématiques, charters collectifs et ministère de la Remigration ; le placement systématique en rétention des personnes sous OQTF n'est pas traité en tant que tel."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 2,
+          "quote": "Favoriser l'usage du référendum afin de faire adopter directement par le peuple français les mesures les plus importantes qui intéressent la vie de la Nation",
+          "page": "6",
+          "inferred": true,
+          "note": "Élargissement de l'usage du référendum (immigration, sécurité, justice, loi sur les prénoms), sans référence explicite à l'article 11."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Rapprocher les régions des citoyens et réduire le nombre d'élus locaux en rétablissant le conseiller territorial (siégeant à la fois au conseil départemental et au conseil régional) sur le modèle de la réforme de 2010",
+          "page": "40",
+          "inferred": true,
+          "note": "Fusion des mandats départementaux et régionaux et recentrage des compétences sur les communes, sans suppression d'un échelon."
+        },
+        {
+          "questionId": "lib-01",
+          "value": 2,
+          "quote": "Interdire le port du voile islamique dans l'espace public, afin de faire respecter le principe de discrétion de la pratique religieuse",
+          "page": "10",
+          "note": "L'interdiction visée est celle du voile islamique, non l'ensemble des signes religieux ostensibles."
+        },
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "Interdire réellement la gestation pour autrui (GPA) en réprimant judiciairement le recours aux GPA à l'étranger",
+          "page": "46",
+          "note": "Le programme européen 2024 demande « l'abolition de la GPA dans tous les États membres »."
+        },
+        {
+          "questionId": "lib-04",
+          "value": 2,
+          "quote": "Interdire les transitions sexuelles pratiquées sur des mineurs",
+          "page": "46"
+        },
+        {
+          "questionId": "lib-05",
+          "value": 2,
+          "quote": "Faire scrupuleusement respecter l'interdiction de l'écriture inclusive jusque dans l'enseignement supérieur",
+          "page": "21"
+        },
+        {
+          "questionId": "lib-07",
+          "value": 2,
+          "quote": "Imposer un strict contrôle des imams et interdire les financements étrangers du culte musulman afin de mettre un terme à l'influence étrangère sur notre sol",
+          "page": "10",
+          "note": "L'interdiction visée porte sur le financement étranger du culte musulman."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "Automatiser le port de bracelets anti-rapprochement pour les personnes condamnées pour des violences conjugales",
+          "page": "59",
+          "note": "Mesures ciblées (permanences d'avocats dans les commissariats, bracelets, places d'hébergement), sans budget dédié ni juridictions spécialisées."
+        },
+        {
+          "questionId": "lib-10",
+          "value": 2,
+          "quote": "Interdire aux athlètes voilées de concourir en compétitions officielles",
+          "page": "66",
+          "note": "Interdiction du voile dans les compétitions sportives et, plus largement, dans l'espace public ; les accompagnatrices de sorties scolaires ne sont pas visées explicitement."
+        },
+        {
+          "questionId": "log-02",
+          "value": -2,
+          "quote": "Abroger la loi Solidarité et renouvellement urbain (SRU) qui impose aux villes un quart de logements sociaux",
+          "page": "44"
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Relancer la construction de logements en mettant fin à l'inflation des normes",
+          "page": "44",
+          "note": "Avec une procédure unique d'aménagement et un délai de recours d'urbanisme ramené de 18 à 6 mois."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Donner davantage de visibilité et de garanties aux habitants des communes rurales sur le maintien de classes dans les écoles en suspendant la fermeture des écoles rurales sans l'accord du maire",
+          "page": "55",
+          "note": "Également : fin de la fermeture des brigades de gendarmerie et services hospitaliers de proximité dans les déserts médicaux."
+        },
+        {
+          "questionId": "log-09",
+          "value": 2,
+          "quote": "Relancer l'accession à la propriété et favoriser la fluidité du marché immobilier en faisant passer de 30 à 15 ans la durée de détention qui permet une exonération totale d'impôts et de prélèvements sociaux sur la plus-value",
+          "page": "44",
+          "note": "Sous le titre « Je mettrai fin au matraquage fiscal des propriétaires »."
+        },
+        {
+          "questionId": "num-02",
+          "value": 2,
+          "quote": "Privatiser les chaînes généralistes et d'information du service public audiovisuel (France 2, France Inter et France Info TV)",
+          "page": "61",
+          "note": "Privatisation des chaînes généralistes et suppression de la redevance ; un pôle culturel public (France 5, France Culture, Arte) et l'audiovisuel extérieur sont conservés, France 3 et France Bleu étant transférés aux collectivités."
+        },
+        {
+          "questionId": "num-08",
+          "value": 1,
+          "quote": "Sauver le patrimoine monumental et restaurer les biens en péril identifiés par le bilan du patrimoine en investissant 2 milliards d'euros dans le patrimoine à l'échelle du quinquennat",
+          "page": "60",
+          "inferred": true,
+          "note": "2 Md€ supplémentaires pour le patrimoine sur le quinquennat ; en contrepartie, réorientation des subventions du CNC et privatisation d'une partie de l'audiovisuel public."
+        },
+        {
+          "questionId": "san-01",
+          "value": 1,
+          "quote": "Recruter 1 000 médecins salariés par l'État sur 5 ans pour soigner dans les déserts médicaux",
+          "page": "53",
+          "inferred": true,
+          "note": "Médecins salariés par l'État et rétablissement d'une garde obligatoire, mais aucune régulation de la liberté d'installation."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Rebâtir l'hôpital public sur tout le territoire à travers les recrutements de 40 000 personnels hospitaliers et la mise en œuvre d'un vaste plan d'investissement",
+          "page": "53",
+          "note": "Avec +12 % de rémunération immédiate pour les aides-soignants et infirmiers."
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Doubler les capacités de formation des médecins et des professionnels de santé en 5 ans",
+          "page": "53",
+          "note": "Le programme ne dit rien d'une baisse de sélectivité ; il propose par ailleurs des numerus clausus ciblés dans les filières universitaires saturées."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Obliger les juges à sanctionner tous les délinquants et criminels en introduisant des peines planchers pour tous les crimes et délits",
+          "page": "12"
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Construire 10 000 places de prison supplémentaires sur le mandat en simplifiant le processus administratif, pour redonner à la Justice les moyens de punir ceux qui le méritent",
+          "page": "12",
+          "note": "10 000 places construites (plus 10 000 places libérées par l'expulsion des détenus étrangers), soit la moitié des 20 000 de l'énoncé."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Appliquer réellement les condamnations en mettant fin aux aménagements de peine",
+          "page": "12"
+        },
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "Ramener la paix dans nos villes en généralisant progressivement l'armement obligatoire des polices municipales",
+          "page": "11",
+          "note": "Armement obligatoire généralisé, mais aucune extension des pouvoirs de police judiciaire des policiers municipaux."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "abaissant l'âge de la majorité pénale de 18 à 16 ans pour responsabiliser les mineurs",
+          "page": "12",
+          "note": "Le programme prévoit aussi d'écarter l'excuse de minorité pour les 13-15 ans en cas de crimes graves."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Augmenter les moyens matériels des services de sécurité et de la Justice à travers le vote d'une grande loi de programmation de la Justice et de la Sécurité sur 5 ans",
+          "page": "11",
+          "inferred": true,
+          "note": "Hausse des moyens par loi de programmation, sans objectif de doublement du budget de la justice."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Anéantir les réseaux de trafic de drogue en créant une force nationale regroupant les services de police et de justice, les douanes et l'administration fiscale, notamment pour multiplier les saisies contre les trafiquants",
+          "page": "11"
+        },
+        {
+          "questionId": "sec-10",
+          "value": 2,
+          "quote": "Accorder aux policiers et aux gendarmes une présomption de légitime défense en cas d'usage de leurs armes",
+          "page": "11"
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2,
+          "quote": "Mettre hors d'état de nuire les criminels les plus dangereux et les terroristes en rétablissant une peine de perpétuité réelle non-compressible",
+          "page": "12"
+        },
+        {
+          "questionId": "soc-01",
+          "value": 2,
+          "quote": "Revenir à l'universalité des allocations familiales, qui ne doivent plus être versées sous conditions de ressources",
+          "page": "45"
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Supprimer les soins gratuits pour les étrangers clandestins (Aide Médicale de l'État) pour ne conserver que les soins d'urgence vitale",
+          "page": "50"
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Supprimer les aides sociales non contributives pour les étrangers extra-européens (RSA, allocations familiales, aides au logement, minimum vieillesse, etc.)",
+          "page": "50",
+          "inferred": true,
+          "note": "Va au-delà de l'énoncé : suppression pour les étrangers extra-européens quelle que soit leur durée de résidence légale."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Empêcher qu'une même carte Vitale ne soit utilisée par plusieurs personnes en déployant une carte Vitale biométrique à empreintes digitales",
+          "page": "51",
+          "note": "Avec une brigade nationale de lutte anti-fraude et des contrôles systématiques des allocataires."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "S'assurer qu'aucun bénéficiaire de minima sociaux ne touche un montant cumulé supérieur au SMIC en mettant en place un registre unique par bénéficiaire de l'ensemble des allocations perçues",
+          "page": "51"
+        },
+        {
+          "questionId": "tra-01",
+          "value": -2,
+          "quote": "Nous sécuriserons notre régime de retraite en repoussant l'âge légal de départ à la retraite à 64 ans d'ici 2030 et en augmentant d'une année la durée de cotisation d'ici la fin du quinquennat.",
+          "page": "73",
+          "inferred": true,
+          "note": "Programme de 2022, antérieur à la réforme de 2023 : il propose lui-même le report à 64 ans, ce qui exclut son abrogation."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Porter à 64 ans l'âge légal de départ à la retraite à horizon 2030, à raison d'une augmentation d'un trimestre par an à compter de 2023, avec des aménagements pour les carrières longues ou pénibles",
+          "page": "51",
+          "note": "L'exact contraire d'un retour à 60 ans."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 2,
+          "quote": "Revenir pleinement au principe vertueux « Travailler plus pour gagner plus » en exonérant totalement d'impôts et de charges sociales les heures supplémentaires",
+          "page": "28"
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "Favoriser les embauches en exonérant de cotisations patronales toute petite entreprise de moins de 11 salariés pour deux embauches en CDI, pendant 2 ans",
+          "page": "30",
+          "inferred": true,
+          "note": "Exonérations ciblées (petites entreprises, apprentis, prime « Zéro Charges ») plutôt qu'une baisse générale des cotisations patronales sur les bas salaires."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-euro-2024",
+      "date": "2024-05-01",
+      "title": "Notre projet pour l'Europe des nations et de la civilisation – les 92 propositions de Reconquête! (élections européennes du 9 juin 2024)",
+      "sourceType": "programme",
+      "sourceUrl": "https://assets.ericzemmour.fr/document/Programme%20Reconqu%C3%AAte%20Europ%C3%A9ennes%202024.pdf",
+      "publisher": "Reconquête!",
+      "summary": "DOCUMENT DE 2024, publié par le parti d'Éric Zemmour (président-fondateur, aujourd'hui candidat désigné) ; liste conduite par Marion Maréchal et « soutenue par Éric Zemmour ». C'est le document officiel le plus récent : il est préféré au programme 2022 lorsque les deux divergent (interdiction des thermiques en 2035, CEDH, Pacte vert, bio, bassines). L'avant-propos, signé Marion Maréchal, et la contribution de Nicolas Bay ne sont pas cités comme positions du candidat. (Date du document : 2024-05 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": -2,
+          "quote": "Faire cesser la politique de conversion vers l'agriculture biologique dans les filières en tension et abandonner l'objectif de 25% de la production agricole en bio, inatteignable et inadapté à la réalité de l'offre et de la demande.",
+          "page": "13"
+        },
+        {
+          "questionId": "agr-05",
+          "value": -2,
+          "quote": "Supprimer la directive sur les émissions industrielles qui contraint les élevages porcins et volaille de taille intermédiaire",
+          "page": "13",
+          "note": "Opposition explicite « à toutes les offensives antispécistes et animalistes » (2024) ; le programme 2022 prévoit néanmoins de renforcer les contrôles pour maltraitance dans les élevages intensifs."
+        },
+        {
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "Refuser la création d'une armée européenne, tout partage de la dissuasion nucléaire française et de notre siège au Conseil de sécurité de l'ONU, souhaités par Emmanuel Macron.",
+          "page": "9"
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Rendre impossible le financement des achats d'équipements militaires et d'industrie de défense non-européens par des fonds européens, que ce soit via la FEP ou le FEDef",
+          "page": "15",
+          "note": "Le programme 2022 propose de revoir les programmes d'armement européens « afin de faire prévaloir les intérêts de notre industrie de défense »."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Baisser les factures d'électricité des Français en réduisant les taxes sur l'énergie, en supprimant les règles de concurrence du marché européen de l'électricité qui obligent notamment EDF à vendre un quart de sa production d'électricité à des concurrents artificiels.",
+          "page": "12",
+          "inferred": true,
+          "note": "Baisse des taxes sur l'énergie (programme européen 2024) sans mention d'un taux de TVA à 5,5 %."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Assouplir la législation sur les aides d'Etat (relèvement du plafond d'aide publique jusqu'à 300 millions d'euros) dans les investissements stratégiques",
+          "page": "15",
+          "note": "Programme européen 2024 ; le programme 2022 prévoit des zones franches industrielles, un « Patrie-score » et le veto français à tout nouveau traité de libre-échange."
+        },
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Supprimer l'interdiction de la vente de véhicules thermiques à l'horizon 2035",
+          "page": "13"
+        },
+        {
+          "questionId": "env-05",
+          "value": -2,
+          "quote": "Abroger toutes les directives et règlements du Pacte vert.",
+          "page": "13",
+          "note": "Avec la révision des objectifs de neutralité carbone et le principe « pour une norme créée, deux normes supprimées »."
+        },
+        {
+          "questionId": "env-06",
+          "value": 1,
+          "quote": "en supprimant les règles de concurrence du marché européen de l'électricité qui obligent notamment EDF à vendre un quart de sa production d'électricité à des concurrents artificiels",
+          "page": "12",
+          "inferred": true,
+          "note": "Suppression des règles du marché européen de l'électricité (et, en 2022, remplacement de l'ARENH par un tarif régulé) sans employer le mot « sortie »."
+        },
+        {
+          "questionId": "env-07",
+          "value": 1,
+          "quote": "Stopper les décisions d'interdiction des produits phytosanitaires sans études d'impact économique et sans alternative fiable et supprimer le plan Ecophyto.",
+          "page": "13",
+          "inferred": true,
+          "note": "Arrêt des nouvelles interdictions, sans réautorisation explicite des néonicotinoïdes."
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Supprimer la directive sur la performance énergétique des bâtiments qui risque d'exclure 7 millions de logements du marché de la location",
+          "page": "13"
+        },
+        {
+          "questionId": "env-13",
+          "value": 2,
+          "quote": "Réformer la législation européenne sur l'eau et renforcer les politiques publiques de stockage et de recyclage de l'eau : construction de bassines et de retenues collinaires",
+          "page": "12"
+        },
+        {
+          "questionId": "env-14",
+          "value": -2,
+          "quote": "Revoir les objectifs de la directive Climat sur la neutralité carbone en 2050",
+          "page": "13",
+          "note": "Le texte dénonce « la vaste entreprise écolo-punitive » et la « décroissance agricole et industrielle »."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Refuser la création d'une armée européenne, tout partage de la dissuasion nucléaire française et de notre siège au Conseil de sécurité de l'ONU, souhaités par Emmanuel Macron.",
+          "page": "9"
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2,
+          "quote": "Refuser tout nouvel élargissement de l'Union européenne.",
+          "page": "9"
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "Rétablir les frontières nationales contre la libre-circulation des extra-Européens dans l'espace Schengen",
+          "page": "6"
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Refuser tout impôt européen et notamment les « ressources propres » aboutissant à créer une fiscalité européenne qui s'ajoute à la fiscalité nationale.",
+          "page": "9"
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "quote": "Quitter la CEDH, modifier la réglementation européenne sur le non-refoulement pour autoriser l'éloignement, aux frontières extérieures, des migrants qui n'ont pas demandé l'asile dans une ambassade ou ont traversé plusieurs pays sûrs.",
+          "page": "6",
+          "note": "Sortie pure et simple de la CEDH (programme européen 2024), au-delà d'une simple dérogation."
+        },
+        {
+          "questionId": "num-04",
+          "value": 2,
+          "quote": "Relocaliser sur le sol européen les données numériques des sociétés et particuliers européens (construction et sécurisation de data centers assurant notre souveraineté dans ce domaine).",
+          "page": "12",
+          "inferred": true,
+          "note": "Soutien à la construction de data centers et à l'IA « sans excès de normes » (renégociation de l'IA Act), formulé à l'échelle européenne."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-cnccep-2022",
+      "date": "2022-04-10",
+      "title": "Profession de foi officielle d'Éric Zemmour – élection présidentielle 2022",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.cnccep.fr/pdfs/Candidat-12-Eric-Zemmour-Declaration.pdf",
+      "publisher": "Éric Zemmour / CNCCEP",
+      "summary": "DOCUMENT DE 2022. Extraction PDF partiellement dégradée (lettres espacées) : seules les phrases restituées proprement sont citées.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "Je mettrai fin à l'immigration.",
+          "page": "3",
+          "note": "Va au-delà de l'énoncé : arrêt des flux migratoires (suppression du regroupement familial, asile limité à une centaine de personnes par an) ; aucun système de quotas votés par le Parlement n'est proposé."
+        }
+      ]
     }
   ]
 }
