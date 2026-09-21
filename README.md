@@ -47,11 +47,10 @@ qui la fonde** et l'URL exacte de la page (ou de la page du PDF). Quand le docum
 mesure voisine et que la position s'en déduit sans ambiguïté, elle est signalée « position déduite »
 et accompagnée d'une note ; dans le doute, rien n'est encodé.
 
-L'audit est en cours de finalisation. 19 candidat·es sont déjà réencodé·es à partir de leurs
-documents officiels, soit 1393 positions
-citées sur 1455 : Bernard Cazeneuve (58), Bruno Retailleau (101), David Lisnard (73), Delphine Batho (32), Florian Philippot (47), François Asselineau (73), François Ruffin (40), Gabriel Attal (64), Jean-Luc Mélenchon (139), Karim Bouamrane (6), Marine Le Pen (117), Marine Tondelier (133), Nathalie Arthaud (44), Nicolas Dupont-Aignan (113), Olivier Faure (114), Raphaël Glucksmann (84), Xavier Bertrand (8), Édouard Philippe (54), Éric Zemmour (93).
-
-Restent à reprendre : Dominique de Villepin (9), Fabien Roussel (53).
+L'audit est terminé : les 21 candidat·es dont des positions sont documentées ont été
+réencodé·es à partir de leurs documents officiels, et **chacune des 1553 positions
+porte la citation du passage qui la fonde**. Plus aucune position ne repose sur un article de presse ;
+la validation automatique le refuse désormais.
 
 Toutes les positions sont en statut **« en attente de vérification »** : elles doivent encore être
 relues par une seconde personne avant d'être marquées vérifiées.

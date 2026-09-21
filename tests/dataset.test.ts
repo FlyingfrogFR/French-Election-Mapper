@@ -9,6 +9,10 @@ import type { Dataset } from '../src/lib/schema';
 
 const path = resolve(__dirname, '..', 'src', 'generated', 'dataset.json');
 const ds = JSON.parse(readFileSync(path, 'utf8')) as Dataset;
+/** Full audit copy served at data/dataset.json: unlike the bundled one it keeps every quote. */
+const auditPath = resolve(__dirname, '..', 'public', 'data', 'dataset.json');
+const audit = JSON.parse(readFileSync(auditPath, 'utf8')) as Dataset;
+const quotes = JSON.parse(readFileSync(resolve(__dirname, '..', 'public', 'data', 'quotes.json'), 'utf8')) as Record<string, { quote: string }>;
 
 describe('generated dataset', () => {
   it('exists (run `npm run data:build`)', () => {
@@ -40,6 +44,26 @@ describe('generated dataset', () => {
         expect(p.date).toBe(d?.date);
       }
     }
+  });
+
+  it('every position carries a verbatim quote and comes from a primary source, never a press article', () => {
+    const declarations = new Map(audit.declarations.map((d) => [d.id, d]));
+    for (const c of audit.candidates) {
+      for (const [qid, p] of Object.entries(c.positions)) {
+        expect(p.quote, `${c.id}/${qid}`).toBeTruthy();
+        expect(declarations.get(p.declarationId)?.sourceType, `${c.id}/${qid}`).not.toBe('presse');
+      }
+    }
+  });
+
+  it('serves every quote separately so the app can fetch them on demand', () => {
+    for (const c of audit.candidates) {
+      for (const [qid, p] of Object.entries(c.positions)) {
+        expect(quotes[`${c.id}|${qid}`]?.quote, `${c.id}/${qid}`).toBe(p.quote);
+      }
+    }
+    // The bundled copy must stay free of quotes, otherwise the split brings no benefit.
+    for (const c of ds.candidates) for (const p of Object.values(c.positions)) expect(p.quote).toBeUndefined();
   });
 
   it('every candidate cites at least one source for their status', () => {

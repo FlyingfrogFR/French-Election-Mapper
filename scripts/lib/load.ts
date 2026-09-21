@@ -78,8 +78,12 @@ function checkConsistency(d: RawData): string[] {
       if (decl.review.status === 'verified' && !decl.review.reviewedOn) {
         errors.push(`Déclaration ${decl.id} : date de relecture manquante`);
       }
+      if (decl.sourceType === 'presse' && decl.positions.length > 0) {
+        errors.push(`Déclaration ${decl.id} : un article de presse ne peut pas porter de position (source primaire exigée : programme, discours, communiqué, vote, tribune, entretien)`);
+      }
       const seen = new Set<string>();
       for (const p of decl.positions) {
+        if (!p.quote) errors.push(`Déclaration ${decl.id} : la position ${p.questionId} n'a pas de citation (« quote ») extraite de la source`);
         if (!questionIds.has(p.questionId)) errors.push(`Déclaration ${decl.id} : question inconnue « ${p.questionId} »`);
         if (seen.has(p.questionId)) errors.push(`Déclaration ${decl.id} : question ${p.questionId} renseignée deux fois`);
         seen.add(p.questionId);

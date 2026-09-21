@@ -18,234 +18,879 @@
       "positions": []
     },
     {
-      "id": "roussel-2026-programme-social",
-      "date": "2026-09-01",
-      "title": "Volet social et énergétique du programme (synthèse de presse)",
-      "sourceType": "presse",
-      "sourceUrl": "https://www.elyseescope.com/questions/fabien-roussel-smic-retraite-a-60-ans-32-heures-le-volet-social-du-programm",
-      "publisher": "ÉlyséeScope (source secondaire)",
-      "summary": "SMIC à 1 500 € net ; retraite à 60 ans à taux plein, pension minimale 1 200 € net ; semaine de 32 heures sans perte de salaire ; construction de 20 EPR ; sortie du marché européen de l'électricité.",
+      "id": "roussel-pacte-2025",
+      "date": "2025-07-09",
+      "title": "« Un pacte national pour l'avenir de la France » – résolution du Conseil national du PCF du 5 juillet 2025 (10 objectifs)",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20260118145655/https://www.pcf.fr/pacte_national_pour_avenir_france",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2025, le plus récent à couvrir l'ensemble des thèmes ; présenté comme les « dix grands objectifs » proposés par « le PCF, avec son secrétaire national Fabien Roussel ». Il actualise le programme de 2022-2023 (20 EPR2, indexation des salaires et pensions sur l'inflation, sortie du marché européen de l'électricité, sanctions contre Israël).",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "tra-01",
-          "value": 2
-        },
-        {
-          "questionId": "tra-02",
-          "value": 2
-        },
-        {
-          "questionId": "tra-04",
-          "value": 2,
-          "note": "SMIC à 1 500 € net."
-        },
-        {
-          "questionId": "tra-05",
-          "value": -2
-        },
-        {
-          "questionId": "tra-07",
-          "value": -2
-        },
-        {
-          "questionId": "tra-09",
-          "value": 1
-        },
-        {
-          "questionId": "tra-10",
-          "value": 2,
-          "note": "32 heures sans baisse de salaire."
-        },
-        {
-          "questionId": "tra-11",
-          "value": 2
-        },
-        {
-          "questionId": "tra-12",
-          "value": -2
+          "questionId": "def-01",
+          "value": -2,
+          "quote": "Contre les guerres, « l’économie de guerre », la militarisation, pour un nouvel ordre international de paix et de co-développement de nations souveraines et de peuples libres et associés.",
+          "inferred": true,
+          "note": "Pacte 2025 : opposition explicite à la militarisation et à « l'économie de guerre » ; la proposition 177 reconfigure l'outil militaire « grâce aux économies réalisées »."
         },
         {
           "questionId": "eco-01",
-          "value": -2
+          "value": -2,
+          "quote": "Contre un budget d’austérité sans précédent, contre les plans de licenciements, pour l’emploi et les salaires.",
+          "note": "Résolution du CN du 5 juillet 2025 ; le programme demande aussi « la fin des 3 % de déficits publics autorisés et du carcan austéritaire »."
         },
         {
-          "questionId": "eco-02",
-          "value": 2
-        },
-        {
-          "questionId": "eco-03",
-          "value": 2
-        },
-        {
-          "questionId": "eco-07",
-          "value": 2
-        },
-        {
-          "questionId": "eco-10",
-          "value": 2
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "créer un fonds public de 500 milliards d’euros au service de grands travaux, d’une nouvelle industrialisation sociale et écologique, de la relocalisation en France des productions stratégiques, et du développement des services publics",
+          "note": "Pacte 2025, objectif 2 ; la proposition 64 taxe lourdement les importations ne respectant pas nos normes."
         },
         {
           "questionId": "eco-11",
-          "value": 2
-        },
-        {
-          "questionId": "eco-12",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": -2
-        },
-        {
-          "questionId": "soc-04",
-          "value": 2
-        },
-        {
-          "questionId": "soc-06",
-          "value": -2
-        },
-        {
-          "questionId": "soc-07",
-          "value": 2
+          "value": 2,
+          "quote": "créant une cotisation spécifique sur les produits financiers des entreprises (dividendes, revenus d’intérêt…)",
+          "note": "Pacte 2025, objectif 6 ; modulation de la cotisation à la hausse pour les entreprises qui taillent dans l'emploi."
         },
         {
           "questionId": "env-01",
           "value": 2,
-          "note": "Construction de 20 EPR (contre 14 prévus par le gouvernement)."
+          "quote": "Doubler la production d’énergie décarbonée d’ici 2050 avec la production de 20 EPR2 et le développement des énergies renouvelables de façon cohérente et sous maîtrise publique",
+          "note": "Pacte 2025, objectif 3 (les 180 propositions parlaient de « six EPR supplémentaires au minimum » : la position la plus récente retient 20 EPR2)."
         },
         {
-          "questionId": "env-02",
-          "value": -2
-        },
-        {
-          "questionId": "env-04",
-          "value": -1
-        },
-        {
-          "questionId": "env-06",
-          "value": 2
-        },
-        {
-          "questionId": "env-09",
-          "value": -1
-        },
-        {
-          "questionId": "env-11",
-          "value": 2
-        },
-        {
-          "questionId": "san-01",
-          "value": 2
-        },
-        {
-          "questionId": "san-02",
-          "value": 2
-        },
-        {
-          "questionId": "san-03",
-          "value": 2
-        },
-        {
-          "questionId": "san-06",
-          "value": -1
-        },
-        {
-          "questionId": "sec-01",
-          "value": -1
-        },
-        {
-          "questionId": "sec-08",
-          "value": 2
-        },
-        {
-          "questionId": "sec-12",
-          "value": 2
-        },
-        {
-          "questionId": "ins-01",
-          "value": 1
-        },
-        {
-          "questionId": "ins-02",
-          "value": 1
-        },
-        {
-          "questionId": "ins-03",
-          "value": 2
-        },
-        {
-          "questionId": "ins-13",
-          "value": 2
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "ne plus alimenter la guerre et agir pour un cessez-le feu entre l’Ukraine et la Russie en allant vers une conférence paneuropéenne de sécurité collective",
+          "note": "Pacte 2025, objectif 9 ; le PCF juge par ailleurs « irresponsable » l'envoi de troupes en Ukraine (18 février 2025)."
         },
         {
           "questionId": "eur-05",
-          "value": -2
-        },
-        {
-          "questionId": "eur-06",
-          "value": 2
-        },
-        {
-          "questionId": "eur-07",
-          "value": 2
+          "value": -2,
+          "quote": "sortir du commandement intégré de l’Otan comme première étape vers sa dissolution et garantir la sécurité collective des nations européennes",
+          "note": "Pacte 2025, objectif 9 ; la proposition 167 va plus loin : « La France quittera l'Organisation du Traité de l'Atlantique-Nord (Otan) et demandera sa dissolution »."
         },
         {
           "questionId": "eur-09",
-          "value": 2
+          "value": 2,
+          "quote": "rompre avec les contraintes austéritaires du « pacte de stabilité »",
+          "note": "Pacte 2025, objectif 10 ; proposition 154 : « la fin des 3 % de déficits publics autorisés »."
         },
         {
-          "questionId": "log-01",
-          "value": 2
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "assurer l’égalité des droits pour tous les travailleurs et travailleuses quelle que soit la nationalité",
+          "inferred": true,
+          "note": "Pacte 2025, objectif 7 : égalité des droits sans condition de nationalité. Le projet de base commune du 40e congrès (mars 2026) décrit la « préférence nationale » que le RN veut inscrire dans la Constitution comme un système de ségrégation ethnique (citation verbatim impossible : l'extraction du PDF coupe les mots en fin de ligne)."
         },
         {
-          "questionId": "log-02",
-          "value": 2
-        },
-        {
-          "questionId": "agr-01",
-          "value": 2
-        },
-        {
-          "questionId": "agr-04",
-          "value": 2
-        },
-        {
-          "questionId": "def-04",
-          "value": 2
-        },
-        {
-          "questionId": "imm-01",
-          "value": -1
-        },
-        {
-          "questionId": "imm-04",
-          "value": 1
-        },
-        {
-          "questionId": "imm-12",
-          "value": 2
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "voter une loi-cadre dotée d’un milliard d’euros pour éliminer les violences sexistes et atteindre l’égalité professionnelle femme-homme en un an",
+          "note": "Pacte 2025, objectif 7 ; propositions 82-84 (centres de psycho-traumatologie par département, lieux d'accueil des victimes)."
         },
         {
           "questionId": "num-02",
-          "value": -2
+          "value": -2,
+          "quote": "adopter une loi visant à protéger l’audiovisuel public et à garantir l’indépendance des médias",
+          "note": "Pacte 2025, objectif 8."
         },
         {
-          "questionId": "num-05",
-          "value": 2
+          "questionId": "soc-04",
+          "value": 2,
+          "quote": "engager une augmentation générale des salaires, des pensions et les indexer sur l’inflation",
+          "note": "Pacte 2025, objectif 1."
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2,
+          "quote": "assurer l’égalité des droits pour tous les travailleurs et travailleuses quelle que soit la nationalité",
+          "inferred": true,
+          "note": "Pacte 2025, objectif 7 ; le programme régularise les travailleurs sans papiers et refuse toute condition de nationalité ou de durée de résidence pour les droits sociaux."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "abroger la retraite à 64 ans et financer le retour aux 60 ans",
+          "note": "Pacte 2025, objectif 1."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "abroger la retraite à 64 ans et financer le retour aux 60 ans",
+          "note": "L'exact contraire d'un relèvement au-delà de 64 ans."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "engager une augmentation générale des salaires, des pensions et les indexer sur l’inflation",
+          "note": "Pacte 2025, objectif 1 : indexation explicite sur l'inflation (l'encodage précédent, +1, sous-estimait la position)."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-programme",
+      "date": "2023-04-01",
+      "title": "« L'ambition communiste pour de nouveaux jours heureux » – les 180 propositions du PCF (rubrique « Programme » de pcf.fr : 6 objectifs et 3 moyens)",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20251126122231/https://www.pcf.fr/le_programme",
+      "publisher": "Parti communiste français",
+      "summary": "TEXTE DE 2022-2023 : base commune adoptée par les communistes au 39e congrès (avril 2023), reprise du programme présidentiel de Fabien Roussel « La France des jours heureux » (2022). C'est le document programmatique détaillé toujours publié comme « Programme » sur pcf.fr (pages objectif_1 à objectif_6 et moyen_1 à moyen_3, archivées les 4-5 septembre 2026). www.pcf.fr est protégé par Cloudflare : toutes les citations renvoient à la copie web.archive.org de la page exacte. (Date du document : 2023-04 ; jour inconnu.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Elle aura pour objectifs de garantir des prix de base rémunérateurs du travail paysan, tout en contenant les prix des produits industriels nécessaires à la production",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "note": "Proposition 62 : loi d'orientation agricole et conférence annuelle déterminant les prix par production."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Elles pourront être augmentées selon des conditionnalités environnementales et pour les fermes en agriculture biologique.",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "note": "Proposition 63 : réorientation du plan stratégique national de la PAC."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "D’emblée, les importations de produits alimentaires provenant de pays qui ne respectent pas les mêmes normes sanitaires et environnementales que celles exigées à nos producteurs seront lourdement taxées.",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "note": "Proposition 64 ; la lettre de Fabien Roussel au Premier ministre (25 août 2025) demande d'« exiger le respect de la réciprocité des normes pour tous les produits entrant sur le marché français »."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Dans le prolongement de la loi sur la cause animale, que les parlementaires communistes ont votée, il s’agit de mettre un terme à l’existence de structures comme l’ex ferme des mille vaches, ainsi qu’aux conditions indignes de transport et d’abattage des animaux.",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "note": "Proposition 73 : mesures de limitation et de contrôle pour empêcher le développement des installations industrielles d'élevage."
+        },
+        {
+          "questionId": "agr-07",
+          "value": -1,
+          "quote": "En particulier, tous les dispositifs visant à échapper à la taxation de la transmission du capital des entreprises seront abrogés.",
+          "sourceUrl": "https://web.archive.org/web/20260905113012/https://www.pcf.fr/moyen_1",
+          "inferred": true,
+          "note": "Proposition 128 ; les exploitations agricoles ne sont pas nommées, et la proposition 62 double la dotation d'installation des jeunes agriculteurs."
+        },
+        {
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "Il conservera une force de dissuasion nationale, jusqu’à l’engagement d’un processus de désarmement nucléaire multilatéral et contrôlé.",
+          "sourceUrl": "https://web.archive.org/web/20260905113254/https://www.pcf.fr/moyen_3",
+          "inferred": true,
+          "note": "Proposition 177, complétée par la proposition 166 (signature du Traité d'interdiction des armes nucléaires) : dissuasion strictement nationale et vouée au désarmement, donc pas d'extension à des partenaires européens."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Il lui appartiendra de favoriser les recherches et fabrications civiles et militaires, de stopper les exportations toxiques, et de protéger les compétences nationales indispensables aux coopérations industrielles et de recherche qu’il conviendra de construire.",
+          "sourceUrl": "https://web.archive.org/web/20260905113254/https://www.pcf.fr/moyen_3",
+          "inferred": true,
+          "note": "Proposition 178 (pôle public des industries d'armement) : maîtrise publique et protection des compétences nationales ; aucune règle d'achat prioritairement français ou européen n'est formulée telle quelle."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "L’impôt sur la fortune sera rétabli, son taux et sa progressivité seront accentués, les niches fiscales qui minent son rendement seront supprimées",
+          "sourceUrl": "https://web.archive.org/web/20260905113012/https://www.pcf.fr/moyen_1",
+          "note": "Proposition 127 des 180 propositions ; « Son montant sera triplé. »"
+        },
+        {
+          "questionId": "eco-04",
+          "value": -2,
+          "quote": "Sa progressivité sera fortement accentuée, en doublant le nombre de tranches en fonction de deux critères : la valeur des biens transmis et la capacité contributive (les ressources) des donataires et héritier·e·s assujetti·e·s au paiement des droits de succession.",
+          "sourceUrl": "https://web.archive.org/web/20260905113012/https://www.pcf.fr/moyen_1",
+          "note": "Proposition 128 : réforme de la fiscalité des successions dans le sens d'une progressivité accrue (avec une franchise de 170 000 €), soit le contraire d'une baisse."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 2,
+          "quote": "les taxes qui constituent aujourd’hui le tiers de nos factures énergétiques seront réduites, la TVA sur les consommations sera fixée à 5,5 %",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "note": "Proposition 58 ; le discours de clôture du 40e congrès (juillet 2026) parle d'une baisse de 30 % des tarifs de l'électricité et du gaz."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "Il sera modulé en le rendant plus élevé pour les groupes qui délocalisent, suppriment des emplois, se livrent à des opérations financières, occasionnent des pollutions.",
+          "sourceUrl": "https://web.archive.org/web/20260905113012/https://www.pcf.fr/moyen_1",
+          "note": "Proposition 121 : nouvel impôt sur les sociétés progressif et modulé à la hausse ; la proposition 122 supprime les exonérations sociales et fiscales, le CICE et le CIR."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Celle-ci devra déterminer les prix par production, interdire les reventes à perte mais aussi stopper l’augmentation irraisonnable des prix de vente dans les supermarchés.",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "inferred": true,
+          "note": "Proposition 62 : intervention publique sur les prix agricoles et alimentaires via une conférence annuelle ; aucun dispositif général de blocage temporaire des prix n'est formulé."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Les niches fiscales qui favorisent outrageusement les plus riches seront supprimées.",
+          "sourceUrl": "https://web.archive.org/web/20260905113012/https://www.pcf.fr/moyen_1",
+          "note": "Propositions 127-128."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "L’impôt sur le revenu sera rendu plus progressif, en portant le nombre de tranches à 15",
+          "sourceUrl": "https://web.archive.org/web/20260905113012/https://www.pcf.fr/moyen_1"
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Il sera engagé une réappropriation publique et sociale de la SNCF, d’EDF, d’Engie, de La Poste et de France Telecom",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 25 ; propositions 115-116 (nationalisations de groupes stratégiques et des grandes banques) ; en juillet 2026 Fabien Roussel réaffirme la nationalisation de Total."
         },
         {
           "questionId": "edu-02",
-          "value": 2
+          "value": 2,
+          "quote": "Les salaires seront augmentés de 30 %, et le point d’indice sera dégelé, comme pour tous les fonctionnaires.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 20 ; hausse inscrite dans une progression de 45 % du budget de l'Éducation nationale, donc pas au détriment des autres dépenses éducatives."
         },
         {
+          "questionId": "edu-06",
+          "value": -1,
+          "quote": "On peut bien, à l’Élysée, se gargariser de l’engagement de quelques jeunes dans le Service national universel (SNU), le macronisme est le premier responsable d’une crise de confiance qui n’a cessé de s’aggraver d’année en année.",
+          "sourceUrl": "https://web.archive.org/web/20260905112957/https://www.pcf.fr/objectif_3",
+          "inferred": true,
+          "note": "Le SNU est cité de façon critique comme un trompe-l'œil ; le programme lui oppose un plan pour la jeunesse (emploi, formation, revenu étudiant), sans proposer de service obligatoire."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 2,
+          "quote": "Les effectifs des classes seront réduits, ils ne devront jamais dépasser les 15 élèves en toute petite section de maternelle, les 20 élèves en maternelle et en primaire, les 25 dans le secondaire. Des effectifs plus légers seront prévus en éducation prioritaire (12 maximum).",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 21."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 2,
+          "quote": "Un revenu, fixé à 850 euros par mois, pour tous les étudiants et toutes les étudiantes, sera mis en place",
+          "sourceUrl": "https://web.archive.org/web/20260905112957/https://www.pcf.fr/objectif_3",
+          "note": "Proposition 37 : revenu étudiant universel, qui va au-delà d'une extension des bourses."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Ce projet visera à une forte croissance de la production électrique, en investissant dans les énergies renouvelables (solaire, éolien et surtout dans l’hydraulique, énergie renouvelable pilotable) et dans l’électricité nucléaire avec la construction de six EPR supplémentaires au minimum.",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "note": "Proposition 55 : mix « 100 % public et 100 % décarboné » associant nucléaire et renouvelables, l'exact contraire d'une sortie du nucléaire."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "en investissant dans les énergies renouvelables (solaire, éolien et surtout dans l’hydraulique, énergie renouvelable pilotable)",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "inferred": true,
+          "note": "Proposition 55 : développement de l'éolien dans un mix public, aucune mention d'un moratoire."
+        },
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "La puissance publique agira notamment pour la réouverture de petites lignes SNCF, abandonnées au fil des années par les gouvernements successifs, afin de désenclaver les territoires ruraux.",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "note": "Propositions 49 à 52 (trains du quotidien, fret ferroviaire et fluvial, gratuité des transports collectifs) ; le Pacte 2025 prévoit d'« investir dans le rail, les ports, le fluvial »."
+        },
+        {
+          "questionId": "env-12",
+          "value": 1,
+          "quote": "Elle proposera la mise en place d’une obligation de rénovation énergétique performante, sociale et progressive des logements d’ici à 2040 et de rénovation globale des passoires thermiques d’ici à 2030, sans reste à charge pour les plus modestes",
+          "sourceUrl": "https://web.archive.org/web/20260905100422/https://www.pcf.fr/objectif_4",
+          "inferred": true,
+          "note": "Proposition 53 : obligation de rénovation des passoires thermiques d'ici 2030, financée sans reste à charge pour les plus modestes ; l'interdiction de louer n'est pas traitée en tant que telle."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "Elle engagera des discussions pour un processus de rupture avec les traités européens actuels, dans l’objectif de construire une Union nouvelle : celle des peuples et des nations souverains, libres et associés.",
+          "sourceUrl": "https://web.archive.org/web/20260905113254/https://www.pcf.fr/moyen_3",
+          "inferred": true,
+          "note": "Proposition 154 : rupture avec les traités et « Europe à géométrie choisie », mais aucune sortie de l'Union n'est proposée."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2,
+          "quote": "L’aide publique au développement, fondée sur les besoins des pays récipiendaires, sera portée à 0,7 % de la richesse nationale",
+          "sourceUrl": "https://web.archive.org/web/20260905113254/https://www.pcf.fr/moyen_3",
+          "note": "Proposition 169."
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "Des voies légales et sécurisées devront être ouvertes pour les migrant·e·s, en respect du droit international",
+          "sourceUrl": "https://web.archive.org/web/20260905113254/https://www.pcf.fr/moyen_3",
+          "inferred": true,
+          "note": "Proposition 162 : ouverture de voies légales et renforcement de la politique d'accueil, contraire à une réduction forte de l'immigration légale ; aucun système de quotas n'est envisagé."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Les travailleuses et travailleurs sans papiers en activité seront régularisés, car l’égalité de statut est une arme contre le travail clandestin et la mise en concurrence des salarié·e·s, tels que le pratiquent des employeurs.",
+          "sourceUrl": "https://web.archive.org/web/20260904231722/https://www.pcf.fr/objectif_6",
+          "note": "Proposition 89 ; le Pacte 2025 reprend « régulariser les travailleurs « sans papiers » ». Régularisation générale des travailleurs, plus large que les seuls métiers en tension."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "La France, pour sa part, renforcera sa politique d’accueil des réfugié·e·s, elle accroîtra dans cet objectif les moyens de l’Office français de protection des réfugiés et apatrides (Ofpra)",
+          "sourceUrl": "https://web.archive.org/web/20260905113254/https://www.pcf.fr/moyen_3",
+          "note": "Proposition 162 ; dénonciation des accords du Touquet et de Dublin."
+        },
+        {
+          "questionId": "imm-11",
+          "value": -2,
+          "quote": "elle exigera de ses partenaires européens le respect de la Convention européenne des droits de l’Homme et de la Convention de Genève, dont le droit d’asile",
+          "sourceUrl": "https://web.archive.org/web/20260905113254/https://www.pcf.fr/moyen_3",
+          "inferred": true,
+          "note": "Proposition 162 : la France doit faire respecter la CEDH, pas y déroger."
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2,
+          "quote": "Le droit de vote des résident·e·s étranger·e·s aux élections locales et européennes sera instauré.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 134, reprise dans le Pacte 2025 (objectif 8)."
+        },
+        {
+          "questionId": "imm-13",
+          "value": -2,
+          "quote": "les centres de rétention administrative (CRA), véritables lieux de détention, seront fermés comme les zones d’attentes dans les ports et les aéroports qui retiennent des personnes étrangères aux frontières",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 143 : fermeture des CRA, l'exact contraire d'un placement systématique en rétention des personnes sous OQTF."
+        },
+        {
+          "questionId": "ins-01",
+          "value": 1,
+          "quote": "Le président de la République n’aura plus qu’un rôle de représentation de la nation et, pour en finir avec sa prééminence, son élection au suffrage universel sera supprimée. La primauté reviendra au Parlement, qui sera maître de son ordre du jour.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "inferred": true,
+          "note": "Proposition 132 : refondation institutionnelle profonde (« République nouvelle »), mais sans assemblée constituante ni référence à une VIe République."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Le référendum ne pourra plus être utilisé par l’exécutif à des fins plébiscitaires, mais son déclenchement reviendra à un million de citoyen·ne·s, réparti·e·s sur l’ensemble du territoire",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 134, reprise dans le Pacte 2025 (« référendum d'initiative populaire »), avec un droit de pétition à 500 000 citoyens."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Pour cela, la proportionnelle intégrale permettra la juste représentation des courants politiques, en fonction de leur influence électorale.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 133 : proportionnelle intégrale, au-delà d'une simple dose."
+        },
+        {
+          "questionId": "ins-10",
+          "value": -2,
+          "quote": "L’organisation de la République, à partir de nos 35000 communes et de nos 101 départements, sera réaffirmée",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "inferred": true,
+          "note": "Propositions 136-137 : réaffirmation des communes et départements et rétablissement de la clause de compétence générale, contraire à une réduction du nombre d'échelons."
+        },
+        {
+          "questionId": "ins-11",
+          "value": 2,
+          "quote": "Le renouvellement des mandats sera strictement limité.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 133."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "L’article 49-3 de la Constitution, qui permet à l’exécutif de s’affranchir des délibérations des Assemblées, sera abrogé, de même que l’article 40 qui rend irrecevable toute proposition des parlementaires visant à proposer des augmentations du budget de l’État.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 132."
+        },
+        {
+          "questionId": "lib-08",
+          "value": -2,
+          "quote": "Sur le délai de recours à l’IVG, comme le recommande le Planning familial, la France s’alignera avec les pays européens les plus progressistes, en vertu de la « clause de l’Européenne la plus favorisée ».",
+          "sourceUrl": "https://web.archive.org/web/20260904231649/https://www.pcf.fr/objectif_5",
+          "note": "Proposition 77 : le PCF refuse le statu quo, mais dans le sens d'un élargissement (allongement des délais, inscription de l'IVG dans la Constitution)."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 2,
+          "quote": "Ce qui sera tout particulièrement le cas de la loi « Sécurité globale » et, plus généralement, des textes portant atteinte à la liberté de la presse et de création sur les médias numériques.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "inferred": true,
+          "note": "Proposition 140 : abrogation des lois liberticides ; la proposition 141 revoit le maintien de l'ordre « afin de permettre aux policier·e·s de protéger les manifestants »."
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Les loyers seront encadrés et la quittance ne devra pas dépasser 20 % des revenus du foyer.",
+          "sourceUrl": "https://web.archive.org/web/20260904231722/https://www.pcf.fr/objectif_6",
+          "note": "Proposition 99."
+        },
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Les sanctions seront renforcées pour les communes ne respectant pas l’obligation de 25% de construction de logements sociaux prévue par la loi Solidarité et renouvellement urbain (SRU).",
+          "sourceUrl": "https://web.archive.org/web/20260904231722/https://www.pcf.fr/objectif_6",
+          "note": "Proposition 97 ; objectif de 30 % de logements sociaux en zone urbaine (proposition 99)."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "L’aménagement du territoire permettra que l’usager trouve, près de chez lui, un bouquet de services publics de proximité",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 23 ; 500 000 créations d'emplois publics (proposition 29)."
+        },
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Les plateformes numériques seront contraintes de coopérer avec la justice et de supprimer les contenus violents, haineux et discriminatoires.",
+          "sourceUrl": "https://web.archive.org/web/20260904231722/https://www.pcf.fr/objectif_6",
+          "inferred": true,
+          "note": "Régulation des plateformes ; la proposition 151 impose l'application des droits voisins face à « l'industrie numérique nord-américaine ». Aucune taxation nationale spécifique n'est chiffrée."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Une loi sera proposée au Parlement contre les concentrations dans la presse, les médias et l’audiovisuel",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 151, complétée par la création d'un Conseil national des médias (proposition 152)."
+        },
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "L’intervention publique en matière culturelle se verra consacrer 1 % du PIB, au-delà du 1 % du budget de l’État. Ce niveau d’engagement financier correspond à une augmentation de l’ordre de 30 % des budgets publics actuels, atteignable en une mandature.",
+          "sourceUrl": "https://web.archive.org/web/20260904231722/https://www.pcf.fr/objectif_6",
+          "note": "Proposition 111 ; repris dans le Pacte 2025 (« passage du budget dédié de l'État à 1% du PIB »)."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "La puissance publique agira contre les déserts médicaux : dans les zones denses, un·e médecin ne devra s’installer que si un·e autre part à la retraite (conventionnement sélectif à l’installation).",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 13."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "100 000 emplois seront créés dans tous les métiers : infirmier·e·s, aides-soignant·e·s, auxiliaires de vie, aides à domicile. Tou·te·s les contractuel·le·s seront titularisé·e·s.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 14 : plan de développement de l'hôpital public, fin de la T2A, financement intégral de la dette hospitalière."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Les franchises médicales et les participations forfaitaires seront supprimées.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 13 ; le Pacte 2025 vise à « rembourser les soins à 100 % par la Sécurité sociale »."
+        },
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Les franchises médicales et les participations forfaitaires seront supprimées.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "L'exact contraire d'une augmentation des franchises."
+        },
+        {
+          "questionId": "san-06",
+          "value": 0,
+          "quote": "Quant aux questions de légalisation ou de dépénalisation de l’usage du cannabis, les enjeux qu’elles soulèvent comme la diversité des opinions en présence, nécessiteront un débat démocratique, rigoureux et éclairé par le travail des professionnel·le·s en première ligne de la lutte contre les addictions",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 18 : position explicitement ouverte, renvoyée à un débat démocratique, ni pour ni contre la légalisation."
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Les quotas officiels ou officieux pour les formations initiales, médicales comme paramédicales, seront supprimés, des moyens supplémentaires étant donnés aux universités, avec des pré-recrutements ouvrant un pré-salaire aux jeunes pendant leur formation.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 13 : « 12 000 places d'étudiant·e·s en médecine seront ouvertes par an (au lieu des 8 000 actuelles) »."
+        },
+        {
+          "questionId": "san-08",
+          "value": 2,
+          "quote": "Les dépassements d’honoraires devront disparaître et le retour à un secteur conventionnel unique sera négocié.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2"
+        },
+        {
+          "questionId": "san-09",
+          "value": 1,
+          "quote": "Toutes les victimes et co-victimes de violences sexuelles et conjugales pourront accéder, immédiatement et gratuitement, aux soins en psycho-traumatologie dans le cadre d’une prise en charge de la Sécurité sociale",
+          "sourceUrl": "https://web.archive.org/web/20260904231649/https://www.pcf.fr/objectif_5",
+          "inferred": true,
+          "note": "Proposition 82 : gratuité des soins psycho-traumatologiques pour les victimes de violences, pas un remboursement général des consultations de psychologue."
+        },
+        {
+          "questionId": "sec-02",
+          "value": -2,
+          "quote": "Les alternatives à l’incarcération, plutôt que la construction de nouvelles prisons, a fortiori financées par des partenariats publics/privés (PPP), seront développées et un plan de rénovation des lieux de privation de liberté sera mis en œuvre.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 143."
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2,
+          "quote": "Les contrôles au faciès seront combattus, grâce à la mise en place du récépissé justifiant qu’une personne a déjà été contrôlée.",
+          "sourceUrl": "https://web.archive.org/web/20260904231722/https://www.pcf.fr/objectif_6",
+          "note": "Proposition 88."
+        },
+        {
+          "questionId": "sec-06",
+          "value": -2,
+          "quote": "L’enfermement des jeunes de 13 à 16 ans sera supprimé et celui des 16 à 18 ans sera limité.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "note": "Proposition 143 ; le PCF demande par ailleurs l'abandon de la réforme de la justice pénale des mineurs, jugée trop répressive."
+        },
+        {
+          "questionId": "sec-07",
+          "value": -2,
+          "quote": "Une loi protégera nos concitoyen·ne·s de la surveillance numérique de masse.",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "inferred": true,
+          "note": "Proposition 140 : abrogation des lois liberticides, dont la loi « Sécurité globale », et protection contre la surveillance numérique de masse."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "répondre aux multiples revendications de la communauté judiciaire appelle une profonde réforme qui doit notamment rompre avec des logiques purement budgétaires et dégager en urgence des moyens humains et matériels",
+          "sourceUrl": "https://web.archive.org/web/20260905113144/https://www.pcf.fr/moyen_2",
+          "inferred": true,
+          "note": "Proposition 142 (« grand plan de sauvetage de notre justice ») et proposition 29 (25 000 magistrat·e·s, éducatrices et éducateurs) : hausse importante des moyens, sans objectif chiffré de doublement du budget."
+        },
+        {
+          "questionId": "sec-09",
+          "value": -1,
+          "quote": "Chez les jeunes et les moins jeunes, cet usage soulève des questions sanitaires, sociales, économiques, de sécurité publique et de politique internationale. Une politique répressive ne saurait être une réponse adaptée.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "inferred": true,
+          "note": "Proposition 18 : priorité à la prévention et aux soins, « complétée par la lutte résolue contre les trafics » avec des moyens supplémentaires pour la police, la douane et la justice."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "Au service de la tranquillité publique, autant que de la lutte contre les violences sexistes ou sexuelles, 30 000 policier·e·s de proximité, sous statut de fonctionnaires, seront recruté·e·s.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "note": "Proposition 29, complétée par la proposition 141 (refondation de l'organisation des forces de police)."
+        },
+        {
+          "questionId": "sec-13",
+          "value": -2,
+          "quote": "Une politique répressive ne saurait être une réponse adaptée.",
+          "sourceUrl": "https://web.archive.org/web/20260905112950/https://www.pcf.fr/objectif_2",
+          "inferred": true,
+          "note": "Proposition 18 : la réponse à l'usage de drogues doit être sanitaire et éducative, pas répressive."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 2,
+          "quote": "En prenant immédiatement cette mesure, la nouvelle majorité politique manifestera qu’elle entend réparer une injustice criante. Nul, demain, ne sera plus exclu des dispositifs de la solidarité collective.",
+          "sourceUrl": "https://web.archive.org/web/20260905112957/https://www.pcf.fr/objectif_3",
+          "note": "Proposition 42 : « Le revenu de solidarité active (RSA) sera ouvert aux moins de 25 ans »."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Le départ à 60 ans avec une pension à taux plein sera garanti pour une carrière complète, allant de 18 à 60 ans, avec prise en charge des cotisations pour les périodes de non-travail (chômage, formation, études, congé parental, maladie, invalidité).",
+          "sourceUrl": "https://web.archive.org/web/20260905112939/https://www.pcf.fr/objectif_1",
+          "note": "Proposition 8 : « Une loi rétablira la retraite à 60 ans, à taux plein », pension à 75 % du revenu net d'activité."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Le smic horaire sera augmenté pour atteindre rapidement 1 600 euros net par mois (soit 2 021 euros brut).",
+          "sourceUrl": "https://web.archive.org/web/20260905112939/https://www.pcf.fr/objectif_1",
+          "note": "Proposition 1 : le montant officiel est de 1 600 € net (et non 1 500 €, chiffre de la profession de foi de 2022)."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Les demandeuses et demandeurs d’emploi retrouveront leurs droits attaqués sous les précédents quinquennats, sur le délai d’ouverture des droits comme sur le niveau de l’allocation.",
+          "sourceUrl": "https://web.archive.org/web/20260905112939/https://www.pcf.fr/objectif_1",
+          "note": "Proposition 2 : abrogation immédiate de la loi Borne sur l'assurance-chômage."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -2,
+          "quote": "Cette mesure restituera aux salarié·e·s les gains de productivité qu’ils réalisent. Elle permettra de travailler moins pour travailler mieux.",
+          "sourceUrl": "https://web.archive.org/web/20260905112939/https://www.pcf.fr/objectif_1",
+          "note": "Proposition 9 : « La semaine de travail passera à 32 heures, sans diminution de salaires », soit le contraire d'un assouplissement des 35 heures."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "La semaine de travail passera à 32 heures, sans diminution de salaires",
+          "sourceUrl": "https://web.archive.org/web/20260905112939/https://www.pcf.fr/objectif_1"
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "il leur reviendra de faire annuler les licenciements — notamment en cas de distribution de dividendes —, de permettre la réalisation des projets proposés par les salarié·e·s",
+          "sourceUrl": "https://web.archive.org/web/20260905112939/https://www.pcf.fr/objectif_1",
+          "note": "Proposition 3 : moratoire sur tous les plans sociaux et licenciements en cours."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -2,
+          "quote": "Les exonérations sociales et fiscales n’ayant pour effet que de gonfler les profits seront supprimées",
+          "sourceUrl": "https://web.archive.org/web/20260905113012/https://www.pcf.fr/moyen_1",
+          "inferred": true,
+          "note": "Proposition 122 : suppression des exonérations de cotisations (CICE transformé en exonérations, CIR), soit le contraire d'une nouvelle baisse des cotisations patronales."
+        }
+      ]
+    },
+    {
+      "id": "roussel-rapport-cn-2025",
+      "date": "2025-10-11",
+      "title": "Rapport de Fabien Roussel au Conseil national du PCF du 11 octobre 2025",
+      "sourceType": "discours",
+      "sourceUrl": "https://web.archive.org/web/20251017021526/https://www.pcf.fr/rapport_fr_cn_111025",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2025, paroles du candidat (position sur la taxe Zucman).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 1,
+          "quote": "Aujourd'hui, des mesures de fiscalité sur le capital telle que la taxe Zucman sont devenues presque incontournables. C'est aussi une victoire idéologique à revendiquer, même si ce n'est pas une position que nous défendons",
+          "note": "Rapport de Fabien Roussel au Conseil national du 11 octobre 2025 : il salue la taxe Zucman comme une victoire idéologique mais précise que ce n'est pas la proposition du PCF, qui défend le rétablissement et le triplement de l'ISF."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-retraites",
+      "date": "2020-01-01",
+      "title": "« Propositions du PCF pour une réforme des retraites digne du 21e siècle »",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20260821172346/https://www.pcf.fr/propositions_du_pcf_pour_une_r_forme_des_retraites_digne_du_21e_siecle",
+      "publisher": "Parti communiste français",
+      "summary": "Page de campagne non datée (elle vise la réforme Macron-Delevoye, donc 2019-2020), toujours en ligne en août 2026 : retraite à 60 ans, taux de remplacement de 75 %, aucune pension sous le SMIC, financement par cotisation (refus de la capitalisation). (Date du document : 2020 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "Pour une vie digne, aucune pension ne doit être inférieure au SMIC.",
+          "note": "Page « Propositions du PCF pour une réforme des retraites digne du 21e siècle » (non datée, toujours en ligne en 2026) ; les 180 propositions retiennent un plancher de 1 200 € net."
+        },
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "Le système serait intégralement financé par la cotisation sociale, piloté et administré par des représentant·e·s élu·e·s des travailleurs.",
+          "inferred": true,
+          "note": "La même page dénonce la multiplication de « régimes spéciaux, par capitalisation, par entreprise ou par branche, générant des inégalités renforcées »."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-etudiants-etrangers",
+      "date": "2023-12-22",
+      "title": "« Loi immigration : un désastre pour les étudiants étrangers et les universités »",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260519075126/https://www.pcf.fr/loi_immigration_etudiants",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2023.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
           "questionId": "edu-05",
-          "value": 2
+          "value": 1,
+          "quote": "restriction d’accès aux APL, suppression de toute possibilité d’exonération des frais d’inscription",
+          "inferred": true,
+          "note": "Communiqué du 22 décembre 2023 dénonçant la loi immigration ; le PCF défend les exonérations de frais d'inscription et un enseignement supérieur public gratuit, mais aucun document ne traite directement du niveau des droits d'inscription pour tous."
+        },
+        {
+          "questionId": "imm-09",
+          "value": 1,
+          "quote": "Jadis, les étudiants étrangers étaient accueillis parce qu’ils participaient au rayonnement culturel et scientifique de la France, patrie des Lumières ; aujourd’hui pèse sur eux la suspicion de principe de choisir notre pays pour ses avantages sociaux.",
+          "inferred": true,
+          "note": "Communiqué du 22 décembre 2023 contre les mesures visant les étudiants étrangers ; le maintien en France après le diplôme n'est pas traité explicitement."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-plan-climat",
+      "date": "2023-11-06",
+      "title": "Plan climat du PCF « Empreinte 2050 », présenté le 6 novembre 2023 (introduction de Fabien Roussel)",
+      "sourceType": "programme",
+      "sourceUrl": "https://web.archive.org/web/20251114122050/https://www.pcf.fr/plan_climat_du_pcf",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2023, repris comme référence par le Pacte 2025 (« comme le propose le plan climat Empreinte2050 »).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-05",
+          "value": 2,
+          "quote": "Ce plan travaillé par la commission nationale Écologie du PCF, des membres de la direction nationale et des militants issus de professions scientifiques, couvre une période allant jusqu’en 2050, et propose des transformations profondes des principaux secteurs émetteurs : transport, bâtiment, industrie et agriculture.",
+          "inferred": true,
+          "note": "Plan climat « Empreinte 2050 » présenté le 6 novembre 2023 par Fabien Roussel : planification sectorielle sous maîtrise publique ; « Notre stratégie repose sur deux piliers : la planification et la démocratie » (discours du 40e congrès)."
+        },
+        {
+          "questionId": "env-14",
+          "value": 2,
+          "quote": "Le plan climat pour la France, Empreinte 2050, vise la neutralité carbone à l’horizon 2050 car, selon les modélisations du GIEC, c’est indispensable pour rester sous les 1,5°C de réchauffement planétaire.",
+          "inferred": true,
+          "note": "Le plan revendique aussi la réduction de l'empreinte carbone importée ; la proposition 47 chiffre la politique climatique à 140 milliards d'euros par an."
+        }
+      ]
+    },
+    {
+      "id": "roussel-congres40-2026",
+      "date": "2026-07-08",
+      "title": "40e congrès du PCF : discours de clôture de Fabien Roussel (Lille, 5 juillet 2026)",
+      "sourceType": "discours",
+      "sourceUrl": "https://web.archive.org/web/20260720182721/https://www.pcf.fr/40e_congres_discours_de_cloture_de_fabien_roussel",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2026, paroles du candidat lui-même, deux mois avant la validation de sa candidature par les adhérents (6 septembre 2026, 72 %).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Nous organiserons la sortie du marché spéculatif européen de l'électricité pour retrouver la maîtrise de nos coûts, avec un pôle public de l'énergie, comme nous l'avons voté dans notre congrès.",
+          "note": "Discours de clôture du 40e congrès, 8 juillet 2026 ; le Pacte 2025 dit également « sortir du marché européen de l'électricité tout en poursuivant l'interconnexion »."
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "Dans cette campagne, on se battra pour qu'il y ait des sanctions contre l'Etat d'Israël. On se battra pour que l'Union européenne cesse toutes ses relations commerciales.",
+          "note": "Discours de clôture du 40e congrès (8 juillet 2026) ; le Pacte 2025 demande « la suspension de l'accord d'association UE-Israël tant que le droit international sera bafoué »."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-duplomb",
+      "date": "2025-07-21",
+      "title": "« Non à la Loi Duplomb »",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260418131513/https://www.pcf.fr/loi_duplomb",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2025 : opposition à la loi réintroduisant l'acétamipride (néonicotinoïde).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": -2,
+          "quote": "La loi Duplomb, soutenue par le gouvernement, vise à garantir une liberté totale du capital contre le travail et la nature.",
+          "inferred": true,
+          "note": "Le PCF combat l'alignement par le bas des normes (loi Duplomb) et demande au contraire d'interdire l'importation de produits ne respectant pas les normes françaises."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Donnons les moyens aux agriculteurs de sortir de l'agriculture intensive et de l'utilisation des pesticides qui menacent la santé de tous, la leur en premier lieu.",
+          "note": "Page « Non à la Loi Duplomb » (21 juillet 2025), loi qui rétablissait l'acétamipride (néonicotinoïde) ; Fabien Roussel demande en outre l'interdiction d'importer les produits traités avec ce pesticide."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-zfe",
+      "date": "2025-01-01",
+      "title": "« Automobile, circulation : non aux ZFE ! » (page de campagne du PCF)",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20251012112900/https://www.pcf.fr/automobile_circulation_non_zfe",
+      "publisher": "Parti communiste français",
+      "summary": "Page dont le corps est un visuel : seul le titre est exploitable comme texte. (Date du document : 2025 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Automobile, circulation : non aux ZFE !",
+          "inferred": true,
+          "note": "Page de campagne du PCF (le corps de la page est un visuel : seul le titre est exploitable). L'encodage précédent (-1) est contredit."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-legitime-defense",
+      "date": "2026-07-08",
+      "title": "« Présomption de légitime défense : une remise en cause dangereuse de l'État de droit »",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260715151519/https://www.pcf.fr/presomption_de_legitime_defense_une_remise_en_cause_dangereuse_de_letat_de_droit",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "L'adoption par l'Assemblée nationale de la proposition de loi instaurant une présomption de légitime défense pour les forces de l'ordre constitue une grave remise en cause des principes fondamentaux de notre État de droit.",
+          "note": "Communiqué du PCF du 8 juillet 2026."
+        }
+      ]
+    },
+    {
+      "id": "roussel-pcf-mercosur",
+      "date": "2026-01-09",
+      "title": "« Accord commercial UE-Mercosur : refusons le hold-up du capital sur notre agriculture »",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260110180353/https://www.pcf.fr/accord_commercial_ue_mercosur_refusons_le_hold_up_du_capital_sur_notre_agriculture",
+      "publisher": "Parti communiste français",
+      "summary": "DOCUMENT DE 2026, signé « Parti communiste français ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Opposé de longue date aux accords de libre-échange tels que le CETA et le TAFTA, le PCF refuse la ratification du traité entre l’UE et le Mercosur",
+          "note": "Communiqué du 9 janvier 2026."
         }
       ]
     }
