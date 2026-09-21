@@ -2,164 +2,174 @@
   "candidateId": "bertrand",
   "declarations": [
     {
-      "id": "bertrand-2026-08-candidature",
-      "date": "2026-08-26",
-      "title": "Annonce de candidature (Nous France)",
-      "sourceType": "discours",
-      "sourceUrl": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "publisher": "LCP (source secondaire)",
-      "summary": "Ligne de droite sociale et gaulliste : valorisation du travail (heures supplémentaires défiscalisées, RSA conditionné), réindustrialisation, fermeté pénale, immigration réduite, soutien à l'Ukraine et à l'OTAN, nucléaire, défense de la ruralité.",
+      "id": "bertrand-nf-home",
+      "date": "2026-01-01",
+      "title": "Page d'accueil de Nous France (citation de Xavier Bertrand sur le périmètre de l'État)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.nousfrance.fr/",
+      "publisher": "Nous France",
+      "summary": "La page porte les huit intitulés thématiques du mouvement (« Rétablir l'autorité », « Reprendre le contrôle de l'immigration », etc.), qui renvoient à des pages vides servant à recueillir des contributions. (Date du document : 2026 ; mois et jour inconnus.)",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Jeu de données initial : positions encodées à partir des sources citées, à vérifier par deux relecteurs avant passage en « verified ». Source secondaire (presse / comparateur) : à remplacer par la source primaire (programme, discours, vote) dès que possible."
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
       },
       "positions": [
         {
-          "questionId": "tra-01",
-          "value": -1,
-          "note": "A critiqué la méthode de la réforme de 2023 sans proposer son abrogation."
-        },
-        {
-          "questionId": "tra-05",
-          "value": 1
-        },
-        {
-          "questionId": "tra-06",
-          "value": 1
-        },
-        {
-          "questionId": "tra-07",
-          "value": 2
-        },
-        {
-          "questionId": "tra-08",
-          "value": 2
-        },
-        {
-          "questionId": "eco-01",
-          "value": 1
-        },
-        {
-          "questionId": "eco-02",
-          "value": -2
-        },
-        {
-          "questionId": "eco-03",
-          "value": -2
-        },
-        {
-          "questionId": "eco-06",
-          "value": 1
-        },
-        {
-          "questionId": "eco-09",
-          "value": 2
-        },
-        {
           "questionId": "imm-01",
-          "value": 2
-        },
-        {
-          "questionId": "imm-02",
-          "value": 1
-        },
-        {
-          "questionId": "imm-03",
-          "value": 1
-        },
+          "value": 1,
+          "quote": "Je veux que l’Etat s’occupe des sujets essentiels : sécurité, justice, reprise en main de notre politique migratoire, lutte contre le terrorisme, les grandes orientations en matière d’éducation et de santé.",
+          "inferred": true,
+          "note": "Le mouvement affiche le thème « Reprendre le contrôle de l'immigration » et cette citation du candidat, mais aucune page ni document ne chiffre de baisse ni ne mentionne de quotas votés par le Parlement."
+        }
+      ]
+    },
+    {
+      "id": "bertrand-nf-manifeste",
+      "date": "2022-01-01",
+      "title": "Manifeste « Nous, France ! » (page « La vision », reprise à l'identique sur la page « Programme »)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.nousfrance.fr/vision/",
+      "publisher": "Nous France (mouvement fondé et présidé par Xavier Bertrand)",
+      "summary": "Seul texte doctrinal publié par le mouvement. Il énonce des principes (autorité de l'État, travail, République des territoires, maîtrise de l'entrée sur le territoire) sans aucune mesure chiffrée. (Date du document : 2022 ; mois et jour inconnus.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "imm-04",
-          "value": -1
-        },
-        {
-          "questionId": "imm-13",
-          "value": 1
-        },
-        {
-          "questionId": "sec-01",
-          "value": 2
-        },
-        {
-          "questionId": "sec-02",
-          "value": 2
-        },
-        {
-          "questionId": "sec-06",
-          "value": 2
-        },
-        {
-          "questionId": "sec-09",
-          "value": 2
-        },
-        {
-          "questionId": "env-01",
-          "value": 2
-        },
-        {
-          "questionId": "env-02",
-          "value": -2
-        },
-        {
-          "questionId": "env-09",
-          "value": 1
-        },
-        {
-          "questionId": "eur-01",
-          "value": 2
-        },
-        {
-          "questionId": "eur-03",
-          "value": 1
-        },
-        {
-          "questionId": "eur-04",
-          "value": 2
-        },
-        {
-          "questionId": "eur-05",
-          "value": 2
-        },
-        {
-          "questionId": "eur-08",
-          "value": -1
-        },
-        {
-          "questionId": "def-01",
-          "value": 2
-        },
-        {
-          "questionId": "soc-03",
-          "value": 1
-        },
-        {
-          "questionId": "soc-09",
-          "value": 1
-        },
-        {
-          "questionId": "agr-02",
-          "value": 2
-        },
+          "value": -1,
+          "quote": "« Nous, France ! » assume : nul ne pourra demain bénéficier de la tradition d’accueil de notre maison France sans y avoir été autorisé.",
+          "inferred": true,
+          "note": "Le manifeste subordonne tout bénéfice de l'accueil à une autorisation préalable, ce qui va contre une régularisation des personnes entrées ou maintenues sans titre ; aucune mention explicite des métiers en tension."
+        }
+      ]
+    },
+    {
+      "id": "bertrand-nf-mercosur",
+      "date": "2026-01-08",
+      "title": "Tribune « Saisir la CJUE : le dernier recours contre le Mercosur », par Julien Dive et Xavier Bertrand (La Tribune)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.nousfrance.fr/2026/01/saisir-la-cjue-le-dernier-recours-contre-le-mercosur-par-julien-dive-et-xavier-bertrand-la-tribune/",
+      "publisher": "Nous France (reprise intégrale de la tribune cosignée par Xavier Bertrand)",
+      "summary": "Tribune cosignée par Xavier Bertrand, republiée intégralement par son mouvement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
           "questionId": "agr-04",
-          "value": 2
+          "value": 1,
+          "quote": "Nos producteurs respectent des normes toujours plus strictes ; ceux du Mercosur, non.",
+          "inferred": true,
+          "note": "La tribune dénonce l'absence de réciprocité normative pour les produits importés (contrôles allégés aux frontières, absence de garanties sur le bien-être animal), sans employer le terme de « clauses miroirs » ni en faire une proposition générale pour tous les accords."
         },
         {
-          "questionId": "lib-02",
-          "value": 1
-        },
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "refuser l’accord UE-Mercosur en l’état et enclencher sans tarder la procédure devant la CJUE pour en contester la validité",
+          "note": "Tribune cosignée par Xavier Bertrand ; elle demande à l'exécutif de refuser l'accord et de saisir la Cour de justice pour le suspendre."
+        }
+      ]
+    },
+    {
+      "id": "bertrand-nf-ivg",
+      "date": "2024-02-27",
+      "title": "Tribune de Xavier Bertrand pour inscrire l'IVG dans la Constitution",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.nousfrance.fr/2024/02/la-tribune-de-xavier-bertrand-pour-inscrire-livg-dans-la-constitution-nous-ne-securiserons-jamais-assez-les-droits-des-femmes/",
+      "publisher": "Nous France",
+      "summary": "Tribune signée Xavier Bertrand, publiée intégralement par son mouvement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "lib-05",
-          "value": 1
-        },
+          "questionId": "lib-08",
+          "value": 2,
+          "quote": "Je n’ai pas envie qu’un droit aussi fondamental pour les Françaises soit soumis demain à des revirements de jurisprudence !",
+          "note": "Il appelle explicitement les sénateurs LR à voter la loi constitutionnelle inscrivant l'IVG dans la Constitution, précisément pour la mettre à l'abri de toute remise en cause."
+        }
+      ]
+    },
+    {
+      "id": "bertrand-nf-ferroviaire",
+      "date": "2022-10-22",
+      "title": "Appel des présidents de quinze régions : « Pour un “new deal” ferroviaire », cosigné par Xavier Bertrand",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.nousfrance.fr/2022/10/lappel-des-presidents-de-15-regions-francaises-pour-un-new-deal-ferroviaire-a-la-mesure-des-crises-des-defis-de-nos-generations-et-du-changement-climatique/",
+      "publisher": "Nous France",
+      "summary": "Tribune collective cosignée par Xavier Bertrand comme président de la région Hauts-de-France, republiée par son mouvement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "edu-01",
-          "value": 1
-        },
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Europe, Etat, SNCF et collectivités s’engageraient à investir, sur une période de dix ans, entre 2023 et 2033, 10 milliards d’euros par an en moyenne.",
+          "note": "Tribune cosignée en 2022 comme président de région : plan de 100 milliards d'euros sur dix ans. L'effet sur la dette publique n'y est pas abordé."
+        }
+      ]
+    },
+    {
+      "id": "bertrand-nf-lpm",
+      "date": "2023-05-30",
+      "title": "Tribune de Xavier Bertrand : « Pourquoi il faut voter la loi de programmation militaire »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.nousfrance.fr/2023/05/xavier-bertrand-pourquoi-il-faut-voter-la-loi-de-programmation-militaire/",
+      "publisher": "Nous France",
+      "summary": "Tribune signée Xavier Bertrand, publiée intégralement par son mouvement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
         {
-          "questionId": "log-07",
-          "value": 2
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Soyons clairs, les orientations budgétaires proposées ne constituent qu’un minimum pour nos armées et leurs capacités opérationnelles",
+          "inferred": true,
+          "note": "Il juge la LPM 2024-2030 (413 Md€) insuffisante et plaide pour un effort de défense accru, mais ne cite aucune cible de 3 % du PIB."
+        }
+      ]
+    },
+    {
+      "id": "bertrand-nf-audiovisuel",
+      "date": "2026-01-06",
+      "title": "Tribune de Xavier Bertrand sur la commission d'enquête relative à l'audiovisuel public (Le Monde)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.nousfrance.fr/2026/01/xavier-bertrand-la-commission-denquete-parlementaire-sur-laudiovisuel-public-est-instrumentalisee-par-son-rapporteur-a-des-fins-ideologiques-le-monde/",
+      "publisher": "Nous France",
+      "summary": "Tribune signée Xavier Bertrand, publiée intégralement par son mouvement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Positions vérifiées contre le document officiel cité, avec citation textuelle jointe à chaque position (audit du 2026-09-20). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-02",
+          "value": -1,
+          "quote": "il ne s’agit plus de réfléchir à la réforme de l’audiovisuel public, à améliorer et à optimiser, mais de dénoncer, de chercher à discréditer, à casser, à mettre au pas pour mieux museler",
+          "inferred": true,
+          "note": "Il défend l'audiovisuel public contre une entreprise de démantèlement tout en appelant à sa réforme et à « la réduction des coûts qui s'impose à tous » : ni privatisation, ni statu quo."
         }
       ]
     }
