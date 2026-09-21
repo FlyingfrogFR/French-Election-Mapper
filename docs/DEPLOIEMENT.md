@@ -1,5 +1,29 @@
 # Déploiement
 
+## Mise en ligne, étape par étape
+
+1. **Fusionner la branche de travail dans `main`.** Le déploiement ne se déclenche que sur `main`
+   (`.github/workflows/deploy-pages.yml`), tout comme la checklist hebdomadaire.
+2. **Activer GitHub Pages** : dépôt → *Settings* → *Pages* → *Source* : **GitHub Actions**.
+   Aucune branche `gh-pages` n'est nécessaire.
+3. **Renseigner l'éditeur du site** : *Settings* → *Secrets and variables* → *Actions* → onglet
+   *Variables* → *New repository variable* :
+   - `VITE_OPERATOR_NAME` — nom du responsable de traitement (personne ou association) ;
+   - `VITE_OPERATOR_CONTACT` — adresse de contact pour les demandes RGPD.
+   Sans elles, les mentions légales et la politique de confidentialité affichent des crochets
+   à la place du nom et du contact : le site fonctionne, mais il n'est pas conforme.
+4. **Compléter l'hébergeur** dans `src/pages/Legal.tsx` (nom et adresse, obligation légale).
+5. **Pousser sur `main`** : l'action construit le site et le publie sur
+   `https://<compte>.github.io/<dépôt>/`. Le sous-chemin est géré automatiquement.
+6. **Vérifier** : le pied de page doit afficher la révision git déployée et l'empreinte du jeu de
+   données, identique à celle de `public/data/VERSION` pour cette révision.
+
+Domaine personnalisé : ajouter la variable `VITE_BASE_PATH` avec la valeur `/`, puis configurer le
+domaine dans *Settings* → *Pages*.
+
+Aucune autre configuration n'est nécessaire : ni base de données, ni clé d'API, ni service tiers.
+Le formulaire d'avis anonyme reste désactivé tant que `VITE_FEEDBACK_ENDPOINT` n'est pas définie.
+
 ## Prérequis
 
 Node.js 22 (`.nvmrc`), npm. Aucune base de données, aucun service tiers.
