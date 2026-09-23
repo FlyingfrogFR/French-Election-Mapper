@@ -61,6 +61,8 @@ interface Row {
   number: string;
   title: string;
   url: string;
+  /** Same document on another official address, for when the first one is refused. */
+  alt?: string;
 }
 
 const MONTHS: Record<string, string> = { janvier: '01', février: '02', mars: '03', avril: '04', mai: '05', juin: '06', juillet: '07', août: '08', septembre: '09', octobre: '10', novembre: '11', décembre: '12' };
@@ -99,13 +101,15 @@ function assemblee(): { who: string; rows: Row[] } | null {
     if (!date || date < since) continue;
     const num = String(d.notice?.numNotice ?? '').padStart(4, '0');
     const sub = d.classification?.sousType?.code;
-    const url =
+    // The open-data address works for every document type; the PDF is the printed text of a bill or resolution.
+    const opendata = `https://www.assemblee-nationale.fr/dyn/opendata/${d.uid}.html`;
+    const pdf =
       type === 'PION'
         ? `https://www.assemblee-nationale.fr/dyn/17/textes/l17b${num}_proposition-loi.pdf`
         : type === 'PNRE'
           ? `https://www.assemblee-nationale.fr/dyn/17/textes/l17b${num}_proposition-resolution${sub === 'TVXINSTITEUROP' ? '-europeenne' : ''}.pdf`
-          : `https://www.assemblee-nationale.fr/dyn/17/dossiers/${d.dossierRef}`;
-    rows.push({ date, kind: d.denominationStructurelle ?? type, role, number: String(Number(num)), title: d.titres?.titrePrincipal ?? '', url });
+          : null;
+    rows.push({ date, kind: d.denominationStructurelle ?? type, role, number: String(Number(num)), title: d.titres?.titrePrincipal ?? '', url: pdf ?? opendata, ...(pdf ? { alt: opendata } : {}) });
   }
   return { who: `député·e ${ref}`, rows };
 }
@@ -148,5 +152,5 @@ if (asJson) {
   console.log(JSON.stringify({ candidateId: id, parliamentarian: found.who, since, rows: found.rows }, null, 1));
 } else {
   console.log(`# ${candidate.displayName}, ${found.who} — ${found.rows.length} texte(s) depuis le ${since}`);
-  for (const r of found.rows) console.log(`${r.date} · ${r.kind} n°${r.number} · ${r.role}\n  ${r.title}\n  ${r.url}`);
+  for (const r of found.rows) console.log(`${r.date} · ${r.kind} n°${r.number} · ${r.role}\n  ${r.title}\n  ${r.url}${r.alt ? `\n  (aussi : ${r.alt})` : ''}`);
 }

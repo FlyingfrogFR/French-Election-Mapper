@@ -2,6 +2,102 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 11 août 2026 par Céline Thiébault-Martinez et des député·es de plusieurs groupes, dont Gabriel Attal (cosignataire). Le texte crée des unités de police et des juridictions spécialisées, renforce la réponse pénale, la protection des enfants et la prise en charge des victimes, et fixe une programmation budgétaire de trois milliards d'euros par an de 2027 à 2032.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Remplace le +2 de la restitution « Régalien » de mai 2025, même valeur : le texte chiffre le budget dédié (3 Md€ par an) et crée des juridictions spécialisées (article 5)."
+        }
+      ]
+    },
+    {
+      "id": "attal-2025-11-ppl-2107",
+      "date": "2025-11-18",
+      "title": "Proposition de loi n°2107 visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2107_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 18 novembre 2025 par Laure Miller, avec Gabriel Attal comme deuxième signataire (cosignataire), et des député·es de plusieurs groupes. Elle reprend des recommandations de la commission d'enquête sur TikTok : interdiction des réseaux sociaux aux moins de 15 ans avec vérification de l'âge, désactivation des comptes des mineurs de 22 heures à 8 heures, messages sanitaires, interdiction du téléphone portable étendue aux lycées et délit de négligence numérique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "L’article 6 vise à étendre aux lycées l’interdiction de l’utilisation des téléphones portables, dans les mêmes conditions que dans les autres établissements scolaires.",
+          "page": "8",
+          "note": "L'article 6 modifie l'article L. 511-5 du code de l'éducation pour étendre l'interdiction aux lycées."
+        }
+      ]
+    },
+    {
+      "id": "attal-2025-02-ppr-916",
+      "date": "2025-02-06",
+      "title": "Proposition de résolution européenne n°916 appelant au renforcement du soutien à l'Ukraine (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0916_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 6 février 2025 par Laurent Mazaury et des député·es de plusieurs groupes, dont Gabriel Attal (cosignataire). Elle appelle à poursuivre et accroître le soutien politique, économique et militaire à l'Ukraine, à renforcer les sanctions contre la Russie, à mettre en place des garanties de sécurité, à faciliter l'adhésion de l'Ukraine à l'Union européenne et à étendre l'utilisation des intérêts des avoirs russes immobilisés à la reconstruction.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-08",
+          "value": 1,
+          "quote": "Invite l’Union européenne et ses États membres à faciliter le processus d’adhésion de l’Ukraine à l’Union, et à faire en sorte qu’il aboutisse dans les meilleurs délais dans le respect des critères d’adhésion actuellement en vigueur ;",
+          "page": "10",
+          "note": "Soutien explicite à l'adhésion de l'Ukraine. Les Balkans occidentaux ne sont pas mentionnés, donc soutien partiel."
+        }
+      ]
+    },
+    {
+      "id": "attal-2024-10-ppl-447",
+      "date": "2024-10-15",
+      "title": "Proposition de loi n°447 contre toutes les fraudes aux aides publiques (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0447_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 15 octobre 2024 par Thomas Cazenave et d'autres député·es, dont Gabriel Attal (cosignataire). Elle prévoit la suspension du versement d'aides publiques en cas d'indices de fraude, élargit les échanges d'informations entre administrations (notamment entre préfectures et organismes de protection sociale) et renforce la lutte contre les fraudes à la rénovation énergétique et aux certificats d'économies d'énergie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "L’article 2 permet ensuite des échanges d’informations en matière de fraude à l’identité et documentaire entre services des préfectures et les organismes de protection sociale. La fraude à l’identité et documentaire est l’un des principaux supports des fraudes sociales.",
+          "page": "4",
+          "note": "Renforcement partiel de la lutte contre la fraude sociale (échanges d'informations, article 2 modifiant le code de la sécurité sociale ; suspension des aides, article 1er). Aucune carte Vitale biométrique ou fusionnée n'est proposée."
+        }
+      ]
+    },
+    {
       "id": "attal-2026-09-bfm-carburant",
       "date": "2026-09-21",
       "title": "Gabriel Attal sur BFM TV : « Le plus juste, c’est d’accompagner ceux qui travaillent »",

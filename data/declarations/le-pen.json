@@ -2,6 +2,140 @@
   "candidateId": "le-pen",
   "declarations": [
     {
+      "id": "le-pen-2026-06-ppl-2970",
+      "date": "2026-06-23",
+      "title": "Proposition de loi n°2970 visant à abroger les zones à faibles émissions-mobilités (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2970_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Pierre Meurin et d'autres députés, dont Marine Le Pen (cosignataire). Son article unique abroge les zones à faibles émissions-mobilités (ZFE-m) et les contrôles qui s'y rattachent, dans le code de l'environnement, le code général des collectivités territoriales et le code des transports.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Ainsi, l’article unique vise à abroger les ZFE. Le I supprime les ZFE, supprime les contrôles relatifs aux ZFE-m",
+          "page": "3",
+          "note": "Suppression explicite des ZFE, qui reprend la proposition de loi n°902 de février 2025. La valeur est la même que dans le programme législatif de juin 2024."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2025-04-ppl-1226",
+      "date": "2025-04-01",
+      "title": "Proposition de loi n°1226 portant programmation nationale et simplification normative dans le secteur économique de l'énergie (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1226_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Jean-Philippe Tanguy et d'autres députés, dont Marine Le Pen (cosignataire). Son dispositif reprend le texte de programmation énergétique adopté par le Sénat le 16 octobre 2024. L'exposé des motifs indique que ce dispositif ne correspond pas au projet du Rassemblement national. Il présente à la place les mesures du plan « Marie Curie » : moratoire sur les énergies intermittentes, sortie des règles européennes de tarification de l'électricité, deux programmes de cinq paires de réacteurs, fin de l'interdiction des véhicules thermiques en 2035.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Accélérer un premier programme de cinq paires de réacteurs nucléaires en choisissant le design le plus opérationnel, ouvert aux coopérations internationales, livrées entre 2034 et 2037.",
+          "page": "6",
+          "note": "L'exposé des motifs ajoute un deuxième programme de cinq paires de réacteurs livrés à partir de 2036. Le dispositif repris du Sénat prévoit lui aussi, en plus de six réacteurs, huit réacteurs de grande puissance supplémentaires engagés d'ici 2030. Le texte est aussi précis que le livret entreprise de 2024 et la valeur ne change pas."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Sortir des règles européennes de tarification de l’électricité au profit d’une fixation par l’État d’un prix national de l’électricité et de contractualisation multilatérale avec nos voisins européens.",
+          "page": "6",
+          "note": "Mesure du plan « Marie Curie », tirée de l'exposé des motifs. Le dispositif repris du Sénat ne traite pas de ce point. Le texte est plus précis que les 22 mesures de 2022 et la valeur ne change pas."
+        },
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Acter la fin de l’interdiction des véhicules thermiques en 2035 et promouvoir la neutralité technologique des choix des solutions de transport propre",
+          "page": "7",
+          "note": "Mesure du plan « Marie Curie », tirée de l'exposé des motifs. Le dispositif repris du Sénat ne traite pas de ce point. La valeur est la même que dans le programme législatif de juin 2024."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2024-09-ppl-284",
+      "date": "2024-09-18",
+      "title": "Proposition de loi n°284 visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l'âge de départ et le nombre d'annuités (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0284_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Thomas Ménagé, Marine Le Pen et les membres du groupe Rassemblement national (Marine Le Pen cosignataire selon les données de l'Assemblée). Elle revient sur les mesures d'âge et de durée de cotisation de la réforme des retraites de 2023 : l'âge d'ouverture des droits repasse à 62 ans et la durée de cotisation pour le taux plein est fixée à 168 trimestres.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "L’article 1er revient sur le paramètre de l’âge, en rétablissant l’âge d’ouverture des droits à 62 ans à compter de la génération 1955 (au lieu de 64 ans à compter de la génération 1968)",
+          "page": "7",
+          "note": "Abrogation des mesures d'âge (64 ans) et de durée de cotisation de la loi de 2023. Le texte est plus précis que le programme législatif de juin 2024 et la valeur ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2024-09-ppl-262",
+      "date": "2024-09-17",
+      "title": "Proposition de loi n°262 tendant à l'instauration de peines planchers pour certains crimes et délits (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0262_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Pascale Bordes, Marine Le Pen et les membres du groupe Rassemblement national (Marine Le Pen cosignataire selon les données de l'Assemblée). Elle rétablit des peines minimales d'emprisonnement, de réclusion ou de détention pour trois cas : les crimes et délits commis en récidive légale, le trafic de stupéfiants, et les infractions commises contre des personnes dépositaires de l'autorité publique. Le juge ne peut y déroger que par une décision spécialement motivée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "La présente proposition de loi instaure ainsi, pour les crimes (art. 1er) et pour les délits (art. 2) commis en état de récidive légale, relevant du trafic de drogue et commis contre une personne dépositaire de l’autorité publique ou assimilée, des seuils minimums d'emprisonnement",
+          "page": "4",
+          "note": "Rétablissement explicite des articles 132-18-1 et 132-19-1 du code pénal (peines planchers pour les récidivistes), avec une échelle de seuils. Le texte est plus précis que les 22 mesures de 2022 et la valeur ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2024-09-ppr-185",
+      "date": "2024-09-11",
+      "title": "Proposition de résolution n°185 appelant le Gouvernement à protéger les agriculteurs français en s'opposant fermement à l'adoption d'un accord commercial avec le Mercosur (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0185_proposition-resolution.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution présentée par Hélène Laporte, Marine Le Pen et les membres du groupe Rassemblement national (Marine Le Pen cosignataire selon les données de l'Assemblée). Elle appelle le Gouvernement à s'opposer à l'adoption d'un accord commercial UE-Mercosur reprenant l'accord d'association du 28 juin 2019. Le Gouvernement l'a déclarée irrecevable le 8 octobre 2024, et seul son titre est publié.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "appelant le Gouvernement à protéger les agriculteurs français en s’opposant fermement à l’adoption d’un accord commercial avec le Mercosur reprenant les dispositions de l’Accord d’association du 28 juin 2019",
+          "page": "1",
+          "note": "Le Gouvernement a déclaré le texte irrecevable le 8 octobre 2024 (article 34-1, alinéa 2, de la Constitution). Le document publié ne contient que le titre, qui énonce l'objet principal de la résolution. Même valeur que le projet agriculture de 2022."
+        }
+      ]
+    },
+    {
       "id": "le-pen-2026-09-petition-logement",
       "date": "2026-09-23",
       "title": "Pétition « Logement : avec Marine Le Pen, appliquons la priorité nationale »",

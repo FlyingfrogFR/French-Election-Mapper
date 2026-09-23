@@ -2,6 +2,199 @@
   "candidateId": "hollande",
   "declarations": [
     {
+      "id": "hollande-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane présentée par Céline Thiébault-Martinez, Guillaume Gouffier Valente, Yaël Braun-Pivet et de nombreux député·es, enregistrée le 11 août 2026. François Hollande en est cosignataire. Le texte crée notamment des unités de police et des juridictions spécialisées dans les violences sexuelles et intrafamiliales. Il programme aussi 3 milliards d'euros de crédits par an, de 2027 à 2032, pour la lutte contre ces violences.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Budget dédié de 3 Md€ par an de 2027 à 2032 (article 68). L'article 5 crée aussi des juridictions spécialisées dans les violences sexuelles et intrafamiliales dans chaque tribunal judiciaire."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-05-ppr-2854",
+      "date": "2026-05-29",
+      "title": "Proposition de résolution européenne n°2854 sur la maîtrise des usages et impacts des produits phytopharmaceutiques (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2854_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne présentée par Dominique Potier, Mélanie Thomin, Boris Vallaud et les membres du groupe Socialistes et apparentés, dont François Hollande, enregistrée le 29 mai 2026. Elle demande notamment à la Commission européenne de renforcer l'évaluation des produits phytopharmaceutiques. Elle lui demande aussi d'inscrire dans le droit européen des mesures miroirs applicables aux produits agricoles importés.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "inscrire dans le droit européen des mesures miroirs imposant le respect des règles européennes en matière d’usage des produits phytopharmaceutiques, pour l’ensemble des produits agricoles, horticoles et agroalimentaires importés",
+          "page": "31",
+          "note": "Point 11 de la résolution. Il demande aussi des mesures miroirs sur les médicaments vétérinaires et le bien-être animal, ainsi que la suspension des échanges avec les opérateurs qui ne les respectent pas. Il avait déjà cosigné la même demande dans la proposition de résolution européenne n°287 (24 septembre 2024)."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-02-ppl-2505",
+      "date": "2026-02-17",
+      "title": "Proposition de loi n°2505 visant à produire autrement, en garantissant un partage de la valeur et en réconciliant le monde agricole et la société (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2505_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Dominique Potier, Mélanie Thomin, Boris Vallaud, Fabrice Barusseau, Chantal Jourdan et les membres du groupe Socialistes et apparentés, dont François Hollande. Enregistrée le 17 février 2026, elle reprend le texte n°2311, retiré. Elle encadre les projets de stockage d'eau et interdit ceux destinés à l'irrigation alimentés par les eaux souterraines. Elle organise le plan Écophyto et prévoit des mesures de régulation des prix agricoles, dont des bornes de prix minimales et maximales dans certaines filières.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-13",
+          "value": -1,
+          "quote": "Aucun projet d’ouvrage de stockage de l’eau à usage d’irrigation agricole, alimenté par des prélèvements dans les eaux souterraines, ni les travaux et infrastructures associés, ne peut faire l’objet d’une autorisation environnementale.",
+          "page": "10",
+          "note": "Rejet partiel. Le texte interdit d'autoriser les ouvrages de stockage pour l'irrigation alimentés par les eaux souterraines. Les autres ouvrages restent possibles s'ils relèvent d'une maîtrise d'ouvrage publique et s'inscrivent dans les SDAGE, les SAGE et les projets territoriaux. Le mot « mégabassines » n'est pas employé."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-10-ppl-2010",
+      "date": "2025-10-28",
+      "title": "Proposition de loi n°2010 visant à instaurer le scrutin proportionnel pour les élections législatives (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2010_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane présentée par Erwan Balanant, Guillaume Gouffier Valente, Jérémie Iordanoff, Marie Récalde et d'autres député·es, dont François Hollande, enregistrée le 28 octobre 2025. Elle instaure un scrutin mixte : 347 député·es élu·es au scrutin majoritaire en circonscription et 230 sièges compensatoires répartis à la proportionnelle sur une liste nationale, avec un seuil de 4 %. Les mêmes député·es ont déposé le 13 octobre 2025 une proposition de loi organique au même objet (n°1905).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "L’article 1er définit les fondements du mode de scrutin. 347 sièges sont attribués dans des circonscriptions uninominales au scrutin majoritaire à deux tours. Ce mode de scrutin est familier des électeurs français. 230 sièges sont attribués sur une base compensatoire via une liste nationale unique.",
+          "page": "3",
+          "note": "Le texte cosigné introduit la proportionnelle aux législatives par un scrutin mixte compensatoire de 230 sièges sur 577, ce qui va au-delà d'une simple « part »."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-09-ppl-1795",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1795 d’expérimentation des brigades de tranquillité publique de la police nationale (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1795_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Roger Vicot et des député·es du groupe Socialistes et apparentés, dont François Hollande, enregistrée le 16 septembre 2025. Elle prévoit d'expérimenter pendant trois ans, dans des communes volontaires, des brigades de police nationale chargées de la proximité avec la population, aux côtés de la police d'investigation et de la police d'intervention. Une évaluation doit suivre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "Un tel dispositif permettrait de concevoir, d’appliquer et d’évaluer la police de proximité pour envisager ensuite sa généralisation, au bénéfice de la sécurité de nos concitoyens.",
+          "page": "5",
+          "note": "Confirme le +1 de la profession de foi de 2024. Le texte propose d'expérimenter une police de proximité en vue de sa généralisation éventuelle. Les brigades s'ajoutent « aux côtés » de la police d'intervention, sans priorité explicite sur elle."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-06-ppl-1555",
+      "date": "2025-06-10",
+      "title": "Proposition de loi n°1555 pour la reconquête du bâti rural (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1555_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Dominique Potier, Stéphane Delautrette, Boris Vallaud, Inaki Echaniz et d'autres député·es du groupe Socialistes et apparentés, dont François Hollande, enregistrée le 10 juin 2025. Elle crée une « Agence nouvelle ruralité », chargée de revitaliser le bâti rural et d'atteindre les objectifs de réduction de l'artificialisation des sols, ainsi qu'un livret d'épargne dédié. Elle étend la taxe sur les logements vacants et renforce la taxe sur la cession de terrains devenus constructibles.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "La tentation est grande, face à cette question sociale majeure, de remettre en cause l’urgence écologique, et c’est le sens des reculs opérés depuis 2023. Ce serait évidemment une faute politique que de poursuivre sur cette voie du renoncement",
+          "page": "4",
+          "inferred": true,
+          "note": "Dans l'exposé, ce passage suit la présentation du ZAN, qualifié de « virage vertueux ». L'article 1er donne à l'agence la mission d'« atteinte des objectifs de réduction du rythme d’artificialisation des sols ». Le maintien du ZAN n'est pas énoncé comme une mesure : position déduite."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-02-ppl-966",
+      "date": "2025-02-13",
+      "title": "Proposition de loi n°966 visant à lutter contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0966_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane présentée par Guillaume Garot, Philippe Vigier, Delphine Batho et d'autres député·es, dont François Hollande, enregistrée le 13 février 2025. Son article 1er soumet l'installation des médecins en ville à une autorisation de l'agence régionale de santé. Celle-ci est délivrée de droit en zone sous-dotée et, ailleurs, seulement si un médecin de la même spécialité cesse son activité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "L’installation d’un médecin en ville est soumise à l’autorisation préalable du directeur général de l’agence régionale de santé compétente après avis rendu dans les trente jours suivant sa saisine, du conseil départemental de l’ordre dont il relève.",
+          "page": "10",
+          "note": "Confirme le +2 de la profession de foi de 2024, avec un mécanisme précis de régulation de l'installation des médecins. Ce texte remplace la version du 3 décembre 2024 (n°682), qu'il avait aussi cosignée."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2024-12-ppl-682",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°682 contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0682_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 3 décembre 2024, présentée par Guillaume Garot ; François Hollande en est cosignataire. Outre la régulation de l’installation des médecins, elle prévoit notamment l’extinction progressive du secteur 2 « hors-OPTAM » par son interdiction pour les nouvelles installations, le plafonnement des dépassements d’honoraires dans l’activité libérale à l’hôpital, des mesures de formation et le rétablissement de l’obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 1,
+          "quote": "l’article 6 propose de mettre en place l’extinction progressive de la pratique d’honoraires de secteur 2 « hors-OPTAM » en l’interdisant pour toute nouvelle installation.",
+          "page": "11",
+          "note": "Mesure partielle : les dépassements non plafonnés sont interdits pour les nouvelles installations et plafonnés pour l’activité libérale à l’hôpital, sans interdiction ni plafonnement général, d’où +1. Position reprise de l'encodage relu pour les autres cosignataires du même texte : un texte cosigné engage chacun·e de ses signataires sur ses mesures (règle 8) ; cosignature attestée par les données ouvertes de l'Assemblée nationale."
+        }
+      ]
+    },
+    {
       "id": "hollande-2026-07-vote-reseaux-sociaux",
       "date": "2026-07-21",
       "title": "Scrutin public n°8431 — proposition de loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux (texte de la CMP)",
@@ -192,31 +385,6 @@
           "value": 1,
           "quote": "Scrutin public n°1473 sur l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
           "note": "Vote « Pour » un texte renforçant les moyens répressifs (parquet dédié, quartiers de lutte contre la criminalité organisée, texte adopté n°102) ; le caractère « principal » de la réponse répressive n’est pas établi : +1."
-        }
-      ]
-    },
-    {
-      "id": "hollande-2025-04-ppl-refugie-scientifique",
-      "date": "2025-04-17",
-      "title": "Proposition de loi n°1338 visant à créer le statut de réfugié scientifique (premier signataire : François Hollande)",
-      "sourceType": "autre",
-      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1338_proposition-loi.pdf",
-      "publisher": "Assemblée nationale",
-      "summary": "Proposition de loi présentée par François Hollande, enregistrée le 17 avril 2025, qui ajoute à la protection subsidiaire (article L. 512-1 du CESEDA) les scientifiques et chercheurs exposés à une atteinte grave à leur liberté académique.",
-      "review": {
-        "status": "pending",
-        "reviewers": [],
-        "reviewedOn": null,
-        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
-      },
-      "positions": [
-        {
-          "questionId": "imm-06",
-          "value": 1,
-          "quote": "lorsqu’ils sont entravés, menacés, censurés, les scientifiques doivent donc nécessairement pouvoir être reconnus comme des réfugiés à part entière.",
-          "page": "3",
-          "inferred": true,
-          "note": "Extension de la protection au titre de l’asile à une catégorie limitée (scientifiques et chercheurs menacés), l’exposé des motifs évoquant aussi un « visa scientifique d’urgence » : mesure partielle, position déduite."
         }
       ]
     },

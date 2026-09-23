@@ -2,6 +2,30 @@
   "candidateId": "faure",
   "declarations": [
     {
+      "id": "faure-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 11 août 2026 par Céline Thiébault-Martinez et des députés de plusieurs groupes, dont Olivier Faure (cosignataire). Elle prévoit notamment une définition pénale commune des violences sexuelles, sexistes et intrafamiliales, des formations spécialisées au sein des juridictions avec un juge et un procureur spécialisés (art. 5), un crime spécifique d'inceste et une programmation de 3 milliards d'euros par an de 2027 à 2032 (art. 68).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Même valeur que le projet socialiste du 2026-06-30 (2,6 Md€ par an) ; texte plus récent et au moins aussi précis : budget dédié de 3 Md€ par an de 2027 à 2032 (art. 68) et juridictions spécialisées avec un juge des violences sexuelles et intrafamiliales (art. 5)."
+        }
+      ]
+    },
+    {
       "id": "faure-2026-09-tract",
       "date": "2026-09-15",
       "title": "Tract de campagne « Avec Olivier Faure, faisons gagner la gauche en 2027 ! » (primaire Choisir 2027)",

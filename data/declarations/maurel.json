@@ -2,6 +2,80 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-04-ppl-2710",
+      "date": "2026-04-28",
+      "title": "Proposition de loi n°2710 visant à réformer les bourses sur critères sociaux et lutter contre la précarité étudiante (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2710_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 28 avril 2026 par Soumya Bourouaha et d'autres député·es, dont Emmanuel Maurel (cosignataire). Chaque année, les montants des bourses sur critères sociaux et les plafonds de ressources seraient revalorisés au moins au niveau de l'inflation, et les bourses seraient versées en douze mensualités.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Les montants des bourses d’enseignement supérieur sur critères sociaux et les plafonds de ressources prévus pour leur attribution font l’objet d’une revalorisation annuelle qui ne peut être inférieure à l’évolution de la moyenne annuelle des prix à la consommation",
+          "page": "5",
+          "inferred": true,
+          "note": "Déduit : l'indexation des plafonds sur l'inflation, que l'exposé présente comme un moyen de « stopper l'exclusion silencieuse de milliers d'étudiants », garde plus de familles éligibles que le droit actuel et coûte plus (le texte est gagé), mais n'élargit pas l'accès au-delà de la valeur réelle, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2025-09-ppl-1782",
+      "date": "2025-09-12",
+      "title": "Proposition de loi constitutionnelle n°1782 « Constitutionnaliser la sécurité sociale » (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1782_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi constitutionnelle déposée le 12 septembre 2025 par Yannick Monnet et seize autres député·es, dont Emmanuel Maurel (cosignataire). Elle inscrit dans la Constitution la sécurité sociale comme institution fondamentale de la République, fondée sur l'universalité, la solidarité nationale et le service public, et financée principalement par les cotisations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": -1,
+          "quote": "sauf à consentir à son étatisation complète et définitive, et partant à un changement radical et définitif de notre modèle de protection sociale. Telles sont les ambitions, pour exemple, des velléités de mise en œuvre d’une retraite par capitalisation ou de financiarisation de la dette sociale.",
+          "page": "6",
+          "inferred": true,
+          "note": "Déduit : l'exposé classe la retraite par capitalisation parmi les projets de « changement radical » du modèle et regrette que le Conseil constitutionnel n'ait pas écarté des mécanismes de capitalisation ; le dispositif (financement « principalement » par les cotisations) ne l'interdit pas, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2024-12-ppl-682",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°682 contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0682_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 3 décembre 2024, présentée par Guillaume Garot ; Emmanuel Maurel en est cosignataire. Outre la régulation de l’installation des médecins, elle prévoit notamment l’extinction progressive du secteur 2 « hors-OPTAM » par son interdiction pour les nouvelles installations, le plafonnement des dépassements d’honoraires dans l’activité libérale à l’hôpital, des mesures de formation et le rétablissement de l’obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 1,
+          "quote": "l’article 6 propose de mettre en place l’extinction progressive de la pratique d’honoraires de secteur 2 « hors-OPTAM » en l’interdisant pour toute nouvelle installation.",
+          "page": "11",
+          "note": "Mesure partielle : les dépassements non plafonnés sont interdits pour les nouvelles installations et plafonnés pour l’activité libérale à l’hôpital, sans interdiction ni plafonnement général, d’où +1. Position reprise de l'encodage relu pour les autres cosignataires du même texte : un texte cosigné engage chacun·e de ses signataires sur ses mesures (règle 8) ; cosignature attestée par les données ouvertes de l'Assemblée nationale."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-06-rapport-apprentissage",
       "date": "2026-06-30",
       "title": "Rapport d'information n°2992 sur les conséquences de la diminution des dépenses publiques en faveur de l'apprentissage depuis 2022",
@@ -29,7 +103,7 @@
       "id": "maurel-2026-04-ppl-prix-energie",
       "date": "2026-04-14",
       "title": "Proposition de loi n°2670 visant à bloquer les prix du gaz et des carburants et à encadrer les marges en période de crise (cosignataire)",
-      "sourceType": "autre",
+      "sourceType": "vote",
       "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2670_proposition-loi.pdf",
       "publisher": "Assemblée nationale",
       "summary": "Proposition de loi du groupe GDR, enregistrée le 14 avril 2026 et présentée par Julien Brugerolles. Emmanuel Maurel figure parmi les signataires. Pour six mois, renouvelables une fois, elle plafonne les prix de détail du gaz et des carburants et les marges des opérateurs, et abaisse la TVA sur ces produits à 5,5 %.",
@@ -84,7 +158,7 @@
       "id": "maurel-2025-10-ppl-proportionnelle",
       "date": "2025-10-28",
       "title": "Proposition de loi n°2010 visant à instaurer le scrutin proportionnel pour les élections législatives (cosignataire)",
-      "sourceType": "autre",
+      "sourceType": "vote",
       "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2010_proposition-loi.pdf",
       "publisher": "Assemblée nationale",
       "summary": "Proposition de loi transpartisane enregistrée le 28 octobre 2025, présentée par Erwan Balanant et d'autres députés. Emmanuel Maurel figure parmi les signataires. Le texte prévoit un scrutin mixte : 347 députés élus au scrutin majoritaire dans les circonscriptions et 230 sur une liste nationale compensatoire.",
@@ -108,7 +182,7 @@
       "id": "maurel-2025-09-ppr-agriculture-bio",
       "date": "2025-09-30",
       "title": "Proposition de résolution n°1867 visant à la sauvegarde du développement de l'agriculture biologique (cosignataire)",
-      "sourceType": "autre",
+      "sourceType": "vote",
       "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1867_proposition-resolution.pdf",
       "publisher": "Assemblée nationale",
       "summary": "Proposition de résolution transpartisane enregistrée le 30 septembre 2025, présentée par Pascal Lecamp et de nombreux députés de plusieurs groupes. Emmanuel Maurel figure parmi les signataires. Elle invite le Gouvernement à renforcer les soutiens à l'agriculture biologique, notamment le crédit d'impôt, et à rétablir des crédits prévus au budget 2026.",
@@ -132,7 +206,7 @@
       "id": "maurel-2025-09-ppre-acetamipride",
       "date": "2025-09-16",
       "title": "Proposition de résolution européenne n°1789 visant à interdire l'acétamipride dans l'Union européenne (cosignataire)",
-      "sourceType": "autre",
+      "sourceType": "vote",
       "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1789_proposition-resolution-europeenne.pdf",
       "publisher": "Assemblée nationale",
       "summary": "Proposition de résolution européenne enregistrée le 16 septembre 2025, présentée par Pierrick Courbon, Olivier Faure, François Ruffin et Emmanuel Maurel (quatrième signataire), avec d'autres députés. Elle critique la réautorisation des néonicotinoïdes prévue par la loi « Duplomb », demande leur interdiction dans l'UE et des clauses miroirs sur les produits agricoles importés.",
@@ -163,7 +237,7 @@
       "id": "maurel-2025-09-ppre-mercosur",
       "date": "2025-09-15",
       "title": "Proposition de résolution européenne n°1785 visant à empêcher la ratification de l'accord entre l'Union européenne et le Mercosur en demandant à l'État français la saisine de la Cour de justice de l'Union européenne pour cause d'incompatibilité de l'accord avec les traités européens (cosignataire)",
-      "sourceType": "autre",
+      "sourceType": "vote",
       "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1785_proposition-resolution-europeenne.pdf",
       "publisher": "Assemblée nationale",
       "summary": "Proposition de résolution européenne enregistrée le 15 septembre 2025, présentée par François Ruffin et de nombreux députés de plusieurs groupes. Emmanuel Maurel figure parmi les signataires. Le texte invite le Gouvernement à s'opposer au Conseil de l'UE à la signature, à l'application provisoire et à la conclusion de l'accord UE-Mercosur, et à saisir la Cour de justice.",
@@ -210,7 +284,7 @@
       "id": "maurel-2024-12-ppl-licenciements-boursiers",
       "date": "2024-12-03",
       "title": "Proposition de loi n°694 visant à encadrer le recours au licenciement économique et à interdire les licenciements dits « boursiers » (cosignataire)",
-      "sourceType": "autre",
+      "sourceType": "vote",
       "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0694_proposition-loi.pdf",
       "publisher": "Assemblée nationale",
       "summary": "Proposition de loi du groupe GDR, enregistrée le 3 décembre 2024 et présentée par Yannick Monnet et les membres du groupe, dont Emmanuel Maurel. Elle répute sans cause réelle et sérieuse tout licenciement économique décidé par une entreprise bénéficiaire ou ayant distribué des dividendes ou racheté ses actions au cours des deux derniers exercices.",
@@ -234,7 +308,7 @@
       "id": "maurel-2024-10-ppl-logement",
       "date": "2024-10-15",
       "title": "Proposition de loi n°362 visant à six mesures d'urgence pour le logement (cosignataire)",
-      "sourceType": "autre",
+      "sourceType": "vote",
       "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0362_proposition-loi.pdf",
       "publisher": "Assemblée nationale",
       "summary": "Proposition de loi enregistrée le 15 octobre 2024, présentée par Stéphane Peu avec des députés de plusieurs groupes. Emmanuel Maurel figure parmi les signataires. Elle supprime la réduction de loyer de solidarité, généralise la TVA à 5,5 % pour le logement HLM et la primo-accession, dézone le prêt à taux zéro et rétablit l'APL-accession.",

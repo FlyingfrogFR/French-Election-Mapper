@@ -2,6 +2,199 @@
   "candidateId": "guedj",
   "declarations": [
     {
+      "id": "guedj-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 11 août 2026 par Céline Thiébault-Martinez et des députés de plusieurs groupes, dont Jérôme Guedj, cosignataire. Elle crée notamment des juridictions spécialisées dans les violences sexuelles et intrafamiliales et programme 3 milliards d'euros de crédits par an de 2027 à 2032 pour la lutte contre ces violences.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Remplace le +1 du communiqué du 8 mars 2026 (« moyens à la hauteur », sans budget dédié ni juridictions spécialisées) : le texte cosigné programme 3 Md€ par an de 2027 à 2032 et crée des juridictions spécialisées dans les violences sexuelles et intrafamiliales (tribunal correctionnel dédié dans chaque tribunal judiciaire)."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-05-ppr-2854",
+      "date": "2026-05-29",
+      "title": "Proposition de résolution européenne n°2854 sur la maîtrise des usages et impacts des produits phytopharmaceutiques (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2854_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 29 mai 2026 par Dominique Potier, Mélanie Thomin, Boris Vallaud et les membres du groupe Socialistes et apparentés, dont Jérôme Guedj. Elle porte sur la réduction de l'usage et des impacts des pesticides et demande notamment à la Commission européenne d'inscrire dans le droit européen des mesures miroirs pour les produits agricoles importés et de supprimer les tolérances à l'importation pour les substances interdites dans l'Union.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "inscrire dans le droit européen des mesures miroirs imposant le respect des règles européennes en matière d’usage des produits phytopharmaceutiques, pour l’ensemble des produits agricoles, horticoles et agroalimentaires importés",
+          "page": "31",
+          "note": "Confirme le +2 du vote de janvier 2025 par un texte plus récent et au moins aussi précis : mesures miroirs dans le droit européen pour tous les produits agricoles importés, avec suspension des échanges avec les opérateurs qui ne les respectent pas."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-04-ppr-2741",
+      "date": "2026-04-29",
+      "title": "Proposition de résolution européenne n°2741 relative à la révision de la directive « Services de médias audiovisuels » et à la défense de l’exception culturelle européenne (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2741_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 29 avril 2026 par Emmanuel Maurel et des députés de plusieurs groupes, dont Jérôme Guedj, cosignataire. Elle invite le Gouvernement à défendre l'exception culturelle dans la révision de la directive « Services de médias audiovisuels », à aligner les obligations des plateformes numériques sur celles des chaînes linéaires et à préserver la possibilité pour chaque État membre d'imposer des obligations aux plateformes établies dans d'autres États.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Demande d’aligner l’ensemble des obligations des plateformes numériques sur celles des chaînes linéaires afin de lutter contre les asymétries réglementaires persistantes et injustifiées entre les acteurs nationaux et les plateformes numériques essentiellement extra-européennes",
+          "page": "10",
+          "note": "Mesure partielle : régulation audiovisuelle des plateformes (alignement sur les obligations des chaînes linéaires, possibilité pour chaque État membre d'imposer des obligations aux plateformes établies ailleurs), sans rien sur leur taxation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-02-ppl-2505",
+      "date": "2026-02-17",
+      "title": "Proposition de loi n°2505 visant à produire autrement, en garantissant un partage de la valeur et en réconciliant le monde agricole et la société (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2505_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 17 février 2026 par Dominique Potier, Mélanie Thomin, Boris Vallaud, Fabrice Barusseau, Chantal Jourdan et les membres du groupe Socialistes et apparentés, dont Jérôme Guedj. Elle porte sur la gestion de l'eau, l'élevage, la réduction des produits phytopharmaceutiques et le revenu agricole, et interdit notamment d'autoriser les ouvrages de stockage d'eau pour l'irrigation alimentés par des prélèvements dans les eaux souterraines.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-13",
+          "value": -1,
+          "quote": "Aucun projet d’ouvrage de stockage de l’eau à usage d’irrigation agricole, alimenté par des prélèvements dans les eaux souterraines, ni les travaux et infrastructures associés, ne peut faire l’objet d’une autorisation environnementale.",
+          "page": "10",
+          "note": "L'article 2 interdit l'autorisation des réserves d'irrigation remplies par pompage dans les nappes (type « mégabassines ») et soumet les autres projets de stockage d'eau à la planification SDAGE/SAGE et à une maîtrise d'ouvrage publique. (Valeur alignée sur celle retenue pour François Hollande, cosignataire du même texte : les ouvrages non alimentés par les nappes restent possibles, d'où −1.)"
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-01-ppl-2372",
+      "date": "2026-01-27",
+      "title": "Proposition de loi n°2372 visant à favoriser la mixité sociale et scolaire au sein des établissements scolaires (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2372_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 27 janvier 2026 par Fatiha Keloua Hachi, Boris Vallaud et des députés du groupe Socialistes et apparentés, dont Jérôme Guedj, cosignataire. Elle module les dotations des établissements scolaires publics et privés sous contrat selon un indicateur de mixité sociale et conditionne les contrats d'association des établissements privés à des objectifs de mixité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-04",
+          "value": 1,
+          "quote": "Il s’agit, en contrepartie, de donner moins aux établissements qui ne contribuent pas à l’objectif de mixité sociale, et notamment aux établissements privés.",
+          "page": "4",
+          "note": "Réduction conditionnelle : le texte revoit à la baisse les dotations des établissements privés sous contrat qui ne progressent pas en mixité sociale et conditionne leurs contrats d'association, sans baisse générale de leur financement public."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-09-ppl-1795",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1795 d’expérimentation des brigades de tranquillité publique de la police nationale (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1795_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 16 septembre 2025 par Roger Vicot et des députés du groupe Socialistes et apparentés, dont Jérôme Guedj, cosignataire. Elle prévoit l'expérimentation pendant trois ans, dans des communes volontaires, de « brigades de tranquillité publique » de la police nationale affectées à la proximité avec la population, en vue d'une éventuelle généralisation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "Un tel dispositif permettrait de concevoir, d’appliquer et d’évaluer la police de proximité pour envisager ensuite sa généralisation, au bénéfice de la sécurité de nos concitoyens.",
+          "page": "5",
+          "note": "Mesure partielle : expérimentation de trois ans de brigades de proximité « aux côtés de » la police d'investigation et d'intervention, en vue d'une éventuelle généralisation, sans les privilégier par rapport aux unités d'intervention."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-06-ppl-1555",
+      "date": "2025-06-10",
+      "title": "Proposition de loi n°1555 pour la reconquête du bâti rural (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1555_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 10 juin 2025 par Dominique Potier, Stéphane Delautrette, Boris Vallaud, Inaki Echaniz et des députés du groupe Socialistes et apparentés, dont Jérôme Guedj, cosignataire. Elle crée une Agence nouvelle ruralité chargée de la revitalisation du bâti rural, majore la taxe sur les logements vacants et étend la taxe sur les terrains rendus constructibles, dans la perspective de l'objectif de zéro artificialisation nette.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "La tentation est grande, face à cette question sociale majeure, de remettre en cause l’urgence écologique, et c’est le sens des reculs opérés depuis 2023. Ce serait évidemment une faute politique que de poursuivre sur cette voie du renoncement",
+          "page": "4",
+          "inferred": true,
+          "note": "Le passage suit la présentation du ZAN (« ce virage vertueux ») : le texte juge qu'une poursuite des reculs opérés depuis 2023 serait une faute politique et crée des outils pour atteindre l'objectif de zéro artificialisation nette en 2050. (Valeur alignée sur celle retenue pour François Hollande, cosignataire du même texte : le maintien du ZAN se déduit de l'exposé des motifs, d'où +1 déduit.)"
+        }
+      ]
+    },
+    {
+      "id": "guedj-2024-12-ppl-682",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°682 contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0682_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 3 décembre 2024, présentée par Guillaume Garot ; Jérôme Guedj en est cosignataire. Outre la régulation de l’installation des médecins, elle prévoit notamment l’extinction progressive du secteur 2 « hors-OPTAM » par son interdiction pour les nouvelles installations, le plafonnement des dépassements d’honoraires dans l’activité libérale à l’hôpital, des mesures de formation et le rétablissement de l’obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 1,
+          "quote": "l’article 6 propose de mettre en place l’extinction progressive de la pratique d’honoraires de secteur 2 « hors-OPTAM » en l’interdisant pour toute nouvelle installation.",
+          "page": "11",
+          "note": "Mesure partielle : les dépassements non plafonnés sont interdits pour les nouvelles installations et plafonnés pour l’activité libérale à l’hôpital, sans interdiction ni plafonnement général, d’où +1. Position reprise de l'encodage relu pour les autres cosignataires du même texte : un texte cosigné engage chacun·e de ses signataires sur ses mesures (règle 8) ; cosignature attestée par les données ouvertes de l'Assemblée nationale."
+        }
+      ]
+    },
+    {
       "id": "guedj-2026-09-engagements",
       "date": "2026-09-23",
       "title": "Mes premiers engagements — priorités de campagne",
