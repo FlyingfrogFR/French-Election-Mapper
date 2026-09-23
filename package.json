@@ -16,6 +16,7 @@
     "data:build": "tsx scripts/build-dataset.ts",
     "data:check-quotes": "tsx scripts/check-quotes.ts",
     "data:freshness": "tsx scripts/freshness.ts",
+    "data:parlement": "tsx scripts/parlement.ts",
     "data:search": "tsx scripts/search.ts",
     "data:source": "tsx scripts/source.ts",
     "data:validate": "tsx scripts/validate-data.ts",

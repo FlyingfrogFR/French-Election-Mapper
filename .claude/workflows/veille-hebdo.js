@@ -23,6 +23,8 @@ export const meta = {
 //   candidates: [{ id, name, status, positions, lastUpdated, since? }],   // `npm run -s data:freshness -- --json` → .candidates
 //                complement?: ['titre <url>', …] turns a candidate's mission into a catch-up pass after a first pass
 //                that could not search (it lists what the first pass already found).
+//                parliament?: true reviews every text the deputy or senator authored, co-signed or reported since
+//                `since`, from the official listing of `npm run data:parlement`.
 //   statusSweep?: true, critic?: true,
 // }
 
@@ -45,10 +47,12 @@ RÈGLES NON NÉGOCIABLES
 5. Date = date de publication du document (sur la page, dans le PDF ou dans l'URL). Page non datée : date de consultation, et le dire dans summary.
 6. Ne modifie AUCUN fichier du dépôt. Tu proposes ; d'autres vérifient ; l'intégration est faite à part. Tes fichiers de travail vont sous /tmp.
 7. Neutralité : le même soin pour chaque candidat·e. Titre, résumé et notes décrivent, sans qualifier ni commenter.
+8. Textes parlementaires. Un vote sur l'ensemble d'un texte à plusieurs mesures ne fonde de position que sur son objet principal, jamais sur une mesure secondaire. Une abstention ne fonde aucune position. Des votes contradictoires sur une même mesure non plus. Un texte déposé ou cosigné engage la personne sur chacune de ses mesures (elle en est coauteure). Un rapport ne l'engage que par ses recommandations ou propositions explicites, pas par la description d'un texte ou des débats. Une proposition de résolution qui crée une commission d'enquête ne fonde pas de position. Un objectif (« garantir des prix rémunérateurs ») n'est pas la mesure (« prix minimums garantis »).
 
 OUTILS
 - \`npm run -s data:brief -- <id>\` : statut, site officiel connu, déclarations déjà enregistrées (à ne jamais rajouter), et les 163 affirmations avec la position actuelle de la personne.
 - \`npm run -s data:source -- <url>\` : texte intégral d'une page ou d'un PDF tel que le contrôle le lira (pages protégées : navigateur headless automatique). Options : --grep="mots" (passages autour de chaque occurrence), --links (liens de la page), --quote="…" (contrôle d'une citation), --out=/tmp/fichier.txt.
+- \`npm run -s data:parlement -- <id>\` : pour un·e député·e ou sénateur·rice, liste officielle (données ouvertes) des propositions de loi et de résolution déposées ou cosignées et des rapports, avec leur URL.
 - \`npm run -s data:search -- "<requête>" [--days=N]\` : titres d'actualité datés (Google News), sans quota, pour REPÉRER ce qui a été publié (discours, tribune signée, lancement de programme). Un titre n'est jamais une source : trouve ensuite le document lui-même.
 - Canaux officiels à parcourir directement : rubriques Actualités / Communiqués / Tribunes / Discours, flux RSS (/feed/), sitemap.xml, API WordPress (/wp-json/wp/v2/posts?after=AAAA-MM-JJT00:00:00), données ouvertes de l'Assemblée et du Sénat.
 - WebSearch (charger avec ToolSearch "select:WebSearch,WebFetch") : quota partagé par tous les agents de la session et vite épuisé, donc 3 requêtes au plus par mission, après data:search et les canaux officiels. WebFetch sert à survoler une page, jamais à copier une citation (il résume).`
@@ -161,6 +165,17 @@ MISSION CIBLÉE. Une relecture de complétude signale ces publications possiblem
 ${hint.map((h) => `- ${h.date || 'date ?'} · ${h.title} · ${h.url}\n  (${h.why})`).join('\n')}
 Pour chacune : établis si c'est bien un document officiel au sens des règles, publié dans la période du ${since} au ${TODAY}, non déjà enregistré (data:brief). Si oui, lis-le en entier et encode-le selon les règles. Sinon, écarte-le et dis pourquoi dans problems.`
   }
+  if (c.parliament) {
+    return `${head}
+
+MISSION : TEXTES PARLEMENTAIRES. Pour que tou·tes les parlementaires soient cherché·es de la même façon, parcours la liste officielle des textes que ${c.name} a déposés, cosignés ou rapportés depuis le ${since} : \`npm run -s data:parlement -- ${c.id} --since=${since}\` (données ouvertes de l'Assemblée nationale ou du Sénat : même liste, même méthode pour tou·tes).
+1. \`npm run -s data:brief -- ${c.id}\` : les affirmations, la position actuelle sur chacune, et les déclarations déjà enregistrées (un texte déjà enregistré n'est pas à rajouter).
+2. Écarte d'abord, sur le titre, les textes sans rapport avec les 163 affirmations (ce sera la plupart). Pour chaque texte restant, lis l'exposé des motifs et le dispositif avec data:source (l'URL de la liste ; pour un rapport, la page du dossier mène au rapport).
+3. Encode selon les règles, en particulier la règle 8 : un texte déposé ou cosigné engage la personne sur chacune de ses mesures ; un rapport seulement par ses recommandations explicites. La citation vient du dispositif (un article) ou de l'exposé des motifs.
+4. Règle 4 : n'encode pas une affirmation déjà couverte par une source plus récente, sauf si ce texte est plus récent et au moins aussi précis. Si un texte plus ancien contredit la position actuelle, ne l'encode pas mais signale-le dans problems.
+5. Une déclaration par texte retenu : id « ${c.id}-AAAA-MM-<ppl|ppr|rapport>-<numéro> » ; date = date de dépôt ; sourceType « vote » (libellé « Vote ou proposition de loi ») pour une proposition de loi ou de résolution, « autre » pour un rapport ; titre « Proposition de loi n°… visant à … (cosignataire) » ou « (autrice) » selon le cas ; publisher « Assemblée nationale » ou « Sénat » ; summary : qui a déposé le texte, la place de la personne (autrice, cosignataire, rapporteure) et ce que le texte prévoit, sans commentaire. officialWebsite : chaîne vide.
+6. Dans searched : le nombre de textes listés et lus, puis chaque texte lu avec sa décision (retenu, sans rapport, moins précis qu'une source existante, contredit une source plus récente).`
+  }
   if (c.complement) {
     const firstPass = c.complement.length ? c.complement.map((x) => `- ${x}`).join('\n') : '(rien)'
     return `${head}
@@ -223,7 +238,7 @@ function provenancePrompt(c, proposal) {
 
 RELECTURE ADVERSE — PROVENANCE. Un·e chercheur·se propose d'ajouter les déclarations et positions ci-dessous pour ${c.name} (« ${c.id} »). Ton rôle : vérifier que chaque source est ce qu'elle prétend être. Dans le doute, rejette.
 Pour CHAQUE déclaration : ouvre la source. Est-ce un document officiel au sens de la règle 1 (publié par la personne, ou par son parti dont elle est la candidate désignée ; ni presse, ni comparateur, ni autre responsable du parti) ? La date est-elle bien la date de publication, dans la période du ${windowFor(c)} au ${TODAY} (ou, pour un premier encodage, 2022 ou après) ? Le titre, l'éditeur (publisher), le type (sourceType) et le résumé sont-ils exacts et neutres ? N'est-elle pas déjà enregistrée (\`npm run -s data:brief -- ${c.id}\`) ? Verdict accept | reject, avec des corrections mineures si besoin.
-Pour CHAQUE position : relance \`npm run -s data:source -- <url> --quote="<citation>"\` (url = sourceUrl de la position, sinon celle de la déclaration). « exact », ou « fuzzy » pour un PDF : accept ; sinon reject. Pour un vote : le nom de la personne figure-t-il dans la bonne liste (pour / contre) du scrutin cité ? Tu ne juges pas ici l'interprétation, seulement la provenance et l'exactitude de la citation.
+Pour CHAQUE position : relance \`npm run -s data:source -- <url> --quote="<citation>"\` (url = sourceUrl de la position, sinon celle de la déclaration). « exact », ou « fuzzy » pour un PDF : accept ; sinon reject. Pour un vote : le nom de la personne figure-t-il dans la bonne liste (pour / contre) du scrutin cité ? Pour une proposition de loi ou de résolution : figure-t-il parmi les auteur·rices ou cosignataires du texte, et la date est-elle celle du dépôt ? Tu ne juges pas ici l'interprétation, seulement la provenance et l'exactitude de la citation.
 websiteVerdict : accept si officialWebsite est bien le site officiel de la personne ou de sa campagne, reject sinon, none s'il est vide.
 
 PROPOSITION :

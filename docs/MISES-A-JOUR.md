@@ -25,7 +25,17 @@ Pour travailler à la main avec les mêmes outils :
 
 - `npm run data:brief -- <candidat>` : statut, déclarations déjà enregistrées, position actuelle sur chaque affirmation ;
 - `npm run data:source -- <url>` : texte d'une page ou d'un PDF tel que le contrôle des citations le lira ; `--quote="…"` vérifie une citation, `--grep="…"` montre les passages autour d'un mot, `--links` liste les liens de la page ;
-- `npm run data:search -- "<requête>" --days=N` : titres d'actualité datés, pour repérer ce qui a été publié (un titre n'est jamais une source).
+- `npm run data:search -- "<requête>" --days=N` : titres d'actualité datés, pour repérer ce qui a été publié (un titre n'est jamais une source) ;
+- `npm run data:parlement -- <candidat>` : pour un·e député·e ou sénateur·rice, la liste officielle (données ouvertes de l'Assemblée nationale ou du Sénat) des propositions de loi et de résolution déposées ou cosignées et des rapports, depuis le début de la législature. La même liste, produite de la même façon, sert pour chaque parlementaire.
+
+### Textes parlementaires
+
+Un vote ou un texte parlementaire ne se lit pas comme un programme. La procédure (règle 8) retient donc ceci :
+
+- un vote sur l'ensemble d'un texte à plusieurs mesures ne fonde de position que sur son objet principal, jamais sur une mesure secondaire ;
+- une abstention ne fonde aucune position, pas plus que des votes contradictoires sur une même mesure ;
+- une proposition de loi ou de résolution déposée ou cosignée engage la personne sur chacune de ses mesures, puisqu'elle en est coautrice ;
+- un rapport n'engage son ou sa rapporteur·e que par ses recommandations explicites.
 
 La recherche web intégrée aux agents a un quota par session, que 33 recherches parallèles épuisent vite : la première veille (23 septembre 2026) l'a atteint en cours de route. Les agents passent donc d'abord par `data:search` et les canaux officiels (flux RSS, sitemap, API WordPress, données ouvertes du Parlement), et une passe de complément reprend les candidat·es dont la recherche a été privée de moteur, pour que chacun·e soit cherché·e avec le même soin.
 
