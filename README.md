@@ -18,7 +18,9 @@ Pour qu'on puisse vérifier qu'aucune position n'est déformée :
 
 ## Mises à jour hebdomadaires
 
-Chaque lundi, une action GitHub ouvre une checklist listant tous les candidat·es, leur couverture et leur dernière déclaration ([docs/MISES-A-JOUR.md](docs/MISES-A-JOUR.md)). Les nouvelles déclarations sont ajoutées par pull request ; chaque fusion redéploie le site, met à jour le journal public `/mises-a-jour` et le flux RSS `data/updates.xml`.
+Chaque lundi, une action GitHub ouvre une checklist listant tous les candidat·es, leur couverture et leur dernière déclaration. Une **veille automatisée** passe ensuite en revue les publications officielles de chacun·e et propose les ajouts par pull request, après deux relectures adverses indépendantes ; **rien n'est publié sans qu'une personne fusionne la pull request**. Les instructions exactes données à cette veille sont publiques : [`.claude/workflows/veille-hebdo.js`](.claude/workflows/veille-hebdo.js) ([docs/MISES-A-JOUR.md](docs/MISES-A-JOUR.md)).
+
+Chaque fusion redéploie le site, met à jour le journal public `/mises-a-jour` et le flux RSS `data/updates.xml`.
 
 ## RGPD
 
@@ -33,7 +35,7 @@ npm run check     # validation des données, types, tests, serveur
 npm run build     # site statique dans dist/
 ```
 
-Scripts de données : `npm run data:validate`, `npm run data:build`, `npm run data:freshness -- --markdown`.
+Scripts de données : `npm run data:validate`, `npm run data:build`, `npm run data:freshness -- --markdown`, `npm run data:check-quotes`, et pour préparer une déclaration `npm run data:brief -- <candidat>`, `npm run data:source -- <url>`, `npm run data:search -- "<requête>"` et, pour les parlementaires, `npm run data:parlement -- <candidat>`.
 
 ## État des données
 

@@ -2,6 +2,161 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-09-breve-violences-sexistes",
+      "date": "2026-09-21",
+      "title": "Violences sexistes et sexuelles : des mots, toujours des mots… (brève)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/violences-sexistes-sexuelles-mots-toujours-mots-197245.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève du site de Lutte ouvrière (21/09/2026) qui juge insuffisant le 1,5 milliard d'euros annoncé par Lecornu contre les violences sexistes et sexuelles et reprend l'estimation d'au moins 3 milliards avancée par les associations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "Outre que la somme recouvre des dépenses déjà existantes, le compte n'y est pas puisque les associations estiment à au moins 3 milliards d'euros le minimum nécessaire pour financer leur action. Ce n'est pas la mer à boire, mais le gouvernement préfère combler Dassault et les galonnés de l'armée.",
+          "note": "Brève du parti : soutient un budget d'au moins 3 milliards ; la brève du 16/09 (« l'entourloupe budgétaire ») estime en revanche que « ce ne sont pas des policiers et des juges en plus » qui feront reculer ces violences, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-09-edito-racket",
+      "date": "2026-09-21",
+      "title": "Carburants, prix, budget : stop au racket ! (éditorial)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/carburants-prix-budget-stop-racket-197249.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud (21/09/2026) sur la hausse des carburants et le projet de budget Lecornu : elle dénonce les 54 milliards d'économies (médicaments moins remboursés, APL gelées et supprimées pour les étrangers sans plusieurs années de résidence, retraités visés), juge la baisse des taxes « solution en trompe-l'œil » et demande que salaires, allocations et pensions rattrapent les prix.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-06",
+          "value": -2,
+          "quote": "les supprimer pour les étrangers qui n’auront pas plusieurs années de résidence en France. Les travailleurs étrangers auraient donc le droit de se casser le dos sur les chantiers, de porter les sacs de ciment pour construire des logements, mais pas de bénéficier de la moindre aide pour s’y loger !",
+          "inferred": true,
+          "note": "Rejette la suppression des APL pour les étrangers n'ayant pas plusieurs années de résidence ; la durée de cinq ans et les autres prestations ne sont pas discutées."
+        },
+        {
+          "questionId": "san-04",
+          "value": -1,
+          "quote": "Non, il s’attaque aux malades, aux travailleurs, aux locataires, aux retraités. Il veut bloquer le salaire des fonctionnaires, moins rembourser les médicaments,",
+          "inferred": true,
+          "note": "La hausse des franchises n'est pas nommée : l'éditorial range la baisse du remboursement des médicaments prévue au budget parmi les attaques contre les malades. (Force ramenée de -2 à -1 en relecture : La citation est vérifiée « exact » et le sens est juste : « moins rembourser les médicaments » est rangé parmi les attaques contre « les malades ». Mais les franchises et participations forfaitaires ne sont pas nommées. La mesure du budget visée (baisse des taux, déremboursement ou franchises) n'est pas précisée, et la mention se trouve dans une liste de griefs. Le rejet de la mesure voisine se déduit, mais il ne justifie qu'une orientation (−1), pas un rejet explicite. La position est bien marquée « inferred ».)"
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-09-edito-guerre-travailleurs",
+      "date": "2026-09-14",
+      "title": "Non à la guerre entre travailleurs ! (éditorial)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/non-guerre-entre-travailleurs-197063.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud (14/09/2026) qui répond à l'entrée en campagne de Marine Le Pen, rejette la « préférence nationale » et la suppression des APL pour une partie des travailleurs, et évoque la grève du 29 septembre dans la fonction publique comme « le problème de tous les salariés ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "C’est d’instituer « la préférence nationale ». Elle veut priver de logement des aides à domicile, des ouvriers, des agents d’entretien…, enfin tous ceux indispensables à la marche de la société.",
+          "note": "Rejet explicite de la « préférence nationale » proposée par Le Pen pour le logement ; l'emploi n'est pas évoqué dans ce passage."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-09-revue-presidentielle",
+      "date": "2026-09-13",
+      "title": "Présidentielle : face à un Medef qui dicte son programme, affirmer les intérêts des travailleurs (Lutte de classe n° 258)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/mensuel/article/presidentielle-face-medef-dicte-programme-affirmer-interets-travailleurs-197034.html",
+      "publisher": "Lutte ouvrière (revue Lutte de classe)",
+      "summary": "Article non signé de la revue Lutte de classe de Lutte ouvrière (n° 258, texte daté du 7 septembre 2026, mis en ligne le 13/09/2026) sur la campagne présidentielle et le sens de la candidature de Nathalie Arthaud ; il présente comme des exigences du patronat l'allongement du temps de travail, le recul de l'âge de départ à 65 ou 67 ans et la baisse des cotisations et des impôts des entreprises, et qualifie de « choquantes » des propositions de Marine Le Pen, dont un référendum pour interdire le voile dans l'espace public.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "Elle fait donc diversion en lançant des propositions choquantes, comme celle d’organiser un référendum pour interdire le voile dans l’espace public.",
+          "inferred": true,
+          "note": "Texte du parti : le référendum pour interdire le voile dans l'espace public proposé par Le Pen est qualifié de proposition « choquante » ; les autres signes religieux ne sont pas évoqués. (Force ramenée de -2 à -1 en relecture : La citation est vérifiée « exact ». L'article non signé du parti qualifie de « choquantes » les propositions de Le Pen, dont un référendum pour interdire le voile dans l'espace public, et y voit une recherche de « boucs émissaires ». Le sens négatif est clair, et la déduction vers l'ensemble des signes religieux est correcte, puisque l'interdiction générale inclut le voile. Mais le texte ne rejette pas la mesure comme une position programmatique : il la mentionne en passant, par un seul adjectif, dans un paragraphe consacré à la « diversion ». Il s'agit donc d'une orientation déduite, soit −1 et non −2. La position est bien marquée « inferred ».)"
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-09-edito-mensonges-patronaux",
+      "date": "2026-09-07",
+      "title": "Face aux mensonges patronaux, affirmer les intérêts des travailleurs ! (éditorial)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/face-mensonges-patronaux-affirmer-interets-travailleurs-196842.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud (07/09/2026) qui présente comme des affirmations patronales « Il y a trop d'impôts et de charges » ou « Il faut travailler plus », et demande qu'on prenne sur les profits pour augmenter les salaires, assurer un Smic à 2 200 € net et répartir le travail entre tous.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "En prenant sur les profits, bien sûr que l’on peut augmenter les salaires et assurer un Smic à 2200 € net.",
+          "note": "Smic à 2 200 € net financé en prenant sur les profits ; le texte ne dit pas si la hausse passe par une décision de l'État ou par les luttes."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -1,
+          "quote": "Il serait possible d’alléger les cadences et les horaires. L’objectif ne doit pas être de travailler plus, mais de travailler tous.",
+          "inferred": true,
+          "note": "Rejette l'injonction à « travailler plus » présentée comme un mensonge patronal ; la durée légale de 35 heures n'est pas nommée. (Force ramenée de -2 à -1 en relecture : La citation est vérifiée « exact » et le sens est juste. La candidate range « Il faut travailler plus » parmi les affirmations patronales et écrit « L'objectif ne doit pas être de travailler plus, mais de travailler tous ». Son opposition à un relèvement de la durée légale s'en déduit. Mais ni les 35 heures ni la durée légale ne sont nommées, et « travailler plus » peut viser d'autres mesures (retraites, congés). Le passage sur l'allègement des horaires porte sur des groupes comme Renault ou Stellantis. Il s'agit donc d'une orientation déduite, qui justifie −1 et non −2 : une valeur de ±2 suppose une mesure explicitement rejetée.)"
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-09-edito-medef",
+      "date": "2026-09-02",
+      "title": "Nathalie Arthaud : le camp des travailleurs, pas celui du Medef ! (éditorial, Lutte ouvrière n° 3031)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/journal/article/nathalie-arthaud-camp-travailleurs-celui-medef-196731.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud, publié le 02/09/2026 dans l'hebdomadaire Lutte ouvrière (reprise de l'éditorial des bulletins d'entreprise du 31 août 2026), sur le débat des candidats organisé par le Medef le 27 août. Elle y réaffirme sa candidature et demande qu'on prenne sur les profits pour répartir le travail et assurer à chacun au moins 2 200 euros net.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "C’est en prenant sur les profits qu’on pourra répartir le travail entre tous et permettre à chaque travailleur de s’en sortir avec un salaire, un revenu ou une pension d’au moins 2 200 euros net.",
+          "inferred": true,
+          "note": "Revendique une pension d'au moins 2 200 € net pour chaque travailleur, soit au-dessus du Smic net ; la condition de carrière complète n'est pas discutée (plus récent que la profession de foi 2022 à 2 000 €)."
+        }
+      ]
+    },
+    {
       "id": "arthaud-lo-brochure-2027",
       "date": "2026-06-26",
       "title": "Nathalie Arthaud – Présidentielle 2027 : brochure de campagne (supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",

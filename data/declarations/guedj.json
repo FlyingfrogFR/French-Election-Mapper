@@ -1,4 +1,946 @@
 {
   "candidateId": "guedj",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "guedj-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 11 août 2026 par Céline Thiébault-Martinez et des députés de plusieurs groupes, dont Jérôme Guedj, cosignataire. Elle crée notamment des juridictions spécialisées dans les violences sexuelles et intrafamiliales et programme 3 milliards d'euros de crédits par an de 2027 à 2032 pour la lutte contre ces violences.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Remplace le +1 du communiqué du 8 mars 2026 (« moyens à la hauteur », sans budget dédié ni juridictions spécialisées) : le texte cosigné programme 3 Md€ par an de 2027 à 2032 et crée des juridictions spécialisées dans les violences sexuelles et intrafamiliales (tribunal correctionnel dédié dans chaque tribunal judiciaire)."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-05-ppr-2854",
+      "date": "2026-05-29",
+      "title": "Proposition de résolution européenne n°2854 sur la maîtrise des usages et impacts des produits phytopharmaceutiques (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2854_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 29 mai 2026 par Dominique Potier, Mélanie Thomin, Boris Vallaud et les membres du groupe Socialistes et apparentés, dont Jérôme Guedj. Elle porte sur la réduction de l'usage et des impacts des pesticides et demande notamment à la Commission européenne d'inscrire dans le droit européen des mesures miroirs pour les produits agricoles importés et de supprimer les tolérances à l'importation pour les substances interdites dans l'Union.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "inscrire dans le droit européen des mesures miroirs imposant le respect des règles européennes en matière d’usage des produits phytopharmaceutiques, pour l’ensemble des produits agricoles, horticoles et agroalimentaires importés",
+          "page": "31",
+          "note": "Confirme le +2 du vote de janvier 2025 par un texte plus récent et au moins aussi précis : mesures miroirs dans le droit européen pour tous les produits agricoles importés, avec suspension des échanges avec les opérateurs qui ne les respectent pas."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-04-ppr-2741",
+      "date": "2026-04-29",
+      "title": "Proposition de résolution européenne n°2741 relative à la révision de la directive « Services de médias audiovisuels » et à la défense de l’exception culturelle européenne (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2741_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 29 avril 2026 par Emmanuel Maurel et des députés de plusieurs groupes, dont Jérôme Guedj, cosignataire. Elle invite le Gouvernement à défendre l'exception culturelle dans la révision de la directive « Services de médias audiovisuels », à aligner les obligations des plateformes numériques sur celles des chaînes linéaires et à préserver la possibilité pour chaque État membre d'imposer des obligations aux plateformes établies dans d'autres États.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Demande d’aligner l’ensemble des obligations des plateformes numériques sur celles des chaînes linéaires afin de lutter contre les asymétries réglementaires persistantes et injustifiées entre les acteurs nationaux et les plateformes numériques essentiellement extra-européennes",
+          "page": "10",
+          "note": "Mesure partielle : régulation audiovisuelle des plateformes (alignement sur les obligations des chaînes linéaires, possibilité pour chaque État membre d'imposer des obligations aux plateformes établies ailleurs), sans rien sur leur taxation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-02-ppl-2505",
+      "date": "2026-02-17",
+      "title": "Proposition de loi n°2505 visant à produire autrement, en garantissant un partage de la valeur et en réconciliant le monde agricole et la société (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2505_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 17 février 2026 par Dominique Potier, Mélanie Thomin, Boris Vallaud, Fabrice Barusseau, Chantal Jourdan et les membres du groupe Socialistes et apparentés, dont Jérôme Guedj. Elle porte sur la gestion de l'eau, l'élevage, la réduction des produits phytopharmaceutiques et le revenu agricole, et interdit notamment d'autoriser les ouvrages de stockage d'eau pour l'irrigation alimentés par des prélèvements dans les eaux souterraines.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-13",
+          "value": -1,
+          "quote": "Aucun projet d’ouvrage de stockage de l’eau à usage d’irrigation agricole, alimenté par des prélèvements dans les eaux souterraines, ni les travaux et infrastructures associés, ne peut faire l’objet d’une autorisation environnementale.",
+          "page": "10",
+          "note": "L'article 2 interdit l'autorisation des réserves d'irrigation remplies par pompage dans les nappes (type « mégabassines ») et soumet les autres projets de stockage d'eau à la planification SDAGE/SAGE et à une maîtrise d'ouvrage publique. (Valeur alignée sur celle retenue pour François Hollande, cosignataire du même texte : les ouvrages non alimentés par les nappes restent possibles, d'où −1.)"
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-01-ppl-2372",
+      "date": "2026-01-27",
+      "title": "Proposition de loi n°2372 visant à favoriser la mixité sociale et scolaire au sein des établissements scolaires (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2372_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 27 janvier 2026 par Fatiha Keloua Hachi, Boris Vallaud et des députés du groupe Socialistes et apparentés, dont Jérôme Guedj, cosignataire. Elle module les dotations des établissements scolaires publics et privés sous contrat selon un indicateur de mixité sociale et conditionne les contrats d'association des établissements privés à des objectifs de mixité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-04",
+          "value": 1,
+          "quote": "Il s’agit, en contrepartie, de donner moins aux établissements qui ne contribuent pas à l’objectif de mixité sociale, et notamment aux établissements privés.",
+          "page": "4",
+          "note": "Réduction conditionnelle : le texte revoit à la baisse les dotations des établissements privés sous contrat qui ne progressent pas en mixité sociale et conditionne leurs contrats d'association, sans baisse générale de leur financement public."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-09-ppl-1795",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1795 d’expérimentation des brigades de tranquillité publique de la police nationale (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1795_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 16 septembre 2025 par Roger Vicot et des députés du groupe Socialistes et apparentés, dont Jérôme Guedj, cosignataire. Elle prévoit l'expérimentation pendant trois ans, dans des communes volontaires, de « brigades de tranquillité publique » de la police nationale affectées à la proximité avec la population, en vue d'une éventuelle généralisation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "Un tel dispositif permettrait de concevoir, d’appliquer et d’évaluer la police de proximité pour envisager ensuite sa généralisation, au bénéfice de la sécurité de nos concitoyens.",
+          "page": "5",
+          "note": "Mesure partielle : expérimentation de trois ans de brigades de proximité « aux côtés de » la police d'investigation et d'intervention, en vue d'une éventuelle généralisation, sans les privilégier par rapport aux unités d'intervention."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-06-ppl-1555",
+      "date": "2025-06-10",
+      "title": "Proposition de loi n°1555 pour la reconquête du bâti rural (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1555_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 10 juin 2025 par Dominique Potier, Stéphane Delautrette, Boris Vallaud, Inaki Echaniz et des députés du groupe Socialistes et apparentés, dont Jérôme Guedj, cosignataire. Elle crée une Agence nouvelle ruralité chargée de la revitalisation du bâti rural, majore la taxe sur les logements vacants et étend la taxe sur les terrains rendus constructibles, dans la perspective de l'objectif de zéro artificialisation nette.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "La tentation est grande, face à cette question sociale majeure, de remettre en cause l’urgence écologique, et c’est le sens des reculs opérés depuis 2023. Ce serait évidemment une faute politique que de poursuivre sur cette voie du renoncement",
+          "page": "4",
+          "inferred": true,
+          "note": "Le passage suit la présentation du ZAN (« ce virage vertueux ») : le texte juge qu'une poursuite des reculs opérés depuis 2023 serait une faute politique et crée des outils pour atteindre l'objectif de zéro artificialisation nette en 2050. (Valeur alignée sur celle retenue pour François Hollande, cosignataire du même texte : le maintien du ZAN se déduit de l'exposé des motifs, d'où +1 déduit.)"
+        }
+      ]
+    },
+    {
+      "id": "guedj-2024-12-ppl-682",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°682 contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0682_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 3 décembre 2024, présentée par Guillaume Garot ; Jérôme Guedj en est cosignataire. Outre la régulation de l’installation des médecins, elle prévoit notamment l’extinction progressive du secteur 2 « hors-OPTAM » par son interdiction pour les nouvelles installations, le plafonnement des dépassements d’honoraires dans l’activité libérale à l’hôpital, des mesures de formation et le rétablissement de l’obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 1,
+          "quote": "l’article 6 propose de mettre en place l’extinction progressive de la pratique d’honoraires de secteur 2 « hors-OPTAM » en l’interdisant pour toute nouvelle installation.",
+          "page": "11",
+          "note": "Mesure partielle : les dépassements non plafonnés sont interdits pour les nouvelles installations et plafonnés pour l’activité libérale à l’hôpital, sans interdiction ni plafonnement général, d’où +1. Position reprise de l'encodage relu pour les autres cosignataires du même texte : un texte cosigné engage chacun·e de ses signataires sur ses mesures (règle 8) ; cosignature attestée par les données ouvertes de l'Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-09-engagements",
+      "date": "2026-09-23",
+      "title": "Mes premiers engagements — priorités de campagne",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.jeromeguedj2027.fr/",
+      "publisher": "Jérôme Guedj 2027 (site de campagne)",
+      "summary": "Page non datée, consultée le 23 septembre 2026 : le site de campagne présente sept priorités (soin, travail et pouvoir d'achat, laïcité, souveraineté, école, écologie, immigration), chacune détaillée sur une page dédiée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-03",
+          "value": 1,
+          "quote": "Je veux une France qui réindustrialise ses secteurs stratégiques, qui investit dans les technologies d'avenir et l'intelligence artificielle plutôt que de les subir, et qui bâtit avec ses partenaires une Europe enfin capable de se défendre et de peser.",
+          "sourceUrl": "https://www.jeromeguedj2027.fr/priorites/souverainete-liberte",
+          "note": "Il souhaite une Europe « capable de se défendre » sans détailler de défense commune intégrée : orientation."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Je veux concentrer l'effort de la République là où il est le plus nécessaire : mieux former et mieux payer les enseignants, réduire le nombre d'élèves par classe dans les territoires en difficulté, et refuser que la carte scolaire devienne une carte sociale.",
+          "sourceUrl": "https://www.jeromeguedj2027.fr/priorites/ecole-emancipation",
+          "note": "Il veut « mieux payer les enseignants », sans parler de forte revalorisation ni de priorité sur les autres dépenses : orientation."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 1,
+          "quote": "Je veux concentrer l'effort de la République là où il est le plus nécessaire : mieux former et mieux payer les enseignants, réduire le nombre d'élèves par classe dans les territoires en difficulté, et refuser que la carte scolaire devienne une carte sociale.",
+          "sourceUrl": "https://www.jeromeguedj2027.fr/priorites/ecole-emancipation",
+          "note": "Il veut concentrer l'effort sur les territoires en difficulté (moins d'élèves par classe) sans chiffrer une forte hausse des moyens de l'éducation prioritaire : orientation."
+        },
+        {
+          "questionId": "env-05",
+          "value": 1,
+          "quote": "Je crois à une écologie du concret : planifiée par l'État, financée dans la durée, et juste dans la répartition de ses efforts.",
+          "sourceUrl": "https://www.jeromeguedj2027.fr/priorites/ecologie-du-concret",
+          "note": "Il défend une écologie « planifiée par l'État » sans mentionner d'objectifs sectoriels contraignants : orientation."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "Je veux redonner à l'hôpital public les moyens de sa mission, redonner aux territoires abandonnés des médecins et des soignants formés et respectés",
+          "sourceUrl": "https://www.jeromeguedj2027.fr/priorites/republique-du-soin",
+          "note": "Il veut redonner des moyens à l'hôpital public sans plan chiffré d'embauches ni de revalorisations : orientation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-09-lettre",
+      "date": "2026-09-23",
+      "title": "Lettre de candidature à l'élection présidentielle de 2027",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.jeromeguedj2027.fr/lettre",
+      "publisher": "Jérôme Guedj 2027 (site de campagne)",
+      "summary": "Page non datée, consultée le 23 septembre 2026 : lettre de candidature exposant ses orientations sur le pouvoir d'achat, la justice fiscale, l'école, l'écologie, la sécurité, une immigration planifiée, l'Europe et la défense.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "c'est le sens d'un vrai patriotisme économique, qui mise sur nos filières, protège nos emplois et refuse la concurrence déloyale sociale et environnementale.",
+          "note": "Il défend un « patriotisme économique » protégeant filières et emplois sans détailler d'aides ciblées ni de mesures de protection commerciale : orientation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-07-vote-reseaux-sociaux",
+      "date": "2026-07-21",
+      "title": "Scrutin public n°8431 — proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » le texte de la commission mixte paritaire (vote personnel, 21 juillet 2026) ; le texte adopté est le n°339.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "L’accès à un service de réseaux sociaux en ligne fourni par une plateforme en ligne est interdit aux mineurs de quinze ans.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0339.html",
+          "note": "Il a voté « Pour » le texte définitif, dont la mesure centrale interdit les réseaux sociaux aux moins de quinze ans."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-07-vote-legitime-defense",
+      "date": "2026-07-07",
+      "title": "Scrutin public n°7987 — proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Contre » (7 juillet 2026) ; les données ouvertes de l'Assemblée indiquent un vote exprimé par délégation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Scrutin public n°7987 sur l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+          "note": "Vote « Contre » enregistré à son nom mais exprimé par délégation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-07-vote-lpm",
+      "date": "2026-07-01",
+      "title": "Scrutin public n°7905 — projet de loi actualisant la programmation militaire 2024-2030 (CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » le texte de la commission mixte paritaire (1er juillet 2026), par délégation selon les données ouvertes ; il avait voté pour en première lecture (scrutin n°6736, vote personnel).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "en fixant l’objectif de porter l’effort national de défense de 2 % du produit intérieur brut en 2025 à 2,5 % au minimum en 2030, avec l’objectif d’atteindre 3,5 % à l’horizon 2035.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17BTA0325.html",
+          "inferred": true,
+          "note": "Il a voté l'ensemble d'une loi de programmation qui vise 3,5 % du PIB en 2035 : +1 pour un vote sur un texte large."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-06-vote-aide-a-mourir",
+      "date": "2026-06-30",
+      "title": "Scrutin public n°7894 — proposition de loi relative au droit à l'aide à mourir (nouvelle lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » (vote personnel, 30 juin 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Scrutin public n°7894 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+          "note": "Il a voté « Pour » en nouvelle lecture, comme en première et en deuxième lecture."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-06-vote-corse",
+      "date": "2026-06-23",
+      "title": "Scrutin public n°7454 — projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Contre » (vote personnel, 23 juin 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-12",
+          "value": -2,
+          "quote": "Scrutin public n°7454 sur l'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
+          "note": "Il a voté contre le projet de loi constitutionnelle, après avoir voté l'amendement de suppression de son article unique (scrutin n°7406)."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-04-fraudes",
+      "date": "2026-04-07",
+      "title": "Fraudes sociales et fiscales : ce que le gouvernement n'a pas osé faire",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260421200308/https://www.jerome-guedj.fr/fraudes-sociales-et-fiscales-ce-que-le-gouvernement-na-pas-ose-faire/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel expliquant son vote contre le projet de loi relatif aux fraudes sociales et fiscales, qu'il juge sévère envers les allocataires et insuffisant contre la fraude fiscale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-08",
+          "value": -1,
+          "quote": "En réalité, ce projet de loi construit l’inverse : une République du soupçon envers les plus vulnérables. Sanctions automatiques contre les allocataires « suspectés » de fraude, restriction des arrêts de travail en télémédecine, suspension des indemnités sur simple suspicion.",
+          "note": "Il rejette les mesures renforcées contre la fraude sociale de ce projet de loi et donne la priorité à la fraude fiscale, sans évoquer la carte Vitale biométrique."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-03-grande-secu",
+      "date": "2026-03-26",
+      "title": "Financement de notre santé : le temps de la « Grande Sécu » est-il venu ?",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260421202529/https://www.jerome-guedj.fr/financement-de-notre-sante-le-temps-de-la-grande-secu-est-il-venu/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel sur un échange avec l'UFC-Que Choisir : il estime qu'une prise en charge intégrale des soins par l'assurance maladie, dite « Sécu intégrale », doit être envisagée sérieusement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-03",
+          "value": 1,
+          "quote": "C'est une option que nous devons envisager sérieusement collectivement, car le retour à une prise en charge intégrale par l’assurance maladie présente des avantages concrets.",
+          "note": "Il demande d'envisager sérieusement une prise en charge intégrale, sans la proposer formellement : orientation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-03-droits-des-femmes",
+      "date": "2026-03-08",
+      "title": "Le 8 mars, un rappel : l'égalité entre les femmes et les hommes reste un combat",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260421203701/https://www.jerome-guedj.fr/le-8-mars-un-rappel-legalite-entre-les-femmes-et-les-hommes-reste-un-combat/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel qui fait de la lutte contre les violences faites aux femmes une « priorité absolue » et défend une proposition de loi globale renforçant la protection des victimes et les moyens des acteurs de terrain.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "Ils traduisent un problème structurel auquel la puissance publique doit répondre avec des moyens à la hauteur : protection des victimes, renforcement des dispositifs judiciaires, accompagnement des associations et prévention dès le plus jeune âge.",
+          "note": "Il réclame des « moyens à la hauteur » et une loi globale, sans parler de budget dédié ni de juridictions spécialisées : orientation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-02-fin-de-vie",
+      "date": "2026-02-25",
+      "title": "Fin de vie : une loi de liberté, protégée par la République",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260308131353/https://www.jerome-guedj.fr/fin-de-vie-une-loi-de-liberte-protegee-par-la-republique/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel expliquant ses votes en deuxième lecture sur les lois relatives aux soins palliatifs et à l'aide à mourir ; il défend une aide à mourir strictement encadrée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "J’ai également voté celle relative à l’aide à mourir. Ce second vote, je l’ai posé avec gravité, après d’intenses interrogations. Non pas sur l’objectif — que je partage depuis longtemps — d’ouvrir une liberté nouvelle",
+          "note": "Il a voté la loi sur l'aide à mourir, qu'il décrit comme « strictement encadrée »."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-02-candidature",
+      "date": "2026-02-12",
+      "title": "La clarté plutôt que les slogans : pourquoi j'ai annoncé ma candidature pour 2027",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260308141752/https://www.jerome-guedj.fr/la-clarte-plutot-que-les-slogans-pourquoi-jai-annonce-ma-candidature-pour-2027/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel exposant les raisons de sa candidature à l'élection présidentielle : une gauche sociale et républicaine, attachée à la laïcité, à l'universalisme, à l'Europe et à la transition écologique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Cela exige une méthode sérieuse, des choix assumés : par exemple, une écologie qui protège aussi les classes populaires, et une Europe que l’on transforme et dans laquelle la France retrouve une place centrale.",
+          "inferred": true,
+          "note": "Déduit : il veut transformer l'Europe en y redonnant à la France « une place centrale », ce qui suppose que la France reste dans l'Union."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-02-proportionnelle",
+      "date": "2026-02-12",
+      "title": "Pour un nouveau souffle démocratique : pourquoi j'ai cosigné l'appel pour la proportionnelle",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260308142449/https://www.jerome-guedj.fr/pour-un-nouveau-souffle-democratique-pourquoi-jai-cosigne-lappel-pour-la-proportionnelle/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel expliquant qu'il a cosigné la tribune de La Tribune Dimanche appelant à introduire une dose de proportionnelle aux élections législatives.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "J’ai choisi de cosigner la tribune publiée dans La Tribune Dimanche appelant à l’introduction d’une dose de proportionnelle aux élections législatives, aux côtés d’élus et de responsables politiques venus d’horizons différents.",
+          "note": "Il soutient explicitement l'introduction d'une dose de proportionnelle aux législatives."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-11-vote-mercosur",
+      "date": "2025-11-27",
+      "title": "Scrutin public n°4244 — résolution invitant le Gouvernement à s'opposer à l'accord UE-Mercosur",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4244",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » (vote personnel, 27 novembre 2025).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Scrutin public n°4244 sur la proposition de résolution invitant le Gouvernement de la République française à s’opposer à l’adoption de l’accord commercial entre l’Union européenne et le Mercosur (article 34-1 de la Constitution).",
+          "note": "Il a voté « Pour » une résolution demandant au Gouvernement de bloquer l'accord au Conseil de l'UE."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-10-plfss-2026",
+      "date": "2025-10-27",
+      "title": "Priorité PLFSS 2026 : défendre la Sécurité sociale, protéger les classes moyennes et populaires",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20251115123350/https://www.jerome-guedj.fr/plfss-2026/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel listant les priorités socialistes pour le budget 2026 de la Sécurité sociale : refus du gel des prestations et du doublement des franchises, suspension de la réforme des retraites, recettes nouvelles.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Protéger les classes moyennes et populaires des mesures injustes prévues dans le texte initial : gel des prestations sociales, doublement des franchises.",
+          "note": "Il classe le doublement des franchises médicales parmi les « mesures injustes » à combattre."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "Protéger les classes moyennes et populaires des mesures injustes prévues dans le texte initial : gel des prestations sociales, doublement des franchises.",
+          "inferred": true,
+          "note": "Déduit : il combat le gel des prestations sociales, donc soutient leur revalorisation annuelle, sans préciser qu'elle doit suivre l'inflation."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-10-taxe-zucman",
+      "date": "2025-10-27",
+      "title": "Pour une justice fiscale : défendre la taxe Zucman pour préserver les classes moyennes et populaires",
+      "sourceType": "autre",
+      "sourceUrl": "https://web.archive.org/web/20251115114907/https://www.jerome-guedj.fr/pour-une-justice-fiscale-defendre-la-taxe-zucman-pour-preserver-les-classes-moyennes-et-populaires/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel, écrit à la première personne, relatant son passage sur RMC : il défend la taxe Zucman, impôt minimum sur les patrimoines de plus de 100 millions d'euros, et critique le gel des prestations et le doublement des franchises.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "La taxe Zucman, un impôt minimum sur les très hauts patrimoines, est la seule mesure juste et efficace pour préserver la cohésion sociale.",
+          "note": "Il défend explicitement la taxe Zucman, qu'il décrit plus loin comme visant les fortunes de plus de 100 millions d'euros."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-10-tribune-proportionnelle",
+      "date": "2025-10-13",
+      "title": "La France doit cesser de craindre sa propre démocratie",
+      "sourceType": "tribune",
+      "sourceUrl": "https://web.archive.org/web/20251115123831/https://www.jerome-guedj.fr/la-france-doit-cesser-de-craindre-sa-propre-democratie/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Tribune signée publiée sur son site : il indique avoir déposé, avec des députés de plusieurs groupes, une proposition de loi instaurant aux législatives un scrutin mixte inspiré du modèle allemand, proportionnel au niveau national.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "nous avons déposé une proposition de loi pour introduire la proportionnelle aux élections législatives",
+          "note": "Il a codéposé une proposition de loi introduisant la proportionnelle aux législatives, par un système mixte combinant circonscriptions locales et listes nationales."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-10-retraites-lci",
+      "date": "2025-10-08",
+      "title": "LCI : Suspendre la réforme des retraites : le compromis républicain que j'appelle de mes vœux",
+      "sourceType": "autre",
+      "sourceUrl": "https://web.archive.org/web/20251115123259/https://www.jerome-guedj.fr/lci-suspendre-la-reforme-des-retraites-le-compromis-republicain-que-jappelle-de-mes-voeux/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel, écrit à la première personne, relatant son passage sur LCI : il plaide pour un gel de la réforme des retraites comme compromis, tout en se disant partisan de son abrogation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Depuis plus d’un an, je plaide pour un accord permettant de geler la réforme des retraites . C’est, à mes yeux, la traduction la plus claire d’un compromis possible entre celles et ceux qui voulaient son abrogation – j’en fais partie – et ceux qui défendaient le statu quo.",
+          "note": "Il se range parmi les partisans de l'abrogation tout en plaidant, comme compromis, pour un gel de la réforme."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-08-integration",
+      "date": "2025-08-28",
+      "title": "Université d'été du Laboratoire de la République – L'intégration passe d'abord par l'égalité des chances",
+      "sourceType": "autre",
+      "sourceUrl": "https://web.archive.org/web/20250916223624/https://www.jerome-guedj.fr/universite-dete-du-laboratoire-de-la-republique-lintegration-passe-dabord-par-legalite-des-chances/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel, écrit à la première personne, relatant son débat avec Bruno Retailleau sur l'intégration : il récuse la logique des restrictions migratoires et du conditionnement des prestations sociales et met en avant l'école, le logement et l'emploi.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-06",
+          "value": -1,
+          "quote": "Plutôt que d’agiter la logique des restrictions migratoires ou de conditionner des prestations sociales, il faut regarder la réalité en face : c’est d’abord l’école, le logement et l’emploi qui font défaut",
+          "inferred": true,
+          "note": "Déduit : dans le débat sur l'intégration des étrangers, il rejette le fait de « conditionner des prestations sociales », sans évoquer de durée de résidence."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-06-allocations-familiales",
+      "date": "2025-06-06",
+      "title": "Oui aux allocations familiales dès le premier enfant : une avancée pour la justice sociale",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20250616222412/https://www.jerome-guedj.fr/oui-aux-allocations-familiales-des-le-premier-enfant-une-avancee-pour-la-justice-sociale/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel saluant l'adoption de la proposition de loi ouvrant les allocations familiales dès le premier enfant, au nom de l'universalité des droits.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-01",
+          "value": 1,
+          "quote": "La parentalité commence dès le premier enfant. Elle mérite un soutien clair, universel, égalitaire.",
+          "inferred": true,
+          "note": "Déduit : il réclame un soutien « universel, égalitaire » aux familles, sans aborder explicitement la condition de ressources."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-06-vote-retraites",
+      "date": "2025-06-05",
+      "title": "Scrutin public n°2257 — proposition de résolution visant à abroger la réforme des retraites de 2023",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2257",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » la résolution affirmant la nécessité d'abroger le recul de l'âge légal de 62 à 64 ans (vote personnel, 5 juin 2025).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Scrutin public n°2257 sur la proposition de résolution visant à abroger la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 dite réforme des retraites.",
+          "note": "Il a voté « Pour » une résolution affirmant « l'impérieuse nécessité » d'abroger le passage de l'âge légal de 62 à 64 ans."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-06-loi-duplomb",
+      "date": "2025-06-02",
+      "title": "Loi Duplomb, la motion de rejet est un scandale démocratique",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20250616221431/https://www.jerome-guedj.fr/loi-duplomb-pour-une-agriculture-durable-pas-de-fausses-promesses/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel dénonçant la motion de rejet sur la proposition de loi Duplomb et s'opposant à la dérogation réintroduisant des néonicotinoïdes, dont l'acétamipride ; il propose un plan de sortie financé par l'État.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "La mise en place notamment d’une dérogation permettant de réintroduire plusieurs produits, de la famille des néonicotinoïdes , en particulier l’acétamipride, ou présentant des modes d’action identiques à ceux de ces substances, constitue une fausse promesse à l’égard du monde agricole.",
+          "note": "Il rejette explicitement la dérogation réintroduisant l'acétamipride et plaide pour une sortie progressive accompagnée."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-05-deserts-medicaux",
+      "date": "2025-05-14",
+      "title": "Déserts médicaux : une avancée majeure pour l'accès aux soins",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20250616222304/https://www.jerome-guedj.fr/deserts-medicaux-une-avancee-majeure-pour-lacces-aux-soins/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel saluant l'adoption par l'Assemblée de la proposition de loi Garot, qu'il dit soutenir activement, qui régule l'installation des médecins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Le cœur du texte repose sur un principe simple : réguler l’installation des médecins . Dans les zones déjà bien dotées, un nouveau médecin ne pourra s’installer qu’en remplacement d’un départ.",
+          "note": "Il soutient la loi Garot régulant l'installation des médecins et écrit que la liberté d'installation ne peut primer sur l'accès aux soins."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-05-narcotrafic",
+      "date": "2025-05-06",
+      "title": "Narcotrafic : agir efficacement sans céder sur nos libertés !",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20250523043946/https://www.jerome-guedj.fr/narcotrafic-agir-efficacement-sans-ceder-sur-nos-libertes/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel sur l'adoption de la loi contre le narcotrafic : il en soutient les outils judiciaires et financiers, se félicite du rejet de mesures jugées attentatoires aux libertés et demande une stratégie qui ne se limite pas à la répression.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-09",
+          "value": 0,
+          "quote": "La lutte contre le narcotrafic ne peut se limiter au seul volet répressif : elle appelle une stratégie globale, qui intègre aussi la prévention, la santé, l’éducation et le soutien aux territoires les plus exposés.",
+          "note": "Il soutient les outils répressifs de la loi narcotrafic mais refuse une approche limitée à la répression : position mitigée sur une lutte « principalement » répressive."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-04-vote-mayotte",
+      "date": "2025-04-08",
+      "title": "Scrutin public n°1308 — proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Contre » (vote personnel, 8 avril 2025) ; la loi exige à Mayotte la résidence régulière des deux parents depuis un an pour l'accès à la nationalité par la naissance.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-05",
+          "value": -1,
+          "quote": "Scrutin public n°1308 sur l'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
+          "inferred": true,
+          "note": "Déduit : il a voté contre une restriction du droit du sol limitée à Mayotte (texte adopté n°96)."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-03-vote-ukraine",
+      "date": "2025-03-12",
+      "title": "Scrutin public n°988 — proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » l'article unique de la résolution (vote personnel, 12 mars 2025) ; le texte adopté est le n°70.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "poursuivre et à accroître leur soutien politique, économique et militaire à l’Ukraine dans son combat pour sa survie face à l’agression russe",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/RIONANR5L17BTA0070.html",
+          "note": "Il a voté une résolution appelant à accroître le soutien militaire à l'Ukraine, sans mention d'armes de longue portée ni de durée : +1."
+        },
+        {
+          "questionId": "eur-08",
+          "value": 1,
+          "quote": "Invite l’Union européenne et ses États membres à accompagner le processus d’adhésion de l’Ukraine à l’Union européenne et à faire en sorte qu’il aboutisse dans les meilleurs délais",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/RIONANR5L17BTA0070.html",
+          "note": "La résolution qu'il a votée soutient l'adhésion de l'Ukraine, mais n'évoque pas les Balkans occidentaux : soutien partiel."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-02-vote-zucman",
+      "date": "2025-02-20",
+      "title": "Scrutin public n°881 — proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » (vote personnel, 20 février 2025).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Scrutin public n°881 sur l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
+          "note": "Il a voté « Pour » l'ensemble du texte créant la « taxe Zucman »."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2025-01-vote-mesures-miroirs",
+      "date": "2025-01-30",
+      "title": "Scrutin public n°685 — proposition de résolution européenne sur les exigences à l'importation (mesures miroirs)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés du groupe Socialistes et apparentés ayant voté « Pour » la résolution demandant d'imposer aux importations le respect de normes de production équivalentes aux normes européennes (vote personnel, 30 janvier 2025).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Scrutin public n°685 sur l'ensemble de la proposition de résolution européenne relative à l’adoption et à la mise en œuvre d’exigences à l’importation pour le respect de normes de production équivalentes aux normes de production essentielles",
+          "note": "Il a voté « Pour » une résolution (texte adopté n°39) demandant d'inscrire dans le droit européen des « mesures miroirs » pour les produits agricoles importés."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2024-11-mercosur",
+      "date": "2024-11-20",
+      "title": "Union européenne : l'accord Mercosur doit tomber",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20241206020300/https://www.jerome-guedj.fr/union-europeenne-laccord-mercosur-doit-tomber/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel annonçant qu'il a signé, avec plus de 140 parlementaires socialistes, une tribune dans Libération contre l'accord de libre-échange UE-Mercosur.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Le Mercosur est une menace pour notre souveraineté économique et alimentaire. Pour soutenir nos agriculteurs et protéger les consommateurs, oui, l’accord Mercosur doit tomber !",
+          "note": "Il demande explicitement que l'accord UE-Mercosur soit rejeté."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2024-11-plfss-2025",
+      "date": "2024-11-08",
+      "title": "Le budget de la sécu : votre député en première ligne",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20241110105317/https://www.jerome-guedj.fr/le-budget-de-la-secu-votre-depute-en-premiere-ligne/",
+      "publisher": "Jérôme Guedj — site officiel jerome-guedj.fr (copie web.archive.org)",
+      "summary": "Billet de son site officiel dressant le bilan de l'examen du budget 2025 de la Sécurité sociale, où il était chef de file socialiste : critique des allègements de cotisations, recettes nouvelles sur le capital, objectif d'abrogation de la réforme des retraites inscrit en annexe.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Le plus important des leviers est la politique d’allègement des cotisations sociales, qui s’est emballée sous la présidence d’Emmanuel Macron, et qui a représenté une baisse considérable des recettes",
+          "inferred": true,
+          "note": "Il critique la politique d'allègements de cotisations et a défendu l'article revenant sur 5 milliards d'exonérations : il s'oppose à de nouveaux allègements. (Force ramenée de -2 à -1 en relecture : La citation critique la politique d'allègements (« s'est emballée ») et le billet soutient un article revenant sur 5 Md€ d'exonérations (« remise en question de certains allègements »). Mais le texte ne rejette pas explicitement un nouvel abaissement ciblé sur les bas salaires, et ne mentionne pas les bas salaires. L'opposition à de nouveaux allègements est une déduction (la note le formule ainsi) : la marquer inferred, avec une force prudente de −1.)"
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Nous avons trouvé des sources de recettes sur le capital et le patrimoine, avec une augmentation de la CSG sur les produits de placement financier (en préservant l’épargne populaire type livret A), un assujettissement des dividendes ou des plus-values levée-vente d’actions aux cotisations sociales",
+          "note": "Il soutient l'assujettissement des dividendes aux cotisations sociales, sans rien dire des rachats d'actions : mesure partielle."
+        }
+      ]
+    }
+  ]
 }

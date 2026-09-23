@@ -44,7 +44,13 @@ export default function About() {
       <section className="card">
         <h2>Comment une position entre dans la boussole</h2>
         <ol>
-          <li>Quelqu'un ouvre une demande (issue) ou une proposition de modification (pull request) avec la source : lien, date, citation.</li>
+          <li>
+            Une proposition de modification (pull request) apporte la source : lien, date, citation. Elle vient d'un·e contributeur·rice ou de la{' '}
+            <a href={`${REPO_URL}/blob/main/docs/MISES-A-JOUR.md#veille-automatisée`} rel="noopener noreferrer">
+              veille automatisée hebdomadaire
+            </a>
+            , dont les instructions sont publiques ; dans les deux cas, une personne la relit avant qu'elle soit publiée.
+          </li>
           <li>La validation automatique vérifie le format, la présence d'une source et la cohérence avec les questions.</li>
           <li>Une deuxième personne relit la source et confirme l'encodage ; la déclaration passe de « en attente » à « vérifiée ».</li>
           <li>Le jeu de données est regénéré, son empreinte change, le site est redéployé. L'historique complet reste consultable.</li>

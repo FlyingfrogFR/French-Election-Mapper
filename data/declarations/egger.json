@@ -1,4 +1,28 @@
 {
   "candidateId": "egger",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "egger-2026-09-programme",
+      "date": "2026-07-03",
+      "title": "Présidentielle 2027 : découvrez le programme de notre candidat",
+      "sourceType": "programme",
+      "sourceUrl": "https://solutiondemocratique.fr/calendrier-president/",
+      "publisher": "Solution démocratique (parti dont Clara Egger est la candidate désignée)",
+      "summary": "Page du site du parti, publiée le 2024-12-25 et mise à jour le 2026-07-03 (dateModified dans les métadonnées de la page ; aucune date visible). Le parti y présente le programme de sa candidate désignée, Clara Egger. Ce programme est volontairement limité à deux réformes institutionnelles : le RIC constituant (révision de l'article 89) et une réforme du code des collectivités territoriales. Les deux textes seraient soumis à référendum par l'article 11, selon un calendrier qui commence en mai 2027. Sur les autres politiques publiques (économie, environnement, migrations, retraites, énergie, etc.), la page renvoie la décision aux citoyens par référendum.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Pour cette raison, notre engagement pour l’Europe est d’instaurer en France les nouveaux droits politiques permettant aux Français de voter par référendum toute modification de la Constitution, et d'initier des révisions (RIC Constituant).",
+          "note": "Mesure centrale du programme : RIC en matière constitutionnelle (initiative de 700 000 électeurs et référendum obligatoire pour toute révision, selon le texte de révision de l'article 89 lié depuis la page) ; page du parti présentant le programme de sa candidate désignée."
+        }
+      ]
+    }
+  ]
 }

@@ -1,4 +1,572 @@
 {
   "candidateId": "hollande",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "hollande-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane présentée par Céline Thiébault-Martinez, Guillaume Gouffier Valente, Yaël Braun-Pivet et de nombreux député·es, enregistrée le 11 août 2026. François Hollande en est cosignataire. Le texte crée notamment des unités de police et des juridictions spécialisées dans les violences sexuelles et intrafamiliales. Il programme aussi 3 milliards d'euros de crédits par an, de 2027 à 2032, pour la lutte contre ces violences.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Budget dédié de 3 Md€ par an de 2027 à 2032 (article 68). L'article 5 crée aussi des juridictions spécialisées dans les violences sexuelles et intrafamiliales dans chaque tribunal judiciaire."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-05-ppr-2854",
+      "date": "2026-05-29",
+      "title": "Proposition de résolution européenne n°2854 sur la maîtrise des usages et impacts des produits phytopharmaceutiques (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2854_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne présentée par Dominique Potier, Mélanie Thomin, Boris Vallaud et les membres du groupe Socialistes et apparentés, dont François Hollande, enregistrée le 29 mai 2026. Elle demande notamment à la Commission européenne de renforcer l'évaluation des produits phytopharmaceutiques. Elle lui demande aussi d'inscrire dans le droit européen des mesures miroirs applicables aux produits agricoles importés.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "inscrire dans le droit européen des mesures miroirs imposant le respect des règles européennes en matière d’usage des produits phytopharmaceutiques, pour l’ensemble des produits agricoles, horticoles et agroalimentaires importés",
+          "page": "31",
+          "note": "Point 11 de la résolution. Il demande aussi des mesures miroirs sur les médicaments vétérinaires et le bien-être animal, ainsi que la suspension des échanges avec les opérateurs qui ne les respectent pas. Il avait déjà cosigné la même demande dans la proposition de résolution européenne n°287 (24 septembre 2024)."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-02-ppl-2505",
+      "date": "2026-02-17",
+      "title": "Proposition de loi n°2505 visant à produire autrement, en garantissant un partage de la valeur et en réconciliant le monde agricole et la société (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2505_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Dominique Potier, Mélanie Thomin, Boris Vallaud, Fabrice Barusseau, Chantal Jourdan et les membres du groupe Socialistes et apparentés, dont François Hollande. Enregistrée le 17 février 2026, elle reprend le texte n°2311, retiré. Elle encadre les projets de stockage d'eau et interdit ceux destinés à l'irrigation alimentés par les eaux souterraines. Elle organise le plan Écophyto et prévoit des mesures de régulation des prix agricoles, dont des bornes de prix minimales et maximales dans certaines filières.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-13",
+          "value": -1,
+          "quote": "Aucun projet d’ouvrage de stockage de l’eau à usage d’irrigation agricole, alimenté par des prélèvements dans les eaux souterraines, ni les travaux et infrastructures associés, ne peut faire l’objet d’une autorisation environnementale.",
+          "page": "10",
+          "note": "Rejet partiel. Le texte interdit d'autoriser les ouvrages de stockage pour l'irrigation alimentés par les eaux souterraines. Les autres ouvrages restent possibles s'ils relèvent d'une maîtrise d'ouvrage publique et s'inscrivent dans les SDAGE, les SAGE et les projets territoriaux. Le mot « mégabassines » n'est pas employé."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-10-ppl-2010",
+      "date": "2025-10-28",
+      "title": "Proposition de loi n°2010 visant à instaurer le scrutin proportionnel pour les élections législatives (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2010_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane présentée par Erwan Balanant, Guillaume Gouffier Valente, Jérémie Iordanoff, Marie Récalde et d'autres député·es, dont François Hollande, enregistrée le 28 octobre 2025. Elle instaure un scrutin mixte : 347 député·es élu·es au scrutin majoritaire en circonscription et 230 sièges compensatoires répartis à la proportionnelle sur une liste nationale, avec un seuil de 4 %. Les mêmes député·es ont déposé le 13 octobre 2025 une proposition de loi organique au même objet (n°1905).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "L’article 1er définit les fondements du mode de scrutin. 347 sièges sont attribués dans des circonscriptions uninominales au scrutin majoritaire à deux tours. Ce mode de scrutin est familier des électeurs français. 230 sièges sont attribués sur une base compensatoire via une liste nationale unique.",
+          "page": "3",
+          "note": "Le texte cosigné introduit la proportionnelle aux législatives par un scrutin mixte compensatoire de 230 sièges sur 577, ce qui va au-delà d'une simple « part »."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-09-ppl-1795",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1795 d’expérimentation des brigades de tranquillité publique de la police nationale (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1795_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Roger Vicot et des député·es du groupe Socialistes et apparentés, dont François Hollande, enregistrée le 16 septembre 2025. Elle prévoit d'expérimenter pendant trois ans, dans des communes volontaires, des brigades de police nationale chargées de la proximité avec la population, aux côtés de la police d'investigation et de la police d'intervention. Une évaluation doit suivre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "Un tel dispositif permettrait de concevoir, d’appliquer et d’évaluer la police de proximité pour envisager ensuite sa généralisation, au bénéfice de la sécurité de nos concitoyens.",
+          "page": "5",
+          "note": "Confirme le +1 de la profession de foi de 2024. Le texte propose d'expérimenter une police de proximité en vue de sa généralisation éventuelle. Les brigades s'ajoutent « aux côtés » de la police d'intervention, sans priorité explicite sur elle."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-06-ppl-1555",
+      "date": "2025-06-10",
+      "title": "Proposition de loi n°1555 pour la reconquête du bâti rural (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1555_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Dominique Potier, Stéphane Delautrette, Boris Vallaud, Inaki Echaniz et d'autres député·es du groupe Socialistes et apparentés, dont François Hollande, enregistrée le 10 juin 2025. Elle crée une « Agence nouvelle ruralité », chargée de revitaliser le bâti rural et d'atteindre les objectifs de réduction de l'artificialisation des sols, ainsi qu'un livret d'épargne dédié. Elle étend la taxe sur les logements vacants et renforce la taxe sur la cession de terrains devenus constructibles.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "La tentation est grande, face à cette question sociale majeure, de remettre en cause l’urgence écologique, et c’est le sens des reculs opérés depuis 2023. Ce serait évidemment une faute politique que de poursuivre sur cette voie du renoncement",
+          "page": "4",
+          "inferred": true,
+          "note": "Dans l'exposé, ce passage suit la présentation du ZAN, qualifié de « virage vertueux ». L'article 1er donne à l'agence la mission d'« atteinte des objectifs de réduction du rythme d’artificialisation des sols ». Le maintien du ZAN n'est pas énoncé comme une mesure : position déduite."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-02-ppl-966",
+      "date": "2025-02-13",
+      "title": "Proposition de loi n°966 visant à lutter contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0966_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane présentée par Guillaume Garot, Philippe Vigier, Delphine Batho et d'autres député·es, dont François Hollande, enregistrée le 13 février 2025. Son article 1er soumet l'installation des médecins en ville à une autorisation de l'agence régionale de santé. Celle-ci est délivrée de droit en zone sous-dotée et, ailleurs, seulement si un médecin de la même spécialité cesse son activité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "L’installation d’un médecin en ville est soumise à l’autorisation préalable du directeur général de l’agence régionale de santé compétente après avis rendu dans les trente jours suivant sa saisine, du conseil départemental de l’ordre dont il relève.",
+          "page": "10",
+          "note": "Confirme le +2 de la profession de foi de 2024, avec un mécanisme précis de régulation de l'installation des médecins. Ce texte remplace la version du 3 décembre 2024 (n°682), qu'il avait aussi cosignée."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2024-12-ppl-682",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°682 contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0682_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 3 décembre 2024, présentée par Guillaume Garot ; François Hollande en est cosignataire. Outre la régulation de l’installation des médecins, elle prévoit notamment l’extinction progressive du secteur 2 « hors-OPTAM » par son interdiction pour les nouvelles installations, le plafonnement des dépassements d’honoraires dans l’activité libérale à l’hôpital, des mesures de formation et le rétablissement de l’obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 1,
+          "quote": "l’article 6 propose de mettre en place l’extinction progressive de la pratique d’honoraires de secteur 2 « hors-OPTAM » en l’interdisant pour toute nouvelle installation.",
+          "page": "11",
+          "note": "Mesure partielle : les dépassements non plafonnés sont interdits pour les nouvelles installations et plafonnés pour l’activité libérale à l’hôpital, sans interdiction ni plafonnement général, d’où +1. Position reprise de l'encodage relu pour les autres cosignataires du même texte : un texte cosigné engage chacun·e de ses signataires sur ses mesures (règle 8) ; cosignature attestée par les données ouvertes de l'Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-07-vote-reseaux-sociaux",
+      "date": "2026-07-21",
+      "title": "Scrutin public n°8431 — proposition de loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux (texte de la CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » le texte de CMP (adopté par 279 voix contre 81), dont l’article 1er interdit l’accès aux réseaux sociaux aux mineurs de quinze ans (texte adopté n°339).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "L’accès à un service de réseaux sociaux en ligne fourni par une plateforme en ligne est interdit aux mineurs de quinze ans.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0339_texte-adopte-seance.pdf",
+          "page": "2",
+          "note": "Vote « Pour » le texte définitif instaurant cette interdiction."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-07-vote-aide-a-mourir",
+      "date": "2026-07-15",
+      "title": "Scrutin public n°8280 — proposition de loi relative au droit à l’aide à mourir (lecture définitive)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » en lecture définitive (texte adopté par 291 voix contre 241) ; il avait aussi voté « Pour » en première lecture (scrutin n°2107).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+          "note": "Vote « Pour » la création d’un droit à l’aide à mourir, en lecture définitive."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-07-vote-legitime-defense",
+      "date": "2026-07-07",
+      "title": "Scrutin public n°7987 — proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l’ordre (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Contre » cette proposition de loi, adoptée en première lecture par 313 voix contre 199.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Scrutin public n°7987 sur l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+          "note": "Vote « Contre » l’instauration d’une présomption de légitime défense pour les forces de l’ordre."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-07-vote-lpm",
+      "date": "2026-07-01",
+      "title": "Scrutin public n°7905 — projet de loi actualisant la programmation militaire pour les années 2024 à 2030 (texte de la CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » le texte définitif (texte adopté n°325), dont l’article 1er fixe un effort de défense d’au moins 2,5 % du PIB en 2030 et un objectif de 3,5 % à l’horizon 2035.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "en fixant l’objectif de porter l’effort national de défense de 2 % du produit intérieur brut en 2025 à 2,5 % au minimum en 2030, avec l’objectif d’atteindre 3,5 % à l’horizon 2035.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0325_texte-adopte-seance.pdf",
+          "page": "3",
+          "inferred": true,
+          "note": "Vote pour une trajectoire qui ne dépasse 3 % du PIB qu’à l’horizon 2035 (2,5 % au minimum en 2030) : +1."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-05-vote-elevage-plein-air",
+      "date": "2026-05-20",
+      "title": "Scrutin public n°6754 — amendement n°152 à l’article premier du projet de loi d’urgence pour la protection et la souveraineté agricoles (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6754",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » cet amendement, qui excluait des « projets d’avenir agricole » bénéficiant d’un accompagnement prioritaire les élevages sans accès permanent au plein air ; amendement non adopté.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Ne peuvent être reconnus comme projets d’avenir agricole ni bénéficier de la priorité dans l’accompagnement prévue au présent II les projets comprenant la création ou l’extension d’élevages ne garantissant pas aux animaux un accès effectif et permanent au plein air",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/2765/AN/152",
+          "inferred": true,
+          "note": "Exclusion des élevages sans plein air d’un dispositif de soutien prioritaire, motivée notamment par le bien-être animal dans l’exposé sommaire : limitation partielle de l’élevage intensif, position déduite."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2026-04-vote-zfe",
+      "date": "2026-04-14",
+      "title": "Scrutin public n°6183 — amendement n°8 rectifié du Gouvernement sur les zones à faibles émissions (projet de loi de simplification de la vie économique, texte de la CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6183",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » l’amendement du Gouvernement qui visait à maintenir une base légale aux ZFE, à la main des collectivités et avec des dérogations, dans un texte qui les supprimait ; amendement rejeté (149 pour, 192 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-09",
+          "value": -1,
+          "quote": "C’est la raison pour laquelle le gouvernement souhaite maintenir une base légale à la main des collectivités locales s’agissant des ZFE.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+          "note": "Extrait de la présentation de l’amendement par le ministre ; vote « Pour » de François Hollande (scrutin n°6183) : opposé à la suppression des ZFE, favorable à des ZFE facultatives et assouplies : −1."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-12-vote-rapports-locatifs",
+      "date": "2025-12-11",
+      "title": "Scrutin public n°4745 — proposition de loi pour retrouver la confiance et l’équilibre dans les rapports locatifs (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4745",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » cette proposition de loi, adoptée en première lecture (texte adopté n°196), qui rend permanent l’encadrement des loyers et permet sa mise en place, sur décision locale, dans les communes des zones tendues.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-01",
+          "value": 1,
+          "quote": "Dans les communes classées dans les zones géographiques mentionnées au I de l’article 232 du code général des impôts ou dans les communes qui présentent un déséquilibre entre l’offre et la demande de logements entraînant des difficultés sérieuses d’accès au logement",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0196_texte-adopte-seance.pdf",
+          "page": "2",
+          "note": "Vote pour la pérennisation et l’extension facultative de l’encadrement des loyers aux zones tendues (mise en place subordonnée à l’avis conforme du conseil municipal), non pour une généralisation obligatoire : +1."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-04-vote-narcotrafic",
+      "date": "2025-04-29",
+      "title": "Scrutin public n°1473 — proposition de loi visant à sortir la France du piège du narcotrafic (texte de la CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » le texte définitif (adopté par 396 voix contre 68), qui crée notamment un procureur de la République anti-criminalité organisée et des quartiers pénitentiaires de lutte contre la criminalité organisée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "Scrutin public n°1473 sur l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
+          "note": "Vote « Pour » un texte renforçant les moyens répressifs (parquet dédié, quartiers de lutte contre la criminalité organisée, texte adopté n°102) ; le caractère « principal » de la réponse répressive n’est pas établi : +1."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-04-vote-nationalite-mayotte",
+      "date": "2025-04-08",
+      "title": "Scrutin public n°1308 — proposition de loi visant à renforcer les conditions d’accès à la nationalité française à Mayotte (texte de la CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Contre » ce texte, qui renforce les conditions d'accès à la nationalité française par le droit du sol à Mayotte ; texte adopté par 339 voix contre 174.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-05",
+          "value": -1,
+          "quote": "Scrutin public n°1308 sur l'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
+          "inferred": true,
+          "note": "Vote « Contre » un durcissement du droit du sol limité à Mayotte : opposition déduite à une restriction du droit du sol, sans position exprimée à l’échelle nationale."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2025-03-vote-ukraine",
+      "date": "2025-03-12",
+      "title": "Scrutin public n°988 — proposition de résolution européenne appelant au renforcement du soutien à l’Ukraine",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande a voté « Pour » l’article unique de la résolution, adoptée par 288 voix contre 54 (texte adopté n°70) ; il a aussi voté « Pour » l’amendement n°4 sur la défense européenne (scrutin n°977) et « Contre » l’amendement n°33 supprimant la mention de l’adhésion de l’Ukraine à l’UE (scrutin n°973).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "Invite l’Union européenne à bâtir une défense européenne indépendante, conformément à la nouvelle boussole stratégique en matière de sécurité et de défense et aux conclusions du Conseil européen du 6 mars 2025, en vue d’acquérir son autonomie stratégique",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0070_texte-adopte-seance.pdf",
+          "page": "8",
+          "note": "Alinéa 19 de la résolution votée par François Hollande, qui a aussi voté l’amendement n°4 appelant à « bâtir une défense européenne indépendante » (scrutin n°977)."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Encourage l’Union européenne et ses États membres, l’Organisation du traité de l’Atlantique nord et ses États membres ainsi que les autres pays alliés à poursuivre et à accroître leur soutien politique, économique et militaire à l’Ukraine",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0070_texte-adopte-seance.pdf",
+          "page": "7",
+          "note": "Soutien militaire accru demandé, sans mention de durée ni d’armes de longue portée : +1."
+        },
+        {
+          "questionId": "eur-08",
+          "value": 1,
+          "quote": "Invite l’Union européenne et ses États membres à accompagner le processus d’adhésion de l’Ukraine à l’Union européenne et à faire en sorte qu’il aboutisse dans les meilleurs délais, dans le respect impératif des critères d’adhésion",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0070_texte-adopte-seance.pdf",
+          "page": "8",
+          "note": "Soutien à l’adhésion de l’Ukraine (vote « Contre » l’amendement n°33 qui supprimait cet alinéa, scrutin n°973) ; les Balkans occidentaux ne sont pas mentionnés : +1."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2024-11-vote-mercosur",
+      "date": "2024-11-26",
+      "title": "Scrutin public n°456 — déclaration du Gouvernement sur les négociations relatives à l’accord d’association UE-Mercosur (article 50-1 de la Constitution)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande figure parmi les députés ayant voté « Pour » la déclaration du Gouvernement, qui exposait son opposition à l’accord « tel que l’envisage la Commission » ; 485 voix pour, 69 contre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 1,
+          "quote": "Ce sont les raisons qui poussent le gouvernement à s’opposer à cet accord tel que l’envisage la Commission.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N051",
+          "inferred": true,
+          "note": "Extrait de la déclaration de la ministre Annie Genevard ; vote « Pour » de François Hollande (scrutin n°456) : soutien à l’opposition du Gouvernement à l’accord en l’état, non à un rejet de principe."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2024-11-vote-meubles-tourisme",
+      "date": "2024-11-07",
+      "title": "Scrutin public n°289 — proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l’échelle locale (texte de la CMP)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/289",
+      "publisher": "Assemblée nationale",
+      "summary": "François Hollande figure dans la liste « Pour » du groupe Socialistes et apparentés ; texte définitivement adopté par 168 voix contre 54.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-06",
+          "value": 1,
+          "quote": "Scrutin public n°289 sur l'ensemble de la proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale (texte de la commission mixte paritaire).",
+          "note": "Vote « Pour » d’un texte dont l’article 7 abaisse à 15 000 € le plafond et à 30 % l’abattement du régime micro-BIC applicable à une catégorie de meublés de tourisme (texte adopté n°7) ; vote sur l’ensemble du texte."
+        }
+      ]
+    },
+    {
+      "id": "hollande-2024-06-profession-foi",
+      "date": "2024-06-30",
+      "title": "Profession de foi de François Hollande – élections législatives 2024, 1re circonscription de la Corrèze (premier tour)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www2.assemblee-nationale.fr/static/barodet/Barodet-2024/Professions_de_foi_par_d%C3%A9partement/19_Corr%C3%A8ze_2%20circonscriptions/19-1901-HOLLANDE%20Fran%C3%A7ois_T1.pdf",
+      "publisher": "François Hollande (profession de foi reproduite dans le recueil Barodet de l’Assemblée nationale)",
+      "summary": "Profession de foi signée par François Hollande, candidat soutenu par le Nouveau Front populaire au premier tour du 30 juin 2024 (document daté par l’élection, sans autre date de publication) ; elle liste ses propositions sur le pouvoir d’achat, les services publics, le climat, la fiscalité et la Corrèze.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Indexer les salaires et les pensions sur les prix, augmenter le SMIC et le point d’indice des fonctionnaires.",
+          "page": "2",
+          "note": "Indexation des salaires sur les prix explicitement proposée."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 1,
+          "quote": "Revenir sur la réforme des retraites.",
+          "page": "2",
+          "note": "« Revenir sur » la réforme, sans préciser s’il s’agit d’une abrogation complète : orientation."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Bloquer les prix de l’énergie.",
+          "page": "2",
+          "note": "Blocage des prix limité à l’énergie, sans mention d’autres produits de première nécessité ni de durée : mesure partielle."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Lutter contre les déserts médicaux en régulant l’installation des médecins.",
+          "page": "2",
+          "note": "Régulation de l’installation des médecins explicitement proposée contre les déserts médicaux."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "Assurer la sécurité par la police de proximité et la présence de la gendarmerie.",
+          "page": "2",
+          "note": "Police de proximité mise en avant, sans qu’elle soit explicitement privilégiée par rapport aux unités d’intervention."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Mettre en place un plan rail et fret.",
+          "page": "2",
+          "note": "Plan rail et fret proposé, sans montant ni mention d’un financement par la dette."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Rétablir les prélèvements sur les revenus du capital supprimés en 2017.",
+          "page": "2",
+          "inferred": true,
+          "note": "Le rétablissement des prélèvements sur les revenus du capital supprimés en 2017 implique une imposition accrue des dividendes ; les rachats d’actions ne sont pas mentionnés : déduction partielle."
+        }
+      ]
+    }
+  ]
 }

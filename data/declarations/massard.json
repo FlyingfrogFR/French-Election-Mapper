@@ -1,4 +1,29 @@
 {
   "candidateId": "massard",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "massard-2026-04-candidature",
+      "date": "2026-04-07",
+      "title": "Lydie MASSARD : Candidate aux primaires de la gauche",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260415141839/https://www.udb.bzh/non-classifiee/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+      "publisher": "Union démocratique bretonne (udb.bzh)",
+      "summary": "Déclaration de candidature à la primaire de la gauche, rédigée à la première personne et publiée le 7 avril 2026 dans la rubrique Communiqués du site de l'UDB. Lydie Massard y propose une République fédérale qui donnerait aux territoires la capacité de voter des lois dans certains domaines, ainsi que des ressources fiscales adaptées.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-12",
+          "value": 2,
+          "quote": "Une République fédérale permettra de donner aux territoires de véritables responsabilités, y compris la capacité de voter des lois dans certains domaines, ainsi que des ressources fiscales adaptées.",
+          "inferred": true,
+          "note": "Déduite : le texte ne nomme ni la Corse ni la Constitution, mais propose une République fédérale donnant à tous les territoires un pouvoir législatif dans certains domaines et des ressources fiscales, ce qui suppose une autonomie de rang constitutionnel et va au-delà de l'affirmation."
+        }
+      ]
+    }
+  ]
 }

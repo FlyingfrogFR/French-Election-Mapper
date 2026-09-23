@@ -2,6 +2,95 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-09-fete-humanite",
+      "date": "2026-09-15",
+      "title": "Fête de l'Humanité 2026 - discours de Fabien ROUSSEL",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.pcf74.fr/2026/09/fete-de-l-humanite-2026-discours-de-fabien-roussel.html",
+      "publisher": "Parti communiste français, fédération de Haute-Savoie (pcf74.fr)",
+      "summary": "Transcription du discours prononcé par Fabien Roussel le 12 septembre 2026 à la Fête de l'Humanité, publiée le 15 septembre 2026 par la fédération PCF de Haute-Savoie ; une page du même titre existe sur pcf.fr. Il y appelle à se mobiliser contre la vie chère et annonce une « nationalisation sanction » de Total, le rétablissement de l'ISF, des cotisations sur les dividendes, la nationalisation d'une grande banque et la « parité sociale » au Parlement et dans les entreprises. Il se prononce contre la GPA et contre l'interdiction du voile dans l'espace public.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "Et menons ce combat pour une République féministe en refusant la marchandisation du corps des femmes, en refusant la prostitution, en refusant la GPA.",
+          "note": "Fabien Roussel rejette explicitement la GPA dans son discours de meeting. Le texte est la transcription publiée par une fédération du PCF, qui reprend celle de pcf.fr."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "Et je demande justement que dans l'espace public, chaque mot, chaque geste raciste, antisémite et homophobe soit immédiatement dénoncé et condamné. C'est ça qu'il faut interdire partout et pas le voile.",
+          "inferred": true,
+          "note": "Il rejette explicitement l'interdiction du voile dans l'espace public (« ce n'est pas le voile qui pose problème »). L'affirmation vise l'ensemble des signes religieux ostensibles, d'où une position déduite."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-09-budget-2027",
+      "date": "2026-09-18",
+      "title": "« Budget 2027 : Lecornu annonce une saignée sociale au service du capital »",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260920174738/https://www.pcf.fr/budget_2027_lecornu_annonce_une_saignee_sociale_au_service_du_capital",
+      "publisher": "Parti communiste français",
+      "summary": "Communiqué du PCF en réponse au projet de budget 2027 présenté par Sébastien Lecornu dans un entretien au Figaro (54 milliards d'euros d'économies). Le PCF, qui se réfère à « notre candidat Fabien Roussel », propose de baisser la fiscalité sur les carburants et d'en bloquer le prix à 1,60 € le litre, de baisser de 30 % les prix de l'électricité et du gaz, de porter le SMIC à 2 200 € bruts, d'indexer les salaires et les pensions sur l'inflation et d'engager un plan de 60 milliards d'euros pour l'emploi, la formation et le climat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Augmenter les salaires et les pensions : porter le smic à 2200 euros bruts, indexer les salaires et les pensions sur l’inflation, augmenter les bas-salaires et revaloriser immédiatement de 10% le point d’indice.",
+          "note": "Communiqué du PCF, utilisé parce que Fabien Roussel en est le candidat désigné et que le texte parle en son nom. Le SMIC passerait à 2 200 € bruts (le programme de 2023 disait 1 600 € net) ; la valeur ne change pas."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Augmenter les salaires et les pensions : porter le smic à 2200 euros bruts, indexer les salaires et les pensions sur l’inflation, augmenter les bas-salaires et revaloriser immédiatement de 10% le point d’indice.",
+          "note": "Communiqué du PCF (candidat désigné) qui propose explicitement d'indexer les salaires sur l'inflation ; il est aussi précis que le Pacte 2025 et la valeur ne change pas."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Agir contre la vie chère : baisser la fiscalité sur les prix du carburant et les bloquer à 1,60 euros le litre ; baisser de 30% les prix de l'électricité et du gaz",
+          "inferred": true,
+          "note": "Communiqué du PCF (candidat désigné) qui propose de bloquer le prix des carburants à 1,60 €/l. La mesure ne vise que les carburants, d'où +1 déduit pour l'affirmation générale sur les produits de première nécessité ; elle est plus précise que la source actuelle (programme 2023)."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-09-journee-paix",
+      "date": "2026-09-18",
+      "title": "« Journée internationale de la paix : se mobiliser contre les fauteurs et les marchands de guerre »",
+      "sourceType": "communique",
+      "sourceUrl": "https://web.archive.org/web/20260920174738/https://www.pcf.fr/journeinternationale_paix",
+      "publisher": "Parti communiste français",
+      "summary": "Communiqué du PCF pour la Journée internationale de la paix. « Le PCF et Fabien Roussel, candidat à l'élection présidentielle » appellent à la mobilisation le 21 septembre et lors des manifestations du 26 septembre pour : la sortie et la dissolution de l'OTAN, en commençant par la sortie du commandement intégré ; la mise sous contrôle de la nation de l'industrie d'armement ; une initiative de paix indépendante de la France en Ukraine ; des sanctions contre l'État d'Israël et les colons ; la signature du TIAN.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "la sortie et la dissolution de l’OTAN, en commençant par la sortie du commandement intégré, pour initier la construction d’un espace de paix et de sécurité collective en Europe en toute indépendance des USA",
+          "note": "Communiqué signé par le PCF, qui nomme expressément Fabien Roussel, candidat désigné. Il demande la sortie du commandement intégré comme première étape vers la sortie et la dissolution de l'OTAN ; la valeur est la même que dans le Pacte 2025."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-09-designation",
       "date": "2026-09-06",
       "title": "Validation de la candidature par le vote des adhérents du PCF (72 %)",

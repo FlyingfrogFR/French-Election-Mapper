@@ -2,6 +2,161 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-09-echelle-mobile-salaires",
+      "date": "2026-09-22",
+      "title": "« Qui fait augmenter toute seule la charge de la dette à prix fou ? » – note de blog de Jean-Luc Mélenchon",
+      "sourceType": "tribune",
+      "sourceUrl": "https://melenchon.fr/2026/09/22/qui-fait-augmenter-toute-seule-la-charge-de-la-dette-a-prix-fou/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr)",
+      "summary": "Note publiée à la première personne sur le blog officiel de Jean-Luc Mélenchon. Elle porte sur les obligations indexées sur l’inflation (OATi) et la charge de la dette, et rappelle sa proposition d’échelle mobile des salaires faite à la Fête de l’Humanité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "je plaidais au contraire pour l’échelle mobile des salaires. Ce système consiste à ajuster, à intervalles réguliers, les salaires sur l’augmentation des prix pour effacer l’effet « grignotage » de la hausse des prix sur le pouvoir d’achat du salaire.",
+          "note": "Il défend lui-même l’échelle mobile des salaires, c’est-à-dire leur ajustement régulier sur les prix. C’est l’indexation automatique de l’affirmation. Même valeur que dans l’AEC 2025."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-09-encadrement-loyers",
+      "date": "2026-09-03",
+      "title": "« Encadrement des loyers : les multipropriétaires doivent respecter la loi. » – communiqué du groupe LFI",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/09/03/encadrement-des-loyers-les-multiproprietaires-doivent-respecter-la-loi/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Communiqué du groupe LFI publié le jour de la parution du 6e baromètre de la Fondation pour le logement des défavorisés sur l’encadrement des loyers. Il liste les mesures que Jean-Luc Mélenchon appliquerait : encadrement sur tout le territoire, inspection du logement, baisse des loyers en zones tendues.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Jean-Luc Mélenchon renforcera l’encadrement des loyers pour réduire le coût du logement : - en le généralisant à l’ensemble du territoire",
+          "note": "Communiqué du groupe parlementaire qui attribue explicitement la mesure au candidat : l’encadrement serait étendu à tout le territoire, zones tendues comprises. Même valeur que dans l’AEC 2025."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-09-plan-urgence-agricole",
+      "date": "2026-09-03",
+      "title": "« Crise climatique : l’urgence agricole ! » – plan d’urgence du groupe parlementaire de La France insoumise",
+      "sourceType": "autre",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/09/03/crise-climatique-lurgence-agricole-plan-durgence-du-groupe-parlementaire-de-la-france-insoumise/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Plan d’urgence en dix mesures du groupe parlementaire LFI après la crise agricole de l’été 2026 : trésorerie, indemnisation des pertes, prix planchers obligatoires, blocage temporaire de prix, hiérarchie des usages de l’eau, service public de l’équarrissage et fonds mutuel contre les risques climatiques. Le document est un PDF lié depuis la page.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Nous proposons d’instaurer des prix planchers obligatoires, différenciés par production et par bassin, en dessous desquels aucun produit agricole ne pourra être acheté.",
+          "sourceUrl": "https://lafranceinsoumise.fr/wp-content/uploads/2026/09/Plan-ClimatAgri-Sept-2026-WEB-V4.pdf",
+          "page": "8",
+          "note": "Plan du groupe parlementaire LFI, une position de parti dont le candidat ne s’est pas démarqué. Il confirme les prix planchers de l’AEC 2025 et les précise : obligatoires, par production et par bassin. Même valeur."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Nous proposons que l’Etat bloque temporairement les prix d’un panier de produits essentiels.",
+          "sourceUrl": "https://lafranceinsoumise.fr/wp-content/uploads/2026/09/Plan-ClimatAgri-Sept-2026-WEB-V4.pdf",
+          "page": "8",
+          "note": "Plan du groupe parlementaire LFI, une position de parti dont le candidat ne s’est pas démarqué. Il propose explicitement un blocage temporaire des prix de produits essentiels. Même valeur que dans l’AEC 2025."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-08-voile-espace-public",
+      "date": "2026-08-31",
+      "title": "« Port du voile : le RN confirme son islamophobie et annonce une police du vêtement » – communiqué du groupe LFI",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/08/31/port-du-voile-le-rn-confirme-son-islamophobie-et-annonce-une-police-du-vetement/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Communiqué du groupe parlementaire LFI qui répond à l’annonce, par un porte-parole du RN, d’une amende pour le port du voile. Le groupe affirme son « opposition absolue » à cette proposition et écrit que la criminalisation du port d’un signe religieux dans l’espace public est contraire aux textes fondateurs des principes républicains.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "La criminalisation du port d’un signe religieux dans l’espace public est contraire à l’ensemble des textes fondateurs des principes républicains : la Déclaration des Droits de l’Homme et du Citoyen, la Loi de 1905 concernant la séparation des Eglises et de l’Etat, ainsi que la Constitution.",
+          "note": "Communiqué non signé du groupe parlementaire LFI, publié sur le site du mouvement. C’est une position du parti, dont le candidat désigné ne s’est pas démarqué. Le groupe « affirme son opposition absolue » à cette interdiction. C’est la première position enregistrée sur cette affirmation."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-08-tribune-pesticides",
+      "date": "2026-08-19",
+      "title": "« Le 29 octobre, l’Assemblée nationale votera enfin pour interdire les pesticides dangereux pour la santé » – tribune cosignée par Jean-Luc Mélenchon",
+      "sourceType": "tribune",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/08/19/tribune-le-29-octobre-pesticides/",
+      "publisher": "La France insoumise (tribune cosignée par dix responsables insoumis, dont Jean-Luc Mélenchon)",
+      "summary": "Tribune contre la loi d’urgence agricole, qui réintroduit l’acétamipride et le flupyradifurone. Elle annonce que la niche parlementaire LFI du 29 octobre servira à faire voter l’abrogation de l’article concerné, et que les signataires feront campagne avec Jean-Luc Mélenchon sur ce thème.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Cette loi criminelle réintroduit des pesticides dangereux pour notre santé - l’acétamipride et le flupyradifurone.",
+          "note": "Tribune signée par le candidat. Elle refuse la réautorisation de deux pesticides interdits, dont l’acétamipride (un néonicotinoïde), et annonce vouloir voter leur réinterdiction. Même valeur que dans l’AEC 2025."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-07-reporterre",
+      "date": "2026-07-22",
+      "title": "« Une nouvelle gauche d’action a surgi, elle est faite d’insoumis et de verts, tous écologistes » – entretien avec Reporterre, reproduit sur melenchon.fr",
+      "sourceType": "interview",
+      "sourceUrl": "https://melenchon.fr/2026/07/22/une-nouvelle-gauche-daction-a-surgi-elle-est-faite-dinsoumis-et-de-verts-tous-ecologistes-interview-reporterre/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr), entretien paru dans Reporterre le 22 juillet 2026",
+      "summary": "Transcription, publiée sur le blog officiel de Jean-Luc Mélenchon, de son entretien avec Reporterre paru le 22 juillet 2026. Il y parle des canicules, des éco-régions, du canal Seine-Nord Europe, de l’alliance proposée aux Écologistes, de politique internationale, des maladies environnementales et des centres de données.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": -1,
+          "quote": "Il faut donc d’abord un moratoire sur la construction des centres de données destinés à des entreprises privées étrangères, soumises au droit américain.",
+          "note": "À la question sur un moratoire visant les centres de données, il répond « Oui, avec plusieurs précautions ». Il vise les centres de données d’entreprises privées étrangères et cite leur coût en énergie et en eau. L’opposition est partielle, d’où −1, même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -1,
+          "quote": "Il faut à tout prix écarter la proposition de Yannick Jadot, sénateur vert, pour des tirs de missiles en profondeur vers la Russie. Au contraire, il faut engager la discussion avec elle pour la réintégrer dans la coopération avec les Européens",
+          "inferred": true,
+          "note": "Il rejette explicitement les frappes de missiles en profondeur vers la Russie, ce qui correspond au volet « armes de longue portée », et prône la négociation. Il ne parle pas du soutien militaire en général, d’où −1 déduit, inchangé."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-05-candidature",
       "date": "2026-05-03",
       "title": "Annonce de candidature à l'élection présidentielle 2027",

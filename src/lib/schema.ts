@@ -77,6 +77,7 @@ export const CandidatesFileSchema = z.object({
     notes: z.string(),
   }),
   primaries: z.record(
+    z.string(),
     z.object({ name: z.string(), date: z.string(), organizers: z.string(), source: z.string().url() }),
   ),
   candidates: z.array(CandidateSchema),

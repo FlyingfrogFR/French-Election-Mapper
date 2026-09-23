@@ -2,6 +2,272 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane déposée le 11 août 2026 par Céline Thiébault-Martinez, Guillaume Gouffier Valente, Yaël Braun-Pivet et de nombreux autres députés ; François Ruffin en est cosignataire. Elle prévoit notamment des juridictions spécialisées dans les violences sexuelles et intrafamiliales, des mesures de prévention, de protection et de répression, ainsi qu'une programmation budgétaire de trois milliards d'euros par an de 2027 à 2032.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Le texte prévoit un budget dédié de 3 Md€ par an et crée des juridictions spécialisées dans les violences sexuelles et intrafamiliales."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-12-ppl-2260",
+      "date": "2025-12-18",
+      "title": "Proposition de loi constitutionnelle n°2260 instaurant un référendum d'initiative citoyenne délibératif (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B2260.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi constitutionnelle déposée le 18 décembre 2025 par Marie Pochon et des députés du groupe Écologiste et Social ; François Ruffin en est cosignataire. Elle modifie l'article 11 pour instaurer un référendum sur une proposition de loi citoyenne à objet unique. Le référendum est précédé d'un contrôle du Conseil constitutionnel, d'un recueil de signatures sur douze mois et de la publication d'une information sur la proposition par un organe consultatif de 150 électeurs tirés au sort. Le texte crée aussi un référendum local d'initiative citoyenne.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Un référendum portant sur une proposition de loi citoyenne à objet unique est organisé à l’issue d’un processus consultatif lorsqu’une pétition le proposant est soutenue par un pourcentage déterminé des électeurs inscrits sur les listes électorales.",
+          "note": "Texte constitutionnel plus récent que le manifeste Debout! (2025) qui confirme le +2 : RIC délibératif portant sur une loi ordinaire, avec une déclinaison locale."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-12-ppl-2216",
+      "date": "2025-12-09",
+      "title": "Proposition de loi n°2216 visant à empêcher la constitution de monopoles économiques dans les secteurs des médias (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B2216.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 9 décembre 2025 par Sophie Taillé-Polian et des députés du groupe Écologiste et Social ; François Ruffin en est cosignataire. Elle remplace les plafonds anti-concentration de la loi de 1986 par un seuil unique de « part d'influence » cumulée sur tous les supports. Le contrôle des concentrations dans les médias d'information est confié à l'Autorité de la concurrence, après avis de l'Arcom.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Une même personne physique ou morale ne peut exercer un contrôle direct ou indirect, au sens de l’article L. 233-3 du code de commerce, sur un ensemble de médias d’information, dont la part d’influence cumulée excède un seuil défini par décret en Conseil d’État.",
+          "note": "Remplace le +1 déduit du manifeste Debout! (2025) : le texte propose explicitement un nouveau plafond anti-concentration pluri-médias."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-10-ppr-1896",
+      "date": "2025-10-03",
+      "title": "Proposition de résolution européenne n°1896 visant à interdire l'élevage en cage de poules pondeuses dans l'Union européenne (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PNREANR5L17B1896.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 3 octobre 2025 par Josiane Corneloup et des députés de plusieurs groupes ; François Ruffin en est cosignataire. Elle demande au Gouvernement de soutenir une législation européenne interdisant l'élevage en cage des poules pondeuses, et à la Commission européenne de la proposer au plus tard en 2026, avec des délais de transition.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Demande au Gouvernement français de soutenir activement auprès des institutions européennes l’adoption d’une proposition législative visant à interdire l’élevage en cage de poules pondeuses dans l’Union européenne",
+          "note": "Mesure partielle, limitée à l'élevage en cage des poules pondeuses. Le texte la justifie notamment par le bien-être animal, en s'appuyant sur l'avis de l'EFSA."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-09-ppl-1842",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1842 visant à abroger la loi n° 2025-794 du 11 août 2025, dite loi Duplomb, à rendre définitive l'interdiction des néonicotinoïdes en France, à tenir compte du dernier état des connaissances scientifiques et à lutter contre la concurrence déloyale en matière de pesticides (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B1842.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 16 septembre 2025 par Delphine Batho, Benoît Biteau, Cyrielle Chatelain et les membres du groupe Écologiste et Social, dont François Ruffin. Elle abroge la loi du 11 août 2025 dite loi Duplomb et rétablit l'interdiction de tous les néonicotinoïdes en France, en l'étendant aux biocides et aux médicaments vétérinaires. Elle renforce aussi l'indépendance de l'Anses et encadre l'importation de produits traités avec des pesticides interdits.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Le 1° rétablit l’interdiction pleine et entière de tous les néonicotinoïdes en France, en supprimant le conseil de surveillance chargé du mécanisme de dérogation",
+          "note": "Le texte supprime le mécanisme de dérogation créé en 2020 pour la betterave sucrière et abroge la loi Duplomb."
+        },
+        {
+          "questionId": "agr-02",
+          "value": -1,
+          "quote": "substances encore approuvées par l’Union européenne mais interdites en France, dès lors que ces preuves scientifiques ont été notifiées à la Commission européenne. De ce fait, il ne sera plus possible d’importer en France des produits agricoles traités, par exemple, avec de l’acétamipride.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1842_proposition-loi.pdf",
+          "page": "9",
+          "inferred": true,
+          "note": "Déduite : le texte maintient des interdictions françaises de pesticides plus strictes que le droit de l’Union (acétamipride) et les applique aux importations ; il ne se prononce pas sur les surtranspositions en général, d’où −1. Position reprise de l'encodage relu pour les autres cosignataires du même texte : un texte cosigné engage chacun·e de ses signataires sur ses mesures (règle 8) ; cosignature attestée par les données ouvertes de l'Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-09-ppr-1785",
+      "date": "2025-09-15",
+      "title": "Proposition de résolution européenne n°1785 visant à empêcher la ratification de l'accord entre l'Union européenne et le Mercosur en demandant à l'État français la saisine de la Cour de justice de l'Union européenne pour cause d'incompatibilité de l'accord avec les traités européens (auteur)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1785_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 15 septembre 2025 par François Ruffin, premier signataire, avec des députés de plusieurs groupes. Elle invite le Gouvernement à s'opposer au Conseil de l'Union européenne à la signature, à l'application provisoire et à la conclusion de l'accord UE-Mercosur. Elle lui demande aussi de solliciter l'avis de la Cour de justice de l'Union européenne sur sa compatibilité avec les traités et de ne pas ratifier l'accord avant cet avis.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "à s’opposer au sein du Conseil de l’Union européenne à l’adoption des propositions de décisions relatives à la signature, l’application provisoire et la conclusion de l’accord de partenariat entre l’Union européenne et les pays du Mercosur",
+          "page": "11",
+          "note": "Remplace le +2 déduit du manifeste Debout! (2025) : l'opposition à l'accord est ici explicite. La valeur ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-06-ppr-1532",
+      "date": "2025-06-10",
+      "title": "Proposition de résolution européenne n°1532 visant à suspendre l'accord d'association Union européenne-Israël et à l'adoption de sanctions contre les violations du droit international humanitaire (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PNREANR5L17B1532.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne déposée le 10 juin 2025 par Sabrina Sebaihi, Cyrielle Chatelain, Stéphane Peu et d'autres députés ; François Ruffin en est cosignataire. Elle appelle à la libération des otages israéliens et des prisonniers palestiniens détenus arbitrairement. Elle demande que la France soutienne la suspension de l'accord d'association UE-Israël et des sanctions visant l'État d'Israël et les personnes ou entités « impliquées dans les massacres de Gaza », ainsi que des embargos européens sur les armes et sur les produits des colonies.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "Demande à ce que la France soutienne, au niveau européen, la suspension de l’accord d’association entre l’Union européenne et Israël du 20 novembre 1995 tant que des violations graves et répétées du droit international humanitaire sont constatées",
+          "note": "Remplace le +2 déduit du manifeste Debout! (2025) : la suspension de l'accord d'association est ici demandée explicitement. La valeur ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-02-ppl-966",
+      "date": "2025-02-13",
+      "title": "Proposition de loi n°966 visant à lutter contre les déserts médicaux, d'initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0966_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane déposée le 13 février 2025 par Guillaume Garot et de nombreux députés ; François Ruffin en est cosignataire. Elle soumet l'installation des médecins en ville à une autorisation de l'agence régionale de santé et supprime la majoration de tarif pour les patients sans médecin traitant. Elle prévoit aussi une première année d'études de santé dans chaque département, un CHU par région, et rétablit l'obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "L’installation d’un médecin en ville est soumise à l’autorisation préalable du directeur général de l’agence régionale de santé compétente après avis rendu dans les trente jours suivant sa saisine, du conseil départemental de l’ordre dont il relève.",
+          "page": "10",
+          "note": "L'autorisation est délivrée de droit en zone sous-dotée ; ailleurs, seulement en remplacement d'un médecin de la même spécialité qui cesse son activité."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2025-01-ppl-768",
+      "date": "2025-01-07",
+      "title": "Proposition de loi n°768 instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B0768.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 7 janvier 2025 par Eva Sas, Clémentine Autain et les membres du groupe Écologiste et Social, dont François Ruffin. Elle crée un impôt plancher : les contribuables dont le patrimoine net dépasse 100 millions d'euros devront acquitter au total au moins 2 % de ce patrimoine en impôts.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Nous proposons de créer un impôt plancher sur la fortune (IPF) pour les 0,01 % des contribuables les plus riches, possédant plus de 100 millions d’euros, afin de s’assurer qu’ils paient au moins 2 % de leur fortune en impôts.",
+          "note": "Remplace le +2 déduit du manifeste Debout! (2025) : la mesure (2 % au-delà de 100 millions d'euros) est ici proposée explicitement. La valeur ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2024-12-ppl-671",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°671 visant à interdire les licenciements boursiers (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B0671.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 3 décembre 2024 par Benjamin Lucas-Lundy et des députés du groupe Écologiste et Social ; François Ruffin en est cosignataire. Dans les entreprises d'au moins deux cents salariés ayant distribué des dividendes, elle exclut le motif économique de licenciement. Elle oblige aussi les entreprises aidées qui licencient hors motif personnel ou économique à rembourser les aides publiques.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "cette proposition de loi a pour objet d’encadrer la définition du licenciement pour motif économique en excluant de fait les licenciements effectués alors même que l’entreprise verse des dividendes à ses actionnaires",
+          "note": "L'article 1er vise les entreprises d'au moins deux cents salariés ayant distribué des dividendes au cours de l'exercice écoulé."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2024-12-ppl-682",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°682 contre les déserts médicaux, d'initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0682_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane déposée le 3 décembre 2024 par Guillaume Garot et de nombreux députés ; François Ruffin en est cosignataire. Elle soumet l'installation des médecins à une autorisation de l'agence régionale de santé et interdit le secteur 2 « hors OPTAM » pour les nouvelles installations. Elle contient aussi des mesures sur la formation des soignants, le salariat des médecins et la permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 1,
+          "quote": "l’article 6 propose de mettre en place l’extinction progressive de la pratique d’honoraires de secteur 2 « hors-OPTAM » en l’interdisant pour toute nouvelle installation.",
+          "page": "11",
+          "note": "Mesure partielle et progressive : seules les nouvelles installations sont tenues aux tarifs conventionnels ou aux plafonds de dépassement."
+        }
+      ]
+    },
+    {
       "id": "ruffin-debout-manifeste",
       "date": "2025-01-01",
       "title": "Manifeste fondateur de Debout!",

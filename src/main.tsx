@@ -4,6 +4,10 @@ import { BrowserRouter } from 'react-router-dom';
 import App from './App';
 import { AppStateProvider } from './state/AppState';
 import './styles.css';
+import { applyTheme, readTheme } from './lib/theme';
+
+// Applied before the first paint so the page never flashes the wrong theme.
+applyTheme(readTheme());
 
 const basename = import.meta.env.BASE_URL.replace(/\/$/, '');
 
