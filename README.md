@@ -35,7 +35,7 @@ npm run check     # validation des données, types, tests, serveur
 npm run build     # site statique dans dist/
 ```
 
-Scripts de données : `npm run data:validate`, `npm run data:build`, `npm run data:freshness -- --markdown`, `npm run data:check-quotes`, et pour préparer une déclaration `npm run data:brief -- <candidat>` et `npm run data:source -- <url>`.
+Scripts de données : `npm run data:validate`, `npm run data:build`, `npm run data:freshness -- --markdown`, `npm run data:check-quotes`, et pour préparer une déclaration `npm run data:brief -- <candidat>`, `npm run data:source -- <url>` et `npm run data:search -- "<requête>"`.
 
 ## État des données
 

@@ -21,6 +21,8 @@ export const meta = {
 //   today: 'AAAA-MM-JJ', since: 'AAAA-MM-JJ',           // research window (inclusive)
 //   repo?: '/home/user/French-Election-Mapper',
 //   candidates: [{ id, name, status, positions, lastUpdated, since? }],   // `npm run -s data:freshness -- --json` → .candidates
+//                complement?: ['titre <url>', …] turns a candidate's mission into a catch-up pass after a first pass
+//                that could not search (it lists what the first pass already found).
 //   statusSweep?: true, critic?: true,
 // }
 
@@ -47,7 +49,9 @@ RÈGLES NON NÉGOCIABLES
 OUTILS
 - \`npm run -s data:brief -- <id>\` : statut, site officiel connu, déclarations déjà enregistrées (à ne jamais rajouter), et les 163 affirmations avec la position actuelle de la personne.
 - \`npm run -s data:source -- <url>\` : texte intégral d'une page ou d'un PDF tel que le contrôle le lira (pages protégées : navigateur headless automatique). Options : --grep="mots" (passages autour de chaque occurrence), --links (liens de la page), --quote="…" (contrôle d'une citation), --out=/tmp/fichier.txt.
-- WebSearch pour trouver les publications (charger avec ToolSearch "select:WebSearch,WebFetch") ; WebFetch pour survoler une page, jamais pour copier une citation (il résume).`
+- \`npm run -s data:search -- "<requête>" [--days=N]\` : titres d'actualité datés (Google News), sans quota, pour REPÉRER ce qui a été publié (discours, tribune signée, lancement de programme). Un titre n'est jamais une source : trouve ensuite le document lui-même.
+- Canaux officiels à parcourir directement : rubriques Actualités / Communiqués / Tribunes / Discours, flux RSS (/feed/), sitemap.xml, API WordPress (/wp-json/wp/v2/posts?after=AAAA-MM-JJT00:00:00), données ouvertes de l'Assemblée et du Sénat.
+- WebSearch (charger avec ToolSearch "select:WebSearch,WebFetch") : quota partagé par tous les agents de la session et vite épuisé, donc 3 requêtes au plus par mission, après data:search et les canaux officiels. WebFetch sert à survoler une page, jamais à copier une citation (il résume).`
 
 const SOURCE_TYPES = ['programme', 'discours', 'tribune', 'communique', 'vote', 'interview', 'autre']
 
@@ -156,6 +160,19 @@ CANDIDAT·E : ${c.name} (identifiant « ${c.id} »), statut « ${c.status} », $
 MISSION CIBLÉE. Une relecture de complétude signale ces publications possiblement officielles, absentes du jeu de données :
 ${hint.map((h) => `- ${h.date || 'date ?'} · ${h.title} · ${h.url}\n  (${h.why})`).join('\n')}
 Pour chacune : établis si c'est bien un document officiel au sens des règles, publié dans la période du ${since} au ${TODAY}, non déjà enregistré (data:brief). Si oui, lis-le en entier et encode-le selon les règles. Sinon, écarte-le et dis pourquoi dans problems.`
+  }
+  if (c.complement) {
+    const firstPass = c.complement.length ? c.complement.map((x) => `- ${x}`).join('\n') : '(rien)'
+    return `${head}
+
+MISSION : COMPLÉMENT. Une première recherche sur la période du ${since} au ${TODAY} n'a pas pu utiliser de moteur de recherche (quota épuisé) : elle n'a vu que les canaux officiels qu'elle a su trouver seule. Elle a retenu :
+${firstPass}
+Ton rôle : trouver ce qu'elle ne pouvait pas voir, pour que chaque candidat·e soit cherché·e avec le même soin.
+1. \`npm run -s data:brief -- ${c.id}\` (ce qui est déjà enregistré, première recherche comprise).
+2. Repère avec \`npm run -s data:search -- '"${c.name}"' --days=N\` (N = jours depuis le ${since}) et ses variantes (« "${c.name}" tribune », « propose », « programme », « discours », « meeting », « proposition de loi ») les publications de la période : tribunes signées par la personne (même publiées dans un journal), discours publiés, programme ou livret, propositions de loi.
+3. Pour chaque piste, trouve le document lui-même (site officiel, site du parti, site du journal pour une tribune signée, Assemblée ou Sénat) et lis-le avec data:source. Une tribune signée publiée par un journal est une source admise ; un article ou un entretien de presse ne l'est pas.
+4. N'encode que ce qui n'est ni déjà enregistré ni dans la liste ci-dessus, selon les règles. Ne rien trouver de plus est une réponse valable ; décris dans searched les requêtes faites et ce qui a été lu.
+Identifiant de déclaration : « ${c.id}-AAAA-MM-<mot-clé> », unique. Types permis : ${SOURCE_TYPES.join(', ')} (interview seulement si la transcription intégrale est publiée par la personne ou son parti ; jamais « presse »).`
   }
   if (!c.positions) {
     return `${head}

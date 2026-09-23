@@ -99,7 +99,8 @@ let declarationsAdded = 0;
 for (const ch of result.status?.changes ?? []) {
   const c = byId.get(ch.candidateId);
   if (ch.verdict !== 'accept') {
-    statusLines.push(`- ~~${c?.displayName ?? ch.candidateId}~~ : écarté en relecture — ${ch.reason}`);
+    const why = ch.verdict === 'reject' ? 'écarté en relecture' : 'non tranché en relecture, non appliqué';
+    statusLines.push(`- ~~${c?.displayName ?? ch.candidateId}~~ : ${why} — ${ch.reason}`);
     continue;
   }
   if (!c || !CANDIDATE_STATUSES.includes(ch.status) || (ch.primary && !candidatesFile.primaries[ch.primary])) {
@@ -123,7 +124,8 @@ for (const ch of result.status?.changes ?? []) {
 }
 for (const n of result.status?.newCandidates ?? []) {
   if (n.verdict !== 'accept') {
-    statusLines.push(`- ~~Nouvelle candidature ${n.displayName}~~ : écartée en relecture — ${n.reason}`);
+    const why = n.verdict === 'reject' ? 'écartée en relecture' : 'non tranchée en relecture, non appliquée';
+    statusLines.push(`- ~~Nouvelle candidature ${n.displayName}~~ : ${why} — ${n.reason}`);
     continue;
   }
   if (byId.has(n.id) || !/^[a-z0-9-]+$/.test(n.id)) {

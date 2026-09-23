@@ -24,7 +24,10 @@ Le déclenchement hebdomadaire est planifié dans le compte Claude de l'opérate
 Pour travailler à la main avec les mêmes outils :
 
 - `npm run data:brief -- <candidat>` : statut, déclarations déjà enregistrées, position actuelle sur chaque affirmation ;
-- `npm run data:source -- <url>` : texte d'une page ou d'un PDF tel que le contrôle des citations le lira ; `--quote="…"` vérifie une citation, `--grep="…"` montre les passages autour d'un mot, `--links` liste les liens de la page.
+- `npm run data:source -- <url>` : texte d'une page ou d'un PDF tel que le contrôle des citations le lira ; `--quote="…"` vérifie une citation, `--grep="…"` montre les passages autour d'un mot, `--links` liste les liens de la page ;
+- `npm run data:search -- "<requête>" --days=N` : titres d'actualité datés, pour repérer ce qui a été publié (un titre n'est jamais une source).
+
+La recherche web intégrée aux agents a un quota par session, que 33 recherches parallèles épuisent vite : la première veille (23 septembre 2026) l'a atteint en cours de route. Les agents passent donc d'abord par `data:search` et les canaux officiels (flux RSS, sitemap, API WordPress, données ouvertes du Parlement), et une passe de complément reprend les candidat·es dont la recherche a été privée de moteur, pour que chacun·e soit cherché·e avec le même soin.
 
 ## Ajouter une déclaration
 
