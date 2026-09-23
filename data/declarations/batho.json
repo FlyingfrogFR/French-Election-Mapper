@@ -2,6 +2,339 @@
   "candidateId": "batho",
   "declarations": [
     {
+      "id": "batho-2026-04-ppl-2659",
+      "date": "2026-04-14",
+      "title": "Proposition de loi n°2659 visant à instaurer un moratoire de trois ans sur les fermetures de classes dans le premier degré (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2659_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 14 avril 2026, présentée par Marie Pochon et cosignée notamment par Delphine Batho. Elle instaure un moratoire de trois ans sur les fermetures de classes dans les écoles publiques du premier degré et prévoit que le conseil d’école rende un avis sur ces fermetures.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-07",
+          "value": 1,
+          "quote": "L’article 1er de la présente proposition de loi prévoit un moratoire de trois ans sur les fermetures de classes.",
+          "page": "5",
+          "inferred": true,
+          "note": "Déduite d’une mesure voisine : moratoire temporaire sur les fermetures de classes, que l’exposé des motifs justifie « en particulier dans les territoires ruraux » contre la logique de « rationaliser » ; ne vise pas les autres services publics, d’où +1."
+        }
+      ]
+    },
+    {
+      "id": "batho-2025-10-ppr-2002",
+      "date": "2025-10-23",
+      "title": "Proposition de résolution européenne n°2002 visant à réaffirmer l’ambition climatique de la France au niveau européen (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2002_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne enregistrée le 23 octobre 2025, présentée par Julie Laernoes ; Delphine Batho figure en troisième position parmi les signataires. Elle invite le Gouvernement à soutenir l’objectif européen de réduction nette d’au moins 90 % des émissions d’ici 2040, à défendre les politiques du paquet « Ajustement à l’objectif 55 », dont la fin de la vente des véhicules thermiques en 2035, et à renforcer la mise en œuvre de la stratégie nationale bas-carbone.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-04",
+          "value": 2,
+          "quote": "à affirmer et protéger sans faille, au sein des institutions européennes, les politiques sectorielles du pacte vert et du Paquet climat « Ajustement à l’objectif 55 » – en particulier la fin programmée de la vente des véhicules thermiques en 2035",
+          "page": "10",
+          "note": "Le texte demande explicitement de protéger la fin programmée de la vente des véhicules thermiques en 2035."
+        }
+      ]
+    },
+    {
+      "id": "batho-2025-09-ppr-1867",
+      "date": "2025-09-30",
+      "title": "Proposition de résolution n°1867 visant à la sauvegarde du développement de l’agriculture biologique (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1867_proposition-resolution.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution enregistrée le 30 septembre 2025, présentée par Pascal Lecamp et cosignée par de nombreux député·es de plusieurs groupes, dont Delphine Batho. Elle invite le Gouvernement à consolider et renforcer le soutien aux exploitations biologiques, notamment en augmentant le crédit d’impôt bio pour trois ans, à rétablir dans le budget 2026 les crédits de communication et du fonds Avenir bio, et à assurer la transparence des prix et des marges.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Consolider et renforcer les dispositifs existants de soutien aux exploitations en agriculture biologique, notamment en augmentant le crédit d’impôt pour l’agriculture biologique pour les trois prochaines années",
+          "page": "7",
+          "note": "Confirme le +2 du texte « Pour un État résilience » (2024), cette fois dans un texte cosigné par la candidate elle-même."
+        }
+      ]
+    },
+    {
+      "id": "batho-2025-09-ppl-1842",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1842 visant à abroger la loi n° 2025-794 du 11 août 2025, dite loi Duplomb, à rendre définitive l’interdiction des néonicotinoïdes en France, à tenir compte du dernier état des connaissances scientifiques et à lutter contre la concurrence déloyale en matière de pesticides (autrice)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1842_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 16 septembre 2025, présentée par Delphine Batho, Benoît Biteau, Cyrielle Chatelain et les membres du groupe Écologiste et social. Elle abroge la loi « Duplomb » du 11 août 2025, rétablit l’interdiction totale des néonicotinoïdes et l’étend aux biocides et médicaments vétérinaires, renforce l’indépendance de l’Anses, restreint l’importation de produits agricoles traités avec des pesticides interdits en France ou dans l’Union et subordonne tout accord de libre-échange à des mesures miroirs.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": -1,
+          "quote": "substances encore approuvées par l’Union européenne mais interdites en France, dès lors que ces preuves scientifiques ont été notifiées à la Commission européenne. De ce fait, il ne sera plus possible d’importer en France des produits agricoles traités, par exemple, avec de l’acétamipride.",
+          "page": "9",
+          "inferred": true,
+          "note": "Déduite : le texte maintient des interdictions françaises de pesticides plus strictes que le droit de l’Union (acétamipride) et les applique aux importations ; il ne se prononce pas sur les surtranspositions en général, d’où −1."
+        }
+      ]
+    },
+    {
+      "id": "batho-2025-09-ppr-1785",
+      "date": "2025-09-15",
+      "title": "Proposition de résolution européenne n°1785 visant à empêcher la ratification de l’accord entre l’Union européenne et le Mercosur en demandant à l’État français la saisine de la Cour de justice de l’Union européenne pour cause d’incompatibilité de l’accord avec les traités européens (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1785_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne enregistrée le 15 septembre 2025, présentée par François Ruffin et cosignée notamment par Delphine Batho. Elle invite le Gouvernement à s’opposer au Conseil de l’Union européenne à la signature, à l’application provisoire et à la conclusion de l’accord UE-Mercosur, à solliciter l’avis de la Cour de justice de l’Union européenne et à ne pas ratifier l’accord avant cet avis.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "à s’opposer au sein du Conseil de l’Union européenne à l’adoption des propositions de décisions relatives à la signature, l’application provisoire et la conclusion de l’accord de partenariat entre l’Union européenne et les pays du Mercosur",
+          "page": "11",
+          "note": "Confirme le +2 du communiqué du parti du 4 septembre 2025, cette fois dans un texte cosigné par la candidate elle-même."
+        }
+      ]
+    },
+    {
+      "id": "batho-2025-02-ppl-966",
+      "date": "2025-02-13",
+      "title": "Proposition de loi n°966 visant à lutter contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0966_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 13 février 2025, présentée par Guillaume Garot ; Delphine Batho figure en troisième position parmi les signataires. Elle soumet l’installation des médecins en ville à une autorisation de l’agence régionale de santé (de droit en zone sous-dotée, sinon conditionnée au départ d’un confrère), supprime la majoration de tarif pour les patients sans médecin traitant, prévoit une première année d’études de santé dans chaque département et rétablit l’obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "L’installation d’un médecin en ville est soumise à l’autorisation préalable du directeur général de l’agence régionale de santé compétente",
+          "page": "10",
+          "note": "Régulation par autorisation préalable de l’ARS ; la même mesure figurait à l’article 1er de la proposition de loi n°682 du 3 décembre 2024, également cosignée."
+        }
+      ]
+    },
+    {
+      "id": "batho-2024-12-ppl-671",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°671 visant à interdire les licenciements boursiers (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0671_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 3 décembre 2024, présentée par Benjamin Lucas-Lundy et cosignée par des député·es du groupe Écologiste et social, dont Delphine Batho. Dans les entreprises d’au moins 200 salariés, elle exclut tout licenciement pour motif économique lorsque l’entreprise a distribué des dividendes au cours de l’exercice écoulé, et impose le remboursement des subventions publiques en cas de licenciements ne relevant ni d’un motif personnel ni d’un motif économique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Pour toute entreprise d’au moins deux cents salariés, ne peut constituer un motif économique de licenciement d’un salarié, celui prononcé en raison de l’article L. 1233-3 du présent code si, dans l’exercice comptable de l’année écoulée, l’entreprise a distribué des dividendes aux actionnaires.",
+          "page": "5",
+          "note": "Mesure explicite, limitée aux entreprises d’au moins 200 salariés."
+        }
+      ]
+    },
+    {
+      "id": "batho-2024-12-ppl-682",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°682 contre les déserts médicaux, d’initiative transpartisane (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0682_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 3 décembre 2024, présentée par Guillaume Garot ; Delphine Batho figure en troisième position parmi les signataires. Outre la régulation de l’installation des médecins, elle prévoit notamment l’extinction progressive du secteur 2 « hors-OPTAM » par son interdiction pour les nouvelles installations, le plafonnement des dépassements d’honoraires dans l’activité libérale à l’hôpital, des mesures de formation et le rétablissement de l’obligation de permanence des soins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-08",
+          "value": 1,
+          "quote": "l’article 6 propose de mettre en place l’extinction progressive de la pratique d’honoraires de secteur 2 « hors-OPTAM » en l’interdisant pour toute nouvelle installation.",
+          "page": "11",
+          "note": "Mesure partielle : les dépassements non plafonnés sont interdits pour les nouvelles installations et plafonnés pour l’activité libérale à l’hôpital, sans interdiction ni plafonnement général, d’où +1."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-lettre-saisine-duplomb2",
+      "date": "2026-07-30",
+      "title": "Lettre d'information de campagne du 30 juillet 2026 : mégafeux, sécurité civile, saisine du Conseil constitutionnel sur la loi Duplomb 2",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.delphinebatho.fr/newsletter/752-2/",
+      "publisher": "Delphine Batho (site de campagne delphinebatho.fr)",
+      "summary": "Dans sa lettre d'information datée du 30 juillet 2026 (« 26/07/30 »), Delphine Batho appelle à l'entraide face aux mégafeux et plaide pour une loi de programmation de la sécurité civile. Elle indique aussi faire partie des députés qui ont saisi le Conseil constitutionnel sur la loi « d'urgence agricole », recours qui porte aussi sur la réautorisation des néonicotinoïdes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Je fais partie des députés qui ont saisi le Conseil constitutionnel sur la loi dite « d’urgence agricole » qui piétine des principes fondamentaux de la gouvernance de l’eau qui est un bien commun. Bien sûr, le recours porte aussi sur la réautorisation du poison des pesticides néonicotinoïdes.",
+          "note": "Confirme le −2 du communiqué du parti du 3 avril 2026, cette fois dans un texte de la candidate elle-même : elle indique avoir saisi le Conseil constitutionnel, notamment contre la réautorisation des néonicotinoïdes."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-duplomb2-adoption",
+      "date": "2026-07-21",
+      "title": "Loi Duplomb 2 : on s'en souviendra en 2027 !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2026/07/21/loi-duplomb-2-on-sen-souviendra-en-2027/",
+      "publisher": "Génération Écologie",
+      "summary": "Réaction de Génération Écologie, sans signature individuelle, à l'adoption de la loi Duplomb 2 par l'Assemblée nationale le 20 juillet 2026. Le texte appelle à changer de modèle agricole et à élire en 2027 une présidence, un gouvernement et un Parlement qui protègent la santé publique et le vivant.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Une majorité de députés ont approuvé une loi agricole obscurantiste, qui autorise le poison des néonicotinoïdes, massacre l’eau, la santé, l’avenir de l’agriculture et de la ruralité.",
+          "note": "Réaction du parti sans signature individuelle, qui condamne la réautorisation des néonicotinoïdes. Valeur inchangée par rapport au communiqué du 3 avril 2026."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-vote-reseaux-sociaux",
+      "date": "2026-07-21",
+      "title": "Scrutin public n°8431 — proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho figure nommément dans la liste « Pour » du groupe Écologiste et Social (19 pour, 7 contre, 7 abstentions). Le texte définitif (T.A. n° 339) a été adopté par 279 voix contre 81 le 21 juillet 2026. Son article 1er interdisait l'accès aux réseaux sociaux aux mineurs de quinze ans ; son article 3 étend aux lycées l'interdiction du téléphone portable. L'article 1er a été déclaré contraire à la Constitution par la décision n° 2026-911 DC du 14 août 2026 ; la loi n° 2026-813 a été promulguée le 24 août 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "note": "Vote personnel « Pour ». L'article 1er du texte définitif (T.A. n° 339) dispose : « L’accès à un service de réseaux sociaux en ligne fourni par une plateforme en ligne est interdit aux mineurs de quinze ans. »"
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-vote-aide-a-mourir",
+      "date": "2026-07-15",
+      "title": "Scrutin public n°8280 — proposition de loi relative au droit à l'aide à mourir (lecture définitive)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho figure nommément dans la liste « Pour » du groupe Écologiste et Social (33 pour, 2 contre, 1 abstention). La proposition de loi a été adoptée en lecture définitive par 291 voix contre 241 le 15 juillet 2026. Elle avait aussi voté « Pour » en nouvelle lecture le 30 juin 2026 (scrutin n°7894).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+          "note": "Vote personnel « Pour » en lecture définitive (15 juillet 2026), après un vote « Pour » en nouvelle lecture le 30 juin 2026 (scrutin n°7894)."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-vote-lpm",
+      "date": "2026-07-01",
+      "title": "Scrutin public n°7905 — projet de loi actualisant la programmation militaire pour les années 2024 à 2030 (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho est la seule députée du groupe Écologiste et Social inscrite « Pour » (1 pour, 36 contre, 1 abstention). Texte adopté par 375 voix contre 113 le 1er juillet 2026 (T.A. n° 325, loi n° 2026-791 du 16 août 2026). Son article 1er approuve un rapport annexé qui fixe l'objectif de porter l'effort national de défense de 2 % du PIB en 2025 à 2,5 % au minimum en 2030, avec l'objectif d'atteindre 3,5 % à l'horizon 2035.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Scrutin public n°7905 sur l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
+          "inferred": true,
+          "note": "Remplace le +1 déduit du communiqué du 5 mars 2025, sans changement de valeur : vote « Pour » sur un texte qui programme 2,5 % du PIB au minimum en 2030 et pose un « objectif d'atteindre 3,5 % à l'horizon 2035 ». Ce dernier objectif dépasse la période programmée, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-06-vote-corse",
+      "date": "2026-06-23",
+      "title": "Scrutin public n°7454 — projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho figure nommément dans la liste « Pour » du groupe Écologiste et Social (27 pour, 5 contre, 4 abstentions). Le projet de loi constitutionnelle, qui insère dans la Constitution un article 72-5 dotant la Corse d'un « statut d'autonomie au sein de la République », a été adopté en première lecture par 271 voix contre 202 le 23 juin 2026 (T.A. n° 318).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-12",
+          "value": 1,
+          "quote": "Scrutin public n°7454 sur l'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
+          "note": "Vote personnel « Pour » sur l'ensemble du projet de loi constitutionnelle. Le texte ne concerne que la Corse et non d'autres territoires : position partielle, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "batho-ge-budget-2025",
       "date": "2025-07-16",
       "title": "Budget : le moment de cécité",

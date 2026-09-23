@@ -1,4 +1,578 @@
 {
   "candidateId": "bardella",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "bardella-2026-05-fete-nation",
+      "date": "2026-05-02",
+      "title": "Fête de la Nation — Discours de Jordan Bardella",
+      "sourceType": "discours",
+      "sourceUrl": "https://rassemblementnational.fr/discours/fete-de-la-nation-discours-de-jordan-bardella",
+      "publisher": "Rassemblement National",
+      "summary": "Discours de Jordan Bardella du 1er mai 2026 (publié le 2 mai) : école (tenue commune, interdiction du téléphone), impôts de production et taxes sur l'énergie et le carburant, aides sociales réservées aux Français, AME, immigration et Schengen.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-01",
+          "value": 2,
+          "quote": "Et parce que l’école doit être un lieu d’égalité, de respect et de cohésion, nous proposerons l’instauration d’une tenue commune pour les élèves.",
+          "note": "Tenue commune proposée pour les élèves, sans distinction entre écoles, collèges et lycées."
+        },
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "Ainsi, avec nous, le vouvoiement du personnel éducatif sera obligatoire et l’utilisation du téléphone portable dans l’établissement scolaire sera interdit.",
+          "inferred": true,
+          "note": "L'interdiction vise « l'établissement scolaire » en général ; les lycées ne sont pas nommés."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Nous mettrons fin à ce scandale permanent de l’Aide médicale d’État, qui offre la toute palette de soins gratuits aux clandestins, alors même qu’un Français sur 3 renonce à se soigner faute de moyens.",
+          "note": "Le programme législatif de juin 2024 prévoyait le remplacement de l'AME par une « Aide d'Urgence Vitale »."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 1,
+          "quote": "continuer à nourrir la France et transmettre leurs exploitations sans être assommé par ces droits de succession infernaux.",
+          "note": "Orientation contre les droits de succession pesant sur la transmission des exploitations, sans mesure d'exonération précise."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2026-03-menton",
+      "date": "2026-03-07",
+      "title": "Discours de Jordan Bardella à Menton",
+      "sourceType": "discours",
+      "sourceUrl": "https://rassemblementnational.fr/discours/discours-de-jordan-bardella-a-menton",
+      "publisher": "Rassemblement National",
+      "summary": "Discours de Jordan Bardella à Menton avant les municipales de mars 2026 : sécurité, référendum sur l'immigration (droit du sol, priorité nationale), Schengen, défense à 3 % du PIB et nucléaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 2,
+          "quote": "Nous porterons nos dépenses militaires à 3% du PIB, pour disposer durablement de l’armée la plus forte d’Europe."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Nous supprimerons le droit du sol.",
+          "note": "Mesure prévue dans le référendum sur l'immigration."
+        },
+        {
+          "questionId": "imm-10",
+          "value": 1,
+          "quote": "Nous instaurerons la priorité nationale pour les familles françaises dans l’accès aux aides et au logement social.",
+          "note": "Priorité nationale à inscrire dans la Constitution par référendum pour les aides et le logement social ; l'emploi n'est pas mentionné dans ce discours. (Force ramenée de 2 à 1 en relecture : La priorité nationale est explicitement proposée, mais pour les aides et le logement social seulement. L'emploi, que l'affirmation inclut dans sa définition, n'est pas mentionné, comme la note l'admet. Mesure partielle : +1.)"
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Nous valoriserons et renforcerons notre parc nucléaire hérité du Général de Gaulle, qui a permis à la France de traverser bien des tempêtes géopoliques.",
+          "inferred": true,
+          "note": "Déduit de l'engagement à renforcer le parc nucléaire."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2026-03-nimes",
+      "date": "2026-03-04",
+      "title": "Discours de Jordan Bardella à Nîmes",
+      "sourceType": "discours",
+      "sourceUrl": "https://rassemblementnational.fr/discours/discours-de-jordan-bardella-a-nimes",
+      "publisher": "Rassemblement National",
+      "summary": "Discours de Jordan Bardella à Nîmes avant les municipales de mars 2026 : politique pénale, squats, référendum sur l'immigration, prix de l'électricité et fiscalité de l'énergie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Nous rétablirons des peines planchers pour briser la récidive."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 1,
+          "quote": "Parce que brutaliser une femme ou un homme doit retrouver un caractère sacré dans notre droit, nous supprimerons l’aménagement de peines pour les atteintes à l’intégrité physique.",
+          "note": "Suppression des aménagements de peine limitée aux atteintes à l'intégrité physique, sans viser spécifiquement les peines de moins d'un an."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "nous devons rétablir un prix national de l’électricité, fondé sur nos coûts réels de production.",
+          "note": "Le même discours demande de suspendre « sans délai les règles européennes qui indexent artificiellement le prix de notre électricité sur celui du gaz »."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Si les Français nous élisent, nous organiserons dès notre élection un grand référendum sur l’immigration.",
+          "note": "Le discours de Menton (mars 2026) précise que ce référendum doit inscrire les mesures dans la Constitution."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2026-02-perpignan",
+      "date": "2026-02-28",
+      "title": "Discours de Jordan Bardella à Perpignan",
+      "sourceType": "discours",
+      "sourceUrl": "https://rassemblementnational.fr/discours/discours-de-jordan-bardella-a-perpignan",
+      "publisher": "Rassemblement National",
+      "summary": "Discours de Jordan Bardella à Perpignan avant les municipales de mars 2026 : agriculture et accord UE-Mercosur, sécurité et politique pénale, fiscalité locale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "nous mettrons en place des peines planchers, nous abaisserons la majorité pénale à 16 ans, nous expulserons les délinquants et criminels étrangers.",
+          "inferred": true,
+          "note": "L'abaissement de la majorité pénale à 16 ans supprimerait l'atténuation de responsabilité pour les 16-18 ans."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2026-02-extreme-gauche",
+      "date": "2026-02-18",
+      "title": "Conférence de presse — Le sursaut face à l'extrême gauche",
+      "sourceType": "discours",
+      "sourceUrl": "https://rassemblementnational.fr/conferences-de-presse/communique-de-presse-6",
+      "publisher": "Rassemblement National",
+      "summary": "Déclaration de Jordan Bardella en conférence de presse après la mort de Quentin, 23 ans, mettant en cause l'extrême gauche et proposant des mesures administratives contre les groupes violents.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-11",
+          "value": -1,
+          "quote": "En prévention de la violence, nous prônons notamment un renforcement des interdictions administratives de manifester, et une obligation de pointage lors des manifestations à risques, comme cela a été appliqué aux hooligans dans le football.",
+          "inferred": true,
+          "note": "Déduit des restrictions préventives au droit de manifester proposées contre les groupes violents d'extrême gauche ; aucun principe général n'est formulé."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2026-01-voeux-presse",
+      "date": "2026-01-12",
+      "title": "Vœux à la presse de Jordan Bardella",
+      "sourceType": "discours",
+      "sourceUrl": "https://rassemblementnational.fr/communiques/voeux-a-la-presse-de-jordan-bardella",
+      "publisher": "Rassemblement National",
+      "summary": "Vœux à la presse de Jordan Bardella : bilan de l'année 2025, opposition à l'accord UE-Mercosur avec annonce de motions de censure, et positions sur l'Ukraine, le Venezuela et l'Iran.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Dans ce contexte, la signature du traité de libre-échange avec le Mercosur apparaît comme une provocation à l’égard de nos agriculteurs, et comme un renoncement grave à la défense de l’intérêt national.",
+          "note": "Le même discours annonce des motions de censure contre la Commission européenne et le gouvernement au sujet de l'accord UE-Mercosur."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2025-09-bordeaux",
+      "date": "2025-09-15",
+      "title": "Discours de Jordan Bardella au grand meeting de Bordeaux",
+      "sourceType": "discours",
+      "sourceUrl": "https://rassemblementnational.fr/communiques/discours-de-jordan-bardella-au-grand-meeting-de-bordeaux",
+      "publisher": "Rassemblement National",
+      "summary": "Discours de Jordan Bardella au meeting de Bordeaux après la chute du gouvernement Bayrou : économies sur l'immigration, les agences, la contribution européenne, l'aide au développement et l'audiovisuel public, référendum sur l'immigration et mesures pénales.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-10",
+          "value": -2,
+          "quote": "Nous fermerons le robinet. Cet argent, près de 12 milliards chaque année, doit revenir, non pas à l’autre bout du monde, mais à nos territoires de France, dans l’accès à la santé, à l’éducation, aux services publics.",
+          "note": "Suppression annoncée de l'aide publique au développement (« nous fermerons le robinet »), dont les sommes seraient réaffectées aux territoires français."
+        },
+        {
+          "questionId": "num-02",
+          "value": 2,
+          "quote": "Voilà pourquoi nous privatiserons l’audiovisuel public."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Nous lancerons un grand plan de construction de prisons, pour que chaque peine soit appliquée, sans exception.",
+          "note": "Grand plan de construction de prisons annoncé sans nombre de places."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2025-09-entrepreneurs",
+      "date": "2025-09-03",
+      "title": "Lettre aux entrepreneurs de France",
+      "sourceType": "communique",
+      "sourceUrl": "https://rassemblementnational.fr/communiques/communique-de-jordan-bardella-2",
+      "publisher": "Rassemblement National",
+      "summary": "Lettre signée par Jordan Bardella aux chefs d'entreprise avant le vote de confiance du 8 septembre 2025, proposant avec Marine Le Pen un « pacte de confiance » en cinq piliers : dépense publique, normes, impôts de production, énergie et commande publique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": 1,
+          "quote": "Nous proposons un choc fiscal positif, par l’allègement massif des impôts de production, afin de les réduire de 20%, réalignant ainsi la France sur ses partenaires européens.",
+          "note": "Baisse de 20 % des impôts de production ; l'impôt sur les sociétés n'est pas mentionné."
+        },
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Nous ouvrirons le plus grand chantier de simplification de notre histoire et abrogerons la surtransposition mortifère qui vous met en situation de concurrence déloyale au sein même du marché unique.",
+          "inferred": true,
+          "note": "Engagement général d'abroger les surtranspositions, adressé à l'ensemble des entreprises ; l'agriculture n'est pas nommée dans cette lettre."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2025-01-green-deal",
+      "date": "2025-01-23",
+      "title": "Jordan Bardella demande la suspension immédiate du « Green Deal »",
+      "sourceType": "communique",
+      "sourceUrl": "https://rassemblementnational.fr/communiques/jordan-bardella-demande-la-suspension-immediate-du-green-deal",
+      "publisher": "Rassemblement National",
+      "summary": "Communiqué de Jordan Bardella demandant la suspension immédiate du Pacte vert européen, présenté comme un plan de décroissance, et la levée des contraintes pesant sur la croissance.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-05",
+          "value": -1,
+          "quote": "Il faut déverrouiller toutes les contraintes qui pèsent sur la croissance, en France et en Europe. Jordan Bardella demande la suspension immédiate du Green Deal.",
+          "inferred": true,
+          "note": "Déduit de la demande de suspension du Pacte vert européen et de l'appel à lever les contraintes sur la croissance « en France et en Europe » ; aucune planification nationale n'est évoquée."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2024-06-legislatives",
+      "date": "2024-06-25",
+      "title": "Un projet, une méthode — élections législatives anticipées des 30 juin et 7 juillet 2024",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Programme du RN pour les législatives anticipées de 2024, campagne conduite par Jordan Bardella comme candidat du RN à Matignon ; le document porte une déclaration signée de lui (« Dès ma nomination comme Premier ministre… ») et se place « dans la continuité du programme présidentiel de 2022 de Marine Le Pen ». Date tirée des métadonnées du PDF (25 juin 2024).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Supprimer les impôts sur l’héritage direct pour les familles modestes et les classes moyennes",
+          "page": "11"
+        },
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Renoncer à l’interdiction de la vente des voitures à moteur thermique à l’horizon 2035 et inciter les constructeurs français à développer des véhicules propres abordables",
+          "page": "7"
+        },
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Supprimer les Zones à Faibles Emissions",
+          "page": "7"
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Abroger toutes les interdictions et obligations liées aux DPE (travaux, mise en location...)",
+          "page": "7",
+          "note": "L'abrogation vise toutes les interdictions de mise en location liées au DPE, donc le calendrier d'interdiction de louer les passoires thermiques."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Refuser tout transfert de compétences vers l’Union européenne dans les domaines de la défense et de la diplomatie",
+          "page": "6"
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Restriction du regroupement familial par le durcissement des conditions (emploi stable, ressources précisément définies, etc.)",
+          "page": "4"
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "Suspension de toutes les régularisations de clandestins par les préfets",
+          "page": "4",
+          "note": "La suspension vise « toutes les régularisations » préfectorales, sans exception pour les métiers en tension."
+        },
+        {
+          "questionId": "imm-07",
+          "value": 1,
+          "quote": "Instaurer l’obligation de dépôt des demandes d’asile dans les ambassades et consulats",
+          "page": "6",
+          "inferred": true,
+          "note": "Dépôt obligatoire des demandes d'asile dans les ambassades et consulats, donc hors du territoire européen. (Force ramenée de 2 à 1 en relecture : La mesure proposée est le dépôt obligatoire des demandes dans les ambassades et consulats. Le lieu d'examen n'est pas précisé, et le dispositif diffère d'un examen externalisé « dans des pays tiers ». La note elle-même déduit (« donc hors du territoire européen ») sans marquer la position comme déduite. Même sens : +1, déduit.)"
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "nous mettrons en place un certain nombre de mesures pour restreindre et contrôler l’immigration illégale mais aussi légale.",
+          "page": "6",
+          "note": "Restriction de l'immigration légale annoncée sans quotas votés par le Parlement."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Instaurer dans la Constitution un RIC législatif",
+          "page": "8"
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Simplifier drastiquement le millefeuille territorial pour réduire la dépense et rendre du pouvoir aux élus de proximité",
+          "page": "10",
+          "note": "Simplification annoncée sans précision sur une fusion ou suppression d'échelons."
+        },
+        {
+          "questionId": "sec-10",
+          "value": 2,
+          "quote": "Instituer une présomption de légitime défense pour les forces de l’ordre",
+          "page": "6",
+          "note": "Mesure reprise dans le discours de Bordeaux publié le 15 septembre 2025 (« par une présomption de légitime défense »)."
+        },
+        {
+          "questionId": "sec-13",
+          "value": 1,
+          "quote": "Durcir la lutte contre le trafic et la consommation de drogue",
+          "page": "6",
+          "note": "Orientation de durcissement sans mesure précise (amendes systématiques, casier) sur la consommation."
+        },
+        {
+          "questionId": "san-06",
+          "value": -1,
+          "quote": "Durcir la lutte contre le trafic et la consommation de drogue",
+          "page": "6",
+          "inferred": true,
+          "note": "Aucun document ne traite du cannabis récréatif ; le programme propose de durcir la lutte contre la consommation de drogue, ce qui exclut une légalisation. (Force ramenée de -2 à -1 en relecture : La déduction est de même sens (durcir la lutte contre la consommation exclut une légalisation), mais la source est une orientation générale sans mesure, déjà encodée seulement +1 pour sec-13. Le cannabis n'est pas nommé et la légalisation n'est pas explicitement rejetée : une déduction ne peut pas être plus forte que le texte qui la fonde. −1, déduit.)"
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "Mise en place des peines planchers pour les récidivistes, les atteintes aux personnes dépositaires d’une mission de services publics et le trafic de drogue",
+          "page": "4",
+          "note": "Réponse pénale durcie (peines planchers) contre le trafic de drogue ; ni parquet dédié ni prisons de haute sécurité ne sont mentionnés."
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "Augmenter le nombre d’étudiants en médecine (fin du numerus apertus)",
+          "page": "7",
+          "note": "La fin du numerus apertus supprime tout plafond d'admission en médecine ; les formations paramédicales et la sélectivité ne sont pas évoquées. (Force ramenée de 2 à 1 en relecture : Hausse du nombre d'étudiants en médecine (« fin du numerus apertus ») explicite. En revanche, les formations paramédicales et la clause « même au prix d'une baisse de sélectivité » ne sont pas traitées, comme la note l'admet. Mesure partielle : +1.)"
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Réserver les allocations familiales aux Français et conditionner à 5 années de travail en France l’accès aux prestations sociales non-contributives comme le RSA",
+          "page": "6",
+          "note": "Condition de cinq années de travail en France pour les prestations non contributives ; le discours de Bordeaux (2025) la reprend pour le RSA des étrangers et le discours du 1er mai 2026 réserve les « allocations sociales » aux familles françaises."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Mettre en place la carte vitale biométrique",
+          "page": "7"
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif",
+          "page": "8"
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif",
+          "page": "8",
+          "inferred": true,
+          "note": "Déduit de l'abrogation de la réforme de 2023 qui a porté l'âge légal à 64 ans."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Annulation de la réforme de l’assurance chômage de juillet 2024",
+          "page": "4",
+          "inferred": true,
+          "note": "Déduit de l'annulation de la réforme de l'assurance chômage de juillet 2024, qui réduisait la durée d'indemnisation."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Revaloriser le métier d’enseignant du recrutement à la fin de la carrière",
+          "page": "10",
+          "note": "Revalorisation du métier annoncée sans précision sur l'ampleur des hausses de salaire ni sur leur priorité budgétaire."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 1,
+          "quote": "Soutenir financièrement les jeunes et les entreprises faisant le choix de l’apprentissage ou de l’alternance",
+          "page": "10",
+          "note": "Soutien financier à l'apprentissage proposé sans précision sur le niveau des aides."
+        },
+        {
+          "questionId": "agr-01",
+          "value": 1,
+          "quote": "Garantir des prix rémunérateurs pour les agriculteurs",
+          "page": "9",
+          "note": "Garantie de prix rémunérateurs annoncée sans mécanisme de prix minimum précisé."
+        },
+        {
+          "questionId": "env-01",
+          "value": 1,
+          "quote": "Lancer le plan Marie Curie de relance du nucléaire (EPR, SMR, réacteurs à neutrons rapides)",
+          "page": "8",
+          "note": "Plan de relance incluant EPR, petits réacteurs modulaires et réacteurs à neutrons rapides, sans nombre de réacteurs ; le discours de Menton (mars 2026) annonce de « renforcer » le parc."
+        },
+        {
+          "questionId": "eur-11",
+          "value": -1,
+          "quote": "Négocier une réforme du mandat de la BCE pour la tourner vers l’emploi, la productivité et le financement de projets stratégiques de long terme",
+          "page": "8",
+          "inferred": true,
+          "note": "Déduit de la proposition de réformer le mandat de la BCE, qui suppose le maintien dans la zone euro ; la sortie de l'euro n'est pas évoquée."
+        }
+      ]
+    },
+    {
+      "id": "bardella-2024-04-europeennes",
+      "date": "2024-04-25",
+      "title": "Notre projet pour une Europe des nations — élections européennes du 9 juin 2024",
+      "sourceType": "programme",
+      "sourceUrl": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+      "publisher": "Rassemblement National",
+      "summary": "Programme du RN pour les élections européennes du 9 juin 2024, dont Jordan Bardella conduisait la liste, avec un éditorial signé par Marine Le Pen et Jordan Bardella. Date tirée des métadonnées de la version publiée sur le site de campagne vivementle9juin.fr (PDF du 25 avril 2024, archivé par web.archive.org le 28 avril 2024) ; la copie de rassemblementnational.fr citée ici est une version du 6 mai 2024 dont les passages cités sont identiques et aux mêmes pages.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": 2,
+          "quote": "Baisser la contribution française nette (surplus) versée à l’UE pour participer au financement de la baisse de la TVA de 20 à 5,5% sur les énergies : électricité, gaz, fioul et carburants.",
+          "page": "7",
+          "note": "Baisse de la TVA de 20 à 5,5 % sur l'électricité, le gaz, le fioul et les carburants ; le programme législatif de juin 2024 et le discours du 1er mai 2026 annoncent une baisse de la TVA sur l'énergie sans en préciser le taux."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 1,
+          "quote": "Réaffirmer la supériorité de la Constitution française sur les normes et juridictions européennes.",
+          "page": "7",
+          "inferred": true,
+          "note": "(Force ramenée de 2 à 1 en relecture : Le document propose de « réaffirmer la supériorité de la Constitution française » sur les normes européennes. Il ne propose pas d'inscrire dans la Constitution la primauté du droit français. La mesure est voisine et plus étroite : la Constitution, et non l'ensemble du droit français, sans révision constitutionnelle formulée. Même sens, mais orientation déduite (+1, inferred).)"
+        },
+        {
+          "questionId": "eur-08",
+          "value": -2,
+          "quote": "Refuser l’élargissement de l’UE aux Balkans, à la Turquie et à l’Ukraine, qui ruinerait notre agriculture et exercerait une pression à la baisse sur le salaire des Français.",
+          "page": "5"
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Refuser tout impôt prélevé par l’Union européenne, qui pénaliserait les États membres et les consommateurs.",
+          "page": "7"
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "Instaurer une double frontière, française et européenne : contrôler les frontières nationales et mettre en place une frontière aux portes de l’Europe en permettant à Frontex de renvoyer les migrants illégaux.",
+          "page": "5",
+          "note": "Contrôle des frontières nationales proposé dans une « double frontière », avec une libre circulation Schengen réservée aux ressortissants des États membres plutôt qu'une suspension de Schengen ; orientation réaffirmée dans le discours du 1er mai 2026."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Imposer aux importations le respect des normes environnementales et sociales européennes : il s’agit du principe de réciprocité.",
+          "page": "5"
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Favoriser et privilégier l’acquisition d’équipements et d’armements européens.",
+          "page": "8",
+          "note": "Priorité aux équipements européens explicitement proposée ; le surcoût éventuel n'est pas évoqué. (Force ramenée de 2 à 1 en relecture : Le passage (« Face au retour de la guerre ») vise l'achat d'armements européens au niveau européen, sans traiter la clause « même s'il est plus cher » de l'affirmation. La note le reconnaît (« le surcoût éventuel n'est pas évoqué »). Soutien au principe sans acceptation du surcoût : +1.)"
+        },
+        {
+          "questionId": "env-03",
+          "value": 1,
+          "quote": "nous nous opposons notamment à la libéralisation des concessions de nos barrages hydroélectriques et au développement des énergies intermittentes (éoliennes) imposés par l’UE.",
+          "page": "6",
+          "inferred": true,
+          "note": "Opposition au développement de l'éolien « imposé par l'UE », sans moratoire formulé en tant que tel."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Mettre en place une véritable taxe carbone aux frontières européennes, instrument de protectionnisme intelligent en taxant les produits finis et semi-finis, plutôt que les matières premières comme imposé par l’UE.",
+          "page": "5",
+          "note": "Mesure de protection commerciale proposée (taxe carbone aux frontières, moratoire sur les accords de libre-échange) et sanctuarisation des aides d'État dans les secteurs stratégiques ; le coût n'est pas évoqué."
+        },
+        {
+          "questionId": "imm-11",
+          "value": 1,
+          "quote": "Organiser un référendum en France pour réaffirmer la primauté de la Constitution française sur les décisions des juges européens en matière d’immigration.",
+          "page": "5",
+          "inferred": true,
+          "note": "Déduit de la primauté de la Constitution sur les décisions des juges européens en matière d'immigration ; la Convention européenne des droits de l'homme n'est pas nommée."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "La stratégie tricolore expose la manière dont le Rassemblement National entend réactualiser le logiciel européen. Au Parlement européen, elle constitue notre feuille de route. Demain à la tête du pays, elle sera un outil pour changer les règles.",
+          "page": "3",
+          "inferred": true,
+          "note": "Déduit de la stratégie consistant à réformer l'Union de l'intérieur (révision des traités, coopérations maintenues sous conditions) ; aucune sortie de l'Union n'est proposée, mais l'adhésion est liée à une transformation de l'Union en « Alliance européenne des nations »."
+        }
+      ]
+    }
+  ]
 }

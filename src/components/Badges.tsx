@@ -34,8 +34,11 @@ export function InferredBadge({ inferred }: { inferred?: boolean }) {
 export function Bar({ value, label }: { value: number | null; label?: string }) {
   const pct = value === null ? 0 : Math.round(value * 100);
   return (
-    <div className="bar" role="img" aria-label={label ?? `${pct} %`}>
-      <div className="bar-fill" style={{ width: `${pct}%` }} />
+    <div className="bar-row">
+      <div className="bar" role="img" aria-label={label ?? `${pct} %`}>
+        <div className="bar-fill" style={{ width: `${pct}%` }} />
+      </div>
+      {/* The value sits beside the meter, in text ink: on the fill it could never stay readable in both themes. */}
       <span className="bar-value">{value === null ? '—' : `${pct} %`}</span>
     </div>
   );

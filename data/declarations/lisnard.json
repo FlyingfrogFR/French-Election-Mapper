@@ -2,6 +2,272 @@
   "candidateId": "lisnard",
   "declarations": [
     {
+      "id": "lisnard-2026-09-cnews-europe1",
+      "date": "2026-09-03",
+      "title": "David Lisnard sur CNews et Europe 1 : « Je veux une alternative, pas simplement une alternance »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1--je-veux-une-alternative-pas-simplement-une-alternance/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié par Nouvelle Énergie de l'entretien de David Lisnard dans La Grande Interview sur CNews et Europe 1, le 3 septembre 2026. Sujets abordés : primaire, réforme de l'État et dépense publique (« État-performance »), immigration et laïcité, logement, audiovisuel public.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-10",
+          "value": 1,
+          "quote": "David Lisnard s’est prononcé en faveur de la neutralité religieuse dans les lieux d’universalisme, notamment à l’université, ainsi que pour les accompagnateurs scolaires, qu’il considère comme des collaborateurs occasionnels du service public de l’éducation.",
+          "note": "Position rapportée par le compte rendu de Nouvelle Énergie : neutralité religieuse des accompagnateurs de sorties scolaires. Les compétitions sportives ne sont pas abordées, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-08-bfmtv-rmc",
+      "date": "2026-08-28",
+      "title": "David Lisnard sur BFMTV et RMC : « Il est temps de redonner le pouvoir aux Français » (compte rendu publié par Nouvelle Énergie)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/-il-est-temps-de-redonner-le-pouvoir-aux-franais-/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié par Nouvelle Énergie du Face-à-face de David Lisnard sur BFMTV et RMC, le 28 août 2026. Sujets abordés : fiscalité des successions, retraites, immigration, narcotrafic, intelligence artificielle et primaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 1,
+          "quote": "Il a plaidé pour une baisse de la fiscalité sur la transmission du patrimoine, une plus grande liberté de transmettre à ses proches ou aux causes de son choix, ainsi qu’un allégement des prélèvements pesant sur ceux qui créent de la valeur.",
+          "note": "Remplace +1, déduit du programme qui ne visait que les droits de succession sur les entreprises. Le compte rendu de Nouvelle Énergie indique qu'il a plaidé pour une baisse générale de la fiscalité sur la transmission du patrimoine. Formulation plus large et plus explicite, pas un revirement. (Force ramenée de 2 à 1 en relecture : La citation (exacte) est une paraphrase à la troisième personne dans un compte rendu du parti (« Il a plaidé pour... »). C'est une position rapportée, et la charte (règle 3) la limite à ±1. Aucune mesure précise n'est énoncée. Le seul propos cité entre guillemets est un constat (« Nous sommes déjà le pays qui taxe le plus [...] les successions »). La note elle-même dit que ce n'est pas un revirement ; or la règle 4 réserve les changements de valeur aux vrais changements de position. Valeur retenue : +1, identique à la valeur actuelle mais directe et non déduite (la baisse porte sur toute transmission de patrimoine et non plus sur les seules entreprises). La note est à réécrire sans « Remplace +1 ».)"
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-08-jdd",
+      "date": "2026-08-13",
+      "title": "Entretien au JDD : « Le modèle de l'État-providence est mort ! » (republié par Nouvelle Énergie)",
+      "sourceType": "interview",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/le-modle-de-ltat-providence-est-mort-/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Entretien paru dans le JDD du 9 août 2026 et republié par Nouvelle Énergie le 13 août. Sujets abordés : immigration, incendies et énergie, budget de l'État, collectivités, sécurité, justice des mineurs et primaire de la droite.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-07",
+          "value": 2,
+          "quote": "Traiter les demandes d’asile dans les pays d’origine, via nos consulats, hors du territoire européen."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-08-corse-matin",
+      "date": "2026-08-11",
+      "title": "Entretien à Corse-Matin : « Il faut retrouver la grande France » (republié par Nouvelle Énergie)",
+      "sourceType": "interview",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/-il-faut-retrouver-la-grande-france-/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Entretien accordé à Corse-Matin lors d'une visite à Olmeto le 8 août, republié par Nouvelle Énergie. Sujets abordés : réforme de l'État, décentralisation, statut de la Corse, logement et zéro artificialisation nette, finances des communes, primaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": -1,
+          "quote": "Je veux remplacer l’application centralisée du « zéro artificialisation nette » par un dispositif plus simple et responsabilisant. L’État fixerait un objectif de réduction de l’artificialisation, puis chaque commune déciderait, dans son plan local d’urbanisme, comment l’atteindre.",
+          "note": "Il garde un objectif national de réduction de l'artificialisation, mais veut remplacer l'application centralisée du ZAN par un dispositif laissé aux communes. Le ZAN tel que prévu ne serait donc pas maintenu, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-08-midi-libre",
+      "date": "2026-08-07",
+      "title": "Entretien à Midi Libre : « Il faut sortir de cet État-providence qui est un aspirateur à pauvreté » (republié par Nouvelle Énergie)",
+      "sourceType": "interview",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/-il-faut-sortir-de-cet-tat-providence-qui-est-un-aspirateur--pauvret-/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Entretien paru dans Midi Libre et republié par Nouvelle Énergie. Sujets abordés : baisse de la dépense publique, suradministration, normes environnementales, loi Duplomb, primaire de la droite et bilan d'Emmanuel Macron.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": 2,
+          "quote": "Alors prenons la loi Duplomb et la question de l’acétamipride, l’insecticide soupçonné d’être cancérigène. Vous auriez été député, vous auriez voté la loi ? Oui, je l’aurais votée.",
+          "inferred": true,
+          "note": "Il déclare qu'il aurait voté la loi Duplomb, qui prévoyait la réautorisation dérogatoire de l'acétamipride (un néonicotinoïde). Même valeur que le livret agricole, sur un fondement plus direct."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-06-diplomate",
+      "date": "2026-06-29",
+      "title": "Le Grand Entretien avec David Lisnard – Quelle stratégie pour la France dans le nouveau désordre mondial ?",
+      "sourceType": "interview",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/le-grand-entretien-avec-david-lisnard-quelle-strategie-pour-la-france-dans-le-nouveau-desordre-mondial/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Entretien accordé au Diplomate Média et republié par Nouvelle Énergie le 29 juin 2026. David Lisnard y présente sa vision de la politique étrangère et de la défense : autonomie stratégique européenne « d'alliances », rôle de l'UE, souveraineté industrielle et nucléaire, technologies, relations avec les États-Unis, l'Indo-Pacifique, le Maghreb, l'Afrique et le Moyen-Orient.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "en sécurité dure, l’OTAN, le soutien à l’Ukraine, le renforcement de la base industrielle de défense européenne, la hausse des capacités et la protection contre les cybermenaces",
+          "note": "Le soutien à l'Ukraine figure parmi les priorités de « sécurité dure », sans précision sur la durée ni sur les armes de longue portée : mesure partielle, d'où +1."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Instaurons partout la même préférence pour nos technologies souveraines : le SAMP/T plutôt que la dépendance systématique au matériel américain.",
+          "note": "Il donne explicitement la préférence aux technologies souveraines (exemple du SAMP/T) sur le matériel américain. Le surcoût éventuel n'est pas abordé, d'où +1."
+        },
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "Encore faut-il un cadre qui libère ce calcul, l’accès aux données et le foncier des data centers, au lieu de les entraver.",
+          "note": "Remplace +1, déduit du discours de Bayeux dont la note relevait l'absence de mesure écrite sur les centres de données. L'entretien demande explicitement un cadre qui libère le foncier des data centers et la généralisation des procédures accélérées pour les priorités stratégiques. Ce n'est pas un changement de position, mais une formulation plus explicite. (Force ramenée de 2 à 1 en relecture : La citation (exacte) porte bien sur les centres de données, mais c'est une orientation générale (« Encore faut-il un cadre qui libère [...] le foncier des data centers ») sans mesure ni procédure précise. La note invoque aussi la « généralisation des procédures accélérées » : ce passage vise des « priorités stratégiques » énumérées ailleurs (nucléaire, défense, cyber de l'État, composants critiques), pas les centres de données. De plus, la note reconnaît qu'il ne s'agit pas d'un changement de position, alors que la règle 4 exige qu'un changement de valeur en reflète un. Valeur retenue : +1, même valeur qu'avec Bayeux, mais sur une citation directe et non déduite. La note est à réécrire sans « Remplace +1 ».)"
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "La réponse n’est pas de quitter l’Union, mais d’y reprendre la main par les États."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-09-lci",
+      "date": "2026-09-18",
+      "title": "David Lisnard sur LCI : « On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/il-faut-rtablir-les-conditions-de-la-rentabilit-de-la-pche-franaise/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié sur le site de Nouvelle Énergie de l'entretien de David Lisnard sur LCI le 18 septembre 2026. Il y aborde la crise de la pêche, le prix des carburants, le logement, l'énergie, la dépense publique et la fiscalité, juge nécessaire de baisser la fiscalité et refuse une baisse immédiate de la TVA sur le carburant financée par la dette.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": -1,
+          "quote": "Baisser la fiscalité, c’est nécessaire, mais tous ceux qui vous disent tout de suite “baisser la TVA sur le carburant” vous mentent, parce qu’ils font payer, dans ce cas-là, de la dette dans l’immédiat. Donc ils font payer leur plein par leurs enfants ou leurs petits-enfants.",
+          "note": "Rejet partiel : il refuse une baisse immédiate de la TVA sur le carburant, financée selon lui par la dette, tout en jugeant « scandaleux » les 60 % de taxes sur un litre de carburant et nécessaire une baisse de la fiscalité accompagnée d'une réduction de la dépense ; le document ne dit rien du taux de 5,5 % ni de l'électricité et du gaz."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-09-chalons",
+      "date": "2026-09-03",
+      "title": "Déplacement à la Foire de Châlons-en-Champagne : propositions agricoles (article publié par Nouvelle Énergie)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/-la-foire-de-chlons-david-lisnard-dfend-une-agriculture-libre-des-impts-de-production-et-de-la-bureaucratie/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Article publié le 3 septembre 2026 par Nouvelle Énergie après le déplacement de David Lisnard à la Foire de Châlons-en-Champagne le 2 septembre 2026. Il y présente la suppression des impôts de production spécifiquement agricoles et l'autorisation tacite, passé six mois, des projets de stockage d'eau collectifs et multi-usages ; l'article rappelle aussi d'autres propositions agricoles du parti, dont un crédit d'impôt pour accompagner la transmission des exploitations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-07",
+          "value": 1,
+          "quote": "Cette réforme complète les propositions agricoles de Nouvelle Énergie, parmi lesquelles la création d’un compte épargne aléas climatiques et économiques défiscalisé et d’un crédit d’impôt pour accompagner la transmission des exploitations",
+          "inferred": true,
+          "note": "Proposition du parti dont il est le candidat et le président : un crédit d'impôt pour accompagner la transmission des exploitations, avantage fiscal voisin d'une exonération. Position déduite, donc +1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-08-medef",
+      "date": "2026-08-28",
+      "title": "Débat face à Fabien Roussel à la Rencontre des Entrepreneurs de France du MEDEF (compte rendu publié par Nouvelle Énergie)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/-il-faut-librer-lindustrie-/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié par Nouvelle Énergie de la journée de David Lisnard à la Rencontre des Entrepreneurs de France du MEDEF le 27 août 2026, dont un débat avec Fabien Roussel sur la réindustrialisation. Il y plaide pour la baisse des impôts de production, pour la simplification administrative et contre les aides publiques aux entreprises.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": -1,
+          "quote": "« Je suis contre les aides publiques aux entreprises. »",
+          "note": "Rejet explicite des aides publiques aux entreprises dans un débat sur la réindustrialisation ; le volet protection commerciale de l'affirmation n'est pas abordé dans ce document, d'où −1 et non −2."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-07-saint-raphael",
+      "date": "2026-07-10",
+      "title": "Discours de lancement de campagne à Saint-Raphaël (compte rendu publié par Nouvelle Énergie)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/a-saint-raphael-david-lisnard-lance-sa-campagne-pour-faire-gagner-la-france-qui-fait/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié le 10 juillet 2026 par Nouvelle Énergie du discours prononcé par David Lisnard le 3 juillet 2026 à Saint-Raphaël pour lancer sa campagne présidentielle. Il y présente notamment ses propositions sur la dépense publique, les cotisations, la retraite par capitalisation, la sécurité, l'immigration, l'école et les institutions.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "David Lisnard a proposé de construire 20 000 places de prison, d’instaurer la perpétuité réelle, de garantir l’exécution intégrale des peines et de lever l’excuse de minorité pour les crimes.",
+          "note": "Même valeur que la FAQ : construction de 20 000 places de prison proposée à nouveau dans le discours de lancement de campagne."
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2,
+          "quote": "David Lisnard a proposé de construire 20 000 places de prison, d’instaurer la perpétuité réelle, de garantir l’exécution intégrale des peines et de lever l’excuse de minorité pour les crimes.",
+          "note": "Même valeur que la FAQ : instauration de la perpétuité réelle proposée à nouveau."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Il a proposé la suppression de l’aide médicale d’État, remplacée par une aide médicale d’urgence ciblée sur les soins vitaux",
+          "note": "Même valeur que la page Immigration du programme : suppression de l'AME, remplacée par une aide d'urgence."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "David Lisnard a également défendu l’introduction d’une part obligatoire de capitalisation dans le système de retraite.",
+          "note": "Même valeur que le programme : part de capitalisation obligatoire."
+        }
+      ]
+    },
+    {
       "id": "lisnard-ne-questions",
       "date": "2026-01-01",
       "title": "FAQ officielle « Les questions qu'on nous pose » (réponses sourcées et citations datées de David Lisnard)",
