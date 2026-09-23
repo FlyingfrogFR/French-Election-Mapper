@@ -2,6 +2,36 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-09-fete-humanite",
+      "date": "2026-09-15",
+      "title": "Fête de l'Humanité 2026 - discours de Fabien ROUSSEL",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.pcf74.fr/2026/09/fete-de-l-humanite-2026-discours-de-fabien-roussel.html",
+      "publisher": "Parti communiste français, fédération de Haute-Savoie (pcf74.fr)",
+      "summary": "Transcription du discours prononcé par Fabien Roussel le 12 septembre 2026 à la Fête de l'Humanité, publiée le 15 septembre 2026 par la fédération PCF de Haute-Savoie ; une page du même titre existe sur pcf.fr. Il y appelle à se mobiliser contre la vie chère et annonce une « nationalisation sanction » de Total, le rétablissement de l'ISF, des cotisations sur les dividendes, la nationalisation d'une grande banque et la « parité sociale » au Parlement et dans les entreprises. Il se prononce contre la GPA et contre l'interdiction du voile dans l'espace public.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "Et menons ce combat pour une République féministe en refusant la marchandisation du corps des femmes, en refusant la prostitution, en refusant la GPA.",
+          "note": "Fabien Roussel rejette explicitement la GPA dans son discours de meeting. Le texte est la transcription publiée par une fédération du PCF, qui reprend celle de pcf.fr."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "Et je demande justement que dans l'espace public, chaque mot, chaque geste raciste, antisémite et homophobe soit immédiatement dénoncé et condamné. C'est ça qu'il faut interdire partout et pas le voile.",
+          "inferred": true,
+          "note": "Il rejette explicitement l'interdiction du voile dans l'espace public (« ce n'est pas le voile qui pose problème »). L'affirmation vise l'ensemble des signes religieux ostensibles, d'où une position déduite."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-09-budget-2027",
       "date": "2026-09-18",
       "title": "« Budget 2027 : Lecornu annonce une saignée sociale au service du capital »",

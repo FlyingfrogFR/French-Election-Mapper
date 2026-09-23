@@ -2,6 +2,259 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-06-rapport-apprentissage",
+      "date": "2026-06-30",
+      "title": "Rapport d'information n°2992 sur les conséquences de la diminution des dépenses publiques en faveur de l'apprentissage depuis 2022",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b2992_rapport-information.pdf",
+      "publisher": "Assemblée nationale (commission des finances)",
+      "summary": "Rapport d'information de la commission des finances, enregistré le 30 juin 2026, présenté par Emmanuel Maurel et Estelle Mercier, rapporteurs spéciaux. Il analyse la baisse du nombre d'apprentis, que les rapporteurs relient à la restriction des aides aux employeurs d'apprentis. Ses recommandations prévoient notamment de maintenir l'aide exceptionnelle aux employeurs d'apprentis, de relever la dotation d'investissement des CFA et de rétablir l'aide au permis de conduire des apprentis.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-07",
+          "value": 2,
+          "quote": "Recommandation n° 1 : maintenir l’aide exceptionnelle aux employeurs d’apprentis selon les mêmes paramètres qu’en 2026. En acter le renouvellement dès l’élaboration du projet de loi de finances (PLF).",
+          "page": "7",
+          "note": "Remplace le +1 du texte du 1er juin 2026 : le rapport qu'il cosigne recommande de maintenir l'aide aux employeurs d'apprentis au niveau de 2026. Il recommande aussi de relever la dotation d'investissement des CFA à son niveau de 2023 et de rétablir l'aide au permis."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-04-ppl-prix-energie",
+      "date": "2026-04-14",
+      "title": "Proposition de loi n°2670 visant à bloquer les prix du gaz et des carburants et à encadrer les marges en période de crise (cosignataire)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2670_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi du groupe GDR, enregistrée le 14 avril 2026 et présentée par Julien Brugerolles. Emmanuel Maurel figure parmi les signataires. Pour six mois, renouvelables une fois, elle plafonne les prix de détail du gaz et des carburants et les marges des opérateurs, et abaisse la TVA sur ces produits à 5,5 %.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "La présente proposition de loi écarte ces risques : elle prévoit une réglementation temporaire fondée sur des niveaux observés en période stable, assortie d’un encadrement strict des marges et de mécanismes de contrôle renforcés.",
+          "page": "3",
+          "inferred": true,
+          "note": "Déduite d'une mesure voisine : un blocage temporaire des prix du gaz et des carburants en période de crise. Le texte ne vise pas les autres produits de première nécessité, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2025-12-budget-secu",
+      "date": "2025-12-12",
+      "title": "« À propos du budget de la Sécu, adopté le 9 décembre 2025 »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://g-r-s.fr/a-propos-du-budget-de-la-secu-adopte-le-9-decembre-2025/",
+      "publisher": "Gauche Républicaine et Socialiste (g-r-s.fr)",
+      "summary": "Texte signé d'Emmanuel Maurel, publié par lui deux jours plus tôt selon le chapeau, puis reproduit sur g-r-s.fr le 12 décembre 2025. Il explique son vote « pour » le budget de la Sécurité sociale 2026 et énumère les mesures retirées au cours du débat, dont le gel des pensions et des prestations et le doublement des franchises médicales.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Il a fallu revenir sur un certain nombre d’ « horreurs » et nous l’avons fait. Il n’y aura ni gel des pensions, ni gel des prestations sociales, ni doublement des franchises médicales.",
+          "note": "Il range le doublement des franchises médicales parmi les « horreurs » écartées pendant le débat, ce qui rejette explicitement leur hausse."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "Il a fallu revenir sur un certain nombre d’ « horreurs » et nous l’avons fait. Il n’y aura ni gel des pensions, ni gel des prestations sociales, ni doublement des franchises médicales.",
+          "inferred": true,
+          "note": "Déduite : rejeter le gel des pensions et des prestations sociales revient à défendre leur revalorisation légale sur l'inflation pour 2026. Le texte n'énonce pas de règle annuelle, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2025-10-ppl-proportionnelle",
+      "date": "2025-10-28",
+      "title": "Proposition de loi n°2010 visant à instaurer le scrutin proportionnel pour les élections législatives (cosignataire)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2010_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 28 octobre 2025, présentée par Erwan Balanant et d'autres députés. Emmanuel Maurel figure parmi les signataires. Le texte prévoit un scrutin mixte : 347 députés élus au scrutin majoritaire dans les circonscriptions et 230 sur une liste nationale compensatoire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "nous proposons d’associer des représentants élus au scrutin majoritaire dans des circonscriptions comme c’est le cas aujourd’hui en France et des députés élus sur des listes complémentaires nationales afin qu’au final l’Assemblée représente fidèlement les choix des électeurs et électrices.",
+          "page": "3",
+          "note": "Il cosigne un texte qui introduit un scrutin proportionnel compensatoire aux législatives, avec 230 sièges sur 577."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2025-09-ppr-agriculture-bio",
+      "date": "2025-09-30",
+      "title": "Proposition de résolution n°1867 visant à la sauvegarde du développement de l'agriculture biologique (cosignataire)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1867_proposition-resolution.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution transpartisane enregistrée le 30 septembre 2025, présentée par Pascal Lecamp et de nombreux députés de plusieurs groupes. Emmanuel Maurel figure parmi les signataires. Elle invite le Gouvernement à renforcer les soutiens à l'agriculture biologique, notamment le crédit d'impôt, et à rétablir des crédits prévus au budget 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Consolider et renforcer les dispositifs existants de soutien aux exploitations en agriculture biologique, notamment en augmentant le crédit d’impôt pour l’agriculture biologique pour les trois prochaines années",
+          "page": "7",
+          "note": "Il cosigne une demande explicite de hausse des aides publiques à l'agriculture biologique : crédit d'impôt, crédits du fonds avenir bio et crédits de communication."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2025-09-ppre-acetamipride",
+      "date": "2025-09-16",
+      "title": "Proposition de résolution européenne n°1789 visant à interdire l'acétamipride dans l'Union européenne (cosignataire)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1789_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne enregistrée le 16 septembre 2025, présentée par Pierrick Courbon, Olivier Faure, François Ruffin et Emmanuel Maurel (quatrième signataire), avec d'autres députés. Elle critique la réautorisation des néonicotinoïdes prévue par la loi « Duplomb », demande leur interdiction dans l'UE et des clauses miroirs sur les produits agricoles importés.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "L’article 2 de la loi « Duplomb » prévoyait notamment la réautorisation de plusieurs insecticides néonicotinoïdes et constituait à ce titre une régression inadmissible de la législation sur les pesticides en France.",
+          "page": "2",
+          "note": "Il rejette explicitement la réautorisation des néonicotinoïdes et demande leur interdiction dans toute l'UE. C'est cohérent avec son vote « Contre » la loi Duplomb (scrutin n°2957, 8 juillet 2025)."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Invite la Commission européenne à légiférer en faveur de la mise en place de clauses miroirs s’appliquant aux produits agricoles et agroalimentaires importés, afin de lutter contre la concurrence déloyale et préserver notre santé et notre environnement",
+          "page": "7",
+          "note": "Demande explicite de clauses miroirs sur les produits agricoles importés, par une législation européenne."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2025-09-ppre-mercosur",
+      "date": "2025-09-15",
+      "title": "Proposition de résolution européenne n°1785 visant à empêcher la ratification de l'accord entre l'Union européenne et le Mercosur en demandant à l'État français la saisine de la Cour de justice de l'Union européenne pour cause d'incompatibilité de l'accord avec les traités européens (cosignataire)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1785_proposition-resolution-europeenne.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution européenne enregistrée le 15 septembre 2025, présentée par François Ruffin et de nombreux députés de plusieurs groupes. Emmanuel Maurel figure parmi les signataires. Le texte invite le Gouvernement à s'opposer au Conseil de l'UE à la signature, à l'application provisoire et à la conclusion de l'accord UE-Mercosur, et à saisir la Cour de justice.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "à s’opposer au sein du Conseil de l’Union européenne à l’adoption des propositions de décisions relatives à la signature, l’application provisoire et la conclusion de l’accord de partenariat entre l’Union européenne et les pays du Mercosur",
+          "page": "11",
+          "note": "Remplace le +1 déduit du vote du 26 novembre 2024 : la résolution cosignée demande de s'opposer à l'accord, que l'exposé des motifs qualifie de « perdant sur tous les plans »."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2025-03-drole-de-dramatisation",
+      "date": "2025-03-06",
+      "title": "« Emmanuel Macron : la drôle de dramatisation »",
+      "sourceType": "communique",
+      "sourceUrl": "https://g-r-s.fr/emmanuel-macron-la-drole-de-dramatisation/",
+      "publisher": "Gauche Républicaine et Socialiste (g-r-s.fr)",
+      "summary": "Texte signé « pour la Gauche Républicaine et Socialiste Emmanuel Maurel, député et animateur national », publié le 6 mars 2025 après l'allocution présidentielle du 5 mars. Il juge légitime de poser la question des moyens de la défense et demande que la hausse des budgets militaires s'inscrive dans une politique de croissance et de relance, avec des investissements et des achats européens en commun, sans être compensée par des baisses de la protection sociale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Pour être efficients, ils devront s’inscrire dans une politique de croissance et de relance, qui seule est en mesure de conforter l’autonomie stratégique européenne . Cela implique d’ investir en commun et surtout d’ acheter européen en commun .",
+          "note": "Il demande d'« acheter européen en commun » pour les dépenses de défense. Le texte ne parle ni de préférence française ni d'accepter un surcoût, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2024-12-ppl-licenciements-boursiers",
+      "date": "2024-12-03",
+      "title": "Proposition de loi n°694 visant à encadrer le recours au licenciement économique et à interdire les licenciements dits « boursiers » (cosignataire)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0694_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi du groupe GDR, enregistrée le 3 décembre 2024 et présentée par Yannick Monnet et les membres du groupe, dont Emmanuel Maurel. Elle répute sans cause réelle et sérieuse tout licenciement économique décidé par une entreprise bénéficiaire ou ayant distribué des dividendes ou racheté ses actions au cours des deux derniers exercices.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Est également dépourvu de cause réelle et sérieuse tout licenciement pour motif économique ou toute suppression d’emploi sous quelque forme que ce soit, décidé par un employeur dont l’entreprise a, au cours des deux derniers exercices comptables, distribué des dividendes",
+          "page": "13",
+          "note": "Texte de groupe qu'il a cosigné. L'article 2 prive de cause réelle et sérieuse les licenciements économiques dans une entreprise ayant versé des dividendes, ce qui revient à les interdire. Son programme de septembre 2026 propose d'autres mesures sur le licenciement économique et ne reprend pas celle-ci."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2024-10-ppl-logement",
+      "date": "2024-10-15",
+      "title": "Proposition de loi n°362 visant à six mesures d'urgence pour le logement (cosignataire)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0362_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 15 octobre 2024, présentée par Stéphane Peu avec des députés de plusieurs groupes. Emmanuel Maurel figure parmi les signataires. Elle supprime la réduction de loyer de solidarité, généralise la TVA à 5,5 % pour le logement HLM et la primo-accession, dézone le prêt à taux zéro et rétablit l'APL-accession.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-05",
+          "value": 2,
+          "quote": "L’article 3 prévoit un dézonage généralisé à l’ensemble du territoire national du Prêt à taux zéro (PTZ) dans le neuf comme dans l’ancien.",
+          "page": "4",
+          "note": "Extension explicite du PTZ à tout le territoire, dans le neuf comme dans l'ancien, par un texte qu'il a cosigné."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-09-programme",
       "date": "2026-09-18",
       "title": "Programme « La gauche au rendez-vous du sursaut français »",

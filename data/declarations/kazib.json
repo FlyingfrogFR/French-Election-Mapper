@@ -2,6 +2,78 @@
   "candidateId": "kazib",
   "declarations": [
     {
+      "id": "kazib-2026-09-pisa",
+      "date": "2026-09-09",
+      "title": "Billet d'Anasse Kazib sur le rapport PISA : « la macronie ose s'indigner après 10 années à détruire l'école »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.revolutionpermanente.fr/Anasse-Kazib-sur-le-rapport-PISA-la-macronie-ose-s-indigner-apres-10-annees-a-detruire-l-ecole",
+      "publisher": "Révolution Permanente (billet signé Anasse Kazib)",
+      "summary": "En réaction aux résultats du classement PISA, Anasse Kazib attribue la dégradation de l'école aux coupes budgétaires et aux mesures autoritaires. Il rejette les réponses centrées sur l'autorité et les réseaux sociaux et demande un financement et des embauches massives dans l'éducation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": -1,
+          "quote": "Pour eux, la solution c’est évidemment la mise au pas de la jeunesse, avec une école plus autoritaire encore, plus brutale avec les enfants des classes populaires ou encore l’interdiction des réseaux sociaux.",
+          "inferred": true,
+          "note": "Il range « l'interdiction des réseaux sociaux » parmi les réponses autoritaires qu'il reproche aux macronistes et à la droite ; le seuil de 15 ans n'est pas mentionné."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2025-11-toulouse",
+      "date": "2025-11-19",
+      "title": "Discours au meeting de lancement de la campagne municipale de Révolution Permanente à Toulouse : « On n'a pas besoin de connaître vos vies, on a les mêmes »",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.revolutionpermanente.fr/On-n-a-pas-besoin-de-connaitre-vos-vies-on-a-les-memes-Anasse-Kazib-au-meeting-municipal-a-Toulouse",
+      "publisher": "Révolution Permanente",
+      "summary": "Transcription de l'intervention d'Anasse Kazib, alors porte-parole de Révolution Permanente, au meeting de lancement de la campagne municipale de Vanessa Pedinotti à Toulouse, le 18 novembre 2025. Il y présente les candidatures municipales de RP, critique les politiques municipales sécuritaires et d'austérité et défend un programme anticapitaliste.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-07",
+          "value": -1,
+          "quote": "À Saint-Denis, la mairie PS est à l’avant-garde nationale de la traque des habitants, avec un logiciel de vidéosurveillance algorithmique, qu’ils ont acheté après les Jeux olympiques.",
+          "inferred": true,
+          "note": "Il dénonce la vidéosurveillance algorithmique achetée par la mairie de Saint-Denis comme une « traque des habitants » ; la reconnaissance faciale n'est pas nommée, la position s'en déduit."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2025-05-internationalisme",
+      "date": "2025-05-30",
+      "title": "Discours au meeting internationaliste de Révolution Permanente : « Militarisme, extrême-droite : construire un internationalisme ouvrier »",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.revolutionpermanente.fr/Militarisme-extreme-droite-construire-un-INTERNATIONALISME-ouvrier-discours-d-Anasse-Kazib",
+      "publisher": "Révolution Permanente",
+      "summary": "Transcription, publiée le 30 mai 2025, de l'intervention d'Anasse Kazib au meeting de Révolution Permanente du 24 mai 2025 à Paris. Il y dénonce la course à la militarisation en Europe, critique les partis de gauche favorables au réarmement et appelle à un internationalisme ouvrier.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-03",
+          "value": -1,
+          "quote": "« Investir dans la défense, c’est investir dans la défense de nos idéaux. » On dirait du Macron, mais c’est le parti socialiste qui dit ça. Chez EELV, c’est pas mieux, ils ont déclaré : « l’Union européenne doit s’affirmer comme une force militaire. »",
+          "inferred": true,
+          "note": "Il cite comme exemple de nationalisme à gauche la déclaration d'EELV selon laquelle l'UE « doit s'affirmer comme une force militaire », dans un discours contre la « course à la militarisation en Europe » ; la défense commune intégrée n'est pas nommée, d'où la déduction. (Force ramenée de -2 à -1 en relecture : La citation est exacte, mais elle se compose surtout des propos d'adversaires (PS, EELV). Ce que Kazib dit lui-même se réduit à une désapprobation (« On dirait du Macron », « c'est pas mieux ») de la phrase d'EELV « l'Union européenne doit s'affirmer comme une force militaire », présentée comme un exemple de nationalisme à gauche. Le signe négatif est clair : ailleurs dans le même discours, il dénonce la « course à la militarisation en Europe » et le « réarmement de la France et de l'Europe ». En revanche, il ne rejette jamais explicitement une défense commune intégrée de l'UE : son rejet passe par la critique de la déclaration d'un autre parti, et la mesure n'est pas nommée. Une déduction ne justifie pas −2 : on retient −1 (orientation), déduite.)"
+        }
+      ]
+    },
+    {
       "id": "kazib-2026-09-budget",
       "date": "2026-09-18",
       "title": "Billet « Lecornu attaque les arrêts maladie mais soigne les multinationales : une provocation »",

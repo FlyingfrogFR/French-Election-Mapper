@@ -2,6 +2,116 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-09-edito-budget",
+      "date": "2026-09-21",
+      "title": "Éditorial du NPA-Révolutionnaires du 21 septembre 2026 — « Un projet de budget pour nous serrer la ceinture — Tous ensemble préparons la riposte ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/un-projet-de-budget-pour-nous-serrer-la-ceinture-tous-ensemble-preparons-la-riposte",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Éditorial du parti qui critique le projet de budget du gouvernement Lecornu (gel et désindexation des pensions, gel du point d'indice et des aides au logement, délai de carence pour les travailleurs étrangers, hausse des budgets des Armées) et appelle à une grève générale pour l'augmentation des salaires et des pensions.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-08",
+          "value": 1,
+          "quote": "Mais pas en puisant dans les bénéfices des entreprises, alors que la France est le deuxième pays du monde en dividendes versés aux actionnaires – 61 milliards d’euros ! Pas en supprimant l’infinité d’exonérations et subventions dont bénéficient les patrons : 211 milliards par an !",
+          "inferred": true,
+          "note": "Éditorial du parti dont elle est la candidate désignée ; il reproche au budget de ne pas supprimer les « exonérations et subventions dont bénéficient les patrons », d'où un soutien déduit, limité aux avantages des entreprises (les niches fiscales des ménages ne sont pas évoquées)."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-09-edito-coup-de-chaud",
+      "date": "2026-09-14",
+      "title": "Éditorial du NPA-Révolutionnaires du 14 septembre 2026 — « Coup de chaud sur la rentrée : organisons la riposte du monde du travail ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/coup-de-chaud-sur-la-rentree-organisons-la-riposte-du-monde-du-travail",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Éditorial du parti qui dénonce les économies budgétaires annoncées (retraites, crédits de la transition écologique) et appelle à imposer par les grèves un plan d'urgence : 400 euros de plus par mois, échelle mobile des salaires, blocage des prix contrôlé par les consommateurs, interdiction des licenciements, isolation thermique des écoles et des logements.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Imposer 400 euros de plus par mois, l’échelle mobile des salaires en fonction de la hausse des prix, le blocage des prix, contrôlé par les consommateurs, l’interdiction des licenciements",
+          "inferred": true,
+          "note": "Éditorial du parti dont elle est la candidate désignée ; il réclame un blocage des prix « contrôlé par les consommateurs » et imposé par les luttes, sans en confier la mise en œuvre à l'État ni le limiter aux produits de première nécessité ou dans le temps."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "puisque le gouvernement à leur service rivalise d’ingéniosité pour leur plaire. Dernière trouvaille : faciliter toujours plus la transmission du patrimoine pour hériter d’entreprises ou de sommes d’argent.",
+          "inferred": true,
+          "note": "L'éditorial présente le projet de « faciliter toujours plus la transmission du patrimoine » comme une mesure destinée à plaire à la bourgeoisie ; l'opposition à une baisse des droits de succession s'en déduit, sans que ces droits soient nommés."
+        }
+      ]
+    },
+    {
+      "id": "labib-2024-06-meeting-legislatives",
+      "date": "2024-06-27",
+      "title": "Intervention de Selma Labib au meeting du NPA-Révolutionnaires du 25 juin 2024 à Paris",
+      "sourceType": "discours",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/meeting-du-25-juin-a-paris-intervention-de-selma-labib",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Texte de l'intervention de Selma Labib au meeting parisien du NPA-Révolutionnaires pendant la campagne des législatives de 2024 : elle critique le programme du RN et le Nouveau Front populaire, et appelle à préparer une mobilisation d'ensemble et une grève générale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "pour flatter sa clientèle électorale, il a assuré qu’il expulserait les immigrés, et leurs gosses avec. Que parmi ses premières mesures, il y aurait la suppression du « droit du sol » c’est-à-dire la suppression du droit à la nationalité française pour celles et ceux qui sont nés en France",
+          "note": "Elle présente la suppression du droit du sol annoncée par Jordan Bardella comme destinée à « flatter sa clientèle électorale » et, deux phrases plus loin, la range parmi des mesures « que même sous Vichy, Pétain n’avait pas eu l’idée ou les moyens de prendre »."
+        }
+      ]
+    },
+    {
+      "id": "labib-2024-06-profession-foi-legislatives",
+      "date": "2024-06-17",
+      "title": "Profession de foi de Selma Labib et Benoit Chazerand — élections législatives du 30 juin 2024, 10e circonscription du Val-de-Marne",
+      "sourceType": "programme",
+      "sourceUrl": "https://npa-revolutionnaires.org/wp-content/uploads/2024/06/PDF_94-10.pdf",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Profession de foi des candidats du NPA-Révolutionnaires dans la 10e circonscription du Val-de-Marne (Selma Labib, conductrice de bus, et Benoit Chazerand, aiguilleur du rail), mise en ligne le 17 juin 2024 : elle énumère des revendications (400 euros net d'augmentation mensuelle pour tous, aucun salaire, pension ou allocation inférieurs à 2 000 euros net et leur indexation sur les prix, interdiction des licenciements, retraite à 60 ans au plus tard) et appelle à une grève générale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Retraite à 60 ans au plus tard, ou après 37 ans et demi de travail à taux plein.",
+          "page": "1",
+          "note": "Mesure explicite d'un document de la campagne des législatives de juin 2024, antérieur à la candidature présidentielle."
+        },
+        {
+          "questionId": "edu-06",
+          "value": -2,
+          "quote": "Macron veut poursuivre la même politique, mais plus vite, plus fort et plus autoritaire. L’ordre capitaliste à coups de matraques contre les travailleurs qui luttent, l’ordre militariste à coups d’embrigadement de la jeunesse dans le service national universel",
+          "page": "1",
+          "inferred": true,
+          "note": "Le document range le service national universel dans « l’ordre militariste » et le qualifie d’« embrigadement de la jeunesse » ; le rejet de son extension obligatoire à tous les jeunes s'en déduit."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-09-permis-de-tuer",
       "date": "2026-09-21",
       "title": "« Permis de tuer » pour les milices du capital",

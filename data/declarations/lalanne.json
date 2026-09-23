@@ -2,6 +2,30 @@
   "candidateId": "lalanne",
   "declarations": [
     {
+      "id": "lalanne-2025-05-themes-valeurs",
+      "date": "2025-05-20",
+      "title": "Nos thèmes et valeurs (site du parti France Libre)",
+      "sourceType": "programme",
+      "sourceUrl": "https://france-libre.fr/nos-themes-et-valeurs/",
+      "publisher": "France Libre (association politique présidée par Francis Lalanne, france-libre.fr)",
+      "summary": "Page de France Libre, association politique présidée par Francis Lalanne selon sa page « Qui sommes-nous ? ». Le site de campagne présente Lalanne comme « Le Candidat de la France Libre ». La page présente les valeurs de l'association par thème, comme une « profession de foi issue de notre histoire » : reprise en main du pays, justice, démocratie, libertés fondamentales, paix, protection des enfants, économie, respect du vivant. La page Programme de la campagne 2027 y renvoie pour « plus de détails ». Aucune date n'est visible sur la page ; ses métadonnées indiquent une publication le 2025-05-20 et une modification le 2025-07-14.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Nous nous alarmons des faibles moyens à disposition de la Justice dont découle (entre autres raisons) la tentation de ne plus instruire de nombreux dossiers.",
+          "inferred": true,
+          "note": "Le texte déplore les « faibles moyens » de la justice et « exige » que ces moyens permettent « la simplification, la célérité et la qualité de l'instruction », sans chiffrer de hausse ni parler de doublement du budget en cinq ans. C'est une position du parti France Libre, à laquelle renvoie le programme 2027 du candidat."
+        }
+      ]
+    },
+    {
       "id": "lalanne-2026-09-projet-2027",
       "date": "2026-09-23",
       "title": "Le Projet 2027 – Nos propositions pour redresser la France (site de campagne Dieudo Lalanne 2027)",
