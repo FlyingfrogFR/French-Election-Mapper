@@ -6,6 +6,39 @@
 - **À tout moment**, une déclaration importante (annonce, vote, retournement) peut être ajoutée par pull request ; l'action est aussi déclenchable à la main (`workflow_dispatch`).
 - **Chaque fusion sur `main`** regénère le jeu de données (nouvelle empreinte) et redéploie le site. Le journal public (`/mises-a-jour`) et le flux RSS (`data/updates.xml`) reflètent immédiatement le changement.
 
+## Veille automatisée
+
+Chaque semaine, après l'ouverture de la checklist, une session Claude (Claude Code, d'Anthropic) exécute la veille décrite dans [`.claude/workflows/veille-hebdo.js`](../.claude/workflows/veille-hebdo.js). Ce fichier contient **les instructions exactes données aux agents** ; il est public pour que chacun puisse vérifier qu'elles ne favorisent personne.
+
+1. **Recherche**, un agent par candidat·e : publications officielles de la période (site de campagne, site du parti, discours et communiqués publiés, tribunes signées, propositions de loi, votes). La presse sert seulement à repérer un document ; elle ne fonde jamais une position. Chaque citation est copiée depuis `npm run data:source`, le lecteur qu'utilise le contrôle des citations, et vérifiée avant d'être proposée.
+2. **Deux relectures adverses et indépendantes** de chaque proposition : *fidélité* (la citation exprime-t-elle cette position, avec cette force, sur cette affirmation ?) et *provenance* (document officiel, date, citation présente mot pour mot). Une position n'est retenue que si les deux l'acceptent. Une relecture peut seulement affaiblir une valeur (de ±2 à ±1), jamais la renforcer ni en changer le signe.
+3. **Statuts** : candidatures nouvelles ou retirées, primaires. Il faut deux sources fiables indépendantes ou une source officielle, puis une relecture adverse.
+4. **Complétude** : un dernier agent cherche ce qui a été manqué ; ses pistes repassent par la recherche et les deux relectures.
+5. **Intégration déterministe** : `npm run data:apply-veille -- <résultat.json>` applique le résultat (schéma vérifié, doublons écartés), puis `npm run check` et `npm run data:check-quotes`.
+6. **Pull request** portant le rapport : déclarations ajoutées, positions qui changent, éléments écartés et pourquoi, candidat·es sans nouvelle publication.
+
+La veille ne fusionne rien, ne marque rien « vérifié » et ne supprime aucune déclaration (un changement d'avis s'ajoute, il n'efface pas). **Rien n'est publié sans qu'une personne fusionne la pull request**, et chaque déclaration ajoutée reste « en attente de vérification » jusqu'à la relecture d'une seconde personne.
+
+Le déclenchement hebdomadaire est planifié dans le compte Claude de l'opérateur·rice du site, donc hors du dépôt. Chaque exécution, elle, y laisse une trace complète : la pull request, son rapport et l'historique git.
+
+Pour travailler à la main avec les mêmes outils :
+
+- `npm run data:brief -- <candidat>` : statut, déclarations déjà enregistrées, position actuelle sur chaque affirmation ;
+- `npm run data:source -- <url>` : texte d'une page ou d'un PDF tel que le contrôle des citations le lira ; `--quote="…"` vérifie une citation, `--grep="…"` montre les passages autour d'un mot, `--links` liste les liens de la page ;
+- `npm run data:search -- "<requête>" --days=N` : titres d'actualité datés, pour repérer ce qui a été publié (un titre n'est jamais une source) ;
+- `npm run data:parlement -- <candidat>` : pour un·e député·e ou sénateur·rice, la liste officielle (données ouvertes de l'Assemblée nationale ou du Sénat) des propositions de loi et de résolution déposées ou cosignées et des rapports, depuis le début de la législature. La même liste, produite de la même façon, sert pour chaque parlementaire.
+
+### Textes parlementaires
+
+Un vote ou un texte parlementaire ne se lit pas comme un programme. La procédure (règle 8) retient donc ceci :
+
+- un vote sur l'ensemble d'un texte à plusieurs mesures ne fonde de position que sur son objet principal, jamais sur une mesure secondaire ;
+- une abstention ne fonde aucune position, pas plus que des votes contradictoires sur une même mesure ;
+- une proposition de loi ou de résolution déposée ou cosignée engage la personne sur chacune de ses mesures, puisqu'elle en est coautrice ;
+- un rapport n'engage son ou sa rapporteur·e que par ses recommandations explicites.
+
+La recherche web intégrée aux agents a un quota par session, que 33 recherches parallèles épuisent vite : la première veille (23 septembre 2026) l'a atteint en cours de route. Les agents passent donc d'abord par `data:search` et les canaux officiels (flux RSS, sitemap, API WordPress, données ouvertes du Parlement), et une passe de complément reprend les candidat·es dont la recherche a été privée de moteur, pour que chacun·e soit cherché·e avec le même soin.
+
 ## Ajouter une déclaration
 
 1. Ouvrir `data/declarations/<candidat>.json`.

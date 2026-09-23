@@ -102,8 +102,8 @@ export default function Home() {
           </li>
         </ul>
         <p>
-          Les positions sont mises à jour au moins chaque semaine à partir des déclarations publiques des candidat·es. Chaque modification est
-          publique, datée et relue. <Link to="/transparence">Comment vérifier par vous-même</Link>.
+          Chaque semaine, les publications officielles des candidat·es sont passées en revue. Les nouvelles positions arrivent par une
+          modification publique et datée, qu'une personne relit avant sa mise en ligne. <Link to="/transparence">Comment vérifier par vous-même</Link>.
         </p>
       </section>
     </>

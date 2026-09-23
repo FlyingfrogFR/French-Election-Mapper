@@ -2,6 +2,54 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
+      "id": "dupont-aignan-2026-09-projet-affaires-europeennes",
+      "date": "2026-09-21",
+      "title": "Le Projet de Debout La France – Affaires européennes : « Remplacer l’Union européenne par une communauté des nations libres et des projets à la carte »",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique Affaires européennes du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-09-21 (dateModified). Sous le sous-titre « Europe : remplacer l’Union européenne par une communauté des nations libres et des projets à la carte ! », la page propose de mettre fin à l’Union européenne avec les pays volontaires et de la remplacer par une organisation intergouvernementale soumise à référendum. Les mesures déjà encodées depuis la version du 2024-02-05 (Schengen, Mercosur, clauses miroirs, marché de l’électricité, contribution nette, portefeuille numérique) y figurent toujours. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti dont Nicolas Dupont-Aignan est le candidat déclaré.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "Rétablir nos frontières nationales en sortant de l’espace Schengen.",
+          "note": "Mesure reprise à l’identique de la version du 2024-02-05 de la même page."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Refuser définitivement l’accord de libre-échange entre l’Union européenne et le Mercosur.",
+          "note": "Mesure reprise à l’identique de la version du 2024-02-05 de la même page."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Mettre en place des clauses miroir afin que toutes les importations respectent les normes françaises.",
+          "note": "Mesure reprise à l’identique de la version du 2024-02-05 de la même page."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Sortir du marché européen de l’électricité en rétablissant un prix national comme l’Espagne et le Portugal ont su le faire.",
+          "note": "Mesure reprise à l’identique de la version du 2024-02-05 de la même page."
+        },
+        {
+          "questionId": "num-07",
+          "value": -2,
+          "quote": "En finir avec le portefeuille numérique , le carnet de santé numérique , le permis de conduire numérique et l’euro numérique .",
+          "inferred": true,
+          "note": "Rejet du portefeuille d’identité numérique européen ; la même page veut aussi « Rétablir l’anonymat et l’interdiction du stockage des données comme libertés fondamentales ». L’obligation d’une identité vérifiée pour des services en ligne n’est pas citée en tant que telle, d’où la mention « déduite »."
+        }
+      ]
+    },
+    {
       "id": "dupont-aignan-dlf-projet-economie-travail",
       "date": "2024-02-05",
       "title": "Le Projet de Debout La France – Économie, Travail",

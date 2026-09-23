@@ -8,10 +8,10 @@
   },
   "primaries": {
     "gauche-unitaire": {
-      "name": "Primaire de la gauche unitaire",
-      "date": "2026-10-11",
+      "name": "Primaire de la gauche unitaire (abandonnée)",
+      "date": "2026-10-11 (abandonnée le 21 septembre 2026)",
       "organizers": "Les Écologistes, L'Après, Debout !",
-      "source": "https://en.wikipedia.org/wiki/2026_United_Left_primary"
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
     },
     "choisir-2027": {
       "name": "Primaire « Choisir 2027 » (camp social-démocrate)",
@@ -157,7 +157,7 @@
       "declaredOn": "2025-11-25",
       "statusNote": "Candidate ; ne participe pas à la primaire de la gauche unitaire.",
       "primary": null,
-      "website": null,
+      "website": "https://www.delphinebatho.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -187,7 +187,7 @@
       "declaredOn": "2026-08-26",
       "statusNote": "Candidature déclarée ; refuse de participer à une primaire de la droite.",
       "primary": null,
-      "website": null,
+      "website": "https://www.nousfrance.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -217,7 +217,7 @@
       "declaredOn": "2026-06-09",
       "statusNote": "Maire de Saint-Ouen ; candidature hors primaire socialiste.",
       "primary": null,
-      "website": null,
+      "website": "https://www.karimbouamrane2027.org/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -247,7 +247,7 @@
       "declaredOn": "2026-07-16",
       "statusNote": "Candidature présentée hors primaire socialiste.",
       "primary": null,
-      "website": null,
+      "website": "https://bc2027.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -307,7 +307,7 @@
       "declaredOn": null,
       "statusNote": "Candidature déclarée (petite formation).",
       "primary": null,
-      "website": null,
+      "website": "https://solutiondemocratique.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -335,10 +335,20 @@
       "partyShort": "PS",
       "status": "primary",
       "declaredOn": "2026-08-30",
-      "statusNote": "Premier secrétaire du PS ; candidat à la primaire « Choisir 2027 » (9-10 et 16-17 octobre 2026).",
+      "statusNote": "Premier secrétaire du PS ; candidat à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
       "primary": "choisir-2027",
       "website": "https://www.parti-socialiste.fr/",
       "sources": [
+        {
+          "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
+          "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+          "date": "2026-09-16"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -365,10 +375,20 @@
       "partyShort": "PP",
       "status": "primary",
       "declaredOn": "2026-08-23",
-      "statusNote": "Candidature officialisée le 23 août 2026 pour la primaire « Choisir 2027 » du camp social-démocrate.",
+      "statusNote": "Candidature officialisée le 23 août 2026 pour la primaire « Choisir 2027 » du camp social-démocrate (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026) ; l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
       "primary": "choisir-2027",
-      "website": null,
+      "website": "https://glucks2027.fr/",
       "sources": [
+        {
+          "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
+          "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+          "date": "2026-09-16"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -395,10 +415,20 @@
       "partyShort": "PS",
       "status": "primary",
       "declaredOn": null,
-      "statusNote": "Député ; candidat à la primaire « Choisir 2027 ».",
+      "statusNote": "Député ; candidat à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
       "primary": "choisir-2027",
-      "website": null,
+      "website": "https://www.jeromeguedj2027.fr/",
       "sources": [
+        {
+          "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
+          "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+          "date": "2026-09-16"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -457,7 +487,7 @@
       "declaredOn": "2026-06-01",
       "statusNote": "Candidature déclarée.",
       "primary": null,
-      "website": null,
+      "website": "https://anasse2027.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -487,7 +517,7 @@
       "declaredOn": "2026-06-17",
       "statusNote": "Candidature annoncée par le parti.",
       "primary": null,
-      "website": null,
+      "website": "https://npa-revolutionnaires.org/campagnes-presidentielles",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -517,7 +547,7 @@
       "declaredOn": "2026-08-19",
       "statusNote": "Candidature déclarée.",
       "primary": null,
-      "website": null,
+      "website": "https://dieudolalanne2027.com/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -547,7 +577,7 @@
       "declaredOn": null,
       "statusNote": "Ancien ministre ; décision annoncée pour octobre 2026 selon la presse.",
       "primary": null,
-      "website": null,
+      "website": "https://www.uneautrefrance.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -617,7 +647,7 @@
       "declaredOn": "2026-03-31",
       "statusNote": "Maire de Cannes ; a quitté LR et demande une primaire ouverte de la droite.",
       "primary": null,
-      "website": null,
+      "website": "https://www.lisnard2027.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -645,10 +675,20 @@
       "partyShort": "UDB",
       "status": "primary",
       "declaredOn": "2026-04-02",
-      "statusNote": "Candidate à la primaire de la gauche unitaire prévue le 11 octobre 2026, dont la tenue est incertaine depuis le choix du PS d'une primaire séparée.",
+      "statusNote": "Candidate à la primaire de la gauche unitaire, abandonnée le 21 septembre 2026. Sa candidature à la présidentielle hors primaire n'est attestée que par une source (Public Sénat, 18 septembre 2026) : statut à confirmer.",
       "primary": "gauche-unitaire",
       "website": null,
       "sources": [
+        {
+          "title": "Public Sénat — Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Public Sénat — Présidentielle 2027 : quel est le dernier décompte des candidats déjà sur la ligne de départ ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+          "date": "2026-09-18"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -670,10 +710,20 @@
       "partyShort": "GRS",
       "status": "primary",
       "declaredOn": "2026-09-04",
-      "statusNote": "Candidat à la primaire « Choisir 2027 ».",
+      "statusNote": "Candidat à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
       "primary": "choisir-2027",
-      "website": null,
+      "website": "https://emmanuel-maurel.fr/",
       "sources": [
+        {
+          "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
+          "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+          "date": "2026-09-16"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -702,7 +752,7 @@
       "declaredOn": null,
       "statusNote": "Candidature déclarée (petite formation).",
       "primary": null,
-      "website": null,
+      "website": "https://parti-equinoxe.fr/presidentielle-2027/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -767,7 +817,7 @@
       "declaredOn": "2024-09-03",
       "statusNote": "Première candidature déclarée, dès septembre 2024.",
       "primary": null,
-      "website": null,
+      "website": "https://www.edouardphilippe.fr",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -802,7 +852,7 @@
       "declaredOn": "2026-05-09",
       "statusNote": "Candidature déclarée.",
       "primary": null,
-      "website": null,
+      "website": "https://les-patriotes.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -895,10 +945,20 @@
       "partyShort": "DVG",
       "status": "primary",
       "declaredOn": "2026-07-10",
-      "statusNote": "Candidate à la primaire « Choisir 2027 ».",
+      "statusNote": "Candidate à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'une des cinq candidatures dont la liste officielle a été rendue publique le 16 septembre 2026.",
       "primary": "choisir-2027",
-      "website": null,
+      "website": "https://segolene-ordrejuste.fr/",
       "sources": [
+        {
+          "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
+          "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+          "date": "2026-09-16"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -923,12 +983,42 @@
       "displayName": "François Ruffin",
       "party": "Debout !",
       "partyShort": "DEB",
-      "status": "primary",
+      "status": "declared",
       "declaredOn": "2025-04-01",
-      "statusNote": "Candidat à la primaire de la gauche unitaire prévue le 11 octobre 2026, dont la tenue est incertaine depuis le choix du PS d'une primaire séparée.",
-      "primary": "gauche-unitaire",
-      "website": null,
+      "statusNote": "Candidature annoncée le 1er avril 2025 (Debout !). Candidat à la primaire de la gauche unitaire, qui a été abandonnée ; ne figure pas parmi les cinq candidats de la primaire « Choisir 2027 » dont la liste a été rendue publique le 16 septembre 2026, et poursuit sa candidature hors primaire.",
+      "primary": null,
+      "website": "https://nouspresident.fr/",
       "sources": [
+        {
+          "title": "AFP (via Boursorama) — Présidentielle : François Ruffin, l'ex-Insoumis qui a du mal à socialiser",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-f7b00438688384a7d178c2e3d1790a58",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Toute l'Europe — Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
+          "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Public Sénat — Présidentielle 2027 : quel est le dernier décompte des candidats déjà sur la ligne de départ ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Public Sénat — Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Public Sénat — François Ruffin tenté par la primaire du PS, mais rabroué par Raphaël Glucksmann : que disent les règles de participation à ce scrutin ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/francois-ruffin-tente-par-la-primaire-du-ps-mais-rabroue-par-raphael-glucksmann-que-disent-les-regles-de-participation-a-ce-scrutin",
+          "date": "2026-09-08"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -948,12 +1038,32 @@
       "displayName": "Marine Tondelier",
       "party": "Les Écologistes",
       "partyShort": "ÉCO",
-      "status": "primary",
+      "status": "designated",
       "declaredOn": "2025-12-08",
-      "statusNote": "Désignée par Les Écologistes (86 %) le 8 décembre 2025 pour la primaire de la gauche unitaire prévue le 11 octobre 2026. La tenue de cette primaire est incertaine depuis le choix des adhérents du PS (9 juillet 2026) d'organiser une primaire séparée ; une candidature autonome est envisagée.",
-      "primary": "gauche-unitaire",
+      "statusNote": "Désignée le 8 décembre 2025 (86 %) candidate des Écologistes pour la primaire de la gauche unitaire. Cette primaire ayant été abandonnée, une motion du conseil fédéral adoptée à 69,44 % (résultat annoncé le 21 septembre 2026) maintient sa candidature jusqu'à un référendum interne des adhérents (10-13 décembre 2026), qui choisiront entre cette candidature et le soutien à un candidat d'une autre formation de gauche.",
+      "primary": null,
       "website": "https://lesecologistes.fr/",
       "sources": [
+        {
+          "title": "Public Sénat — Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "LCP — Candidature à la présidentielle : pas de choix définitif des Écologistes avant la mi-décembre",
+          "url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Journal du Net — Présidentielle : un référendum interne des Ecologistes tranchera la candidature de Marine Tondelier",
+          "url": "https://www.journaldunet.com/business/action-publique/1555211-referendum-interne-des-ecologistes-sur-la-candidature-de-marine-tondelier-a-la-presidentielle-de-2027/",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Public Sénat — Présidentielle 2027 : quel est le dernier décompte des candidats déjà sur la ligne de départ ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+          "date": "2026-09-18"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -987,7 +1097,7 @@
       "declaredOn": null,
       "statusNote": "Collecte des parrainages en cours ; pas de déclaration formelle recensée à ce jour.",
       "primary": null,
-      "website": null,
+      "website": "https://www.lafrancehumaniste.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -1017,7 +1127,7 @@
       "declaredOn": "2026-09-17",
       "statusNote": "Candidature confirmée le 17 septembre 2026 ; déclaration formelle attendue à l'automne.",
       "primary": null,
-      "website": null,
+      "website": "https://www.ericzemmour.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",

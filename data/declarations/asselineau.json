@@ -2,6 +2,53 @@
   "candidateId": "asselineau",
   "declarations": [
     {
+      "id": "asselineau-2026-09-lecornu-budget-ue",
+      "date": "2026-09-15",
+      "title": "L’aveu de Lecornu : la France asphyxiée par le budget de l'UE",
+      "sourceType": "communique",
+      "sourceUrl": "https://upr.fr/analyses/laveu-de-lecornu-la-france-asphyxiee-par-le-budget-de-lue",
+      "publisher": "Union Populaire Républicaine (rubrique Analyses du site officiel)",
+      "summary": "Analyse publiée le 15 septembre 2026 sur le site de l'UPR, écrite en partie à la première personne par le fondateur du parti, qui commente l'annonce par Sébastien Lecornu d'une demande de baisse de la contribution française au budget de l'Union européenne. Le texte range cette demande parmi les « demi-mesures » et affirme que la France ne devrait verser aucune contribution à l'Union.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Le vrai problème est que la France n’a pas à verser le moindre euro à une structure qui, selon l’UPR, la détruit de fond en comble.",
+          "inferred": true,
+          "note": "Déduite : le texte refuse toute contribution française au budget de l'UE et reproche aux dirigeants français d'avoir réclamé une hausse de ce budget, ce qui exclut un soutien à de nouvelles ressources propres ; même valeur que le −2 déduit du programme de 2022, confirmé ici par un texte plus récent et aussi précis."
+        }
+      ]
+    },
+    {
+      "id": "asselineau-2026-08-medef-leyen",
+      "date": "2026-08-27",
+      "title": "Ursula von der Leyen : l'invité surprise du MEDEF à son débat pour 2027",
+      "sourceType": "communique",
+      "sourceUrl": "https://upr.fr/analyses/ursula-von-der-leyen-linvite-surprise-du-medef-a-son-debat-pour-2027",
+      "publisher": "Union Populaire Républicaine (rubrique Analyses du site officiel)",
+      "summary": "Texte non signé, rédigé à la première personne par le candidat (« Plutôt que de m'inviter à débattre avec les autres candidats déclarés… »), publié dans la rubrique Analyses du site de l'UPR. Il dénonce l'invitation d'Ursula von der Leyen au débat du MEDEF entre candidats à la présidentielle et dresse une liste de griefs contre la présidente de la Commission européenne (Pfizer, énergie et nucléaire, voitures thermiques, Mercosur, migrations, sanctions contre la Russie).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-04",
+          "value": -1,
+          "quote": "elle a fait adopter le principe de l'interdiction des voitures thermiques à partir de 2035, ce qui revient à détruire la plus grande partie de l'industrie automobile ouest-européenne.",
+          "note": "Le texte condamne l'interdiction de 2035, qu'il juge destructrice pour l'industrie automobile, sans proposer explicitement de l'abroger : d'où −1."
+        }
+      ]
+    },
+    {
       "id": "asselineau-upr-programme-2022",
       "date": "2022-02-15",
       "title": "Notre programme de libération nationale pour 2022 – Programme présidentiel de François Asselineau (28 engagements)",
