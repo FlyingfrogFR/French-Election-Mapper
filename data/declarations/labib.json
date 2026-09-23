@@ -1,4 +1,439 @@
 {
   "candidateId": "labib",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "labib-2026-09-permis-de-tuer",
+      "date": "2026-09-21",
+      "title": "« Permis de tuer » pour les milices du capital",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/permis-de-tuer-pour-les-milices-du-capital",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Article du site du NPA-Révolutionnaires reproduisant le texte du tract diffusé par ses militant·es à la manifestation de Lyon du 20 septembre 2026 contre la loi votée à l'Assemblée affirmant une présomption de légitime défense pour les policiers faisant usage de leur arme. Le texte, non signé, s'oppose à cette loi et estime qu'« il ne suffira donc pas » de réformer la police en ressuscitant la police de proximité ou en la plaçant sous le contrôle d'une instance « indépendante ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "contre la loi votée à l’Assemblée affirmant une présomption de légitime défense pour les flics faisant usage de leur arme… À Marseille, Lyon, Toulouse, ce sont 50 000 personnes qui ont défilé contre cette loi qui blanchit par avance une police",
+          "note": "Position de parti (texte non signé du NPA-R, dont Selma Labib est la candidate désignée) : opposition explicite à la loi instaurant une présomption de légitime défense pour les policiers, que le tract qualifie aussi d'« injustice »."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-09-fete-humanite",
+      "date": "2026-09-15",
+      "title": "Intervention de Selma Labib à la fête de l’Humanité 2026",
+      "sourceType": "discours",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Transcription, publiée le 15 septembre 2026 par le NPA-Révolutionnaires, de l’intervention de Selma Labib, sa candidate, au stand du parti à la fête de l’Humanité le 12 septembre 2026. Elle y présente « un programme pour nos luttes et pas des promesses électorales » : 400 € de hausse des salaires et pensions, aucun revenu sous 2 000 € net, interdiction des licenciements, réduction du temps de travail sans perte de salaire, rejet de la retraite par capitalisation, liberté de circulation et régularisation des sans-papiers.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "Il y a au moins deux mesures dégueulasses sur lesquelles ils sont tous d’accord, de Glucksmann à Le Pen en passant par Attal, Retailleau, Philippe. Numéro un, la retraite par capitalisation.",
+          "note": "Rejet explicite de la retraite par capitalisation, présentée comme l’une des « deux mesures » communes aux autres candidats (« Pas question ! »)."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Il faut augmenter les salaires et les pensions de 400 euros par mois pour tous et toutes. Il ne faut pas un seul revenu sous les 2000 euros net.",
+          "inferred": true,
+          "note": "Hausse générale de 400 € et plancher de 2 000 € net pour tout revenu, à imposer par les luttes (« on va les imposer ! ») et non par décision de l’État ; le SMIC n’est pas nommé dans ce passage."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -2,
+          "quote": "Et il faut que le brut et le super-brut augmentent en conséquence. Oui ça va coûter un bras au patronat et ce n’est que justice, car ils servent à quoi les bras du patronat ?",
+          "inferred": true,
+          "note": "Exige que le brut et le « super-brut » (cotisations patronales comprises) augmentent ; dans le même discours, elle rejette la baisse ou suppression des cotisations sociales proposée par François Hollande et reprise par Marine Le Pen."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Pour que la crise financière qui couve ne transforme pas la vague de licenciements en un tsunami, pour imposer l’interdiction des licenciements, c’est maintenant que ça se joue aussi.",
+          "inferred": true,
+          "note": "Demande l’interdiction de tous les licenciements, au-delà des seules entreprises qui versent des dividendes."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "oui il faut drastiquement diminuer le temps de travail sans perte de salaire et sans augmentation de la charge de travail, sous le contrôle des salariés eux-mêmes, et c’est une priorité de l’imposer au patronat licencieur !",
+          "inferred": true,
+          "note": "Réduction « drastique » du temps de travail sans perte de salaire, à imposer au patronat plutôt que par la loi ; elle reproche à Fabien Roussel de présenter les 32 heures comme un simple « horizon »."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -2,
+          "quote": "les 35 heures de Jospin ont été une grande arnaque pour les salariés. Une mesurette de diminuer le temps de travail de seulement 10 % en échange d’une flexibilité dont on paye le prix tous les jours.",
+          "inferred": true,
+          "note": "Juge les 35 heures insuffisantes, dénonce la flexibilité qui les a accompagnées et réclame une réduction drastique du temps de travail."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "De la gauche de Hollande à l’extrême droite, les candidats n’ont comme promesses que du sang et des larmes, l’austérité à tous les étages, la retraite à 67 ans et j’en passe.",
+          "inferred": true,
+          "note": "Dénonce « la retraite à 67 ans » parmi les promesses des autres candidats."
+        },
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "De la gauche de Hollande à l’extrême droite, les candidats n’ont comme promesses que du sang et des larmes, l’austérité à tous les étages, la retraite à 67 ans et j’en passe.",
+          "inferred": true,
+          "note": "Rejette « l’austérité à tous les étages » promise par les autres candidats ; l’objectif de déficit n’est pas évoqué."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "il vient d’annoncer la suppression de la taxe sur les profits des grands groupes. Le même qui taxe les malades victimes d’affection longue durée, qui rackette les chômeurs, qui a coupé les budgets des pompiers et de toutes les collectivités, fait un nouveau cadeau aux grands groupes capitalistes.",
+          "inferred": true,
+          "note": "Qualifie de « nouveau cadeau aux grands groupes » la suppression annoncée de la taxe sur les profits des grands groupes ; l’impôt sur les sociétés en général et les impôts de production ne sont pas nommés."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Les travailleurs au pouvoir commenceraient par faire payer les actionnaires et les milliardaires pour toutes les mesures d’urgence de survie de la majorité la plus pauvre de l’humanité.",
+          "inferred": true,
+          "note": "Orientation : « faire payer les actionnaires et les milliardaires » ; aucune mesure fiscale sur les dividendes ou les rachats d’actions n’est formulée."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "elle sort deux mesures de son chapeau : l’interdiction du voile dans la rue et un référendum pour instaurer la préférence nationale. C’est du pur racisme ! Point à la ligne.",
+          "note": "Rejette l’interdiction du voile dans la rue proposée par Marine Le Pen, qu’elle qualifie de « pur racisme »."
+        },
+        {
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "elle sort deux mesures de son chapeau : l’interdiction du voile dans la rue et un référendum pour instaurer la préférence nationale. C’est du pur racisme ! Point à la ligne.",
+          "note": "Rejette le référendum de Marine Le Pen pour instaurer la préférence nationale, qu’elle qualifie de « pur racisme »."
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+          "inferred": true,
+          "note": "Revendique la liberté de circulation et d’installation ; les quotas ne sont pas discutés."
+        },
+        {
+          "questionId": "imm-03",
+          "value": -2,
+          "quote": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+          "inferred": true,
+          "note": "Liberté de circulation et d’installation pour tous ; le regroupement familial n’est pas nommé."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+          "note": "Régularisation de tous les sans-papiers, sans condition de métier."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+          "inferred": true,
+          "note": "Liberté de circulation et d’installation pour tous ; l’asile n’est pas traité en tant que tel."
+        },
+        {
+          "questionId": "imm-07",
+          "value": -2,
+          "quote": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+          "inferred": true,
+          "note": "Liberté de circulation et d’installation pour tous ; l’examen des demandes d’asile hors d’Europe n’est pas évoqué."
+        },
+        {
+          "questionId": "imm-09",
+          "value": 2,
+          "quote": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+          "inferred": true,
+          "note": "Liberté d’installation pour tous ; le cas des diplômés étrangers n’est pas traité (elle appelle aussi, dans ce discours, à abroger la hausse des frais d’inscription des étudiants étrangers)."
+        },
+        {
+          "questionId": "imm-13",
+          "value": -2,
+          "quote": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+          "inferred": true,
+          "note": "Régularisation de tous les sans-papiers et liberté d’installation ; la rétention n’est pas nommée."
+        },
+        {
+          "questionId": "def-01",
+          "value": -2,
+          "quote": "La France c’est donc le retour du service militaire, c’est un record de dépenses militaires pour préparer des guerres impérialistes qui ne sont pas les guerres des travailleurs mais des guerres pour les profits",
+          "inferred": true,
+          "note": "Dénonce le « record de dépenses militaires » ; le seuil de 3 % du PIB n’est pas discuté (même discours : « pas un euro pour les guerres impérialistes »)."
+        },
+        {
+          "questionId": "def-03",
+          "value": -2,
+          "quote": "La France c’est donc le retour du service militaire, c’est un record de dépenses militaires pour préparer des guerres impérialistes qui ne sont pas les guerres des travailleurs mais des guerres pour les profits",
+          "inferred": true,
+          "note": "Range « le retour du service militaire » parmi les politiques qu’elle rejette (« À bas le militarisme ») ; le caractère obligatoire n’est pas précisé."
+        },
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "mobilisez-vous les 15 et 29 septembre pour l’abrogation de cette mesure raciste inspirée par Le Pen, que le gouvernement a osé appeler « bienvenue en France » mais qui ferme la porte aux étudiants étrangers les plus pauvres – et qui préfigure l’augmentation des frais d’inscription pour tous.",
+          "inferred": true,
+          "note": "Appelle à abroger la hausse des frais d’inscription des étudiants étrangers (« bienvenue en France ») et s’oppose à l’augmentation des frais pour tous."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-09-tract-huma",
+      "date": "2026-09-11",
+      "title": "Tract « Présidentielles : avec Selma Labib, un programme communiste et révolutionnaire pour les luttes… sans attendre 2027 ! »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/wp-content/uploads/2026/08/260911_tract-huma.pdf",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Tract de campagne du NPA-Révolutionnaires pour sa candidate désignée, distribué à la fête de l’Humanité 2026 (page « Matériel » du 11 septembre 2026) : critique du futur budget et des candidats reçus par le Medef, défense d’une « société communiste sans frontières » et annonce du meeting national du 28 novembre avec Selma Labib.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": -2,
+          "quote": "à toutes les formes de nationalisme et de protectionnisme qui ne protègent que les exploiteurs du travail humain",
+          "page": "2",
+          "note": "Rejet du protectionnisme ; le même tract dénonce aussi les « plus de 200 milliards de subventions et d’allègements » accordés chaque année au patronat. Document du parti pour sa candidate désignée."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-09-edito-rentree",
+      "date": "2026-09-07",
+      "title": "Éditorial du NPA-Révolutionnaires du 7 septembre 2026 — « Leur rentrée et la nôtre »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/leur-rentree-et-la-notre",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Éditorial non signé des bulletins d'entreprise et tracts du NPA-Révolutionnaires (rubrique « Éditos » de son site). Il dénonce la « démagogie anti-immigrés » de plusieurs « prétendants à l’Élysée » et la proposition de Marine Le Pen d'un référendum sur l'interdiction du voile dans les espaces publics, puis présente « Notre plan d’urgence » : hausse de 400 euros de tous les salaires, contrôle des marges de Total et de la grande distribution, interdiction des licenciements, l'argent étant selon lui disponible dans les « plus de 200 milliards de subventions et d’allègements de cotisations sociales et impôts » versés chaque année au patronat. Il affirme que pour imposer ces mesures « nous ne pourrons compter que sur nous-mêmes », message que porteront la candidate Selma Labib et le porte-parole Gaël Quirante, et appelle à discuter de rejoindre la grève du 29 septembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Il y a urgence à augmenter les salaires de 400 euros pour tous et toutes, pour faire face au coût de la vie qui ne cesse d’augmenter.",
+          "inferred": true,
+          "note": "Position de parti (éditorial non signé du NPA-R) : la hausse de 400 euros demandée pour tous les salaires inclut le SMIC et va au-delà de l'indexation ; le texte ne précise pas l'instrument et compte sur les luttes pour l'imposer."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Alors que les plans de licenciements se multiplient, il faut interdire les licenciements.",
+          "inferred": true,
+          "note": "Position de parti (éditorial non signé du NPA-R) : l'interdiction de tous les licenciements, demandée explicitement, inclut celle des licenciements dans les entreprises qui versent des dividendes."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "De l’argent, il y en a, à commencer par celui qui coule à flots pour le patronat, qui se gave de plus de 200 milliards de subventions et d’allègements de cotisations sociales et impôts chaque année.",
+          "inferred": true,
+          "note": "Position de parti (éditorial non signé du NPA-R) : le texte dénonce les allègements de cotisations sociales accordés au patronat et les désigne comme de l'argent disponible, ce qui exclut de les accroître sur les bas salaires. (Force ramenée de -2 à -1 en relecture : La citation est exacte et le signe est juste : le texte dénonce les allègements de cotisations versés au patronat (« se gave ») et y voit de l'argent disponible. Mais la phrase est une dénonciation globale (« subventions et allègements de cotisations sociales et impôts »). Elle ne rejette pas explicitement une nouvelle baisse des cotisations patronales sur les bas salaires et ne propose pas de supprimer les allègements existants. C'est une orientation déduite, pas un rejet explicite. −1 déduit, comme pour Mélenchon (« 170 milliards… exonérations ») et Cazeneuve dans des cas équivalents. −2 déduit n'a été retenu que pour une proposition explicite de suppression (Roussel).)"
+        },
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "De l’argent, il y en a, à commencer par celui qui coule à flots pour le patronat, qui se gave de plus de 200 milliards de subventions et d’allègements de cotisations sociales et impôts chaque année.",
+          "inferred": true,
+          "note": "Position de parti (éditorial non signé du NPA-R) : le texte dénonce les allègements d'impôts accordés au patronat et les désigne comme de l'argent disponible, ce qui exclut une nouvelle baisse des impôts des entreprises. (Force ramenée de -2 à -1 en relecture : La citation est exacte et le signe est juste : dénoncer comme un « gavage » les allègements d'impôts accordés au patronat exclut d'en vouloir davantage. Mais le texte ne nomme ni l'impôt sur les sociétés ni les impôts de production. La même phrase générale sert déjà pour tra-13. Il ne rejette pas explicitement de nouvelles baisses et ne propose aucune hausse de ces impôts. C'est une orientation déduite : −1, comme pour Glucksmann (−1 déduit), plutôt que −2.)"
+        },
+        {
+          "questionId": "eco-01",
+          "value": -1,
+          "quote": "Le gouvernement prépare un budget de combat contre tous les travailleurs, envisageant de nouvelles coupes sur les dépenses sociales, les pensions de retraite, les services publics.",
+          "inferred": true,
+          "note": "Position de parti (éditorial non signé du NPA-R) : le texte dénonce les coupes envisagées dans les dépenses sociales, les pensions et les services publics, sans se prononcer sur le déficit ; il demande par ailleurs de reprendre les subventions au patronat, d'où −1."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "Philippe, Lecornu, Attal : cet été, ces prétendants à l’Élysée y sont allés de leur démagogie anti-immigrés. À l’unisson raciste avec Marine Le Pen qui propose un référendum sur l’interdiction du voile dans les espaces publics.",
+          "inferred": true,
+          "note": "Position de parti (éditorial non signé du NPA-R) : le texte qualifie de raciste la proposition d'interdire le voile dans les espaces publics ; ce rejet vaut rejet d'une interdiction de tous les signes religieux ostensibles dans l'espace public, qui inclut le voile. (Force ramenée de -2 à -1 en relecture : La citation est exacte. Pour l'essentiel, elle décrit des adversaires, mais elle qualifie la proposition de Marine Le Pen d'interdire le voile dans les espaces publics de partie d'un « unisson raciste ». Le signe se déduit logiquement : une interdiction générale des signes religieux ostensibles inclurait le voile, que le texte refuse d'interdire. Mais la position repose sur une incise rhétorique visant une mesure voisine, propre au voile. Le texte ne dit rien d'une interdiction générale et ne propose rien. C'est une orientation déduite : −1, comme pour Villepin et Bouamrane (−1 déduit sur des signaux comparables), et non −2.)"
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-09-meeting-rer",
+      "date": "2026-09-07",
+      "title": "Intervention de Selma Labib, conductrice de bus, au meeting des Rencontres d’été révolutionnaires du 23 août 2026",
+      "sourceType": "discours",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/intervention-de-selma-conductrice-de-bus-31-ans-une-travailleuse-communiste-revolutionnaire-qui-portera-la-voix-de-celles-et-ceux-qui-ne-baisseront-jamais-la-tete-a-lelection-rein",
+      "publisher": "NPA-Révolutionnaires (Révolutionnaires n° 62)",
+      "summary": "Extraits, publiés le 7 septembre 2026 dans le dossier de Révolutionnaires n° 62, de l’intervention de Selma Labib lançant sa campagne au meeting des Rencontres d’été révolutionnaires du 23 août 2026. Elle y résume son « programme pour les luttes » : ouverture des frontières, interdiction des licenciements, salaires et pensions suivant l’inflation, moyens pour l’éducation, les transports, la santé et le climat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Un programme de lutte pour l'ouverture des frontières, contre les fermetures d'entreprises et pour l'interdiction des licenciements, pour des salaires, des pensions, qui suivent l'inflation.",
+          "note": "Revendique des salaires qui « suivent l’inflation » ; le terme d’indexation automatique n’est pas employé."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "Un programme de lutte pour l'ouverture des frontières, contre les fermetures d'entreprises et pour l'interdiction des licenciements, pour des salaires, des pensions, qui suivent l'inflation.",
+          "note": "Revendique des pensions qui « suivent l’inflation » ; les minima sociaux ne sont pas cités dans ce passage (sa profession de foi municipale de mars 2026 exige qu’aucune allocation ne soit inférieure à 2 000 € net). (Force ramenée de 2 à 1 en relecture : Le passage ne couvre que la moitié de l'affirmation : les pensions qui « suivent l'inflation ». Les minima sociaux n'y figurent pas, et la profession de foi municipale fixe un plancher, pas une indexation. Une position partielle vaut ±1 selon la règle d'encodage.)"
+        },
+        {
+          "questionId": "eur-12",
+          "value": -2,
+          "quote": "Un programme de lutte pour l'ouverture des frontières, contre les fermetures d'entreprises et pour l'interdiction des licenciements, pour des salaires, des pensions, qui suivent l'inflation.",
+          "note": "Revendique « l’ouverture des frontières »."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "Pour des moyens pour les services utiles aux travailleurs et aux travailleuses, éducation, transport, santé, climat.",
+          "inferred": true,
+          "note": "Revendication générale de moyens pour la santé, sans plan d’embauches ni mode de financement précisés."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-06-communique-candidature",
+      "date": "2026-06-17",
+      "title": "Communiqué – Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Communiqué du NPA-Révolutionnaires annonçant que son comité politique national des 6 et 7 juin 2026 présente Selma Labib, conductrice de bus, à l’élection présidentielle de 2027, avec le soutien de Gaël Quirante ; il expose les axes généraux de la campagne et la biographie de la candidate.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Salaires, retraites, indemnités de chômage, emploi, services publics à commencer par ceux de l’éducation, de la santé et du logement, sont sacrifiés sur l’autel de centaines de milliards de subventions accordées au patronat et aux plus riches, entre autres pour financer une militarisation montante.",
+          "inferred": true,
+          "note": "Dénonce le « sacrifice » des indemnités de chômage ; la durée d’indemnisation n’est pas nommée. Communiqué du parti annonçant sa candidature."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 1,
+          "quote": "vaste entreprise de dépeçage d’un réseau de lignes de bus vendues par lots aux plus offrants, organisée par le patronat pour diviser les salariés et revoir à la baisse leurs conditions de travail.",
+          "inferred": true,
+          "note": "Opposition à l’ouverture à la concurrence du réseau de bus où travaille la candidate ; aucune renationalisation n’est formulée. Communiqué du parti annonçant sa candidature."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-03-declaration-ivry",
+      "date": "2026-03-19",
+      "title": "Déclaration de la liste « NPA-R : Ivry ouvrière et révolutionnaire » à l’issue du premier tour des municipales 2026",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/declaration-de-la-liste-npa-r-ivry-ouvriere-et-revolutionnaire-a-lissue-du-premier-tour-des-municipales-2026",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Déclaration signée le 17 mars 2026 par Selma Labib et Benoît Chazerand, têtes de la liste d’Ivry-sur-Seine, après le premier tour des municipales : appel à ne donner aucune voix au RN, critique des listes de droite et du PS local, remerciement aux 536 électeurs de la liste.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-04",
+          "value": -1,
+          "quote": "Où le PS de Monfret trouvera-t-il l’argent pour sa chère police municipale, un projet inutile et néfaste… à moins de sabrer dans le budget des crèches, de la culture ou du périscolaire ?",
+          "inferred": true,
+          "note": "Qualifie de « projet inutile et néfaste » la police municipale voulue par une liste concurrente à Ivry ; l’armement et les pouvoirs des policiers municipaux ne sont pas discutés. (Force ramenée de -2 à -1 en relecture : Elle juge « inutile et néfaste » le projet de créer une police municipale à Ivry, et le sens de sa position est certain. Mais c'est un projet local, formulé dans une question rhétorique, et ni les pouvoirs de police judiciaire ni l'armement ne sont abordés. Il s'agit d'une orientation, donc −1.)"
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-03-profession-foi-ivry",
+      "date": "2026-03-05",
+      "title": "Profession de foi de la liste « Ivry ouvrière et révolutionnaire » (municipales 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://npa-revolutionnaires.org/wp-content/uploads/2026/03/260218_PdF-IVRY-A4-BAT.pdf",
+      "publisher": "NPA-Révolutionnaires – liste « Ivry ouvrière et révolutionnaire »",
+      "summary": "Profession de foi municipale de la liste conduite par Selma Labib et Benoît Chazerand à Ivry-sur-Seine (municipales de mars 2026), avec quatre mesures mises en avant : 400 € net d’augmentation, aucun salaire, pension ou allocation sous 2 000 € net, interdiction des licenciements, régularisation de tous les sans-papiers avec droit de vote pour tous et liberté de circulation. PDF non daté : date de mise en ligne sur le site du parti (5 mars 2026, selon les métadonnées du fichier sur le site).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "PAS DE SALAIRE, PENSION OU ALLOCATION INFÉRIEURS À 2 000 EUROS NETS",
+          "page": "2",
+          "inferred": true,
+          "note": "Plancher de 2 000 € net pour toute pension, supérieur au SMIC, sans condition de carrière complète."
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2,
+          "quote": "RÉGULARISATION DE TOUS LES SANS-PAPIERS, droit de vote pour tous à toutes les élections, liberté de circulation et d’installation !",
+          "page": "2",
+          "note": "Droit de vote pour tous à toutes les élections, au-delà des seules municipales."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 1,
+          "quote": "il y a eu la lutte pour les retraites en 2019 et en 2023, avec des manifestations imposantes et déterminées. Elles ont inquiété le pouvoir sans le faire craquer parce que les travailleurs en ont laissé la direction à une intersyndicale suspendue aux débats parlementaires.",
+          "page": "1",
+          "inferred": true,
+          "note": "Présente la mobilisation de 2023 sur les retraites comme une lutte qui aurait dû faire « craquer » le pouvoir ; l’abrogation de la réforme n’est pas formulée telle quelle. (Force ramenée de 2 à 1 en relecture : Le passage est une analyse de stratégie : le mouvement de 2023 a « inquiété le pouvoir sans le faire craquer » faute de direction par les travailleurs. Il montre qu'elle était du côté des opposants à la réforme, mais ne formule ni l'abrogation ni un rejet du contenu de la réforme (l'âge de 64 ans n'est pas cité). Cela relève de l'orientation déduite, donc +1.)"
+        }
+      ]
+    },
+    {
+      "id": "labib-2025-12-meeting-international",
+      "date": "2025-12-09",
+      "title": "Intervention de Selma Labib sur la situation internationale au meeting du NPA-Révolutionnaires du 29 novembre 2025",
+      "sourceType": "discours",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/quand-les-travailleurs-et-les-peuples-auront-impose-leur-camp-face-a-celui-de-la-bourgeoisie-on-pourra-imaginer-de-discuter-dune-paix",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Extraits, publiés le 9 décembre 2025, de l’intervention de Selma Labib, alors porte-parole du NPA-Révolutionnaires, au meeting du 29 novembre 2025 à Paris : critique des plans de paix de Trump pour Gaza et l’Ukraine, de la guerre de Poutine, du gouvernement Zelensky et du réarmement français.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-02",
+          "value": -1,
+          "quote": "Quant à la France, c’est une puissance de seconde zone mais toujours nocive avec son arme nucléaire, ses bases militaires en Afrique et dans le Pacifique.",
+          "inferred": true,
+          "note": "Qualifie l’arme nucléaire française de « nocive » ; l’extension de la dissuasion à des partenaires européens n’est pas évoquée."
+        }
+      ]
+    }
+  ]
 }

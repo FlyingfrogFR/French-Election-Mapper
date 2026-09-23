@@ -1,4 +1,419 @@
 {
   "candidateId": "kazib",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "kazib-2026-09-budget",
+      "date": "2026-09-18",
+      "title": "Billet « Lecornu attaque les arrêts maladie mais soigne les multinationales : une provocation »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.revolutionpermanente.fr/Anasse-Kazib-Lecornu-attaque-les-arrets-maladie-mais-soigne-les-multinationales-une-provocation",
+      "publisher": "Révolution Permanente (billet signé Anasse Kazib)",
+      "summary": "Billet signé d'Anasse Kazib réagissant aux grandes lignes du budget 2027 annoncées par le Premier ministre (54 milliards d'euros d'économies), qu'il rejette. Il appelle à élargir la mobilisation du 29 septembre et défend la nationalisation de Total et l'expropriation des secteurs stratégiques.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "Annoncer 54 milliards d’euros d’économies et un budget aussi brutal à un moment où la situation se réchauffe, où tout le monde parle sur les réseaux des difficultés quotidiennes, de l’impact du prix du carburant, c’est une vraie provocation de Lecornu.",
+          "inferred": true,
+          "note": "Il rejette un plan de 54 milliards d'euros d'économies budgétaires, sans se prononcer dans ce texte sur l'objectif de déficit."
+        },
+        {
+          "questionId": "soc-06",
+          "value": -2,
+          "quote": "Lecornu se permet même une mesure raciste en introduisant un délai de carence pour l’accès des étrangers à certaines allocations sociales.",
+          "inferred": true,
+          "note": "Il qualifie de « raciste » un délai de carence imposé aux étrangers pour certaines allocations, mesure voisine d'une condition de cinq ans de résidence."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "Lecornu va réduire la surtaxe sur les bénéfices des grandes entreprises, pour filer un coup de main à TotalEnergies, CMA-CGM ou LVMH qui en ont tant besoin... On ne peut pas laisser passer ça",
+          "inferred": true,
+          "note": "Il s'oppose à la réduction de la surtaxe sur les bénéfices des grandes entreprises, ce qui fonde l'opposition à une nouvelle baisse de l'impôt sur les sociétés."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2026-09-depliant",
+      "date": "2026-09-13",
+      "title": "Dépliant de campagne « Faire entendre la voix de notre classe » : premières mesures",
+      "sourceType": "programme",
+      "sourceUrl": "https://anasse2027.fr/programme/depliant-anasse-2027.pdf",
+      "publisher": "Comité de campagne Anasse Kazib 2027",
+      "summary": "Dépliant de quatre pages publié sur anasse2027.fr, qui présente les « premières mesures » d'un programme en six axes, le programme 2027 complet étant annoncé comme en cours d'élaboration. Document non daté : date tirée des métadonnées du PDF (création le 2026-09-13) ; il annonce un meeting le samedi 7 novembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
+          "page": "3",
+          "note": "Propose explicitement de porter le SMIC à 2000 € net."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
+          "page": "3",
+          "note": "Demande explicitement l'indexation des salaires sur l'inflation."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
+          "page": "3",
+          "inferred": true,
+          "note": "Le dépliant demande la revalorisation de toutes les allocations et l'indexation sur l'inflation ; les pensions n'y sont pas nommées, d'où une position déduite. (Force ramenée de 2 à 1 en relecture : Le dépliant ne couvre qu'une partie de l'affirmation : « revalorisation de toutes les allocations » et indexation valent pour les minima sociaux, mais les pensions n'y figurent pas et le mot « allocations » ne les désigne pas couramment. Couverture partielle, donc +1 selon la règle. (La profession de foi 2024 nomme les retraites, mais c'est une autre déclaration, plus ancienne.))"
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d’annuité.",
+          "page": "3",
+          "note": "Propose la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition de durée de cotisation."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d’annuité.",
+          "page": "3",
+          "inferred": true,
+          "note": "Le retour à la retraite à 60 ans implique l'abrogation du report à 64 ans de la réforme de 2023, que le dépliant ne nomme pas."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d’annuité.",
+          "page": "3",
+          "inferred": true,
+          "note": "La demande d'une retraite à 60 ans exclut un relèvement de l'âge légal au-delà de 64 ans."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 1,
+          "quote": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",
+          "page": "3",
+          "inferred": true,
+          "note": "Propose un revenu étudiant au niveau du SMIC, mécanisme distinct des bourses sur critères familiaux et financé par le patronat, d'où +1 déduit."
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Expropriation des logements vides, plafonnement et gel des loyers.",
+          "page": "3",
+          "note": "Va au-delà de l'encadrement en demandant le plafonnement et le gel des loyers, sans restriction aux zones tendues."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Expropriation des secteurs stratégiques (énergie, transports, banques, santé, …) et placement sous contrôle des travailleur·ses.",
+          "page": "3",
+          "note": "Propose l'expropriation des secteurs stratégiques, dont l'énergie et les transports, et leur placement sous contrôle des salariés."
+        },
+        {
+          "questionId": "eco-09",
+          "value": -1,
+          "quote": "Suppression des aides publiques aux grandes entreprises.",
+          "page": "3",
+          "inferred": true,
+          "note": "Rejette les aides publiques aux grandes entreprises ; le dépliant ne dit rien de la protection commerciale ni des aides aux petites entreprises, d'où -1."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Interdiction des licenciements.",
+          "page": "3",
+          "note": "Demande l'interdiction de tous les licenciements, ce qui inclut ceux des entreprises versant des dividendes."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "Répartition du travail pour une semaine de 28h sans baisse de salaire.",
+          "page": "3",
+          "note": "Propose une semaine de 28 heures sans baisse de salaire, soit une réduction plus forte que les 32 heures."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -2,
+          "quote": "Répartition du travail pour une semaine de 28h sans baisse de salaire.",
+          "page": "3",
+          "inferred": true,
+          "note": "La demande d'une semaine de 28 heures s'oppose à tout assouplissement ou relèvement des 35 heures."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d’installation.",
+          "page": "3",
+          "note": "Demande la régularisation de tous les sans-papiers, ce qui inclut les travailleurs des métiers en tension."
+        },
+        {
+          "questionId": "imm-03",
+          "value": -2,
+          "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d’installation.",
+          "page": "3",
+          "inferred": true,
+          "note": "La liberté de circulation et d'installation réclamée exclut une restriction du regroupement familial, que le dépliant ne nomme pas."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d’installation.",
+          "page": "3",
+          "inferred": true,
+          "note": "La liberté de circulation et d'installation pour tous implique l'accueil de davantage de réfugiés par des voies légales, sans que l'asile soit nommé."
+        },
+        {
+          "questionId": "imm-07",
+          "value": -2,
+          "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d’installation.",
+          "page": "3",
+          "inferred": true,
+          "note": "L'examen de l'asile dans des pays tiers contredit la liberté de circulation et d'installation réclamée ; le dépliant ne traite pas ce point."
+        },
+        {
+          "questionId": "lib-04",
+          "value": -1,
+          "quote": "Avortement, PMA, transitions libres et gratuits.",
+          "page": "3",
+          "inferred": true,
+          "note": "Demande des transitions « libres et gratuites » sans mentionner les mineurs, d'où -1 déduit."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "Abrogation de toutes les lois sécuritaires, racistes et islamophobes, à commencer par la loi de 2004.",
+          "page": "3",
+          "inferred": true,
+          "note": "Demander l'abrogation de la loi de 2004 sur les signes religieux à l'école exclut de soutenir leur interdiction dans tout l'espace public."
+        },
+        {
+          "questionId": "lib-02",
+          "value": -2,
+          "quote": "Abrogation de toutes les lois sécuritaires, racistes et islamophobes, à commencer par la loi de 2004.",
+          "page": "3",
+          "inferred": true,
+          "note": "Demander l'abrogation de la loi de 2004 sur les signes religieux à l'école exclut de soutenir leur interdiction à l'université."
+        },
+        {
+          "questionId": "lib-10",
+          "value": -2,
+          "quote": "Abrogation de toutes les lois sécuritaires, racistes et islamophobes, à commencer par la loi de 2004.",
+          "page": "3",
+          "inferred": true,
+          "note": "Demander l'abrogation de la loi de 2004 exclut d'étendre l'interdiction du voile aux accompagnatrices scolaires et aux compétitions sportives."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 2,
+          "quote": "Abrogation de toutes les lois sécuritaires, racistes et islamophobes, à commencer par la loi de 2004. Amnistie de tous les manifestants, jeunes de quartiers populaires et syndicalistes réprimés.",
+          "page": "3",
+          "inferred": true,
+          "note": "Il demande l'abrogation de toutes les lois sécuritaires et l'amnistie des manifestants sans énoncer le principe général de l'affirmation, d'où une position déduite."
+        },
+        {
+          "questionId": "def-01",
+          "value": -2,
+          "quote": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
+          "page": "4",
+          "inferred": true,
+          "note": "Le refus de toute dépense pour la guerre et le démantèlement de l'appareil militaire excluent l'objectif de 3 % du PIB, qui n'est pas nommé."
+        },
+        {
+          "questionId": "edu-06",
+          "value": -2,
+          "quote": "Non au SNU et à la militarisation de nos écoles et de nos facs.",
+          "page": "4",
+          "note": "Rejette explicitement le service national universel."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2026-09-police",
+      "date": "2026-09-12",
+      "title": "Billet « Il faut dissoudre la police municipale de Carcassonne ! »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.revolutionpermanente.fr/Il-faut-dissoudre-la-police-municipale-de-Carcassonne-Billet-d-Anasse-Kazib",
+      "publisher": "Révolution Permanente (billet signé Anasse Kazib)",
+      "summary": "Billet signé réagissant à une vidéo, révélée par Midi Libre, de policiers municipaux de Carcassonne en patrouille, dont il qualifie les propos de racistes. Il demande la dissolution de cette police municipale et des corps spéciaux, l'interdiction de certaines armes et l'abrogation des lois ayant étendu l'usage des armes par les policiers, et appelle à manifester le 20 septembre contre la « loi permis de tuer ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-04",
+          "value": -2,
+          "quote": "Il faut d’urgence empêcher la police de nuire : dissoudre les corps spéciaux, interdire les techniques et les armes responsables de mutilations et de morts, abroger toutes les lois qui ont étendu les possibilités d’usage des armes par les policiers.",
+          "inferred": true,
+          "note": "Il demande de restreindre les armes et l'usage des armes par les policiers et de dissoudre la police municipale de Carcassonne, ce qui s'oppose à l'armement systématique des polices municipales."
+        },
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "abroger toutes les lois qui ont étendu les possibilités d’usage des armes par les policiers. Il faudra le dire haut et fort le 20 septembre dans toutes les mobilisations contre la loi permis de tuer",
+          "inferred": true,
+          "note": "Il appelle à manifester contre la « loi permis de tuer », qui selon Révolution Permanente instaure une présomption de légitime défense pour les policiers, et à abroger les lois étendant leur usage des armes."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2026-08-frontieres",
+      "date": "2026-08-05",
+      "title": "Billet « Crise de Ceuta : pourquoi les révolutionnaires défendent l’ouverture des frontières ? »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.revolutionpermanente.fr/Crise-de-Ceuta-pourquoi-les-revolutionnaires-defendent-l-ouverture-des-frontieres-Billet-d-Anasse",
+      "publisher": "Révolution Permanente (billet signé Anasse Kazib)",
+      "summary": "Billet signé du candidat, qui répond aux objections d'électeurs de gauche après les morts de Ceuta. Il y défend l'ouverture des frontières et la liberté de circulation et d'installation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-12",
+          "value": -2,
+          "quote": "Lorsque la gauche explique qu’il faut davantage de contrôles aux frontières ou qu’il y aurait « trop d’immigration », qu’il faut régulariser uniquement « ceux qui ont un travail », elle ne désarme pas l’extrême droite : elle lui donne raison sur le diagnostic.",
+          "note": "Il rejette le renforcement des contrôles aux frontières et défend dans le même billet l'ouverture des frontières."
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "Lorsque la gauche explique qu’il faut davantage de contrôles aux frontières ou qu’il y aurait « trop d’immigration », qu’il faut régulariser uniquement « ceux qui ont un travail », elle ne désarme pas l’extrême droite : elle lui donne raison sur le diagnostic.",
+          "inferred": true,
+          "note": "Il refuse l'idée qu'il y aurait « trop d'immigration » et défend l'ouverture des frontières, ce qui exclut une forte réduction de l'immigration légale ; les quotas ne sont pas évoqués."
+        },
+        {
+          "questionId": "imm-13",
+          "value": -2,
+          "quote": "tout en enfermant les êtres humains derrière des frontières, des visas, des centres de rétention et des barbelés",
+          "inferred": true,
+          "note": "Il dénonce les centres de rétention et défend la liberté de circulation et d'installation, ce qui s'oppose à une rétention systématique des personnes sous OQTF."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2026-06-candidature",
+      "date": "2026-06-01",
+      "title": "Édito « Présidentielle 2027 : Anasse Kazib veut faire entendre la voix de la nouvelle classe ouvrière »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.revolutionpermanente.fr/Presidentielle-2027-Anasse-Kazib-veut-faire-entendre-la-voix-de-la-nouvelle-classe-ouvriere",
+      "publisher": "Révolution Permanente",
+      "summary": "Éditorial signé « Révolution Permanente » qui annonce la candidature d'Anasse Kazib à la présidentielle de 2027 et présente les axes du programme que défendra le parti, dont il est le candidat désigné.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-10",
+          "value": -2,
+          "quote": "Le combat contre l’extrême-droite passe par un refus net de la division raciste entre travailleurs nationaux et travailleurs étrangers, en régularisant tous les sans-papiers et imposant la liberté de circulation et d’installation.",
+          "inferred": true,
+          "note": "Texte du parti dont il est le candidat désigné, qui refuse toute division entre travailleurs nationaux et étrangers, ce qui exclut la priorité nationale, non nommée."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2025-12-sao-paulo",
+      "date": "2025-12-15",
+      "title": "Discours au meeting internationaliste de São Paulo : « Seul le retour de la lutte des classes peut arrêter Trump, Poutine et Macron »",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.revolutionpermanente.fr/Se-defendre-ne-suffit-pas-il-faut-passer-a-l-offensive-discours-d-Anasse-Kazib-a-Sao-Paulo",
+      "publisher": "Révolution Permanente",
+      "summary": "Texte, publié par Révolution Permanente sous la signature d'Anasse Kazib, du discours qu'il a prononcé le 14 décembre 2025 à São Paulo à l'ouverture de la conférence de la Fraction trotskiste. Il y traite de la militarisation, de la guerre en Ukraine, de la répression des soutiens à la Palestine et de l'internationalisme.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Mais si les occidentaux soutiennent Zelensky, c’est avant tout pour affaiblir leur rival russe et garder le contrôle économique sur le pays. C’est pour cette raison que depuis le début de la guerre, avec la FT, on a porté le mot d’ordre « ni Poutine, ni OTAN ».",
+          "inferred": true,
+          "note": "Il dénonce l'invasion russe mais rejette le soutien occidental à l'Ukraine (« ni Poutine, ni OTAN ») et conclut « Pas un centime, pas une vie pour leur guerre ! », sans évoquer explicitement les livraisons d'armes."
+        },
+        {
+          "questionId": "def-03",
+          "value": -2,
+          "quote": "on fait venir des militaires dans les écoles pour rencontrer les enfants dès le plus jeune âge, on organise des tests militaires grandeur nature pour habituer les populations à la présence de l’armée, et surtout on relance le service militaire.",
+          "inferred": true,
+          "note": "Il présente la relance du service militaire comme un élément de la préparation à la guerre qu'il combat, sans formuler de proposition sur son caractère obligatoire."
+        }
+      ]
+    },
+    {
+      "id": "kazib-2024-06-legislatives",
+      "date": "2024-06-17",
+      "title": "Profession de foi, élections législatives 2024, 2e circonscription de Seine-Saint-Denis",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.revolutionpermanente.fr/IMG/pdf/profession_de_foi_-_profession_de_foi_-_anasse_kazib_3-1-1-2.pdf",
+      "publisher": "Révolution Permanente",
+      "summary": "Document de 2024. Profession de foi d'Anasse Kazib, candidat, et d'Elsa Marcel aux élections législatives de juin 2024 dans la 2e circonscription de Seine-Saint-Denis, publiée en PDF par Révolution Permanente le 17 juin 2024. Elle liste des mesures sociales, antiracistes, démocratiques et anti-guerre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-03",
+          "value": -2,
+          "quote": "Non aux groupes de niveaux à l’école et au tri social",
+          "page": "2",
+          "note": "Rejette explicitement les groupes de niveau."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Gratuité des soins, des cantines scolaires et des transports en commun",
+          "page": "2",
+          "note": "Demande la gratuité des soins, ce qui supprime le reste à charge."
+        },
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Gratuité des soins, des cantines scolaires et des transports en commun",
+          "page": "2",
+          "inferred": true,
+          "note": "Demander la gratuité des soins exclut une hausse des franchises et participations forfaitaires, que le texte ne nomme pas."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "Investissement massif dans les hôpitaux, écoles et services publics",
+          "page": "2",
+          "note": "Demande un investissement massif dans les hôpitaux sans préciser les embauches ni les revalorisations, d'où +1."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "Augmentation de tous les salaires et retraites de 400€, indexation sur l’inflation. Salariés, chômeurs, retraité : personne ne doit toucher moins de 2000€ net !",
+          "page": "2",
+          "note": "Fixe un plancher de 2000 € net pour tous les retraités, supérieur au SMIC net de 2024, ce qui va au-delà de l'affirmation."
+        }
+      ]
+    }
+  ]
 }

@@ -2,6 +2,117 @@
   "candidateId": "lisnard",
   "declarations": [
     {
+      "id": "lisnard-2026-09-lci",
+      "date": "2026-09-18",
+      "title": "David Lisnard sur LCI : « On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/il-faut-rtablir-les-conditions-de-la-rentabilit-de-la-pche-franaise/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié sur le site de Nouvelle Énergie de l'entretien de David Lisnard sur LCI le 18 septembre 2026. Il y aborde la crise de la pêche, le prix des carburants, le logement, l'énergie, la dépense publique et la fiscalité, juge nécessaire de baisser la fiscalité et refuse une baisse immédiate de la TVA sur le carburant financée par la dette.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": -1,
+          "quote": "Baisser la fiscalité, c’est nécessaire, mais tous ceux qui vous disent tout de suite “baisser la TVA sur le carburant” vous mentent, parce qu’ils font payer, dans ce cas-là, de la dette dans l’immédiat. Donc ils font payer leur plein par leurs enfants ou leurs petits-enfants.",
+          "note": "Rejet partiel : il refuse une baisse immédiate de la TVA sur le carburant, financée selon lui par la dette, tout en jugeant « scandaleux » les 60 % de taxes sur un litre de carburant et nécessaire une baisse de la fiscalité accompagnée d'une réduction de la dépense ; le document ne dit rien du taux de 5,5 % ni de l'électricité et du gaz."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-09-chalons",
+      "date": "2026-09-03",
+      "title": "Déplacement à la Foire de Châlons-en-Champagne : propositions agricoles (article publié par Nouvelle Énergie)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/-la-foire-de-chlons-david-lisnard-dfend-une-agriculture-libre-des-impts-de-production-et-de-la-bureaucratie/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Article publié le 3 septembre 2026 par Nouvelle Énergie après le déplacement de David Lisnard à la Foire de Châlons-en-Champagne le 2 septembre 2026. Il y présente la suppression des impôts de production spécifiquement agricoles et l'autorisation tacite, passé six mois, des projets de stockage d'eau collectifs et multi-usages ; l'article rappelle aussi d'autres propositions agricoles du parti, dont un crédit d'impôt pour accompagner la transmission des exploitations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-07",
+          "value": 1,
+          "quote": "Cette réforme complète les propositions agricoles de Nouvelle Énergie, parmi lesquelles la création d’un compte épargne aléas climatiques et économiques défiscalisé et d’un crédit d’impôt pour accompagner la transmission des exploitations",
+          "inferred": true,
+          "note": "Proposition du parti dont il est le candidat et le président : un crédit d'impôt pour accompagner la transmission des exploitations, avantage fiscal voisin d'une exonération. Position déduite, donc +1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-08-medef",
+      "date": "2026-08-28",
+      "title": "Débat face à Fabien Roussel à la Rencontre des Entrepreneurs de France du MEDEF (compte rendu publié par Nouvelle Énergie)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/-il-faut-librer-lindustrie-/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié par Nouvelle Énergie de la journée de David Lisnard à la Rencontre des Entrepreneurs de France du MEDEF le 27 août 2026, dont un débat avec Fabien Roussel sur la réindustrialisation. Il y plaide pour la baisse des impôts de production, pour la simplification administrative et contre les aides publiques aux entreprises.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": -1,
+          "quote": "« Je suis contre les aides publiques aux entreprises. »",
+          "note": "Rejet explicite des aides publiques aux entreprises dans un débat sur la réindustrialisation ; le volet protection commerciale de l'affirmation n'est pas abordé dans ce document, d'où −1 et non −2."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-07-saint-raphael",
+      "date": "2026-07-10",
+      "title": "Discours de lancement de campagne à Saint-Raphaël (compte rendu publié par Nouvelle Énergie)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/a-saint-raphael-david-lisnard-lance-sa-campagne-pour-faire-gagner-la-france-qui-fait/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié le 10 juillet 2026 par Nouvelle Énergie du discours prononcé par David Lisnard le 3 juillet 2026 à Saint-Raphaël pour lancer sa campagne présidentielle. Il y présente notamment ses propositions sur la dépense publique, les cotisations, la retraite par capitalisation, la sécurité, l'immigration, l'école et les institutions.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "David Lisnard a proposé de construire 20 000 places de prison, d’instaurer la perpétuité réelle, de garantir l’exécution intégrale des peines et de lever l’excuse de minorité pour les crimes.",
+          "note": "Même valeur que la FAQ : construction de 20 000 places de prison proposée à nouveau dans le discours de lancement de campagne."
+        },
+        {
+          "questionId": "sec-11",
+          "value": 2,
+          "quote": "David Lisnard a proposé de construire 20 000 places de prison, d’instaurer la perpétuité réelle, de garantir l’exécution intégrale des peines et de lever l’excuse de minorité pour les crimes.",
+          "note": "Même valeur que la FAQ : instauration de la perpétuité réelle proposée à nouveau."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Il a proposé la suppression de l’aide médicale d’État, remplacée par une aide médicale d’urgence ciblée sur les soins vitaux",
+          "note": "Même valeur que la page Immigration du programme : suppression de l'AME, remplacée par une aide d'urgence."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "David Lisnard a également défendu l’introduction d’une part obligatoire de capitalisation dans le système de retraite.",
+          "note": "Même valeur que le programme : part de capitalisation obligatoire."
+        }
+      ]
+    },
+    {
       "id": "lisnard-ne-questions",
       "date": "2026-01-01",
       "title": "FAQ officielle « Les questions qu'on nous pose » (réponses sourcées et citations datées de David Lisnard)",

@@ -1,4 +1,388 @@
 {
   "candidateId": "le-maire",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "le-maire-2026-09-briancon",
+      "date": "2026-09-19",
+      "title": "L'avenir français — Discours de Briançon",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.uneautrefrance.fr/_files/ugd/96b22b_f26b074bb4784bd6bcc497af4f6fc51b.pdf",
+      "publisher": "Une autre France (uneautrefrance.fr, site de Bruno Le Maire)",
+      "summary": "Texte du discours prononcé à Briançon le samedi 19 septembre 2026, publié en PDF sur uneautrefrance.fr avec la mention « seul le prononcé fait foi ». Bruno Le Maire y propose des économies immédiates dès le budget 2027, un retour à la réforme des retraites avec 65 ans comme âge de référence, une « nouvelle Cinquième République » soumise à référendum et des mesures sur le travail, l'aide sociale, l'immigration et la production.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Dès le budget 2027, nous devons donc réaliser des économies massives.",
+          "page": "5",
+          "note": "Économies massives dès 2027 (désindexation partielle des pensions, gels) jusqu'au retour sous 3 % de déficit, avec en complément le maintien de la surtaxe d'IS."
+        },
+        {
+          "questionId": "tra-01",
+          "value": -2,
+          "quote": "On ne peut pas demander une participation aux retraités si nous ne leur donnons pas la garantie que nous reviendrons rapidement à la réforme des retraites qui a été suspendue.",
+          "page": "6",
+          "note": "Veut revenir rapidement à la réforme suspendue et aller au-delà, avec 65 ans comme âge de référence."
+        },
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "quote": "65 ans comme âge de référence, de la capitalisation avec le PER qui a été plébiscité par 11 millions de Français, une attention particulière aux métiers difficiles et aux carrières des femmes, une évolution de l’âge légal en fonction de l’évolution de notre espérance de vie : voilà ma proposition.",
+          "page": "6",
+          "note": "65 ans comme âge de référence et âge légal évoluant selon l'espérance de vie."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "Je propose que la durée d’indemnisation du chômage soit ramenée à 12 mois et la durée de cotisation minimale pour avoir accès aux droits à 12 mois également.",
+          "page": "15",
+          "note": "Durée d'indemnisation ramenée à 12 mois."
+        },
+        {
+          "questionId": "tra-07",
+          "value": 1,
+          "quote": "Tout travail mérite salaire. Mais tout salaire mérite aussi travail. Le RSA sans travail est une injustice.",
+          "page": "7",
+          "inferred": true,
+          "note": "Juge le « RSA sans travail » injuste, sans détailler d'heures d'activité ou de formation obligatoires."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Je propose donc que nous développions la retraite par capitalisation sur la base du PER avec comme objectif de doubler son encours à 300 milliards d’euros, pour financer le développement économique de la nation.",
+          "page": "17",
+          "note": "Capitalisation via le PER, avec un encours visé de 300 milliards d'euros."
+        },
+        {
+          "questionId": "soc-04",
+          "value": -1,
+          "quote": "Je propose la désindexation de 1 point des pensions de retraite, la suppression de l’abattement de 10%, le gel des recrutements dans la fonction publique, le gel des avancements, le gel des prestations sociales.",
+          "page": "6",
+          "note": "Désindexation d'un point des pensions et gel des prestations sociales, présentés comme temporaires jusqu'au retour sous 3 % de déficit ; le manifeste d'août 2026 en exemptait les minima des plus fragiles."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "Je propose que le montant maximum d’aide sociale ne puisse jamais dépasser le montant du salaire minimum.",
+          "page": "15",
+          "note": "L'aide sociale serait plafonnée au niveau du salaire minimum."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 2,
+          "quote": "Je propose que toutes les aides aux apprentis soient rétablies dans cette voie professionnelle.",
+          "page": "15",
+          "note": "Rétablir toutes les aides aux apprentis dans la voie professionnelle."
+        },
+        {
+          "questionId": "env-13",
+          "value": 1,
+          "quote": "que nous mettions en place les retenues d’eau nécessaires pour les agriculteurs",
+          "page": "16",
+          "note": "Propose les « retenues d'eau nécessaires pour les agriculteurs », sans en préciser la taille ni employer le mot mégabassines."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "L’autorité exige que l’État reprenne la main sur sa politique migratoire en imposant un moratoire sur l’immigration, le temps que nous redéfinissions une immigration utile pour la France.",
+          "page": "12",
+          "note": "Moratoire sur l'immigration le temps de redéfinir une « immigration utile », sans quotas annuels votés par le Parlement."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 1,
+          "quote": "le peuple qui rend sa décision sur la politique migratoire qui lui semble la plus utile pour la nation, le peuple qui se prononce sur la forme que doit prendre la construction européenne. Le peuple qui a droit au référendum et qui peut en prendre l’initiative.",
+          "page": "10",
+          "note": "Veut que le peuple tranche la politique migratoire par référendum, sans engagement sur une consultation précise ni sur une révision constitutionnelle dédiée."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "L’autorité exige une lutte sans merci contre les réseaux de trafiquants de drogue par la fusion des services de gendarmerie, de police et des douanes comme de leurs services de renseignement.",
+          "page": "12",
+          "note": "Répression par la fusion des services et le croisement de données par l'IA, sans parquet dédié ni prisons de haute sécurité."
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "Une Sixième République serait un saut dans le vide. Une nouvelle Cinquième République est la solution.",
+          "page": "10",
+          "note": "Rejette une Sixième République au profit d'une « nouvelle Cinquième République »."
+        },
+        {
+          "questionId": "ins-05",
+          "value": 2,
+          "quote": "Je propose que l’efficacité soit garantie par la limitation du nombre de parlementaires",
+          "page": "9",
+          "note": "Limiter le nombre de parlementaires."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "le 49.3 serait supprimé pour que le gouvernement ne puisse plus passer en force, mais l’Assemblée nationale ne pourrait plus censurer le gouvernement sans avoir défini au préalable une majorité alternative.",
+          "page": "9",
+          "note": "Supprimer le 49.3 (le manifeste d'août 2026 le gardait pour le seul budget), avec une censure conditionnée à une majorité alternative."
+        },
+        {
+          "questionId": "eur-09",
+          "value": -2,
+          "quote": "non, la France ne peut pas dicter sa loi en Europe sans en respecter les règles élémentaires, notamment celle des 3% de déficit public.",
+          "page": "4",
+          "note": "Insiste sur le respect de la règle européenne des 3 % de déficit."
+        },
+        {
+          "questionId": "log-04",
+          "value": -1,
+          "quote": "Je propose que nous supprimions le ZAN dans les territoires ruraux pour permettre la construction de logements ou le développement de nouvelles activités économiques.",
+          "page": "16",
+          "note": "Supprimer le ZAN dans les seuls territoires ruraux, d'où -1."
+        },
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Avec une TVA plus élevée, des importations plus taxées et des géants du numérique qui contribuent davantage, nous pouvons augmenter la feuille de paie de tous les salariés.",
+          "page": "15",
+          "note": "Les géants du numérique contribueraient davantage à la protection sociale, mais il préfère des « contre-algorithmes » aux « législations Maginot » pour les encadrer."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "Avant d’imaginer je ne sais quel nouveau texte sur le voile, appliquons strictement la loi sur l’interdiction des signes religieux à l’école et la loi de 2010 sur l’interdiction de dissimuler son visage dans l’espace public.",
+          "page": "9",
+          "inferred": true,
+          "note": "Préfère appliquer strictement les lois existantes (école, dissimulation du visage) avant tout nouveau texte sur le voile ; une interdiction générale des signes religieux n'est pas évoquée."
+        },
+        {
+          "questionId": "lib-10",
+          "value": -1,
+          "quote": "Avant d’imaginer je ne sais quel nouveau texte sur le voile, appliquons strictement la loi sur l’interdiction des signes religieux à l’école et la loi de 2010 sur l’interdiction de dissimuler son visage dans l’espace public.",
+          "page": "9",
+          "inferred": true,
+          "note": "Déduit de sa préférence pour les lois existantes avant « je ne sais quel nouveau texte sur le voile » ; les sorties scolaires et les compétitions sportives ne sont pas citées."
+        }
+      ]
+    },
+    {
+      "id": "le-maire-2026-08-manifeste",
+      "date": "2026-08-22",
+      "title": "L'An I — Manifeste pour une autre France",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.uneautrefrance.fr/_files/ugd/96b22b_a036d45b2acf415f90142b2ab83681b2.pdf",
+      "publisher": "Une autre France (uneautrefrance.fr, site de Bruno Le Maire)",
+      "summary": "Manifeste de 58 pages signé Bruno Le Maire et publié sur uneautrefrance.fr ; le texte n'est pas daté, il a été mis en ligne le 22 août 2026 selon la presse et le PDF actuel a été généré le 24 août 2026. Il expose trois « choix » (autorité, prospérité, souveraineté) et des mesures pour « l'an I d'une autre France » : finances publiques, retraites, institutions, organisation territoriale, énergie, immigration et Fédération d'États nations à 6.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": 1,
+          "quote": "Les impôts de production, CVAE et C3S, seront supprimés.",
+          "page": "47",
+          "note": "Propose de supprimer la CVAE et la C3S, mais maintient la surtaxe d'impôt sur les sociétés jusqu'au retour sous 3 % de déficit, d'où +1."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Ces fonds serviront à investir, directement ou indirectement, dans les entreprises de haute technologie pour la production de semi-conducteurs, le stockage de données, le calcul quantique, les supercalculateurs et la robotique.",
+          "page": "47",
+          "note": "Propose d'investir au moins 30 milliards tirés de cessions de participations dans la haute technologie et des droits de douane européens sur les produits carbonés ou subventionnés, mais prône aussi « moins de subventions et d'aides directes » aux entreprises, d'où +1."
+        },
+        {
+          "questionId": "eco-12",
+          "value": -1,
+          "quote": "l’État cèdera ses participations dans les entreprises où sa présence n’est pas prioritaire, notamment Orange, la Française des Jeux ou Engie ; il pourra garder une action de référence.",
+          "page": "47",
+          "inferred": true,
+          "note": "Déduit de la cession proposée des parts de l'État dans Orange, la Française des Jeux et Engie (énergie), avec une éventuelle action de référence ; EDF, les transports et les autoroutes ne sont pas mentionnés."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Seul ce goût immodéré pour les idéologies a pu nous amener à défendre des trouvailles aussi saugrenues que l’industrie sans usine, le principe de précaution dans un monde en plein bouleversement, le retour à la retraite à 60 ans quand notre démographie commençait à donner des signes de faiblesse",
+          "page": "27",
+          "note": "Range le retour à la retraite à 60 ans parmi les « trouvailles aussi saugrenues » et propose ailleurs un âge de référence de 65 ans."
+        },
+        {
+          "questionId": "tra-06",
+          "value": 1,
+          "quote": "Nous payons les 35 heures.",
+          "page": "11",
+          "inferred": true,
+          "note": "Présente les 35 heures comme un coût pour le pays, sans proposer de mesure précise sur la durée légale du travail."
+        },
+        {
+          "questionId": "tra-10",
+          "value": -1,
+          "quote": "Nous devons rompre avec cette idée fausse, que nous pourrions travailler moins et gagner plus ; nous devons défendre cette idée juste, que la libération des forces de travail fera notre prospérité.",
+          "page": "37",
+          "inferred": true,
+          "note": "Rejette l'idée de « travailler moins et gagner plus » ; la semaine de 4 jours et les 32 heures ne sont pas citées."
+        },
+        {
+          "questionId": "soc-02",
+          "value": -1,
+          "quote": "récompenser le travail et stopper toute aide à ceux qui ne travaillent pas par choix",
+          "page": "44",
+          "inferred": true,
+          "note": "Déduit de la volonté de « stopper toute aide à ceux qui ne travaillent pas par choix », qui exclut un revenu versé à tous sans condition ; le revenu universel n'est pas nommé."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 1,
+          "quote": "Les prestations pour les étrangers en situation irrégulière sur notre territoire seront réduites au strict nécessaire.",
+          "page": "41",
+          "inferred": true,
+          "note": "L'AME n'est pas nommée, mais les prestations aux étrangers en situation irrégulière seraient « réduites au strict nécessaire »."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "Chaque service public ou ministère devra choisir un ou deux sujets stratégiques sur lequel il sera jugé sous deux ans : la réduction des délais d’attente aux urgences des hôpitaux pour le ministère de la Santé, la réduction des fraudes sociales pour le ministère des Finances",
+          "page": "46",
+          "note": "Fait de la réduction des fraudes sociales un objectif prioritaire du ministère des Finances, sans parler de carte Vitale biométrique."
+        },
+        {
+          "questionId": "san-03",
+          "value": -2,
+          "quote": "La solidarité nationale garantira la protection totale contre les risques de santé les plus graves, les autres seront du ressort des mutuelles : l’État prendra soin des personnes atteintes du cancer ou de la maladie d’Alzheimer, il ne remboursera plus le Doliprane",
+          "page": "40",
+          "note": "Limite la prise en charge publique aux risques de santé les plus graves et renvoie les autres aux mutuelles, à l'opposé d'un remboursement à 100 %."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Les rémunérations des enseignants seront revalorisées. Les enseignants retrouveront la place qui a toujours été la leur dans la République et qu’ils n’auraient jamais dû perdre : la première.",
+          "page": "47",
+          "note": "Annonce une revalorisation sans montant ni priorité sur les autres dépenses éducatives ; un autre passage la cible sur les enseignants « les plus méritants »."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "L’an I d’une autre France, nous lancerons la mise en chantier de 6 nouveaux EPR en plus des nouvelles tranches déjà décidées.",
+          "page": "46",
+          "note": "Six nouveaux EPR en plus des tranches déjà décidées."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Il défendra l’énergie nucléaire, refusera toute limite au déploiement de nouvelles capacités nucléaires souveraines",
+          "page": "52",
+          "note": "Refuse toute limite aux nouvelles capacités nucléaires et range ailleurs (p. 27) la sortie du nucléaire parmi les « trouvailles aussi saugrenues »."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 1,
+          "quote": "les exigences en matière de ressources financières, de diplôme et de maîtrise de notre langue seront donc renforcées pour les personnes qui aspirent à venir sur notre sol.",
+          "page": "41",
+          "inferred": true,
+          "note": "Le regroupement familial n'est pas nommé, mais les conditions de ressources, de diplôme et de langue seraient durcies pour toute personne voulant venir en France."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "Les règles du droit d’asile, qui fait l’honneur de la France quand il garantit la protection de la patrie des droits de l’Homme à des hommes et des femmes réellement menacés dans leur pays, mais sa faiblesse quand il est attribué sans raison, seront renforcées.",
+          "page": "41",
+          "inferred": true,
+          "note": "Déduit du durcissement proposé des règles de l'asile, qui resterait accordé aux personnes « réellement menacées » ; les voies d'accès légales ne sont pas abordées."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Ces lois garantiront la stabilité des investissements sur le long terme dans des secteurs prioritaires : les équipements et les personnels de nos forces armées et de sécurité civile, les places de prison, les places dans les centres de rétention administrative",
+          "page": "40",
+          "note": "Les places de prison figurent dans une loi de programmation sur dix ans, sans nombre de places."
+        },
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "Elles pourront lever l’impôt, elles pourront fixer les taux, elles pourront prononcer des sanctions directes contre les auteurs des actes de petite délinquance, sans accord préalable du procureur ou de la gendarmerie.",
+          "page": "42",
+          "inferred": true,
+          "note": "Les communes pourraient sanctionner directement la petite délinquance sans accord du procureur ; l'armement des policiers municipaux n'est pas abordé."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Le peuple pourra disposer, au niveau local comme au niveau national, du pouvoir de convoquer un référendum.",
+          "page": "41",
+          "note": "Référendum d'initiative populaire local et national à seuil abaissé, sous contrôle du Conseil constitutionnel ; le sigle « RIC » n'est pas employé."
+        },
+        {
+          "questionId": "ins-06",
+          "value": -1,
+          "quote": "L’an I d’une autre France, la règle de la limitation à deux du nombre de mandats successifs, directement inspirée de la Constitution des Etats-Unis, sera donc supprimée.",
+          "page": "38",
+          "note": "Veut au contraire supprimer la limite de deux mandats présidentiels successifs ; la durée du mandat n'est pas abordée."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "L’an I d’une autre France, le référendum sera étendu à de nouveaux champs.",
+          "page": "41",
+          "note": "Étend le référendum à « de nouveaux champs » non précisés ; les questions de société ne sont pas citées."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "La France ne doit plus avoir que trois échelons de décision : l’État, la région et le bloc communal.",
+          "page": "42",
+          "note": "Trois échelons ; le même passage prévoit que les départements fusionnent avec les régions."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "La Fédération d’États nations restera membre de l’Union européenne à 27 mais elle disposera du poids politique pour imposer ses vues.",
+          "page": "51",
+          "note": "La Fédération d'États nations à 6 qu'il propose, dont la France ferait partie, resterait dans l'Union européenne."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Vladimir Poutine ne cèdera que devant la résistance héroïque du peuple ukrainien, armé par les Européens et les Américains.",
+          "page": "53",
+          "inferred": true,
+          "note": "Soutient l'armement de l'Ukraine par les Européens ; la durée du soutien et les armes de longue portée ne sont pas abordées."
+        },
+        {
+          "questionId": "def-02",
+          "value": 1,
+          "quote": "Seul le prochain président de la République pourra poursuivre la discussion sur la dissuasion nucléaire élargie.",
+          "page": "53",
+          "inferred": true,
+          "note": "Veut que le prochain président poursuive la discussion sur la dissuasion élargie, sans engagement précis sur son extension."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Il ne faut pas simplifier en France, il faut désétatiser la France. L’an I d’une autre France, les codes du travail, de l’environnement, de la construction et de l’habitation seront réécrits.",
+          "page": "45",
+          "note": "Réécriture du code de la construction et de l'habitation pour « désétatiser » ; la partie logement (p. 48-49) prévoit aussi de trier les normes de construction pour « construire plus vite »."
+        },
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "les semi-conducteurs, les centres de données, les supercalculateurs, les centrales nucléaires, les infrastructures hydroélectriques, les retenues d’eau notamment.",
+          "page": "40",
+          "note": "Les centres de données et supercalculateurs figurent parmi les secteurs d'une loi de programmation sur dix ans ; aucune simplification propre à ces infrastructures n'est précisée."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 1,
+          "quote": "la priorisation des dossiers de violences aux femmes ou aux mineurs pour le ministère de la Justice",
+          "page": "46",
+          "note": "La Justice traiterait en priorité les dossiers de violences faites aux femmes et aux mineurs, sans budget dédié ni juridictions spécialisées."
+        }
+      ]
+    }
+  ]
 }

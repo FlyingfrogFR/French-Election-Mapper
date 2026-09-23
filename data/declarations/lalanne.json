@@ -1,4 +1,157 @@
 {
   "candidateId": "lalanne",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "lalanne-2026-09-projet-2027",
+      "date": "2026-09-23",
+      "title": "Le Projet 2027 – Nos propositions pour redresser la France (site de campagne Dieudo Lalanne 2027)",
+      "sourceType": "programme",
+      "sourceUrl": "https://dieudolalanne2027.com/programme",
+      "publisher": "Campagne présidentielle de Francis Lalanne (dieudolalanne2027.com)",
+      "summary": "Page non datée, consultée le 2026-09-23 (une copie Wayback du 2026-09-20 montre déjà cette version). Le programme de campagne comporte neuf rubriques (Souveraineté, Paix, Liberté, Démocratie, Stop Impôts, Stop au business d'État, Sécurité, Terroir, International), dont la sortie de l'UE, de l'OTAN et de l'euro, le RIC en toutes matières avec une assemblée constituante, la fin des obligations médicales, la baisse des impôts et des taxes sur les carburants, ainsi que des nationalisations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Frexit organisé : Sortie de l'Union Européenne pour retrouver la maîtrise de nos lois et de nos frontières.",
+          "note": "Sortie de l'UE (« Frexit organisé ») proposée explicitement."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Sortie de l'OTAN : Retrouver notre indépendance militaire et diplomatique, refuser de participer aux guerres impérialistes.",
+          "note": "Sortie de l'OTAN proposée explicitement, pas seulement de son commandement intégré."
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "Souveraineté monétaire : Retour au Franc et reprise en main de la Banque de France.",
+          "note": "Retour au franc proposé explicitement."
+        },
+        {
+          "questionId": "eur-03",
+          "value": -2,
+          "quote": "Sortie de l'OTAN : Retrouver notre indépendance militaire et diplomatique, refuser de participer aux guerres impérialistes.",
+          "inferred": true,
+          "note": "Déduit de la sortie de l'UE et de l'OTAN visant à « retrouver notre indépendance militaire » ; la défense européenne commune n'est pas nommée."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 1,
+          "quote": "Frexit organisé : Sortie de l'Union Européenne pour retrouver la maîtrise de nos lois et de nos frontières.",
+          "inferred": true,
+          "note": "La primauté du droit national viendrait de la sortie de l'UE (« retrouver la maîtrise de nos lois ») ; aucune inscription dans la Constitution n'est proposée."
+        },
+        {
+          "questionId": "eur-12",
+          "value": 1,
+          "quote": "Frexit organisé : Sortie de l'Union Européenne pour retrouver la maîtrise de nos lois et de nos frontières.",
+          "inferred": true,
+          "note": "La sortie de l'UE vise à « retrouver la maîtrise de nos frontières », mais ni Schengen ni des contrôles permanents ne sont mentionnés."
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2,
+          "quote": "Frexit organisé : Sortie de l'Union Européenne pour retrouver la maîtrise de nos lois et de nos frontières.",
+          "inferred": true,
+          "note": "La sortie de l'UE et de l'euro affranchirait la France de toutes les règles européennes, y compris budgétaires, qui ne sont pas nommées."
+        },
+        {
+          "questionId": "eur-13",
+          "value": -2,
+          "quote": "Frexit organisé : Sortie de l'Union Européenne pour retrouver la maîtrise de nos lois et de nos frontières.",
+          "inferred": true,
+          "note": "La sortie de l'UE exclut toute ressource propre européenne, sujet qui n'est pas traité en tant que tel."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -1,
+          "quote": "Fin des subventions allouées à des pays en guerre pour soutenir un pays contre un autre.",
+          "inferred": true,
+          "note": "Le programme prévoit la fin de tout soutien financier à un pays en guerre contre un autre et, dans la même page, la « restauration de l’amitié franco-russe », sans nommer l'Ukraine ni les livraisons d'armes. (Force ramenée de -2 à -1 en relecture : Le signe est juste : la « fin des subventions allouées à des pays en guerre pour soutenir un pays contre un autre » s'applique au soutien à l'Ukraine. Mais la mesure est générale : elle ne nomme ni l'Ukraine ni les livraisons d'armes, et elle porte sur des « subventions », non sur le soutien militaire en nature. Le rejet explicite de l'affirmation n'est donc pas établi, et −1 déduit est la force qui convient. Les autres candidats ont −2 parce que leurs citations visent nommément l'Ukraine.)"
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "RIC (Référendum d'Initiative Citoyenne) : Inscription du RIC en toutes matières dans la Constitution.",
+          "note": "RIC en toutes matières inscrit dans la Constitution."
+        },
+        {
+          "questionId": "ins-01",
+          "value": 1,
+          "quote": "RIC (Référendum d'Initiative Citoyenne) : Inscription du RIC en toutes matières dans la Constitution. Création d’une assemblée constituante.",
+          "note": "Une assemblée constituante est explicitement proposée, mais l'expression « VIe République » n'est pas employée."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "RIC (Référendum d'Initiative Citoyenne) : Inscription du RIC en toutes matières dans la Constitution.",
+          "inferred": true,
+          "note": "Le RIC « en toutes matières » élargit le référendum à tous les sujets, sans viser explicitement l'article 11 ni les questions de société."
+        },
+        {
+          "questionId": "san-10",
+          "value": -2,
+          "quote": "Fin du pass et des obligations médicales : Interdiction constitutionnelle de toute discrimination basée sur le statut médical.",
+          "inferred": true,
+          "note": "La fin des « obligations médicales » exclut toute extension de l'obligation vaccinale, même si la vaccination n'est pas nommée."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 1,
+          "quote": "Liberté d'expression totale : Abrogation des lois liberticides qui musèlent le débat public.",
+          "inferred": true,
+          "note": "La mesure porte sur la liberté d'expression (« totale », abrogation des « lois liberticides ») ; le droit de manifestation et l'arbitrage avec la sécurité ne sont pas traités."
+        },
+        {
+          "questionId": "sec-07",
+          "value": -1,
+          "quote": "Refus du contrôle social, que ce soit par la facturation électronique, les obligations médicales, le flicage systématique des citoyens.",
+          "inferred": true,
+          "note": "Le programme refuse le « flicage systématique des citoyens », sans nommer la reconnaissance faciale ni la vidéosurveillance."
+        },
+        {
+          "questionId": "edu-09",
+          "value": -1,
+          "quote": "Les enfants doivent être éduqués par leur famille. L’État n’est là que pour les instruire.",
+          "inferred": true,
+          "note": "L'éducation des enfants est réservée à la famille et l'État cantonné à l'instruction, sans que l'éducation à la vie affective et sexuelle soit nommée."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Baisse radicale des impôts et surtout des taxes sur les carburants.",
+          "inferred": true,
+          "note": "Baisse des taxes sur les carburants demandée, mais ni la TVA à 5,5 % ni l'électricité et le gaz ne sont mentionnés."
+        },
+        {
+          "questionId": "tra-13",
+          "value": 1,
+          "quote": "Soutien aux TPE/PME et artisans : Baisse drastique des charges et fin de la concurrence déloyale des multinationales.",
+          "inferred": true,
+          "note": "La baisse des charges vise les TPE/PME et les artisans, pas spécialement les bas salaires."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 1,
+          "quote": "Restauration du Service public et récupération du Patrimoine National cédé à des entreprises privées.",
+          "inferred": true,
+          "note": "Le programme prévoit aussi la « Nationalisation des entreprises à vocation sociale et assurant un profit à l’État », sans nommer l'énergie, les transports ni les autoroutes."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "Renforcement de la sécurité par une augmentation des effectifs dédiés à la lutte contre la pédocriminalité et les trafics en tous genres.",
+          "inferred": true,
+          "note": "Le programme prévoit plus d'effectifs contre « les trafics en tous genres », sans nommer le narcotrafic, un parquet dédié ou des prisons de haute sécurité."
+        }
+      ]
+    }
+  ]
 }

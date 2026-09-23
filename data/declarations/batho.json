@@ -2,6 +2,145 @@
   "candidateId": "batho",
   "declarations": [
     {
+      "id": "batho-2026-07-lettre-saisine-duplomb2",
+      "date": "2026-07-30",
+      "title": "Lettre d'information de campagne du 30 juillet 2026 : mégafeux, sécurité civile, saisine du Conseil constitutionnel sur la loi Duplomb 2",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.delphinebatho.fr/newsletter/752-2/",
+      "publisher": "Delphine Batho (site de campagne delphinebatho.fr)",
+      "summary": "Dans sa lettre d'information datée du 30 juillet 2026 (« 26/07/30 »), Delphine Batho appelle à l'entraide face aux mégafeux et plaide pour une loi de programmation de la sécurité civile. Elle indique aussi faire partie des députés qui ont saisi le Conseil constitutionnel sur la loi « d'urgence agricole », recours qui porte aussi sur la réautorisation des néonicotinoïdes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Je fais partie des députés qui ont saisi le Conseil constitutionnel sur la loi dite « d’urgence agricole » qui piétine des principes fondamentaux de la gouvernance de l’eau qui est un bien commun. Bien sûr, le recours porte aussi sur la réautorisation du poison des pesticides néonicotinoïdes.",
+          "note": "Confirme le −2 du communiqué du parti du 3 avril 2026, cette fois dans un texte de la candidate elle-même : elle indique avoir saisi le Conseil constitutionnel, notamment contre la réautorisation des néonicotinoïdes."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-duplomb2-adoption",
+      "date": "2026-07-21",
+      "title": "Loi Duplomb 2 : on s'en souviendra en 2027 !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.generationecologie.fr/2026/07/21/loi-duplomb-2-on-sen-souviendra-en-2027/",
+      "publisher": "Génération Écologie",
+      "summary": "Réaction de Génération Écologie, sans signature individuelle, à l'adoption de la loi Duplomb 2 par l'Assemblée nationale le 20 juillet 2026. Le texte appelle à changer de modèle agricole et à élire en 2027 une présidence, un gouvernement et un Parlement qui protègent la santé publique et le vivant.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Une majorité de députés ont approuvé une loi agricole obscurantiste, qui autorise le poison des néonicotinoïdes, massacre l’eau, la santé, l’avenir de l’agriculture et de la ruralité.",
+          "note": "Réaction du parti sans signature individuelle, qui condamne la réautorisation des néonicotinoïdes. Valeur inchangée par rapport au communiqué du 3 avril 2026."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-vote-reseaux-sociaux",
+      "date": "2026-07-21",
+      "title": "Scrutin public n°8431 — proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho figure nommément dans la liste « Pour » du groupe Écologiste et Social (19 pour, 7 contre, 7 abstentions). Le texte définitif (T.A. n° 339) a été adopté par 279 voix contre 81 le 21 juillet 2026. Son article 1er interdisait l'accès aux réseaux sociaux aux mineurs de quinze ans ; son article 3 étend aux lycées l'interdiction du téléphone portable. L'article 1er a été déclaré contraire à la Constitution par la décision n° 2026-911 DC du 14 août 2026 ; la loi n° 2026-813 a été promulguée le 24 août 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "note": "Vote personnel « Pour ». L'article 1er du texte définitif (T.A. n° 339) dispose : « L’accès à un service de réseaux sociaux en ligne fourni par une plateforme en ligne est interdit aux mineurs de quinze ans. »"
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-vote-aide-a-mourir",
+      "date": "2026-07-15",
+      "title": "Scrutin public n°8280 — proposition de loi relative au droit à l'aide à mourir (lecture définitive)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho figure nommément dans la liste « Pour » du groupe Écologiste et Social (33 pour, 2 contre, 1 abstention). La proposition de loi a été adoptée en lecture définitive par 291 voix contre 241 le 15 juillet 2026. Elle avait aussi voté « Pour » en nouvelle lecture le 30 juin 2026 (scrutin n°7894).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+          "note": "Vote personnel « Pour » en lecture définitive (15 juillet 2026), après un vote « Pour » en nouvelle lecture le 30 juin 2026 (scrutin n°7894)."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-07-vote-lpm",
+      "date": "2026-07-01",
+      "title": "Scrutin public n°7905 — projet de loi actualisant la programmation militaire pour les années 2024 à 2030 (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho est la seule députée du groupe Écologiste et Social inscrite « Pour » (1 pour, 36 contre, 1 abstention). Texte adopté par 375 voix contre 113 le 1er juillet 2026 (T.A. n° 325, loi n° 2026-791 du 16 août 2026). Son article 1er approuve un rapport annexé qui fixe l'objectif de porter l'effort national de défense de 2 % du PIB en 2025 à 2,5 % au minimum en 2030, avec l'objectif d'atteindre 3,5 % à l'horizon 2035.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Scrutin public n°7905 sur l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
+          "inferred": true,
+          "note": "Remplace le +1 déduit du communiqué du 5 mars 2025, sans changement de valeur : vote « Pour » sur un texte qui programme 2,5 % du PIB au minimum en 2030 et pose un « objectif d'atteindre 3,5 % à l'horizon 2035 ». Ce dernier objectif dépasse la période programmée, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "batho-2026-06-vote-corse",
+      "date": "2026-06-23",
+      "title": "Scrutin public n°7454 — projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "publisher": "Assemblée nationale",
+      "summary": "Delphine Batho figure nommément dans la liste « Pour » du groupe Écologiste et Social (27 pour, 5 contre, 4 abstentions). Le projet de loi constitutionnelle, qui insère dans la Constitution un article 72-5 dotant la Corse d'un « statut d'autonomie au sein de la République », a été adopté en première lecture par 271 voix contre 202 le 23 juin 2026 (T.A. n° 318).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-12",
+          "value": 1,
+          "quote": "Scrutin public n°7454 sur l'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
+          "note": "Vote personnel « Pour » sur l'ensemble du projet de loi constitutionnelle. Le texte ne concerne que la Corse et non d'autres territoires : position partielle, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "batho-ge-budget-2025",
       "date": "2025-07-16",
       "title": "Budget : le moment de cécité",

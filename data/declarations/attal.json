@@ -2,6 +2,156 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-09-bfm-carburant",
+      "date": "2026-09-21",
+      "title": "Gabriel Attal sur BFM TV : « Le plus juste, c’est d’accompagner ceux qui travaillent »",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-le-plus-juste-c-est-d-accompagner-ceux-qui-travaillent",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié par la campagne, de l’entretien du 21 septembre 2026 sur BFM TV. Face à la hausse des prix du carburant, il privilégie des aides ciblées plutôt qu’une baisse généralisée des taxes. Il y parle aussi du soutien à l’Ukraine et du projet d’États-Unis d’Europe.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": -1,
+          "quote": "Les aides non ciblées, comme la baisse généralisée des taxes, ne sont pas des mesures de justice sociale. C’est favoriser les plus riches au détriment de ceux qui ont de faibles revenus et ont besoin de leur voiture pour aller travailler.",
+          "inferred": true,
+          "note": "Déduite : face à la hausse des carburants, il écarte la baisse généralisée des taxes au profit d’aides ciblées ; la TVA à 5,5 % n’est pas nommée et seuls les carburants sont évoqués, d’où −1."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-09-reims-europe",
+      "date": "2026-09-17",
+      "title": "Discours de Reims : « Bâtir les États-Unis d’Europe »",
+      "sourceType": "discours",
+      "sourceUrl": "https://doc.parti.re/2026/Discours_Europe.pdf",
+      "publisher": "attalpresident.fr (texte du discours publié en PDF sur doc.parti.re)",
+      "summary": "Discours de Gabriel Attal à Reims, le 17 septembre 2026. Il propose de constituer avec un noyau dur de pays européens des « États-Unis d’Europe » : fusion économique, technologique et écologique, douze grands projets, ressources et dette communes, président élu au suffrage universel et référendum européen.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 1,
+          "quote": "Les normes économiques et agricoles seront, elles aussi, harmonisées, afin d’en finir avec la concurrence déloyale et la surtransposition, qui ont conduit à l’érosion de notre souveraineté alimentaire.",
+          "page": "15",
+          "note": "La fin de la surtransposition est visée explicitement, mais par une harmonisation des normes entre les pays du noyau dur des « États-Unis d’Europe », d’où +1."
+        },
+        {
+          "questionId": "def-02",
+          "value": 2,
+          "quote": "La dissuasion française restera française, bien sûr. Et nous renforcerons même notre place, en devenant le nouveau parapluie nucléaire européen.",
+          "page": "20",
+          "note": "Même valeur que la déclaration d’Eurosatory : la France deviendrait le « parapluie nucléaire européen », la dissuasion restant française."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Et face à ce blocage, il n’y a que deux choix politiques possibles : le vieux cauchemar du Frexit ou un rêve nouveau, un rêve atteignable, un rêve que je suis venu porter devant vous aujourd’hui : préparer les États-Unis d’Europe.",
+          "page": "10",
+          "note": "Il qualifie le Frexit de « vieux cauchemar » et lui oppose une intégration européenne renforcée."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-09-franceinfo",
+      "date": "2026-09-09",
+      "title": "Gabriel Attal veut remettre l’exigence au cœur de l’École et transformer le modèle français sur France Info",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-veut-remettre-l-exigence-au-coeur-de-l-ecole-et-transformer-le-modele-francais-sur-france-info",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié par la campagne, de l’entretien du 8h30 de France Info. Thèmes : École (groupes de niveau, obtention du brevet obligatoire pour accéder directement au lycée, certificat d’études) ; référendum sur l’interdiction des réseaux sociaux avant 15 ans ; retraites fondées sur la durée de cotisation avec une part de capitalisation ; rapprochement du salaire net et du brut ; laïcité à l’École.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Sur les retraites, Gabriel Attal refuse de poursuivre la logique consistant à repousser régulièrement l’âge légal de départ.",
+          "note": "Précise le −1 déduit du programme, dans la même orientation : le refus de repousser encore l’âge légal est ici explicite, le système proposé reposant sur la durée de cotisation."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Il souhaite également élargir les dispositifs de capitalisation existants pour permettre à tout le monde de bénéficier d’une part de capitalisation.",
+          "note": "Une part de capitalisation pour tous, par l’élargissement des dispositifs existants ; même valeur que la déclaration de la REF."
+        },
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Après avoir porté une interdiction des réseaux sociaux pour les moins de 15 ans, il souhaite désormais soumettre directement cette question aux Français par référendum afin de permettre l’entrée en vigueur de cette mesure",
+          "note": "Il maintient l’interdiction des réseaux sociaux avant 15 ans, qu’il propose désormais de faire adopter par référendum."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-09-bfm-modele",
+      "date": "2026-09-06",
+      "title": "BFM TV : Gabriel Attal veut changer de modèle pour redonner de la puissance à la France",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié par la campagne, de l’entretien sur BFM TV (100 % Politique). Thèmes : priorité à l’immigration de travail, quotas votés par le Parlement et durcissement du regroupement familial ; soutien supplémentaire à l’Ukraine financé par les avoirs russes gelés ; laïcité sans interdiction générale du voile pour les femmes adultes ; réforme des institutions.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "Interrogé sur le voile, Gabriel Attal a réaffirmé sa conception de la laïcité : garantir à chacun la liberté de croire ou de ne pas croire, sans instaurer d’interdiction générale du voile pour les femmes adultes.",
+          "inferred": true,
+          "note": "Déduite : refuser une interdiction générale du voile pour les femmes adultes exclut d’interdire les signes religieux ostensibles dans l’espace public. Même valeur que le document Renaissance de 2025, ici exprimée par le candidat."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Il défend donc un changement de modèle avec une priorité donnée à l’immigration de travail et un durcissement des conditions du regroupement familial.",
+          "note": "Il propose explicitement de durcir les conditions du regroupement familial ; même valeur que le programme."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-09-france2-ecole",
+      "date": "2026-09-01",
+      "title": "France 2 : Gabriel Attal fait de l’École une priorité pour préparer l’avenir du pays",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/france-2-gabriel-attal-fait-de-l-ecole-une-priorite-pour-preparer-l-avenir-du-pays",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié par la campagne, de l’entretien au JT de 20 h de France 2 à la rentrée scolaire. Mesures annoncées : hausse de 200 à 500 euros nets par mois pour les enseignants, remplacement des professeurs absents, création d’un corps professionnel pour les AESH et baisse du nombre d’élèves par classe.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Il propose une augmentation de 200 euros nets par mois pour tous les enseignants , pouvant atteindre 500 euros nets pour les enseignants en milieu de carrière",
+          "note": "Même mesure que dans l’entretien au Monde du 25 août : +200 € nets pour tous les enseignants, jusqu’à +500 € en milieu de carrière."
+        }
+      ]
+    },
+    {
       "id": "attal-ap-dette",
       "date": "2026-01-01",
       "title": "Dette à résorber — 01 Dette de l'État",

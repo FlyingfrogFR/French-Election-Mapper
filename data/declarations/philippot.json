@@ -2,6 +2,42 @@
   "candidateId": "philippot",
   "declarations": [
     {
+      "id": "philippot-2026-09-appel-paix",
+      "date": "2026-09-02",
+      "title": "Appel national pour la Paix !",
+      "sourceType": "communique",
+      "sourceUrl": "https://les-patriotes.fr/appel-national-pour-la-paix/",
+      "publisher": "Les Patriotes (site officiel du parti)",
+      "summary": "Pétition publiée par Les Patriotes, le parti présidé par Florian Philippot. Elle demande l'arrêt immédiat de tout soutien financier et militaire français à la guerre en Ukraine, ainsi que la sortie de l'UE et de l'OTAN. La page n'affiche pas de date : le 2 septembre 2026 vient des métadonnées de publication WordPress du site (API REST, 2026-09-02T10:10:35), ce qui concorde avec le texte, qui cite une décision du 1er septembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "L’Appel national pour la Paix demande l’arrêt immédiat de tout soutien financier et militaire français à cette guerre.",
+          "note": "Position du parti dont le candidat est le président et dont il ne s'est pas démarqué. La valeur est la même (−2) que dans le projet du 2026-09-03 : ce projet est plus récent et reste la source actuelle."
+        },
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Et l’engagement d’une sortie de l’UE et de l’OTAN pour que la France, libérée des faucons, puisse enfin défendre ses intérêts nationaux librement et choisir la Paix !",
+          "note": "Position du parti présidé par le candidat : la sortie de l'UE est demandée explicitement. La valeur est la même (−2) que dans le projet du 2026-09-03, plus récent, qui reste la source actuelle."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Et l’engagement d’une sortie de l’UE et de l’OTAN pour que la France, libérée des faucons, puisse enfin défendre ses intérêts nationaux librement et choisir la Paix !",
+          "inferred": true,
+          "note": "Déduite : la sortie de l'OTAN qui est demandée exclut de rester dans son commandement intégré. La valeur est la même (−2) que dans le projet du 2026-09-03, plus récent, qui reste la source actuelle."
+        }
+      ]
+    },
+    {
       "id": "philippot-lp-projet-2026",
       "date": "2026-09-03",
       "title": "Grandes orientations pour un projet patriote – Les Patriotes, édition 2026-2027 (+ Le Frexit en 10 questions)",

@@ -2,6 +2,94 @@
   "candidateId": "le-pen",
   "declarations": [
     {
+      "id": "le-pen-2026-09-petition-logement",
+      "date": "2026-09-23",
+      "title": "Pétition « Logement : avec Marine Le Pen, appliquons la priorité nationale »",
+      "sourceType": "autre",
+      "sourceUrl": "https://rassemblementnational.fr/petition/logement-avec-marine-le-pen-appliquons-la-priorite-nationale",
+      "publisher": "Rassemblement National",
+      "summary": "Pétition du Rassemblement national publiée sur son site sous le titre « Logement : avec Marine Le Pen, appliquons la priorité nationale ». Elle demande l'abrogation de la loi SRU et des amendes prévues pour les communes, l'instauration de la priorité nationale dans l'accès au logement social et la priorité d'accès au logement étudiant pour les jeunes Français. La page n'est pas datée : la date retenue est celle de la consultation (l'image de partage de la page est datée du 15 septembre 2026 et le lien de la page d'accueil porte le marqueur « septembre26 »).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-02",
+          "value": -2,
+          "quote": "abrogation pure et simple de la loi SRU et des amendes infligées aux communes",
+          "note": "Position du Rassemblement national, exprimée dans une pétition publiée au nom de Marine Le Pen, candidate désignée du parti, qui ne s'en est pas démarquée ; l'abrogation de la loi SRU est explicitement demandée."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-09-immobilier",
+      "date": "2026-09-21",
+      "title": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier",
+      "sourceType": "tribune",
+      "sourceUrl": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "publisher": "Rassemblement National",
+      "summary": "Lettre ouverte signée par Marine Le Pen, « candidate à l'élection présidentielle de 2027 », qui présente son plan pour le logement. Elle prévoit un allègement des normes de construction, l'abrogation de la loi SRU, la suppression du ZAN, un prêt à taux zéro pour la rénovation (« 100 % Renov »), des mesures d'accession à la propriété, une exonération de plus-value immobilière après quinze ans et la protection contre les squats.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-02",
+          "value": -2,
+          "quote": "Nous abrogerons la loi SRU et redonnerons aux maires la liberté de décider pour leur commune.",
+          "note": "Abrogation explicite de la loi SRU, que la lettre complète plus loin par « Nous l’abrogerons purement et simplement »; aucune position n'était enregistrée jusqu'ici sur cette affirmation."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Les normes qui ne sont pas indispensables seront supprimées ou simplifiées. Les délais administratifs seront réduits. Les procédures seront rendues plus lisibles et plus rapides.",
+          "note": "Remplace +1 du programme des européennes 2024, qui ne visait que les normes de rénovation énergétique : sous le titre « Nous libérerons l’acte de construire », la lettre propose explicitement de supprimer ou simplifier les normes de construction et de réduire les délais."
+        },
+        {
+          "questionId": "log-04",
+          "value": -2,
+          "quote": "Nous supprimerons le ZAN et rendrons aux communes, en particulier aux communes rurales, la maîtrise de leur foncier.",
+          "note": "Remplace +1 (déduite) du livret écologie de 2022, qui prévoyait la compensation de l'artificialisation : la lettre annonce la suppression du ZAN « sans que cela n’empêche de continuer à préserver les terres agricoles »."
+        },
+        {
+          "questionId": "log-09",
+          "value": 1,
+          "quote": "Acquérir, investir, transmettre un logement ne doit plus être considéré comme un casse-tête mais comme un droit reconnu, encouragé, accompagné. Les exonérations de plus-value seront ramenées à quinze ans.",
+          "inferred": true,
+          "note": "Mesure voisine et partielle : la durée de détention ouvrant droit à l'exonération de plus-value immobilière passe à quinze ans, dans une section intitulée « Nous encouragerons l’investissement immobilier ». Rien de ciblé sur l'imposition des revenus locatifs. Même valeur que le manifeste de 2022."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-09-buralistes",
+      "date": "2026-09-07",
+      "title": "Lettre ouverte de Marine Le Pen aux buralistes de France",
+      "sourceType": "tribune",
+      "sourceUrl": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-buralistes-de-france",
+      "publisher": "Rassemblement National",
+      "summary": "Lettre ouverte signée par Marine Le Pen, candidate à l'élection présidentielle de 2027, qui prend quatre engagements. Elle propose le gel du prix du tabac et la fin de son indexation sur l'inflation, des sanctions plus lourdes contre la contrebande, davantage de prérogatives pour les policiers municipaux, et d'associer les buralistes aux règles sur la vape et les nouveaux produits.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "Je défends également un renforcement des prérogatives des policiers municipaux afin que, dans chaque ville, ils puissent mieux constater les infractions, participer aux saisies de produits illicites",
+          "note": "Mesure partielle : davantage de prérogatives pour les policiers municipaux (constatation des infractions, participation aux saisies), mais pas d'armement systématique. Sur les pouvoirs, le texte est plus précis que le livret sécurité de 2022 ; la valeur ne change pas."
+        }
+      ]
+    },
+    {
       "id": "le-pen-2026-07-candidature",
       "date": "2026-07-07",
       "title": "Confirmation de candidature après l'arrêt de la cour d'appel de Paris",

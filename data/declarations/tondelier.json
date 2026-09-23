@@ -2,6 +2,99 @@
   "candidateId": "tondelier",
   "declarations": [
     {
+      "id": "tondelier-2026-09-enfance",
+      "date": "2026-09-17",
+      "title": "Livret thématique « Pour un pays à hauteur d'enfants »",
+      "sourceType": "programme",
+      "sourceUrl": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "publisher": "Marine Tondelier / Les Écologistes (campagne de Marine Tondelier)",
+      "summary": "Livret thématique de la campagne de Marine Tondelier (édito cosigné avec Arnaud Bonnet, Jean-Baptiste Pegeon et Anne-Claire Boux), présenté le 17 septembre 2026 à Arcueil. Il traite de la protection des enfants contre les violences, de la justice des mineurs, de l'aide sociale à l'enfance, de la santé et de la place des enfants dans la décision publique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-06",
+          "value": -2,
+          "quote": "Porter l’âge de la responsabilité pénale à 14 ans, sans dérogation possible et en préservant l’excuse de minorité ainsi que le principe constitutionnel d’une justice adaptée aux enfants.",
+          "page": "19",
+          "note": "Le livret rejette explicitement la remise en cause de l'excuse de minorité (« en préservant l’excuse de minorité »). C'est plus précis que la citation du programme, et la valeur est la même."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Adopter une loi intégrale pour lutter contre les violences sexistes et sexuelles incluant les violences sexuelles sur mineur·es dotée de 3 milliards d’euros.",
+          "page": "18",
+          "note": "Le livret prévoit aussi une juridiction et des magistrat·es spécialisé·es sur les violences sexistes et sexuelles dans chaque tribunal judiciaire (p. 23). Même valeur que le programme."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "+9000 postes de magistrats, 10 000 greffiers et 7000 attaché·es de justice sur 10 ans.",
+          "page": "23",
+          "note": "+1 : hausse importante des moyens humains de la justice sur dix ans, sans engagement de doublement du budget en cinq ans. Mesure identique à celle du programme."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 2,
+          "quote": "avec un minima social accessible à toutes les personnes indépendantes fiscalement dès 18 ans",
+          "page": "21",
+          "note": "Minimum social ouvert dès 18 ans aux personnes fiscalement indépendantes. Le programme en fait la « garantie d'autonomie » qui remplace le RSA. Même valeur."
+        }
+      ]
+    },
+    {
+      "id": "tondelier-2026-09-littoraux",
+      "date": "2026-09-14",
+      "title": "Livret thématique « Des littoraux à vivre, à protéger et à transmettre »",
+      "sourceType": "programme",
+      "sourceUrl": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+      "publisher": "Marine Tondelier / Les Écologistes (campagne de Marine Tondelier)",
+      "summary": "Livret thématique de la campagne de Marine Tondelier (édito cosigné avec le député Damien Girard), présenté le 14 septembre 2026 à Wissant. Il traite du logement sur le littoral, de la pêche, de l'économie maritime, de l'adaptation au recul du trait de côte et de la protection des écosystèmes côtiers.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Maintenir les objectifs intermédiaires de réduction de l’artificialisation et du ZAN : l’adaptation ne peut servir de prétexte à reprendre une artificialisation qui fragilise précisément les capacités de résilience des territoires.",
+          "page": "19",
+          "note": "Maintien explicite de l'objectif ZAN. Même valeur que le programme de juillet 2026, qui propose de renforcer cette trajectoire."
+        }
+      ]
+    },
+    {
+      "id": "tondelier-2026-09-sante-reproductive",
+      "date": "2026-09-09",
+      "title": "Livret thématique « Prendre soin de notre santé reproductive »",
+      "sourceType": "programme",
+      "sourceUrl": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+      "publisher": "Marine Tondelier / Les Écologistes (campagne de Marine Tondelier)",
+      "summary": "Livret thématique de la campagne de Marine Tondelier (édito signé avec Anne Souyris, Majdouline Sbaï et Marion-Emi Alix), présenté le 9 septembre 2026. Il porte sur la santé reproductive : expositions environnementales, EVARS, IVG, AMP, post-partum et ménopause.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "Garantir partout une EVARS (Éducation à la vie affective, relationnelle et à la sexualité) réellement effective, avec des heures banalisées dans les emplois du temps, un budget dédié et un cadre national commun à tous les établissements.",
+          "page": "8",
+          "note": "Mesure phare du livret. Même valeur que le programme de juillet 2026, avec une formulation au moins aussi précise (cadre national commun à tous les établissements)."
+        }
+      ]
+    },
+    {
       "id": "tondelier-2025-12-designation",
       "date": "2025-12-08",
       "title": "Désignation par les adhérents des Écologistes (86 %)",

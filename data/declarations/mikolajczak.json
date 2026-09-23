@@ -1,4 +1,113 @@
 {
   "candidateId": "mikolajczak",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "mikolajczak-2026-09-fret",
+      "date": "2026-09-20",
+      "title": "Remettre le fret sur de bons rails",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/remettre-le-fret-sur-de-bons-rails/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur le fret ferroviaire. Il présente de « premières pistes de mesures » : maintien des aides au wagon isolé, modernisation des infrastructures, suppression progressive des exemptions fiscales sur les carburants, écotaxe sur le fret routier longue distance, obligation du rail pour certaines marchandises et corridors dédiés au fret.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-08",
+          "value": 1,
+          "quote": "Supprimer progressivement les exemptions fiscales sur les carburants.",
+          "note": "Mesure partielle : suppression progressive d'une catégorie d'avantages fiscaux (le texte vise le remboursement des taxes sur le carburant dont bénéficie le transport routier), présentée parmi de « premières pistes ». Pas de position générale sur les niches fiscales. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-09-energie",
+      "date": "2026-09-17",
+      "title": "Sobriété, Nucléaire, Renouvelables",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/sobriete-nucleaire-renouvelables/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur le mix énergétique. Il défend la sobriété, une électrification massive et une hausse de la production électrique bas-carbone combinant énergies renouvelables, nucléaire historique et nouveau nucléaire, et annonce un cahier thématique sur l'énergie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "La France est quasi seule à produire plus de 50 % de son électricité en nucléaire. C'est une force, et ça doit le rester.",
+          "inferred": true,
+          "note": "Position déduite : le texte défend le maintien de plus de 50 % de nucléaire, la prolongation des centrales et le « nouveau nucléaire », ce qui exclut une sortie progressive, sans que celle-ci soit nommée. Position du parti, dont il est le candidat désigné."
+        },
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Diversifié : utiliser au mieux nos ressources locales (dont le vent et le soleil)",
+          "inferred": true,
+          "note": "Position déduite (orientation) : le parti veut augmenter la production renouvelable et « utiliser au mieux » le vent, ce qui va à l'encontre d'un moratoire sur les nouveaux parcs éoliens. Le moratoire n'est pas évoqué. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-09-lien-social",
+      "date": "2026-09-14",
+      "title": "Renouer avec le lien social",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/renouer-avec-le-lien-social/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur l'isolement social. Il propose la prescription sociale, la valorisation du bénévolat, du service civique et du volontariat, des campagnes de sensibilisation, un encadrement des fonctionnalités addictives des plateformes numériques et un moratoire sur l'usage des compagnons IA par les mineurs.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Il faut aussi encadrer les fonctionnalités nocives des plateformes numériques : Obliger les plateformes à prouver qu’elles ne créent pas de mécanismes addictifs avant de mettre un nouveau service sur le marché.",
+          "note": "Mesure partielle : régulation renforcée des plateformes (preuve de l'absence de mécanismes addictifs). Le texte n'évoque ni taxation ni action nationale si l'UE n'agit pas. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-07-voiture",
+      "date": "2026-07-17",
+      "title": "La voiture électrique la plus vendue est française !",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/la-voiture-la-plus-vendue-est-francaise/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur la Renault 5 électrique et la mobilité (« l'électrique oui, mais pas seulement »). Il avance quatre propositions : protéger les constructeurs contre le dumping, développer massivement les transports en commun en misant sur le train, simplifier les normes qui pèsent sur l'industrie et pérenniser le leasing social.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Développer massivement les transports en commun accessibles, en mettant l'accent sur le train et la préservation des petites lignes.",
+          "inferred": true,
+          "note": "Orientation : développement « massif » des transports en commun centré sur le train, sans montant chiffré ni mention de la dette publique. Position du parti Équinoxe, dont Antoine Mikolajczak est le candidat désigné depuis avril 2026."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Protéger nos constructeurs face au dumping étranger et à la concurrence déloyale.",
+          "inferred": true,
+          "note": "Position déduite, mesure partielle : protection commerciale des constructeurs automobiles au nom de la « souveraineté industrielle ». Le texte ne parle ni d'aides publiques ciblées ni d'un coût accepté. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    }
+  ]
 }

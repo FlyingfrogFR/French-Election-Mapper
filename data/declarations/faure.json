@@ -2,6 +2,37 @@
   "candidateId": "faure",
   "declarations": [
     {
+      "id": "faure-2026-09-tract",
+      "date": "2026-09-15",
+      "title": "Tract de campagne « Avec Olivier Faure, faisons gagner la gauche en 2027 ! » (primaire Choisir 2027)",
+      "sourceType": "autre",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1a-VDGT9vyABfU0GGytVuY8aMZwlFpxxZ",
+      "publisher": "Campagne d'Olivier Faure (avecfaure2027.fr, kit militant, dossier « Tracts »)",
+      "summary": "Tract recto-verso de la campagne d'Olivier Faure pour la primaire « Choisir 2027 », déposé le 15 septembre 2026 dans le kit militant lié depuis avecfaure2027.fr (PDF créé le 11 septembre 2026). Il présente le candidat et trois séries de propositions : « Redresser la France ! », « Préparer demain ! » et « Vivre dignement ! ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "SMIC à 1690€ net",
+          "page": "2",
+          "note": "Même montant que le projet socialiste (1 690 € net) ; valeur inchangée, désormais aussi portée par un document de campagne du candidat."
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "généralisation de l’encadrement des loyers",
+          "page": "2",
+          "note": "Le tract propose de généraliser l'encadrement des loyers, sans le limiter aux zones tendues ; valeur inchangée par rapport au projet socialiste."
+        }
+      ]
+    },
+    {
       "id": "faure-2026-08-candidature",
       "date": "2026-08-30",
       "title": "Candidature à la primaire « Choisir 2027 »",
