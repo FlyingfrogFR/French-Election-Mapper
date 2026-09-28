@@ -2,6 +2,35 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-09-edito-colere",
+      "date": "2026-09-28",
+      "title": "Le 29 septembre et après, faisons éclater notre colère ! (éditorial)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/29-septembre-apres-faisons-eclater-colere-197439.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud (28/09/2026) qui appelle à la grève et aux manifestations du 29 septembre. Il demande de « réquisitionner ces surprofits » pétroliers pour faire baisser le prix à la pompe et d'indexer salaires, pensions et allocations sur l'inflation, qualifie les baisses de taxes de « jeu de dupes » et rejette le gel des salaires de la fonction publique ainsi que la mise à contribution des retraités dits « aisés ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "La seule façon de protéger notre pouvoir d’achat est d’arracher des hausses de salaires pour rattraper l’inflation et d’obtenir leur indexation sur les prix.",
+          "note": "Présente l'indexation des salaires sur les prix comme « la seule façon » de protéger le pouvoir d'achat, à obtenir par la lutte ; même valeur que la brochure de juin 2026."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2,
+          "quote": "revenus sur l’inflation. C’est vital pour nous tous, pour les salariés du privé comme du public. Ça l’est pour les retraités qui ne sont certainement pas des privilégiés. Et ça l’est pour ceux qui sont obligés de vivre d’allocations parce qu’ils ont été licenciés ou parce qu’ils sont handicapés.",
+          "note": "La citation poursuit la phrase « Il faut, pour l'ensemble du monde du travail, l'indexation de ses revenus sur l'inflation » et étend cette indexation aux retraités et aux allocataires licenciés ou handicapés ; même valeur que la brochure de juin 2026."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-09-breve-violences-sexistes",
       "date": "2026-09-21",
       "title": "Violences sexistes et sexuelles : des mots, toujours des mots… (brève)",

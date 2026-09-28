@@ -2,6 +2,30 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-09-profession-de-foi",
+      "date": "2026-09-24",
+      "title": "Profession de foi d'Emmanuel Maurel pour la primaire de la gauche socialiste et démocratique : « La gauche au rendez-vous du sursaut français »",
+      "sourceType": "programme",
+      "sourceUrl": "https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-Emmanuel-Maurel.pdf",
+      "publisher": "Emmanuel Maurel (profession de foi publiée sur choisir2027.fr, site officiel de la primaire « Choisir 2027 »)",
+      "summary": "Profession de foi d'Emmanuel Maurel, candidat à la primaire de la gauche socialiste et démocratique (Choisir 2027), publiée sur le site officiel de la primaire. Le document n'est pas daté : il a été mis en ligne le 24 septembre 2026 selon l'API WordPress de choisir2027.fr et l'en-tête Last-Modified (PDF créé le 23 septembre). Il y propose un grand emprunt national, l'augmentation des salaires et leur indexation sur l'inflation, ainsi qu'un nouveau modèle de développement fondé sur la démondialisation, la démarchandisation et la démocratisation, et renvoie à son programme en ligne.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Il faut augmenter les salaires, les indexer sur l’inflation et donner plus de droits aux travailleurs.",
+          "page": "2",
+          "note": "Même phrase que dans le programme du 18 septembre 2026, déjà encodé +2 : la position est confirmée et la valeur ne change pas."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-04-ppl-2710",
       "date": "2026-04-28",
       "title": "Proposition de loi n°2710 visant à réformer les bourses sur critères sociaux et lutter contre la précarité étudiante (cosignataire)",
