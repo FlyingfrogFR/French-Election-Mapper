@@ -2,6 +2,121 @@
   "candidateId": "retailleau",
   "declarations": [
     {
+      "id": "retailleau-2026-09-mesure-droit-du-sol",
+      "date": "2026-09-24",
+      "title": "Supprimer le droit du sol et revenir à l'assimilation (mesure n° 05 du projet présidentiel)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/charte-republicaine",
+      "publisher": "Les Républicains (site officiel de campagne de Bruno Retailleau, avecretailleau.fr)",
+      "summary": "Page de la mesure n° 05 du thème « Pour le peuple et par le peuple » du site officiel de campagne de Bruno Retailleau, datée « Mis à jour le 24 septembre 2026 ». Elle propose d'inscrire dans la Constitution la suppression du droit du sol simple, la nationalité ne s'acquérant plus que par filiation ou par assimilation vérifiée, réforme soumise au référendum.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Inscrire dans la Constitution, au sein de la charte de l'ordre républicain , la suppression du droit du sol simple . On ne deviendra français que par filiation ou par assimilation vérifiée",
+          "note": "Même position que le discours du 2 septembre 2026 (« abolir le droit du sol »), ici précisée : suppression du droit du sol simple, inscrite dans la Constitution et soumise au référendum."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-09-mesure-neonicotinoides",
+      "date": "2026-09-24",
+      "title": "Cesser d'évaluer deux fois par l'ANSES, ce qui l'a déjà été ailleurs (mesure n° 50 du projet présidentiel)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/ne-plus-jamais-evaluer-deux-fois-ce-qui-l-a-deja-ete",
+      "publisher": "Les Républicains (site officiel de campagne de Bruno Retailleau, avecretailleau.fr)",
+      "summary": "Page de la mesure n° 50 du thème « Agriculture » du site officiel de campagne de Bruno Retailleau, datée « Mis à jour le 24 septembre 2026 ». Elle propose que l'ANSES ne recommence pas l'évaluation d'un produit déjà autorisé par des autorités sanitaires équivalentes dans plusieurs États membres, et d'autoriser de nouveau certains néonicotinoïdes, dont l'acétamipride, dès lors qu'ils sont autorisés dans le marché unique européen.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": 2,
+          "quote": "Autoriser de nouveau l'usage de certains néonicotinoïdes",
+          "note": "Même position que le livret « Agriculture » (février 2026) : réautorisation de certains néonicotinoïdes, dont l'acétamipride, dès lors qu'ils sont autorisés dans le marché unique européen, sans limitation de durée annoncée."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-09-mesure-vision-ordinateur",
+      "date": "2026-09-24",
+      "title": "Répondre à la guerre informationnelle (mesure n° 107 du projet présidentiel)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/repondre-a-la-guerre-informationnelle",
+      "publisher": "Les Républicains (site officiel de campagne de Bruno Retailleau, avecretailleau.fr)",
+      "summary": "Page de la mesure n° 107 du thème « L'IA » du site officiel de campagne de Bruno Retailleau, datée « Mis à jour le 24 septembre 2026 ». Elle propose de renforcer VIGINUM, de répondre aux campagnes d'ingérence par des faits étayés et d'autoriser dans un cadre légal la vision par ordinateur pour la sécurité intérieure, en interdisant la reconnaissance faciale en temps réel dans l'espace public à des fins de surveillance de masse.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-07",
+          "value": 0,
+          "quote": "Autoriser dans un cadre légal et contrôlé l'usage de la vision par ordinateur pour la sécurité intérieure, avec interdiction expresse de la reconnaissance faciale en temps réel dans l'espace public à des fins de surveillance de masse",
+          "note": "Position mitigée, comme dans le livret « IA » (juillet 2026) : vision par ordinateur autorisée pour la sécurité intérieure dans un cadre légal, reconnaissance faciale en temps réel dans l'espace public interdite à des fins de surveillance de masse."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-09-mesure-zan",
+      "date": "2026-09-24",
+      "title": "Abroger le ZAN (mesure n° 74 du projet présidentiel)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/abroger-le-zan",
+      "publisher": "Les Républicains (site officiel de campagne de Bruno Retailleau, avecretailleau.fr)",
+      "summary": "Page de la mesure n° 74 du thème « Logement » du site officiel de campagne de Bruno Retailleau, datée « Mis à jour le 24 septembre 2026 ». Elle propose d'abroger l'objectif « zéro artificialisation nette » et de fixer les objectifs de sobriété foncière par des contrats territoriaux entre le préfet et chaque intercommunalité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": -2,
+          "quote": "Abroger le ZAN et rendre aux collectivités la capacité de planifier leur développement.",
+          "note": "Même position que le livret « Logement » (mai 2026) : abrogation du ZAN, objectifs de sobriété foncière fixés par contrat entre le préfet et chaque intercommunalité."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-09-mesure-prestations-sociales",
+      "date": "2026-09-22",
+      "title": "Conditionner les prestations sociales à cinq ans de séjour et de travail (mesure n° 10 du projet présidentiel)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/conditionner-les-prestations-sociales-a-cinq-ans-de-sejour",
+      "publisher": "Les Républicains (site officiel de campagne de Bruno Retailleau, avecretailleau.fr)",
+      "summary": "Page de la mesure n° 10 du thème « Pour le peuple et par le peuple » du site officiel de campagne de Bruno Retailleau, datée « Mis à jour le 22 septembre 2026 ». Elle propose de conditionner l'accès des étrangers aux prestations sociales à cinq ans de séjour régulier et de travail, et de subordonner l'aide sociale à la régularité du séjour, principe à inscrire dans la Constitution.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Conditionner l'accès des étrangers aux prestations sociales à cinq ans de séjour régulier et de travail en France",
+          "note": "Même valeur que la Charte républicaine du 4 septembre 2026 (« peut être subordonné »), ici sous forme d'engagement : cinq ans de séjour régulier et de travail, principe inscrit dans la Constitution, aide sociale subordonnée à la régularité du séjour."
+        }
+      ]
+    },
+    {
       "id": "retailleau-2026-09-quotas-frontieres",
       "date": "2026-09-22",
       "title": "Faire fixer par la loi des quotas migratoires (mesure n° 09 du projet présidentiel)",

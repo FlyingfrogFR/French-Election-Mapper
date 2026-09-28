@@ -2,6 +2,29 @@
   "candidateId": "cazeneuve",
   "declarations": [
     {
+      "id": "cazeneuve-2026-09-tribune-ia",
+      "date": "2026-09-20",
+      "title": "« Pour que l’humanité gouverne l’IA »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/272198980211514/opinion-pour-que-l-humanite-gouverne-l-ia-par-bernard-cazeneuve",
+      "publisher": "La Tribune Dimanche (tribune signée Bernard Cazeneuve)",
+      "summary": "Tribune signée par Bernard Cazeneuve, publiée le 20 septembre 2026 dans La Tribune Dimanche, sur l'intelligence artificielle. Il y propose : un « pacte pour les technologies de confiance » que la France proposerait avec le Canada, le Royaume-Uni et l'Australie ; la transformation de l'Inesia en autorité indépendante dotée d'un pouvoir de sanction ; cinq droits nouveaux pour les usagers ; un objectif de sept gigawatts de calcul d'ici 2032, avec des contreparties exigées dans les contrats d'électricité ; l'enseignement des algorithmes et du code dès le collège.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "La France visera sept gigawatts de calcul d’ici 2032, dix fois ce qu’elle a ; ces installations devront relever d’une politique industrielle de long terme et se faire avec les territoires, leurs élus et leurs habitants.",
+          "note": "Objectif explicite de sept gigawatts de calcul d'ici 2032 (dix fois la capacité actuelle) en faisant valoir électricité décarbonée, terrains, données publiques et commande de l'État, mais conditionné à la concertation avec les territoires et à des contreparties sur les contrats d'électricité, sans mention de procédures simplifiées ; même valeur que la position déduite de la lettre du 15 juillet 2026, désormais explicite."
+        }
+      ]
+    },
+    {
       "id": "cazeneuve-lettre",
       "date": "2026-07-15",
       "title": "Tenir la promesse de la France — Lettre de Bernard Cazeneuve aux Françaises et aux Français (86 pages, dont « Les propositions de Bernard Cazeneuve »)",

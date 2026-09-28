@@ -2,6 +2,45 @@
   "candidateId": "guedj",
   "declarations": [
     {
+      "id": "guedj-2026-09-profession-de-foi",
+      "date": "2026-09-23",
+      "title": "Profession de foi pour la primaire « Choisir 2027 »",
+      "sourceType": "programme",
+      "sourceUrl": "https://choisir2027.fr/wp-content/uploads/2026/09/PF-Jerome-Guedj.pdf",
+      "publisher": "Choisir 2027 — site de la primaire de la gauche socialiste et démocratique (profession de foi signée par Jérôme Guedj)",
+      "summary": "Profession de foi signée par Jérôme Guedj pour la primaire « Choisir 2027 ». Le document ne porte pas de date ; d'après les métadonnées du site de la primaire, il y a été mis en ligne le 23 septembre 2026. Il y présente son projet de « République du soin » (sécurité sociale intégrale remboursant à 100 % les soins, extension à toute la France du service public du grand âge, SMIC à 1 700 euros net, aides aux entreprises sous conditions) et défend une Europe qui soutient l'Ukraine et s'appuie sur les énergies renouvelables et le nucléaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Quatre-vingts ans après la création de la Sécurité sociale, j’entends achever l’œuvre : une sécurité sociale intégrale, qui rembourse à 100 % les soins, et traite chacun à égalité.",
+          "page": "1",
+          "note": "Remplace le +1 du texte du 26 mars 2026, qui appelait seulement à « envisager sérieusement » une prise en charge intégrale : il s'engage désormais sur une « sécurité sociale intégrale, qui rembourse à 100 % les soins »."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "C’est prendre soin de ceux qui travaillent : je propose l’augmentation des salaires par le smic à 1700 euros net et en conditionnant les aides aux entreprises, pour que chacun ait sa part des bénéfices qu’il produit.",
+          "page": "1",
+          "note": "Il propose de porter le SMIC à 1 700 euros net, contre 1 477,93 euros net par mois aujourd'hui selon service-public.fr : cette hausse chiffrée, fixée par décision politique, dépasse la seule indexation."
+        },
+        {
+          "questionId": "env-02",
+          "value": -1,
+          "quote": "Une Europe qui ne dépend plus du charbon ou du gaz russe, mais des énergies renouvelables et du nucléaire.",
+          "page": "1",
+          "inferred": true,
+          "note": "Il veut une Europe qui dépende « des énergies renouvelables et du nucléaire » plutôt que du charbon et du gaz russes ; on en déduit qu'il ne veut pas sortir du nucléaire, mais il ne dit rien d'explicite sur le parc français (orientation déduite)."
+        }
+      ]
+    },
+    {
       "id": "guedj-2026-08-ppl-3106",
       "date": "2026-08-11",
       "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",

@@ -2,6 +2,43 @@
   "candidateId": "hollande",
   "declarations": [
     {
+      "id": "hollande-2026-09-tribune-dix-pour-cent",
+      "date": "2026-09-23",
+      "title": "Tribune « Dix pour cent » sur la hausse des salaires nets (Libre Journal)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://librejournal.fr/article/dix-pour-cent/",
+      "publisher": "Libre Journal (tribune signée François Hollande)",
+      "summary": "Tribune signée par François Hollande et publiée le 23 septembre 2026 dans Libre Journal : il y propose d’augmenter de dix pour cent le salaire net des salarié·es modestes en leur rendant près de 200 euros sur les 590 euros de cotisations sociales, CSG et CRDS prélevés sur un salaire brut de 2 000 euros. Le coût, 30 milliards par an, serait compensé par un prélèvement supplémentaire sur les revenus du capital et les plus gros héritages (10 milliards) et par le transfert à la Sécurité sociale d’un point de TVA au taux normal par an, soit 4 points sur le quinquennat, le taux de 5,5 % appliqué aux produits de première nécessité étant ramené à zéro.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "Elles seraient donc compensées par un prélèvement supplémentaire sur les revenus du capital et sur les plus gros héritages pour 10 milliards",
+          "note": "Propose un prélèvement supplémentaire sur les plus gros héritages, soit le contraire d’une baisse, mais limité aux plus grosses successions et sans mécanisme ni montant propre (10 milliards avec le prélèvement sur les revenus du capital)."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Elles seraient donc compensées par un prélèvement supplémentaire sur les revenus du capital et sur les plus gros héritages pour 10 milliards",
+          "inferred": true,
+          "note": "Confirme le +1 déduit de la profession de foi de 2024 : un prélèvement supplémentaire sur les revenus du capital implique une imposition accrue des dividendes, dont il juge « peu compréhensible » qu’ils aient augmenté plus vite que la masse salariale, mais les rachats d’actions ne sont pas mentionnés."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Le risque, c’est d’écraser la hiérarchie à l’intérieur de l’entreprise et d’accroître encore le montant des exonérations de cotisations sociales (70 milliards en 2026) au détriment du budget de l’État.",
+          "inferred": true,
+          "note": "Dans un passage sur les limites d’une hausse du seul SMIC, il présente l’accroissement des exonérations de cotisations sociales comme un risque « au détriment du budget de l’État » et précise plus loin que sa mesure ne vise pas à « alléger le coût du travail » : opposition déduite à de nouveaux allègements, sans rejet explicite."
+        }
+      ]
+    },
+    {
       "id": "hollande-2026-08-ppl-3106",
       "date": "2026-08-11",
       "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",

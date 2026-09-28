@@ -2,6 +2,70 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-09-edito-revolte",
+      "date": "2026-09-28",
+      "title": "Éditorial du NPA-Révolutionnaires du 28 septembre 2026 — « Le pouvoir craint notre révolte : donnons-lui raison ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/le-pouvoir-craint-notre-revolte-donnons-lui-raison",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Éditorial non signé du NPA-Révolutionnaires daté du 28 septembre 2026 (rubrique « Éditos » de son site). Il critique l'envoi annoncé de soldats en Arabie saoudite, justifié selon Macron par les prix de l'essence, et lui oppose des « mesures très simples : augmenter les salaires, bloquer les prix ». Il reproche au projet de budget Macron-Lecornu de chercher 54 milliards d'économies sur les pensions, le point d'indice, les aides au logement, les arrêts maladie et l'ouverture de droits des travailleurs étrangers plutôt que sur les dividendes et les 211 milliards d'exonérations et subventions aux entreprises. Il juge que compter sur l'élection présidentielle serait « un mauvais calcul » et appelle à faire de la journée de mobilisation du mardi 29 septembre le début de « la riposte ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Il y aurait pourtant des mesures très simples : augmenter les salaires, bloquer les prix. Mais cela voudrait dire toucher aux profits des capitalistes et le rôle de Macron est au contraire de permettre à ces profits de gonfler",
+          "inferred": true,
+          "note": "Cet éditorial non signé du parti dont elle est la candidate désignée oppose à la politique de Macron des « mesures très simples », dont « bloquer les prix », sans limiter ce blocage aux produits de première nécessité ni dans le temps, d'où +1 déduit, comme pour l'éditorial du 14 septembre."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Macron-Lecornu prétendent économiser 54 milliards sur le prochain budget. Mais pas en puisant sur ces dividendes, ni dans les 211 milliards d’exonérations et subventions au bénéfice des patrons.",
+          "inferred": true,
+          "note": "Cet éditorial non signé du parti dont elle est la candidate désignée reproche au projet de budget de ne pas « puiser » dans les 61 milliards d'euros de dividendes versés aux actionnaires, cités juste avant, d'où un soutien déduit à une taxation accrue des dividendes, sans instrument fiscal précisé ni mention des rachats d'actions."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-09-lettre-maires",
+      "date": "2026-09-23",
+      "title": "Lettre de Selma Labib aux maires pour les parrainages — « Faire entendre celles et ceux qui sont chaque jour en première ligne pour faire tourner cette société »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/Lettre-aux-maires.pdf",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Lettre de deux pages demandant leur parrainage aux maires. Le PDF n'est pas daté : il a été mis en ligne sur le site du NPA-Révolutionnaires le 23 septembre 2026 selon la médiathèque du site (fichier généré le 10 septembre 2026 selon ses métadonnées). La première page, rédigée par le parti, présente la candidature de Selma Labib. La seconde réunit un texte à la première personne de la candidate, qui se présente comme conductrice de bus attachée au service public des transports face à la mise en concurrence, et un texte du porte-parole Gaël Quirante. Le document précise que le parrainage « ne constitue ni un soutien politique, ni une adhésion à un programme ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-07",
+          "value": 1,
+          "quote": "Je suis particulièrement attachée au service public des transports, que je défends face à la mise en concurrence qui finit toujours par sacrifier les petites lignes, petites communes et les usagers les plus démunis.",
+          "page": "2",
+          "inferred": true,
+          "note": "Dans ce passage à la première personne, la candidate défend le service public des transports face à une mise en concurrence qui « sacrifie » les petites lignes et les petites communes, d'où un soutien déduit au maintien de ces dessertes, limité aux transports (écoles et bureaux de poste ne figurent pas dans son passage, et le texte du porte-parole qui déplore leur disparition n'a pas été retenu), la question du déficit n'étant pas traitée en tant que telle."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 1,
+          "quote": "Je suis particulièrement attachée au service public des transports, que je défends face à la mise en concurrence qui finit toujours par sacrifier les petites lignes, petites communes et les usagers les plus démunis.",
+          "page": "2",
+          "inferred": true,
+          "note": "Dans ce passage à la première personne, la candidate s'oppose à la mise en concurrence du service public des transports, comme le faisait le communiqué de candidature du 17 juin 2026 pour le réseau de bus (même valeur), sans formuler de renationalisation ni évoquer l'énergie ou les autoroutes."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-09-edito-budget",
       "date": "2026-09-21",
       "title": "Éditorial du NPA-Révolutionnaires du 21 septembre 2026 — « Un projet de budget pour nous serrer la ceinture — Tous ensemble préparons la riposte ! »",

@@ -1,0 +1,758 @@
+{
+  "candidateId": "becht",
+  "declarations": [
+    {
+      "id": "becht-2026-09-dossier-presse",
+      "date": "2026-09-24",
+      "title": "Dossier de presse « Le Projet France »",
+      "sourceType": "communique",
+      "sourceUrl": "https://becht2027.fr/wp-content/uploads/2026/09/dossier_presse_4p-A4.pdf",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Dossier de presse de quatre pages daté du 24 septembre 2026, jour de la déclaration de candidature, publié dans l'espace presse du site de campagne. Il présente le « Projet France » en cinq axes : énergie décarbonée grâce aux carburants de synthèse, « contrat universel » de protection, refondation de la santé, plan de sécurité avec centres de redressement, pacte démocratique et territorial.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Redonner le pouvoir aux Français par le référendum d’initiative citoyenne et la prise en compte du vote blanc.",
+          "page": "3",
+          "note": "Le référendum d'initiative citoyenne est proposé explicitement dans l'axe 5 (pacte démocratique et territorial)."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1,
+          "quote": "Redonner le pouvoir aux Français par le référendum d’initiative citoyenne et la prise en compte du vote blanc.",
+          "page": "3",
+          "note": "« Prise en compte du vote blanc » proposée sans préciser qu'il serait comptabilisé parmi les suffrages exprimés, d'où +1."
+        },
+        {
+          "questionId": "tra-07",
+          "value": 1,
+          "quote": "Personne ne pourra recevoir sans donner aussi quelque chose en retour, ne serait-ce qu’un peu de son temps.",
+          "page": "3",
+          "inferred": true,
+          "note": "Déduit du principe de contrepartie du « contrat universel » (axe 2) ; ni le RSA ni un volume d'heures d'activité ou de formation ne sont mentionnés."
+        },
+        {
+          "questionId": "log-07",
+          "value": 1,
+          "quote": "Garantir à tous les Français, où qu’ils habitent, l’accès aux services publics dans un temps de trajet raisonnable.",
+          "page": "3",
+          "inferred": true,
+          "note": "Déduit d'une garantie d'accès aux services publics partout « dans un temps de trajet raisonnable » ; le maintien de services déficitaires en zone rurale n'est pas traité en tant que tel."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-08-ppl-3106",
+      "date": "2026-08-11",
+      "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3106_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi transpartisane enregistrée le 11 août 2026, présentée par Céline Thiébault-Martinez et cosignée par Olivier Becht. Elle crée notamment des juridictions spécialisées dans les violences sexuelles et intrafamiliales et programme trois milliards d'euros de crédits par an de 2027 à 2032.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "L’article 68 inscrit dans la loi une programmation budgétaire pluriannuelle, en fixant à trois milliards d’euros par an, de 2027 à 2032, les crédits de paiement consacrés à la lutte contre les violences sexuelles, sexistes et intrafamiliales.",
+          "page": "24",
+          "note": "Budget dédié de 3 Md€ par an (article 68) et juridictions spécialisées dans les violences sexuelles et intrafamiliales (article 5)."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-08-rapport-refaire-nation",
+      "date": "2026-08-10",
+      "title": "Rapport « Refaire Nation : les chemins d'une cohésion retrouvée »",
+      "sourceType": "autre",
+      "sourceUrl": "https://becht2024.fr/wp-content/uploads/2026/08/Rapport-Amenagement-du-territoire-_-Olivier-Becht.pdf",
+      "publisher": "Olivier Becht (becht2024.fr)",
+      "summary": "Rapport de 87 pages signé par Olivier Becht, député du Haut-Rhin, tiré d'un tour des 101 départements : diagnostic des fractures françaises, puis propositions (grands projets, travail, fiscalité, territoires, agriculture, industrie, défense, sécurité, méthode de gouvernement), dont une partie regroupée dans des encadrés « Propositions ». Mis en ligne le 10 août 2026 sur becht2024.fr (répertoire 2026/08 ; PDF créé le 30 juin 2026), le même fichier est publié depuis le 11 septembre 2026 sur becht2027.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": 1,
+          "quote": "Engager une nouvelle génération de réacteurs nucléaires (SMR et quatrième génération), avec une feuille de route industrielle et de formation qui associe les universités, les entreprises et les collectivités des bassins concernés.",
+          "page": "39",
+          "note": "Nouveaux réacteurs (SMR et quatrième génération), donc au-delà des six EPR2, le texte parlant aussi de « construire des petits réacteurs modulaires », mais sans nombre ni calendrier, d'où +1."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Relancer les réacteurs de quatrième génération capables de recycler les déchets, construire des petits réacteurs modulaires adaptés aux régions industrielles et aux villes moyennes",
+          "page": "34",
+          "inferred": true,
+          "note": "Déduit : le rapport qualifie le nucléaire d'« atout stratégique de premier ordre » et propose de construire de nouveaux réacteurs, ce qui exclut une sortie du nucléaire."
+        },
+        {
+          "questionId": "log-04",
+          "value": -1,
+          "quote": "Moduler territorialement l'application de l'objectif ZAN en exonérant les bassins industriels en reconversion et les friches industrielles existantes, afin de ne pas ériger la norme environnementale en obstacle à la réindustrialisation.",
+          "page": "66",
+          "note": "L'objectif, jugé « légitime dans son principe », serait maintenu avec des exemptions (bassins industriels, friches) ; il a aussi cosigné la proposition de loi n°2215 créant une « exemption rurale », d'où −1."
+        },
+        {
+          "questionId": "log-03",
+          "value": 1,
+          "quote": "Lancer des chantiers de refondation normative dans quatre domaines prioritaires – urbanisme, agriculture, création d'entreprise, commande publique – avec pour objectif de réduire au moins de moitié le nombre de textes applicables",
+          "page": "79",
+          "note": "Réduction de moitié des textes d'urbanisme, la complexité étant décrite comme un obstacle « à la construction de logements » ; les normes de construction ne sont pas visées en tant que telles et le rapport entend ne pas « renoncer à nos standards », d'où +1."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 1,
+          "quote": "Cela passe par la transformation des exceptions en règles générales là où c'est possible, et par la suppression de celles qui ne se justifient plus ni économiquement, ni socialement.",
+          "page": "51",
+          "note": "Suppression des exceptions fiscales qui ne se justifient plus, au nom de la lisibilité, la priorité n'étant « pas d'alourdir ni d'alléger la fiscalité », d'où +1."
+        },
+        {
+          "questionId": "edu-06",
+          "value": 1,
+          "quote": "Renforcer le service civique obligatoire, en lui donnant une dimension de brassage social et territorial explicite",
+          "page": "83",
+          "note": "Service civique qualifié d'« obligatoire », proposé « sous des formes modulables » ; ni le public concerné ni la durée ne sont précisés, d'où +1."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Redonner du sens et de la reconnaissance au travail – par la revalorisation salariale des métiers du soin, de l’enseignement et de l’industrie",
+          "page": "49",
+          "note": "Revalorisation des enseignants citée avec d'autres métiers, sans ampleur chiffrée ni priorité sur les autres dépenses éducatives : orientation, d'où +1."
+        },
+        {
+          "questionId": "edu-07",
+          "value": 1,
+          "quote": "Cela implique de renforcer massivement la formation professionnelle en ciblant les secteurs en tension, de développer l'apprentissage et l'alternance comme voies d'excellence à part entière",
+          "page": "47",
+          "inferred": true,
+          "note": "Déduit de la volonté de développer l'apprentissage ; le niveau des aides publiques n'est pas traité, une note de terrain regrettant toutefois le « recul des aides à l'apprentissage depuis 2023 »."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 1,
+          "quote": "Dans le domaine des PME, des ETI, de l’Agriculture, cette fiscalité est devenue un obstacle qui freine la transmission, rend impossible les reprises et peut conduire au démantèlement des usines et des exploitations.",
+          "page": "51",
+          "inferred": true,
+          "note": "Déduit : la fiscalité des successions est présentée comme un obstacle à la transmission des exploitations, sans proposition d'exonération précise."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-07-vote-reseaux-sociaux",
+      "date": "2026-07-21",
+      "title": "Scrutin public n°8431 — proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République ; le texte a été adopté par 279 voix contre 81 le 21 juillet 2026. Son article 1er, qui interdisait l'accès aux réseaux sociaux aux mineurs de quinze ans, a ensuite été déclaré contraire à la Constitution (décision n° 2026-911 DC).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Scrutin public n°8431 sur l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+          "note": "Vote personnel « Pour » ; il était cosignataire de la proposition de loi initiale n°2107, dont l'article 1er posait cette interdiction."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-07-vote-aide-a-mourir",
+      "date": "2026-07-15",
+      "title": "Scrutin public n°8280 — proposition de loi relative au droit à l'aide à mourir (lecture définitive)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République ; la proposition de loi a été adoptée en lecture définitive par 291 voix contre 241 le 15 juillet 2026. Il avait voté pour à chaque lecture (scrutins n°2107, 5729 et 7894) et cosigné la proposition de loi n°204 de septembre 2024 créant l'aide à mourir.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+          "note": "Vote personnel « Pour » sur un texte dont la légalisation encadrée de l'aide à mourir est l'objet principal."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-07-vote-lpm",
+      "date": "2026-07-01",
+      "title": "Scrutin public n°7905 — projet de loi actualisant la programmation militaire pour les années 2024 à 2030 (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République ; le texte a été adopté par 375 voix contre 113 le 1er juillet 2026. Il fixe l'objectif de porter l'effort national de défense de 2 % du PIB en 2025 à 2,5 % au minimum en 2030, avec l'objectif d'atteindre 3,5 % à l'horizon 2035.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "Scrutin public n°7905 sur l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
+          "inferred": true,
+          "note": "Vote « Pour » une trajectoire qui ne dépasse 3 % du PIB qu'à l'horizon 2035 (2,5 % au minimum en 2030), d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-06-vote-corse",
+      "date": "2026-06-23",
+      "title": "Scrutin public n°7454 — projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République ; le projet de loi constitutionnelle a été adopté en première lecture par 271 voix contre 202 le 23 juin 2026. Il avait voté contre l'amendement de suppression de l'article unique (scrutin n°7406).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-12",
+          "value": 1,
+          "quote": "Scrutin public n°7454 sur l'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
+          "note": "Vote personnel « Pour » ; le texte ne concerne que la Corse et non d'autres territoires, position partielle d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-05-vote-fraudes",
+      "date": "2026-05-05",
+      "title": "Scrutin public n°6319 — projet de loi relatif à la lutte contre les fraudes sociales et fiscales (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6319",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République ; le texte a été adopté par 335 voix contre 182 le 5 mai 2026. Il avait aussi voté le projet en première lecture (scrutin n°6023).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "Scrutin public n°6319 sur l'ensemble du projet de loi relatif à la lutte contre les fraudes sociales et fiscales (texte de la commission mixte paritaire).",
+          "note": "Vote « Pour » un texte renforçant la lutte contre la fraude sociale et fiscale, qui ne prévoit pas de carte Vitale biométrique ou fusionnée, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-12-ppl-2215",
+      "date": "2025-12-09",
+      "title": "Proposition de loi n°2215 visant à l’instauration d’une exemption rurale dans l’objectif zéro artificialisation nette (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2215_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 9 décembre 2025 par Lionel Vuibert, avec Olivier Becht comme deuxième signataire (cosignataire), et d'autres député·es de plusieurs groupes. Elle crée une « exemption rurale » : les communes remplissant au moins trois de cinq critères (moins de 10 000 habitants, part d'espaces naturels, agricoles et forestiers, densité, chômage, éloignement des métropoles) ne seraient plus soumises à l'obligation de réduire de moitié leur consommation d'espaces.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": -1,
+          "quote": "Les communes bénéficiant de cette exemption ne sont pas soumises à l’obligation de réduction de moitié de la consommation d’espaces naturels, agricoles et forestiers prévue à l’article L. 101-2-1.",
+          "page": "5",
+          "note": "Mesure partielle : l'objectif ZAN n'est pas supprimé, mais les communes rurales remplissant au moins trois des cinq critères seraient exemptées de l'obligation de réduire de moitié leur consommation d'espaces naturels, agricoles et forestiers."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-11-ppl-reseaux-sociaux",
+      "date": "2025-11-18",
+      "title": "Proposition de loi n°2107 visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2107_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 18 novembre 2025, présentée par Laure Miller et cosignée par Olivier Becht. Elle interdit l'inscription des moins de quinze ans sur les réseaux sociaux (article 1er) et étend aux lycées l'interdiction du téléphone portable (article 6).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "L’article 6 vise à étendre aux lycées l’interdiction de l’utilisation des téléphones portables, dans les mêmes conditions que dans les autres établissements scolaires.",
+          "page": "8",
+          "note": "Extension explicite aux lycées de l'interdiction du téléphone portable déjà applicable au collège (article 6)."
+        },
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Le premier est l’interdiction d’accès aux réseaux sociaux pour les moins de 15 ans et la suspension des comptes déjà existants de mineurs de moins de 15 ans.",
+          "page": "5",
+          "note": "L'article 1er oblige les réseaux sociaux à refuser l'inscription des mineurs de quinze ans et à suspendre leurs comptes existants, avec vérification de l'âge selon un référentiel de l'Arcom."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-09-ppl-assurance-chomage",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1791 portant réforme de l'assurance chômage (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1791_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 16 septembre 2025, présentée par Stéphanie Rist et cosignée par Olivier Becht. Elle exige huit mois d'affiliation sur vingt (contre six sur vingt-quatre) et ramène la durée maximale d'indemnisation de dix-huit à quinze mois pour les moins de 55 ans lorsque les indicateurs du marché du travail sont favorables.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "L’article 2 prévoit que la durée maximale d’indemnisation soit réduite de dix-huit à quinze mois, en dehors des périodes de chômage de masse.",
+          "page": "4",
+          "note": "Réduction explicite de la durée d'indemnisation (article 2), l'exposé posant que « le travail doit toujours mieux payer que l'inactivité »."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-09-ppl-collectivite-unique",
+      "date": "2025-09-16",
+      "title": "Proposition de loi n°1800 visant à simplifier le millefeuille territorial par la collectivité unique (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1800_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 16 septembre 2025, présentée par Brigitte Klinkert, dont Olivier Becht est le troisième signataire. Elle permet à une collectivité issue du regroupement de départements de devenir une collectivité unique exerçant les compétences départementales et régionales, et crée une Collectivité européenne d'Alsace à statut particulier ; il a voté le texte en première lecture le 8 avril 2026 (scrutin n°6045).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Il s’agit en réalité de la suppression d’un niveau de collectivité sur un périmètre donné, seule source d’économie crédible lorsque l’on parle de réforme territoriale.",
+          "page": "4",
+          "note": "Suppression d'un échelon sur un périmètre donné, décidée par délibérations des collectivités concernées et non généralisée ; son rapport de 2026 écrit d'ailleurs que la réforme « ne passe pas nécessairement » par de nouvelles suppressions d'échelons, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-07-vote-duplomb",
+      "date": "2025-07-08",
+      "title": "Scrutin public n°2957 — proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République ; le texte a été adopté par 316 voix contre 223 le 8 juillet 2025. La proposition de loi transmise par le Sénat s'ouvrait sur un titre « Mettre fin aux surtranspositions et surréglementations françaises en matière de produits phytosanitaires ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 1,
+          "quote": "Scrutin public n°2957 sur l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
+          "note": "Vote « Pour » un texte qui revient sur plusieurs surtranspositions, notamment phytosanitaires, sans aligner l'ensemble des normes sur le minimum européen ; son rapport de 2026 dénonce la surtransposition tout en voulant garder « nos standards », d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-07-tribune-alsace",
+      "date": "2025-07-03",
+      "title": "Tribune « Il est temps de faire de l'Alsace une région à part entière » (avec Patrick Hetzel et Brigitte Klinkert)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lefigaro.fr/vox/politique/il-est-temps-de-faire-de-l-alsace-une-region-a-part-entiere-20250703",
+      "publisher": "Le Figaro (tribune signée Olivier Becht, Patrick Hetzel et Brigitte Klinkert)",
+      "summary": "Tribune signée par Olivier Becht, Patrick Hetzel et Brigitte Klinkert, publiée le 3 juillet 2025 par Le Figaro (Vox). Elle demande que l'Alsace dispose d'une collectivité unique réunissant les compétences de la Collectivité européenne d'Alsace et celles d'une région, en faisant valoir des économies budgétaires et « une couche d'administration territoriale en moins ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Sans compter que tout cela simplifiera le mille-feuille institutionnel avec une couche d’administration territoriale en moins.",
+          "note": "Il propose pour la seule Alsace une collectivité unique réunissant les compétences de la CEA et de la région, soit une couche d'administration territoriale en moins ; la mesure est limitée à un territoire, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-05-seance-centres-donnees",
+      "date": "2025-05-27",
+      "title": "Intervention en séance sur l'article 15 du projet de loi de simplification de la vie économique (centres de données)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N218",
+      "publisher": "Assemblée nationale",
+      "summary": "Compte rendu intégral de la deuxième séance du 27 mai 2025 : lors de l'examen de l'article 15 du projet de loi de simplification de la vie économique, qui ouvre aux centres de données le statut de projet d'intérêt national majeur, Olivier Becht défend leur implantation en France, y compris par des investisseurs étrangers, en invoquant l'application du droit français et européen aux données stockées en France et le climat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "En choisissant de ne pas avoir de data centers en France ou en Europe, vous plombez donc le climat de la planète.",
+          "note": "Dans le débat sur l'article 15, qui ouvre aux centres de données le statut de projet d'intérêt national majeur, il défend leur implantation en France, y compris par des investisseurs étrangers (il a voté pour l'amendement n° 2586 du Gouvernement, qui supprimait l'exclusion de ce statut pour certains opérateurs extra-européens, scrutin n° 2116), sans parler lui-même des procédures : +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-04-vote-narcotrafic",
+      "date": "2025-04-29",
+      "title": "Scrutin public n°1473 — proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République ; le texte a été adopté par 396 voix contre 68 le 29 avril 2025. Il a aussi voté la proposition de loi organique fixant le statut du procureur de la République national anti-criminalité organisée (scrutin n°1474).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "Scrutin public n°1473 sur l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
+          "note": "Vote « Pour » un texte renforçant les moyens répressifs ; le caractère « principal » de la répression n'est pas établi, son rapport de 2026 associant aussi prévention et « stratégie économique de substitution », d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-04-ppl-1332",
+      "date": "2025-04-17",
+      "title": "Proposition de loi n°1332 visant à améliorer l'accès au logement des travailleurs des services publics (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1332_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 17 avril 2025 par David Amiel et d'autres député·es, dont Olivier Becht (cosignataire). Elle facilite l'attribution aux agents publics de logements sociaux liés à une fonction, augmente les droits de réservation des employeurs publics qui apportent du terrain, permet de déroger au plan local d'urbanisme pour construire des logements sur un foncier public et demande un rapport sur un « Action Logement du secteur public ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-03",
+          "value": 1,
+          "quote": "Ce texte propose de simplifier ces procédures en conférant, aux administrations qui souhaitent reconvertir ou construire des logements pour leurs agents sur une partie de leurs fonciers, la possibilité de déroger aux plans locaux d’urbanisme.",
+          "page": "5",
+          "note": "Mesure partielle : l'article 4 permet, par décision motivée, de déroger aux règles du plan local d'urbanisme pour construire des logements sur un foncier public, sans allègement général des normes de construction."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-04-seance-ddadue",
+      "date": "2025-04-02",
+      "title": "Intervention en séance sur le texte de la commission mixte paritaire du projet de loi Ddadue",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N157",
+      "publisher": "Assemblée nationale",
+      "summary": "Compte rendu intégral de la première séance du 2 avril 2025 : dans la discussion générale sur le texte de la commission mixte paritaire du projet de loi Ddadue, Olivier Becht, pour le groupe EPR, défend les exemptions à la protection des espèces pour les projets d'énergies renouvelables. Il rappelle que son groupe a soutenu la suppression de l'article 35, qui avançait de 2040 à 2035 l'objectif national de fin de vente des voitures thermiques, en estimant qu'il faut « encore laisser un peu de temps, sans renoncer évidemment à l'objectif visé ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-04",
+          "value": -1,
+          "quote": "Pour conclure, je rappelle que nous avons soutenu –⁠ et même proposé, n’est-ce pas, madame la rapporteure ? – la suppression de l’article 35 qui prévoyait d’avancer à 2035 au lieu de 2040 le passage de la voiture thermique à la voiture électrique.",
+          "note": "Il a soutenu (et dit avoir proposé) la suppression de l'article 35, qui avançait de 2040 à 2035 l'objectif national de fin de vente des voitures thermiques, car « il faut encore laisser un peu de temps, sans renoncer évidemment à l'objectif visé » : opposé à l'échéance de 2035 mais pas à l'objectif, d'où −1."
+        },
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Certes, j’entends ce que disent nos amis écologistes : ne va-t-on pas finalement trop loin dans les exemptions ? Mais le problème, si on souhaite à tout prix protéger toutes les espèces, c’est qu’on ne pourrait plus installer d’éoliennes…",
+          "inferred": true,
+          "note": "Déduction : il défend les exemptions à la protection des espèces pour les renouvelables au motif qu'à défaut on ne pourrait plus installer d'éoliennes, ce qui est incompatible avec un moratoire sur les nouveaux parcs éoliens, sans que celui-ci soit évoqué : −1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "becht-2025-02-tribune-auto-entrepreneurs",
+      "date": "2025-02-23",
+      "title": "Tribune collective « Encourageons le travail, ne punissons pas les auto-entrepreneurs ! » (cosignataire)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.latribune.fr/la-tribune-dimanche/opinions/opinion-encourageons-le-travail-ne-punissons-pas-les-auto-entrepreneurs-par-gabriel-attal-olivia-gregoire-et-guillaume-kasbarian-1019004.html",
+      "publisher": "La Tribune Dimanche (tribune cosignée par Olivier Becht)",
+      "summary": "Tribune de Gabriel Attal, Olivia Grégoire et Guillaume Kasbarian publiée le 23 février 2025 dans La Tribune Dimanche, cosignée par 100 parlementaires EPR et RDPI dont Olivier Becht. Elle demande au gouvernement de renoncer à l'abaissement des seuils de TVA des micro-entrepreneurs et affirme que la réduction des déficits doit venir de réformes structurelles de l'État plutôt que de hausses d'impôts sur les entreprises et les travailleurs.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 1,
+          "quote": "La réduction des déficits publics viendra de réformes structurelles de l'État et des pouvoirs publics, qui doivent être exemplaires et sobres. Et non en taxant davantage les entreprises et les travailleurs.",
+          "note": "La tribune fait venir la réduction des déficits de réformes structurelles d'un État « exemplaire et sobre » et d'économies plutôt que de hausses d'impôts, sans objectif chiffré ni mention du seuil de 3 % : orientation, +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2024-11-commission-ddadue",
+      "date": "2024-11-27",
+      "title": "Interventions en commission du développement durable sur le projet de loi d'adaptation au droit de l'Union européenne (Ddadue)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2025PO419865N016.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Compte rendu n° 16 de la commission du développement durable de l'Assemblée nationale (27 novembre 2024), qui examinait le projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne (n° 529). Olivier Becht (EPR) y soutient l'article 25 sur les exemptions à la protection des espèces pour les projets d'énergies renouvelables et s'oppose à une hausse des sanctions visant les centres de données. Tout en jugeant que l'objectif d'interdiction de la vente des véhicules thermiques ne doit pas être abandonné, il s'interroge sur le réalisme de l'échéance de 2035 et adhère à la proposition de surseoir à statuer sur l'article 35.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Ce serait une folie de bloquer le déploiement des énergies renouvelables, il y va de la survie de l’ensemble des espèces sur cette planète.",
+          "inferred": true,
+          "note": "Déduction : il soutient l'article 25 (exemptions à la protection des espèces pour les projets renouvelables) et ajoute, à propos de l'impact des panneaux solaires et des éoliennes, qu'« il faut l'assumer », ce qui exclut un moratoire éolien sans que celui-ci soit évoqué : −1 déduit."
+        },
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "Dans le cadre de la politique d’attractivité, plusieurs grands projets sont en cours pour accueillir des centres de données en France. Cela permettra d’assurer notre souveraineté numérique et donc de protéger les données de nos concitoyens.",
+          "note": "Il salue les projets d'accueil de centres de données en France au nom de la souveraineté numérique et s'oppose à une hausse des sanctions pour ne pas inquiéter les investisseurs étrangers, sans parler de procédures simplifiées : orientation, +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2024-11-vote-mercosur",
+      "date": "2024-11-26",
+      "title": "Scrutin public n°456 — déclaration du Gouvernement sur les négociations relatives à l'accord d'association UE-Mercosur (article 50-1 de la Constitution)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+      "publisher": "Assemblée nationale",
+      "summary": "Olivier Becht figure nommément dans la liste « Pour » du groupe Ensemble pour la République. La déclaration du Gouvernement, qui affirmait l'opposition de la France à l'accord tel qu'envisagé par la Commission européenne, a été approuvée par 485 voix contre 69.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 1,
+          "quote": "l’accord, tel que la Commission européenne l’envisagerait, n’est pas acceptable, et le gouvernement français et le président de la République s’y opposent donc pleinement, résolument.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N051",
+          "inferred": true,
+          "note": "Extrait de la déclaration de la ministre Annie Genevard ; vote personnel « Pour » : opposition à l'accord en l'état, non rejet de principe, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2024-10-ppl-447",
+      "date": "2024-10-15",
+      "title": "Proposition de loi n°447 contre toutes les fraudes aux aides publiques (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0447_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 15 octobre 2024 par Thomas Cazenave et d'autres député·es, dont Olivier Becht (cosignataire). Elle prévoit la suspension du versement d'aides publiques en cas d'indices de fraude, élargit les échanges d'informations entre administrations (notamment entre préfectures et organismes de protection sociale) et renforce la lutte contre les fraudes à la rénovation énergétique et aux certificats d'économies d'énergie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "L’article 2 permet ensuite des échanges d’informations en matière de fraude à l’identité et documentaire entre services des préfectures et les organismes de protection sociale. La fraude à l’identité et documentaire est l’un des principaux supports des fraudes sociales.",
+          "page": "4",
+          "note": "Renforcement partiel de la lutte contre la fraude sociale (échanges d'informations entre préfectures et organismes de protection sociale, article 2 ; suspension des aides en cas d'indices de fraude, article 1er), sans carte Vitale biométrique ou fusionnée."
+        }
+      ]
+    },
+    {
+      "id": "becht-2024-10-ppl-justice-mineurs",
+      "date": "2024-10-15",
+      "title": "Proposition de loi n°448 visant à restaurer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0448_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 15 octobre 2024, présentée par Gabriel Attal et cosignée par Olivier Becht. Elle crée une comparution immédiate pour les mineurs et revoit l'atténuation de la peine (article 5) ; il a voté le texte issu de la commission mixte paritaire le 13 mai 2025 (scrutin n°1624).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-06",
+          "value": 1,
+          "quote": "À compter de 16 ans, une dérogation au principe de l’atténuation de la peine est possible mais elle doit être motivée par la juridiction sauf si les faits ont été commis en état de récidive légale",
+          "page": "5",
+          "note": "Dès 16 ans, la dérogation à l'atténuation est facilitée, et la règle est inversée en cas de nouvelle récidive pour les infractions les plus graves (sauf décision motivée) ; ce n'est pas une suppression générale, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2024-09-ppl-204",
+      "date": "2024-09-17",
+      "title": "Proposition de loi n°204 relative à l’accompagnement des malades et de la fin de vie (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0204_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 17 septembre 2024 par Olivier Falorni, Yaël Braun-Pivet et des député·es de plusieurs groupes, dont Olivier Becht (cosignataire). Elle renforce les soins palliatifs et d'accompagnement et crée une aide à mourir réservée aux personnes majeures, de nationalité française ou résidant de façon stable et régulière en France, atteintes d'une affection grave et incurable qui engage le pronostic vital, en phase avancée ou terminale, présentant une souffrance physique ou psychologique réfractaire aux traitements ou insupportable, et aptes à manifester leur volonté de façon libre et éclairée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "C’est pour cela que ce texte propose un ultime recours, celui d’une aide à mourir pour des malades condamnés par la maladie mais qui ne veulent pas être condamnés à l’agonie.",
+          "page": "5",
+          "note": "L'article 22 crée l'aide à mourir et l'article 24 en fixe les conditions cumulatives : majorité, affection grave et incurable engageant le pronostic vital en phase avancée ou terminale, souffrance réfractaire ou insupportable, volonté libre et éclairée."
+        }
+      ]
+    },
+    {
+      "id": "becht-2024-09-ppl-service-medical",
+      "date": "2024-09-17",
+      "title": "Proposition de loi n°195 visant à garantir une offre de soins dans les zones sous dotées en médecine générale et spécialisée par la mise en place d'un service civique médical basé sur le volontariat (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0195_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi enregistrée le 17 septembre 2024, présentée par Géraldine Bannier, dont Olivier Becht est le deuxième signataire. Elle propose un service médical citoyen d'un an pour les médecins nouvellement diplômés dans les zones sous-denses, fondé sur le volontariat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": -1,
+          "quote": "Sans vouloir remettre en cause la liberté de choisir leur lieu d’installation tout au long de leur carrière, ni le choix des professionnels de travailler en libéral ou en tant que salarié, seul ou en groupe - ce que produirait par exemple une installation réglementée",
+          "page": "3",
+          "note": "Le texte écarte une installation réglementée au nom de la liberté d'installation et lui préfère un dispositif volontaire ; ce rejet est posé en principe et non comme mesure, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2024-06-engagements-legislatives",
+      "date": "2024-06-14",
+      "title": "« Nos engagements » de la campagne des législatives de 2024 (site becht2024.fr)",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2024.fr/",
+      "publisher": "Olivier Becht (becht2024.fr)",
+      "summary": "DOCUMENT DE 2024 — Liste « Nos engagements » de sa campagne des élections législatives de 2024, toujours en ligne sur son site de député becht2024.fr. La page n'affiche pas de date ; ses métadonnées WordPress datent sa mise en ligne du 14 juin 2024 (page consultée le 28 septembre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-06",
+          "value": 2,
+          "quote": "Étendre le “Pass Culture” aux collégiens et lycéens",
+          "inferred": true,
+          "note": "Déduit : l'extension proposée du dispositif suppose son maintien."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1,
+          "quote": "Garantir le pouvoir d’achat avec des salaires et des retraites qui suivent l’inflation",
+          "note": "Engagement que les salaires suivent l'inflation, sans mécanisme précisé (le mot « indexation » n'est pas employé), d'où +1."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "Garantir le pouvoir d’achat avec des salaires et des retraites qui suivent l’inflation",
+          "note": "Engagement pour les retraites ; les minima sociaux ne sont pas mentionnés, d'où +1."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 1,
+          "quote": "Pas d’augmentation des impôts mais une baisse des dépenses de fonctionnement de l’Etat pour réduire notre déficit",
+          "note": "La baisse des dépenses de fonctionnement de l'État est préférée aux impôts pour réduire le déficit, sans objectif de 3 % du PIB, d'où +1."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Arrêter les augmentations prévues des prix de l’électricité et du gaz pour les ménages et les entreprises",
+          "note": "Blocage limité aux prix de l'électricité et du gaz : mesure partielle, d'où +1."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Recruter 5000 nouveaux magistrats et greffiers pour accélérer les jugements",
+          "note": "Hausse des moyens humains de la justice, sans objectif de doublement du budget, d'où +1."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Refuser d’envoyer des troupes françaises au sol en Ukraine : la France ne doit pas entrer en guerre ! Poursuivre l’aide matérielle européenne à l’Ukraine face à la Russie.",
+          "note": "Poursuite de l'aide matérielle, sans mention de durée ni d'armes de longue portée, d'où +1."
+        }
+      ]
+    }
+  ]
+}

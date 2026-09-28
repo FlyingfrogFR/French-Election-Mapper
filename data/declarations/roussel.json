@@ -2,6 +2,29 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-09-loi-sru",
+      "date": "2026-09-26",
+      "title": "« Vite une loi SRU 2, avec un taux de logements sociaux porté à 30% ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.pcf74.fr/2026/09/vite-une-loi-sru-2-avec-un-taux-de-logements-sociaux-porte-a-30.html",
+      "publisher": "Parti communiste français, fédération de Haute-Savoie (pcf74.fr)",
+      "summary": "Communiqué du PCF publié le 26 septembre 2026 sur pcf.fr (https://www.pcf.fr/une_loi_sru_2_avec_un_taux_de_logements_sociaux_porte_a_30, page protégée contre la lecture automatisée et non archivée ; publication attestée par le flux RSS officiel du site), repris le même jour par la fédération PCF de Haute-Savoie. Affirmant que l'extrême droite veut supprimer la loi SRU, « le PCF et Fabien Roussel » proposent de porter le taux obligatoire de logements sociaux de 25 % à 30 % en zone urbaine, de produire 200 000 logements sociaux par an pendant cinq ans et de rétablir une aide à la pierre « ambitieuse et pérenne ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Le PCF et Fabien Roussel proposent d'aller plus loin, et de la renforcer. En 2000, à l'origine le taux de logements sociaux imposé par la loi SRU était de 20%. Ce taux a été porté à 25% en 2013. 13 ans après, il est temps de le porter à 30% en zone urbaine.",
+          "note": "Communiqué du PCF qui attribue expressément la proposition à Fabien Roussel, candidat désigné : garder la loi SRU et porter l'obligation de 25 % à 30 % en zone urbaine. C'est plus précis que le programme de 2023, et la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-09-fete-humanite",
       "date": "2026-09-15",
       "title": "Fête de l'Humanité 2026 - discours de Fabien ROUSSEL",

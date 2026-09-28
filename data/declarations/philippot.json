@@ -372,12 +372,12 @@
     },
     {
       "id": "philippot-lp-petition-3-octobre",
-      "date": "2026-09-01",
+      "date": "2026-09-15",
       "title": "Pétition « Le 3 octobre 2026 : toute la France dans la rue ! »",
       "sourceType": "communique",
       "sourceUrl": "https://les-patriotes.fr/le-3-octobre-2026-toute-la-france-dans-la-rue/",
       "publisher": "Les Patriotes (site officiel du parti)",
-      "summary": "Appel à manifestation publié sur le site du parti (septembre 2026). (Date du document : 2026-09 ; jour inconnu.)",
+      "summary": "Appel à manifestation publié sur le site du parti (septembre 2026). (Publié le 15/09/2026, date de publication donnée par l’API WordPress du site.)",
       "review": {
         "status": "pending",
         "reviewers": [],

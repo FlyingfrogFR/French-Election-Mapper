@@ -2,6 +2,37 @@
   "candidateId": "faure",
   "declarations": [
     {
+      "id": "faure-2026-09-profession-foi",
+      "date": "2026-09-24",
+      "title": "Profession de foi d'Olivier Faure pour la primaire « Choisir 2027 » (« Pour une France + juste ! »)",
+      "sourceType": "programme",
+      "sourceUrl": "https://choisir2027.fr/wp-content/uploads/2026/09/Prof.foi_A4_OF-1.pdf",
+      "publisher": "Olivier Faure (profession de foi publiée sur sa fiche du site de la primaire « Choisir 2027 », choisir2027.fr, édité par l'AFDGS)",
+      "summary": "Profession de foi de deux pages, sans date imprimée, mise en ligne le 24 septembre 2026 sur sa fiche du site de la primaire (un premier fichier au texte identique à deux coquilles près avait été téléversé sur le site la veille) : une lettre « Au peuple de gauche » où il présente sa candidature et le rassemblement de la gauche et des écologistes comme la seule méthode pour gagner, puis dix-huit propositions en quatre rubriques (Redresser la France, Vivre dignement, Réorienter l'économie, Préparer demain).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Augmenter le SMIC à 1700€ net",
+          "page": "2",
+          "note": "Il propose de porter le SMIC à 1 700 € net (1 690 € net dans le tract du 15 septembre 2026 et dans le projet socialiste) ; valeur inchangée."
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Généraliser l’encadrement des loyers et faciliter la réquisition des logements vacants en zone tendue",
+          "page": "2",
+          "note": "Il propose de généraliser l'encadrement des loyers ; valeur inchangée par rapport au tract du 15 septembre 2026."
+        }
+      ]
+    },
+    {
       "id": "faure-2026-08-ppl-3106",
       "date": "2026-08-11",
       "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
