@@ -14,6 +14,7 @@
     "data:apply-veille": "tsx scripts/apply-veille.ts",
     "data:brief": "tsx scripts/brief.ts",
     "data:build": "tsx scripts/build-dataset.ts",
+    "data:check-cosigners": "tsx scripts/check-cosigners.ts",
     "data:check-quotes": "tsx scripts/check-quotes.ts",
     "data:freshness": "tsx scripts/freshness.ts",
     "data:parlement": "tsx scripts/parlement.ts",
