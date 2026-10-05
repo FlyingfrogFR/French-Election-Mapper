@@ -2,6 +2,151 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-10-breve-franchises",
+      "date": "2026-10-04",
+      "title": "Logique gouvernementale : malades, donc taxés (brève)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/logique-gouvernementale-malades-donc-taxes-197649.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée du site de Lutte ouvrière (04/10/2026) sur le plafond annuel des franchises médicales et participations forfaitaires, porté de 100 à 140 euros au 1er octobre. La brève qualifie cette hausse d'« attaque de plus » contre les classes populaires.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Depuis le 1er octobre, le plafond annuel des franchises médicales et participations forfaitaires est passé de 100 à 140 euros. C’est une attaque de plus dans l’arsenal gouvernemental contre les classes populaires.",
+          "note": "Brève du parti, dont Nathalie Arthaud est la candidate désignée. Remplace le −1 déduit de l'éditorial du 21/09/2026, qui ne nommait pas les franchises : la brève rejette explicitement la hausse de leur plafond, dans la même orientation."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-10-breve-taxe-benefices",
+      "date": "2026-10-04",
+      "title": "Pleure pas la bouche pleine (brève)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/pleure-bouche-pleine-197651.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée du site de Lutte ouvrière (04/10/2026). Le Medef affirme que le prochain budget « étrangle » les patrons ; la brève admet que « des petits patrons » sont « sous l'eau », mais répond que ce budget prévoit une baisse de 2 milliards de la taxe exceptionnelle sur les bénéfices des grosses entreprises, qui annoncent des profits record.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "le prochain budget prévoit une baisse de 2 milliards de la taxe exceptionnelle sur les bénéfices des grosses entreprises, alors qu’elles annoncent des profits record, et silence est fait sur les milliards versés au grand patronat dans ce même budget.",
+          "inferred": true,
+          "note": "Brève du parti, dont Nathalie Arthaud est la candidate désignée. Elle oppose la baisse de la taxe exceptionnelle sur les bénéfices des grandes entreprises à leurs « profits record », et qualifie de « conte » l'idée de « capitalistes étranglés par l'État ». L'impôt sur les sociétés en général et les impôts de production ne sont pas nommés. (Force ramenée de -2 à -1 en relecture : Citation exacte et signe juste : la brève désapprouve la baisse de la taxe exceptionnelle sur les bénéfices des « grosses entreprises » et rejette le « conte » de « capitalistes étranglés par l'État ». Mais ce rejet reste implicite (« alors qu'elles annoncent des profits record »), ne vise que la surtaxe des grandes entreprises et ne nomme ni l'impôt sur les sociétés en général ni les impôts de production. La brève admet même que « des petits patrons » soient « sous l'eau ». La position sur l'affirmation, qui vaut pour toutes les entreprises, n'est donc qu'une orientation partielle : −1, déduite. C'est le traitement de l'éditorial non signé du NPA-R (ramené à −1). Kazib, à −2, écrivait explicitement « On ne peut pas laisser passer ça ».)"
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-10-edito-lyceens",
+      "date": "2026-10-04",
+      "title": "Vive la mobilisation lycéenne, et faisons naître celle des travailleurs ! Mardi 6 octobre, tous mobilisés ! (éditorial)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/vive-mobilisation-lyceenne-faisons-naitre-travailleurs-mardi-6-octobre-mobilises-197642.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud, publié le 04/10/2026. Il soutient la mobilisation lycéenne, dénonce le manque de moyens des lycées populaires et une police qui, selon lui, « intervient avec brutalité » contre les lycéens, et appelle à manifester le 6 octobre. Il demande que le Premier ministre « remballe sa copie budgétaire » (pensions, APL, allocations familiales, remboursement des médicaments) et que l'argent aille « à l'éducation, pas aux marchands de canon ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-11",
+          "value": 1,
+          "quote": "Et plus les établissements sont populaires, moins ils ont de moyens. Les lycéens, à commencer par ceux des banlieues ouvrières, sont laissés pour compte et méprisés. Cette réalité doit nous révolter autant que les jeunes.",
+          "inferred": true,
+          "note": "Dénonce le fait que les établissements les plus populaires aient le moins de moyens, et demande plus loin que l'argent aille « à l'éducation ». Ni l'éducation prioritaire ni l'ampleur d'une hausse ne sont précisées, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-09-breve-retraites-65-ans",
+      "date": "2026-09-30",
+      "title": "Retraites : En campagne pour le grand patronat (brève)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/retraites-campagne-grand-patronat-197487.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée du site de Lutte ouvrière (30/09/2026). Elle qualifie le report de l'âge de départ à 65 ans et l'exigence de 45 années de cotisation, relayés par Édouard Philippe, de « revendications révoltantes du Medef », et conclut « N'acceptons pas ! ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Âge de départ repoussé à 65 ans, 45 années de cotisation pour espérer toucher une pension complète… Édouard Philippe relaie les revendications révoltantes du Medef.",
+          "note": "Brève du parti, dont Nathalie Arthaud est la candidate désignée : rejet explicite d'un report de l'âge de départ à 65 ans (« N'acceptons pas ! »)."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-09-discours-mutualite",
+      "date": "2026-09-29",
+      "title": "Meeting du 26 septembre 2026 à Paris : discours de Nathalie Arthaud",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Texte intégral, publié le 29/09/2026 sur le portail de Lutte ouvrière, du discours de Nathalie Arthaud au meeting de la Mutualité (Paris, 26/09/2026). Des extraits ont paru dans Lutte ouvrière n° 3035 (numéro daté du 02/10/2026, article mis en ligne le 30/09/2026). Elle y présente sa candidature comme celle du « camp des travailleurs » et affirme que les livraisons d'armes françaises à l'Ukraine servent les industriels de l'armement. Elle qualifie de « révoltantes » la « préférence nationale » et l'interdiction du voile dans l'espace public proposées par Marine Le Pen, critique la multiplication des centres de données et défend un Smic à 2 200 € nets ainsi que la répartition du travail sans licenciement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Mais si la France intervient de plus en plus dans cette guerre, si l’armée déploie des avions de combat dans le ciel des pays baltes, si elle livre des missiles et des canons, ce n’est pas « pour aider l’Ukraine ». C’est pour aider Dassault, Thales, Safran et MBDA",
+          "inferred": true,
+          "note": "Le discours conteste que les livraisons françaises de « missiles » et de « canons » visent à « aider l'Ukraine » : selon lui, elles servent les industriels de l'armement. Il dénonce aussi la « coalition des volontaires », qui « ne cesse d'élargir ses missions pour aider l'Ukraine à poursuivre la guerre ». L'arrêt de l'aide militaire n'est pas formulé tel quel. Même valeur que la brochure de juin 2026, sur un passage plus précis."
+        },
+        {
+          "questionId": "lib-01",
+          "value": -2,
+          "quote": "Préférence nationale, interdiction du voile dans l’espace public, intensification de la chasse aux sans-papiers… Le Pen peut trouver 1 000 façons de leur pourrir la vie, toutes aussi révoltantes les unes que les autres.",
+          "inferred": true,
+          "note": "Remplace le −1 tiré de l'article non signé de la revue Lutte de classe (13/09/2026). Ici, la candidate range elle-même l'interdiction du voile dans l'espace public proposée par Le Pen parmi des mesures « toutes aussi révoltantes les unes que les autres ». Les autres signes religieux ne sont pas évoqués, d'où la position déduite."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Nous défendrons le SMIC à 2 200 € nets. Pas pour faire plus radical que les autres candidats de gauche, mais parce qu’à moins de 2 200 €, est-ce qu’on est à l’abri du besoin, de la galère quand sa voiture tombe en panne ou d’un accident de la vie, comme on dit ? Non !",
+          "note": "Engagement de campagne (« Nous défendrons ») pour un Smic à 2 200 € nets. Le discours présente le programme comme « un plan de combat » et non comme « un programme électoral », sans dire si la hausse passerait par une décision de l'État. Même valeur que l'éditorial du 07/09/2026, qui disait seulement qu'on « peut » assurer ce Smic."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Alors, nous disons qu’il faut répartir le travail entre tous, sans diminution de salaire. S’il y a moins de travail dans une entreprise, si l’IA fait une partie de ce que l’on faisait, eh bien, on réduit les horaires de tous, mais on ne licencie personne et on maintient les salaires.",
+          "inferred": true,
+          "note": "Refus de tout licenciement quand le travail diminue, avec réduction des horaires de tous sans perte de salaire. C'est plus explicite que la brochure de juin 2026, qui ne formulait pas ce refus tel quel. Le lien avec le versement de dividendes n'est pas fait, et la revendication relève d'un « plan de combat » plutôt que d'une loi. Même valeur."
+        },
+        {
+          "questionId": "num-04",
+          "value": -1,
+          "quote": "Maintenant, les projets de data centers se multiplient. Personne ne sait s’il y aura l’énergie électrique suffisante et les énormes quantités d’eau nécessaires pour les refroidir. Mais on y va ! On y va, à l’heure où nous nous prenons le réchauffement climatique et la sécheresse de plein fouet.",
+          "inferred": true,
+          "note": "Critique la multiplication des projets de centres de données, lancés sans garantie d'électricité ni d'eau en pleine sécheresse, et une IA mise au service de la rentabilité. Elle ne rejette pas l'IA en soi (« Si l'IA était mise au service de nos besoins vitaux… »), et les procédures simplifiées ne sont pas évoquées, d'où −1."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-09-edito-colere",
       "date": "2026-09-28",
       "title": "Le 29 septembre et après, faisons éclater notre colère ! (éditorial)",

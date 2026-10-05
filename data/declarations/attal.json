@@ -2,6 +2,64 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-09-cnews",
+      "date": "2026-09-30",
+      "title": "Gabriel Attal sur CNEWS et Europe 1 : « Il faut proposer aux Français un projet d’espoir »",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-sur-cnews-et-europe-1-il-faut-proposer-aux-francais-un-projet-d-espoir",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié par la campagne, de l’entretien du 30 septembre 2026 sur CNEWS et Europe 1. Il y évoque les blocages de lycées (comparution immédiate pour les mineurs, évolution de l’excuse de minorité, conseil de discipline dès le primaire), l’antisémitisme et le budget, et défend sur les retraites un système universel sans âge légal de départ, avec décote et surcote, et l’introduction d’une part de capitalisation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Gabriel Attal souhaite également introduire une part de capitalisation dans le système de retraite. L’épargne ainsi constituée aurait notamment vocation, dans son projet, à contribuer au financement de l’innovation et de l’économie française.",
+          "note": "Même valeur que les déclarations précédentes : introduction d’une part de capitalisation dans le système de retraite, l’épargne constituée devant contribuer au financement de l’innovation et de l’économie française."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-09-afer",
+      "date": "2026-09-29",
+      "title": "Aux Assises de l’AFER, Gabriel Attal défend une épargne qui finance l’économie française",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/aux-assises-de-l-afer-gabriel-attal-defend-une-epargne-qui-finance-l-economie-francaise",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié par la campagne, de l’intervention de Gabriel Attal aux Assises de l’Association française d’épargne et de retraite (AFER). Il y défend une baisse de la pression fiscale sans hausse de la fiscalité sur l’héritage ni sur l’assurance-vie, la facilitation des donations du vivant, le développement de la retraite par capitalisation en complément de la répartition (ouverture d’un plan d’épargne retraite de 1 000 € par l’État, que parents et grands-parents pourraient abonder jusqu’aux 18 ans de l’enfant ; orientation de 50 % de l’intéressement et de la participation vers des plans d’épargne retraite) et 150 milliards d’euros d’économies d’ici 2032.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Gabriel Attal défend le développement de la retraite par capitalisation , en complément du système par répartition. Il propose notamment l’ouverture d’un plan d’épargne retraite de 1000€ par l’État",
+          "note": "Même valeur que les déclarations précédentes : développement de la retraite par capitalisation en complément de la répartition, avec l’ouverture d’un plan d’épargne retraite de 1 000 € par l’État et 50 % de l’intéressement et de la participation orientés vers l’épargne retraite."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Le redressement des comptes publics doit d’abord passer par une réduction des dépenses. Il défend 150 milliards d’euros d’économies d’ici 2032 , avec un effort portant notamment sur les retraites, l’assurance-chômage, les arrêts maladie et les indemnités journalières",
+          "note": "Même valeur que le plan de désendettement du 23 septembre : le redressement des comptes publics doit passer « d’abord » par la réduction des dépenses (150 milliards d’euros d’économies d’ici 2032) ; l’objectif de déficit sous 3 % du PIB n’est pas rappelé sur cette page."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 0,
+          "quote": "Sur les successions, il a réaffirmé son opposition à toute hausse de la fiscalité sur l’héritage. Il souhaite au contraire faciliter et fluidifier les donations du vivant , notamment en direction des petits-enfants, petits-neveux et petites-nièces.",
+          "note": "Même valeur que l’entretien LCI d’août : il s’oppose à toute hausse de la fiscalité sur l’héritage et veut faciliter les donations du vivant, sans proposer de baisse des droits de succession ni détailler la fiscalité des donations."
+        }
+      ]
+    },
+    {
       "id": "attal-2026-09-rtl",
       "date": "2026-09-25",
       "title": "Gabriel Attal sur RTL : « Je suis candidat pour gagner cette élection présidentielle »",

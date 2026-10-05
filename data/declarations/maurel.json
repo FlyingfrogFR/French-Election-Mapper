@@ -2,6 +2,30 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-10-lyceens-etudiants",
+      "date": "2026-10-02",
+      "title": "Communiqué de la Gauche Républicaine et Socialiste : « Le gouvernement doit répondre aux aspirations légitimes des lycéens et des étudiants »",
+      "sourceType": "communique",
+      "sourceUrl": "https://g-r-s.fr/le-gouvernement-doit-repondre-aux-aspirations-legitimes-des-lyceens-et-des-etudiants/",
+      "publisher": "Gauche Républicaine et Socialiste (g-r-s.fr)",
+      "summary": "Communiqué de presse de la Gauche Républicaine et Socialiste, parti dont Emmanuel Maurel est l'animateur national et le candidat à la primaire « Choisir 2027 », daté du vendredi 2 octobre 2026 et sans signature individuelle (mis en ligne sur g-r-s.fr par Frédéric Faravel), sur la mobilisation des lycéens qui prend de l'ampleur depuis le 21 septembre. Il juge leurs revendications légitimes, qualifie d'intolérables certains comportements violents, reproche au pouvoir d'avoir encouragé une réponse « disproportionnée » des forces de l'ordre et demande au gouvernement de cesser d'aborder le mouvement « sous le seul angle sécuritaire », d'ouvrir un dialogue et de redonner la priorité à l'Éducation nationale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-11",
+          "value": 1,
+          "quote": "Les forces de l’ordre doivent protéger les biens et les personnes, mais elles doivent aussi et surtout protéger la liberté d’expression en République. Cet équilibre est aujourd’hui rompu.",
+          "inferred": true,
+          "note": "Position de parti, déduite : communiqué de presse de la GRS sans signature individuelle (parti dont Maurel est l'animateur national et le candidat à la primaire, sans démarcation constatée de sa part) qui, à propos des manifestations lycéennes, écrit que les forces de l'ordre doivent « aussi et surtout » protéger la liberté d'expression tout en parlant d'« équilibre » avec la protection des biens et des personnes, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-09-profession-de-foi",
       "date": "2026-09-24",
       "title": "Profession de foi d'Emmanuel Maurel pour la primaire de la gauche socialiste et démocratique : « La gauche au rendez-vous du sursaut français »",

@@ -2,6 +2,63 @@
   "candidateId": "philippot",
   "declarations": [
     {
+      "id": "philippot-2026-09-projet-v2",
+      "date": "2026-09-30",
+      "title": "Grandes orientations pour un projet patriote – édition 2026-2027, version 2 (+ Le Frexit en 10 questions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "publisher": "Les Patriotes (site officiel du parti)",
+      "summary": "Version 2 du livret-programme des Patriotes, le parti présidé par Florian Philippot. Elle a été mise en ligne le 30 septembre 2026 selon l'API WordPress du site, et la page « Projet pour la France » ne renvoie plus qu'à elle ; le PDF, sans date imprimée, a été exporté le 24/09/2026 selon ses métadonnées. Le texte reprend celui de la première version, déjà enregistrée (déclaration du 3 septembre 2026), aux corrections typographiques près : seules des affirmations que cette première version ne couvrait pas sont encodées ici, et les numéros de page sont ceux du fichier PDF.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "Créer le référendum d’initiative citoyenne (RIC) sur tout sujet et l’inscrire dans la Constitution.",
+          "page": "2",
+          "inferred": true,
+          "note": "Livret du parti présidé par le candidat ; déduite : un RIC « sur tout sujet » ouvrirait le référendum à tous les domaines, mais le livret ne vise pas l'article 11 et ne nomme pas les questions de société."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "L’objectif est de mettre un terme à la politique d’immigration massive en revenant à des flux extrêmement limités et en reconduisant aux frontières ceux qui n’ont rien à faire en France.",
+          "page": "10",
+          "inferred": true,
+          "note": "Livret du parti présidé par le candidat ; déduite : l'objectif de flux « extrêmement limités » s'oppose à un accueil accru, mais l'asile n'est pas traité en tant que tel (le livret veut aussi échapper au Pacte migratoire de l'UE et à la répartition des migrants)."
+        },
+        {
+          "questionId": "imm-09",
+          "value": -1,
+          "quote": "Mettre fin à l’immigration de travail et à la directive européenne des travailleurs détachés.",
+          "page": "10",
+          "inferred": true,
+          "note": "Livret du parti présidé par le candidat ; déduite : la fin de l'immigration de travail exclut de faciliter le maintien au travail des diplômés étrangers, dont le livret ne parle pas."
+        },
+        {
+          "questionId": "san-04",
+          "value": -1,
+          "quote": "Les réformes récentes, exigées par la Commission européenne, visant à raboter les indemnités chômage, à fermer des lits à l’hôpital ou à arrêter le remboursement des médicaments pourront être supprimées.",
+          "page": "4",
+          "inferred": true,
+          "note": "Livret du parti présidé par le candidat ; déduite : vouloir pouvoir supprimer les réformes visant à « arrêter le remboursement des médicaments » va contre une hausse du reste à charge, mais le livret ne nomme ni les franchises ni les participations forfaitaires."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Renvoyer les clandestins chez eux et appliquer les OQTF (Obligation de Quitter le Territoire). Du fait d’une directive européenne (la directive « retour »), la France n’a pas le droit de renvoyer immédiatement un clandestin dans son pays d’origine.",
+          "page": "10",
+          "inferred": true,
+          "note": "Livret du parti présidé par le candidat ; déduite : le livret veut appliquer les OQTF et renvoyer immédiatement, sans le délai de départ volontaire de la directive « retour », mais il ne nomme pas le placement systématique en rétention."
+        }
+      ]
+    },
+    {
       "id": "philippot-2026-09-appel-paix",
       "date": "2026-09-02",
       "title": "Appel national pour la Paix !",

@@ -2,6 +2,64 @@
   "candidateId": "hollande",
   "declarations": [
     {
+      "id": "hollande-2026-09-lettre-ia",
+      "date": "2026-09-28",
+      "title": "Tribune « IA : rien n’est perdu pour la France » (lettre Substack de François Hollande)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://francoishollande.substack.com/p/ia-rien-nest-perdu-pour-la-france",
+      "publisher": "François Hollande (lettre signée, francoishollande.substack.com)",
+      "summary": "Texte signé par François Hollande et publié le 28 septembre 2026 sur sa lettre Substack. Il y estime que la France peut tirer parti de l’intelligence artificielle grâce à son parc nucléaire, à son électricité décarbonée et à ses filières industrielles, et formule six propositions : un nouveau plan « France 2030 » centré sur l’IA dans les industries essentielles ; l’IA dans les administrations, avec réaffectation des postes libérés aux hôpitaux, aux EHPAD et aux écoles ; un plan national d’infrastructures (prolongation et extension des centrales nucléaires, petits réacteurs, data centers) ; la commande publique au service de Mistral et des autres « pépites » françaises de l’IA ; une régulation « sans étouffer », avec une contribution des multinationales qui captent la valeur des données et des œuvres et des règles portées au niveau européen ; une formation massive aux mathématiques, à l’ingénierie et aux métiers industriels.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Un nouveau plan « France 2030 », centré sur le déploiement de l’IA dans nos industries essentielles — énergie, aéronautique, automobile, santé, défense — plutôt que dispersé sur des centaines de projets sans ligne directrice, complété par un « Small business Act » en matière d’IA.",
+          "inferred": true,
+          "note": "Position déduite et partielle : il propose un nouveau plan public « France 2030 » ciblé sur le déploiement de l’IA dans les industries essentielles, présenté comme une « chance de réindustrialisation », et une commande publique favorable aux entreprises françaises, mais ni mesure de protection commerciale ni coût assumé."
+        },
+        {
+          "questionId": "env-01",
+          "value": 1,
+          "quote": "Un plan national doit sécuriser nos infrastructures : accélérer la prolongation et l’extension de nos centrales nucléaires, développer les petits réacteurs, et implanter en France les data centers dont notre industrie a besoin.",
+          "inferred": true,
+          "note": "Position déduite : il propose d’accélérer « l’extension » des centrales nucléaires et de « développer les petits réacteurs », donc des réacteurs en plus des six EPR2, sans nombre ni calendrier, d’où +1."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Un plan national doit sécuriser nos infrastructures : accélérer la prolongation et l’extension de nos centrales nucléaires, développer les petits réacteurs, et implanter en France les data centers dont notre industrie a besoin.",
+          "inferred": true,
+          "note": "Position déduite : proposer d’accélérer la prolongation et l’extension des centrales et de développer les petits réacteurs, en présentant le parc nucléaire comme un atout, exclut une sortie progressive du nucléaire, que le texte ne nomme pas."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "C’est une ambition industrielle à part entière, que la commande publique doit privilégier : achats de l’État, de la défense, des grands groupes publics, pour donner à nos champions la taille et les moyens de rivaliser sur les usages qui comptent le plus pour notre souveraineté",
+          "inferred": true,
+          "note": "Mesure voisine limitée à l’intelligence artificielle : les achats de l’État et de la défense doivent privilégier les champions français de l’IA au nom de la souveraineté, sans règle générale pour le matériel des armées ni mention d’un surcoût, d’où +1 déduit."
+        },
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "en faisant contribuer les multinationales qui captent la valeur de nos données et de nos œuvres pour financer la formation et la protection des travailleurs dont les métiers seront transformés, et en pesant sur l’Union européenne pour imposer nos propres règles du jeu",
+          "inferred": true,
+          "note": "Position déduite et partielle : il veut faire contribuer les multinationales qui captent la valeur des données et des œuvres et peser sur l’Union européenne pour imposer des règles (protection des données, rémunération des créateurs, lutte contre les monopoles) en voulant « réguler sans étouffer », sans nommer les plateformes ni prévoir d’action nationale si l’Union n’agit pas."
+        },
+        {
+          "questionId": "num-04",
+          "value": 1,
+          "quote": "Un plan national doit sécuriser nos infrastructures : accélérer la prolongation et l’extension de nos centrales nucléaires, développer les petits réacteurs, et implanter en France les data centers dont notre industrie a besoin.",
+          "note": "Il propose qu’un plan national permette d’« implanter en France les data centers dont notre industrie a besoin » et envisage un tarif de l’énergie dédié à l’IA, sans rien dire d’une simplification des procédures, d’où +1."
+        }
+      ]
+    },
+    {
       "id": "hollande-2026-09-tribune-dix-pour-cent",
       "date": "2026-09-23",
       "title": "Tribune « Dix pour cent » sur la hausse des salaires nets (Libre Journal)",

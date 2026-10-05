@@ -2,6 +2,29 @@
   "candidateId": "lisnard",
   "declarations": [
     {
+      "id": "lisnard-2026-10-afer",
+      "date": "2026-10-02",
+      "title": "David Lisnard aux Assises de l’AFER : « Être propriétaire, c’est être libre et responsable » (compte rendu publié par Nouvelle Énergie)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/david-lisnard-aux-assises-de-lafer-etre-proprietaire-cest-etre-libre-et-responsable/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié le 2 octobre 2026 par Nouvelle Énergie de l’intervention de David Lisnard au « grand oral » des Assises de l’AFER, le 29 septembre 2026 à Paris. Sujets abordés : dépense publique et prélèvements, retraite par capitalisation, épargne face à la dette publique, PEA et fiscalité de l’assurance-vie, à laquelle il s’engage à ne pas toucher.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Interrogé sur l’avenir du système de retraite, David Lisnard a défendu la mise en place progressive d’une capitalisation obligatoire , parallèlement au maintien d'un système par répartition comme filet de sécurité et de solidarité intergénérationnelle.",
+          "note": "Même valeur que le programme et que le compte rendu du discours de Saint-Raphaël : le compte rendu publié par son parti rapporte une mesure explicite (capitalisation obligatoire mise en place progressivement, répartition maintenue comme filet de sécurité), et il y déclare lui-même « je propose un système de capitalisme populaire »."
+        }
+      ]
+    },
+    {
       "id": "lisnard-2026-09-cnews-europe1",
       "date": "2026-09-03",
       "title": "David Lisnard sur CNews et Europe 1 : « Je veux une alternative, pas simplement une alternance »",
