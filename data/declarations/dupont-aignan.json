@@ -2,13 +2,80 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
+      "id": "dupont-aignan-2026-09-projet-logement",
+      "date": "2026-09-30",
+      "title": "Le Projet de Debout La France – Logement : « 30 mesures pour une France de propriétaires ! » (mise à jour du 30 septembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/logement/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique Logement du projet de Debout la France, publiée le 2022-09-15 et mise à jour le 2026-09-30 (dateModified 2026-09-30T18:07:22Z), jour où le parti a aussi mis en ligne une brochure PDF de quatre pages reprenant les 30 mesures (Logement-2026_09-30_brochure.pdf). Par rapport à la version du 2026-04-28 : la suppression des droits de succession sur les résidences principales n'est plus plafonnée à un million d'euros ; la sous-mesure « Rouvrir le prêt aux maisons individuelles sur tout le territoire » est retirée ; la mesure sur les plus-values immobilières vise désormais les prélèvements sociaux et non plus les « cotisations immobilières » ; les chiffres du constat sont actualisés. Les autres mesures sont inchangées. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti, dont Nicolas Dupont-Aignan est le président et le candidat déclaré.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Supprimer les droits de succession sur les résidences principales.",
+          "sourceUrl": "https://www.debout-la-france.fr/wp-content/uploads/2026/09/Logement-2026_09-30_brochure.pdf",
+          "page": "2",
+          "note": "Même mesure que dans le discours du 19/09/2026 ; la version du 2026-04-28 de la page la limitait à un plafond d'un million d'euros, retiré le 30/09/2026 (phrase identique dans la brochure PDF citée et sur la page en ligne)."
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Abandonner l’interdiction de location de logements sur la base du DPE pour remettre sur le marché les petits logements qui bénéficient aux étudiants et aux plus modestes.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 de la même page (et de la brochure du 30/09/2026)."
+        },
+        {
+          "questionId": "log-02",
+          "value": -1,
+          "quote": "Adapter la loi Solidarité et renouvellement urbain (SRU) en incluant les logements en accession sociale dans le quota des logements sociaux.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 : assouplissement du quota SRU (inclusion de l'accession sociale, construction de logements sociaux conditionnée au-delà de 50 %), pas de renforcement."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Cela rend nécessaire un allègement des normes , le déblocage de l’offre foncière et de nouvelles incitations fiscales à l’acquisition de logements.",
+          "note": "Phrase reprise de la version du 2026-04-28 (l'objectif de 400 000 logements par an est désormais fixé « d'ici 2028 ») ; la page propose aussi un permis de construire à destinations multiples et la conversion de bureaux en logements."
+        },
+        {
+          "questionId": "log-04",
+          "value": -2,
+          "quote": "Réformer intégralement la loi Climat et Résilience pour mettre fin à l’objectif de Zéro Artificialisation Nette (ZAN) afin de déverrouiller le marché des maisons individuelles en excluant leur terrain du calcul de l’artificialisation.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 de la même page."
+        },
+        {
+          "questionId": "log-06",
+          "value": 1,
+          "quote": "Réguler les locations de tourisme type Airbnb en harmonisant l’abattement fiscal par rapport aux locations standards et en donnant davantage de pouvoirs aux maires pour encadrer les biens saisonniers dans leur commune.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 : alignement de l'abattement fiscal sur celui des locations classiques, sans durcissement au-delà."
+        },
+        {
+          "questionId": "log-08",
+          "value": 1,
+          "quote": "Mettre en place une garantie universelle des loyers impayés pour sécuriser les propriétaires et encourager la mise en location , financée par les locataires à hauteur de 1% du loyer chaque mois.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 : garantie universelle, mais financée par les locataires (1 % du loyer) et non sur fonds publics."
+        },
+        {
+          "questionId": "log-09",
+          "value": 2,
+          "quote": "Rétablir un avantage fiscal type Pinel pour relancer le marché du neuf .",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 ; la page permet aussi aux bailleurs de passer du micro-foncier au régime réel sans engagement."
+        }
+      ]
+    },
+    {
       "id": "dupont-aignan-2026-09-projet-affaires-europeennes",
       "date": "2026-09-21",
       "title": "Le Projet de Debout La France – Affaires européennes : « Remplacer l’Union européenne par une communauté des nations libres et des projets à la carte »",
       "sourceType": "programme",
       "sourceUrl": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
       "publisher": "Debout la France (site officiel du parti)",
-      "summary": "Page thématique Affaires européennes du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-09-21 (dateModified). Sous le sous-titre « Europe : remplacer l’Union européenne par une communauté des nations libres et des projets à la carte ! », la page propose de mettre fin à l’Union européenne avec les pays volontaires et de la remplacer par une organisation intergouvernementale soumise à référendum. Les mesures déjà encodées depuis la version du 2024-02-05 (Schengen, Mercosur, clauses miroirs, marché de l’électricité, contribution nette, portefeuille numérique) y figurent toujours. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti dont Nicolas Dupont-Aignan est le candidat déclaré.",
+      "summary": "Page thématique Affaires européennes du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-09-21 (dateModified). Sous le sous-titre « Europe : remplacer l’Union européenne par une communauté des nations libres et des projets à la carte ! », la page propose d’organiser un référendum sur l’appartenance de la France à l’Union européenne : « si le peuple l'accepte par référendum », la France la quittera, puis bâtira avec les pays qui l’auront aussi quittée une organisation intergouvernementale de coopérations, elle-même approuvée par référendum. Les mesures déjà encodées depuis la version du 2024-02-05 (Schengen, Mercosur, clauses miroirs, marché de l’électricité, contribution nette, portefeuille numérique) y figurent toujours. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti dont Nicolas Dupont-Aignan est le candidat déclaré.",
       "review": {
         "status": "pending",
         "reviewers": [],

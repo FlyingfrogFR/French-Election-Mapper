@@ -2,6 +2,137 @@
   "candidateId": "asselineau",
   "declarations": [
     {
+      "id": "asselineau-2026-10-gp-tv",
+      "date": "2026-10-03",
+      "title": "François Asselineau invité de Nicolas Stoquer sur GP-TV – 01/10/2026",
+      "sourceType": "communique",
+      "sourceUrl": "https://upr.fr/medias/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-01-10-2026",
+      "publisher": "Union Populaire Républicaine (rubriques Analyses et Médias du site officiel)",
+      "summary": "Compte rendu, publié le 3 octobre 2026 par l'UPR sur son site, de l'entretien de François Asselineau avec Nicolas Stoquer sur GP-TV le 1er octobre 2026. Il y aborde la dette et les taux d'intérêt, la méthode du Frexit (article 50, conversion d'un euro en un nouveau franc), le marché unique et les accords de libre-échange, le financement de l'État par des emprunts souscrits par les Français, l'OTAN, dont il plaide pour « se libérer », une dissuasion strictement nationale et la collecte des parrainages.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Sur le Frexit, François Asselineau a rappelé sa méthode : l'activation de l'article 50 du traité sur l'Union européenne, qui ouvre une négociation de deux ans au plus avec les autres États membres.",
+          "note": "Méthode de sortie par l'article 50 rappelée ; même valeur que le programme de 2022."
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "Concernant la monnaie, il prévoit une conversion à parité, un nouveau franc pour un euro, et estime que la dépréciation qui s'ensuivrait, de l'ordre de 15 % face au dollar, favoriserait les exportations, réduirait le déficit commercial et soutiendrait l’emploi.",
+          "note": "La conversion à parité d'un euro en un nouveau franc est la modalité de sortie de l'euro qu'il prévoit ; même valeur que le programme de 2022."
+        },
+        {
+          "questionId": "def-02",
+          "value": -2,
+          "quote": "En matière internationale, il plaide pour se libérer de l'OTAN, un retour à la doctrine gaullienne d'une dissuasion strictement nationale et une politique de coopération avec l'ensemble du monde.",
+          "inferred": true,
+          "note": "Déduite : une dissuasion « strictement nationale » exclut son extension à la protection de partenaires européens ; même valeur que la position déduite des fondamentaux (incessibilité de l'arme nucléaire), exprimée ici plus directement."
+        }
+      ]
+    },
+    {
+      "id": "asselineau-2026-09-discours-rentree",
+      "date": "2026-09-30",
+      "title": "Discours de rentrée 2026 de François Asselineau : « la Libération nationale ! » (compte rendu publié par l'UPR)",
+      "sourceType": "discours",
+      "sourceUrl": "https://upr.fr/actualites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "publisher": "Union Populaire Républicaine (rubrique Actualités du site officiel)",
+      "summary": "Compte rendu, publié le 30 septembre 2026 par l'UPR sur son site, du discours de rentrée par lequel François Asselineau a officiellement lancé sa campagne présidentielle ; le texte présente les « grandes orientations et mesures phares » du discours, sans en donner la transcription. Mesures citées : notification de l'article 50 dès la première semaine du mandat, sortie de l'OTAN, arrêt des aides financières et militaires à l'Ukraine, contrôles aux frontières et des mouvements de capitaux, grand emprunt national, réduction du nombre de députés et de sénateurs, réduction de moitié du nombre de conseillers départementaux, suppression des régions, division par deux du budget de la présidence, RIC, protection constitutionnelle de la liberté d'expression, primauté du peuple sur le Conseil constitutionnel, inscription dans la Constitution de la France comme « République laïque de tradition chrétienne » et questionnaire de transparence pour les candidats.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Activation de l'article 50 (Frexit) : dès la première semaine de son mandat, il s'engage à notifier l'activation de l'article 50 du Traité sur l'Union européenne afin d'engager une procédure de sortie sous deux ans.",
+          "note": "Même valeur que le programme de 2022 ; le texte précise qu'il refuse un référendum préalable, son élection valant mandat."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Libération de l'OTAN : notification immédiate au Département d'État américain via l'article 13 pour faire sortir la France de l'alliance sous un an.",
+          "note": "Sortie de l'Alliance atlantique proposée (notification au titre de l'article 13 du traité), et pas seulement de son commandement intégré ; même valeur que le programme de 2022."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Guerre en Ukraine : arrêt immédiat de tout versement d'aides financières et militaires à l'Ukraine dès sa prise de fonction.",
+          "note": "Engagement explicite d'arrêter toute aide militaire à l'Ukraine dès sa prise de fonction ; même valeur (−2) que la position déduite de l'analyse du 24 août 2026, désormais fondée sur une mesure explicite."
+        },
+        {
+          "questionId": "ins-05",
+          "value": 2,
+          "quote": "Réduction drastique des élus et des structures : réduction du nombre de députés et de sénateurs, suppression de la moitié des conseillers départementaux et suppression pure et simple des régions (estimée à 6 milliards d'euros d'économies).",
+          "note": "Réduction du nombre de députés et de sénateurs ; même valeur que le programme de 2022 (députés de 577 à 500, sénateurs de 348 à environ 100), le discours ne chiffrant pas la réduction."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Réduction drastique des élus et des structures : réduction du nombre de députés et de sénateurs, suppression de la moitié des conseillers départementaux et suppression pure et simple des régions (estimée à 6 milliards d'euros d'économies).",
+          "note": "Suppression des régions, comme la suppression des conseils régionaux du programme de 2022 ; même valeur."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "instauration du Référendum d'Initiative Citoyenne (RIC).",
+          "note": "Même valeur que le programme de 2022."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 1,
+          "quote": "sanctuarisation de la liberté d'expression dans la Constitution sur le modèle du premier amendement américain.",
+          "inferred": true,
+          "note": "Déduite : il propose d'inscrire dans la Constitution une protection de la liberté d'expression sur le modèle du premier amendement américain ; la liberté de manifestation et l'arbitrage avec les objectifs de sécurité ne sont pas traités, d'où +1, même valeur que la position déduite du programme de 2022."
+        }
+      ]
+    },
+    {
+      "id": "asselineau-2026-09-radio-courtoisie",
+      "date": "2026-09-28",
+      "title": "François Asselineau invité de Richard de Sèze sur Radio Courtoisie – 28/09/2026",
+      "sourceType": "communique",
+      "sourceUrl": "https://upr.fr/medias/francois-asselineau-invite-de-richard-de-seze-sur-radio-courtoisie-28-09-2026",
+      "publisher": "Union Populaire Républicaine (rubrique Médias du site officiel)",
+      "summary": "Compte rendu, publié le 28 septembre 2026 par l'UPR sur son site, de l'entretien de François Asselineau dans la matinale « Ligne droite » de Radio Courtoisie le même jour. Il y revient sur l'université d'automne du parti, l'école, la réduction du nombre de sénateurs, le cadre financier pluriannuel européen 2028-2034 et le contenu du Frexit (article 50, sortie de l'euro, contrôle des mouvements de capitaux).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-05",
+          "value": 2,
+          "quote": "Revenant sur les élections sénatoriales, il rappelle une proposition de son programme : ramener le nombre de sénateurs de 348 à 100, sur le modèle des États-Unis.",
+          "note": "Même valeur que le programme de 2022, qui portait déjà le nombre de sénateurs de 348 à environ 100."
+        },
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Enfin, le président de l'UPR précise ce que recouvre le Frexit : la sortie des traités par l'article 50, la sortie de l'euro et le rétablissement du contrôle des mouvements de capitaux, supprimé en 1986 par l'Acte unique européen.",
+          "note": "Sortie des traités européens par l'article 50 ; même valeur que le programme de 2022."
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "Enfin, le président de l'UPR précise ce que recouvre le Frexit : la sortie des traités par l'article 50, la sortie de l'euro et le rétablissement du contrôle des mouvements de capitaux, supprimé en 1986 par l'Acte unique européen.",
+          "note": "Sortie de l'euro explicitement incluse dans le Frexit ; même valeur que le programme de 2022."
+        }
+      ]
+    },
+    {
       "id": "asselineau-2026-09-lecornu-budget-ue",
       "date": "2026-09-15",
       "title": "L’aveu de Lecornu : la France asphyxiée par le budget de l'UE",
