@@ -2,6 +2,30 @@
   "candidateId": "mikolajczak",
   "declarations": [
     {
+      "id": "mikolajczak-2026-09-jugement-majoritaire",
+      "date": "2026-09-25",
+      "title": "En finir avec le vote utile : le jugement majoritaire",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/en-finir-avec-le-vote-utile-le-jugement-majoritaire/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur le mode de scrutin. Il présente le vote au jugement majoritaire, propose de l'utiliser pour toutes les élections qui s'y prêtent, l'associe à un « renouveau démocratique complet » (conventions citoyennes, tirage au sort, proportionnelle, exemplarité, transparence, sortie du présidentialisme) et annonce un carnet thématique sur la démocratie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-03",
+          "value": 1,
+          "quote": "Avec Équinoxe, nous proposons de l’utiliser pour toutes les élections qui s’y prêtent. Évidemment, cette mesure vient avec un renouveau démocratique complet : conventions citoyennes, tirage au sort, proportionnelle, exemplarité, transparence, sortie du présidentialisme…",
+          "inferred": true,
+          "note": "Position déduite (orientation) : le texte range la « proportionnelle » parmi les éléments d'un « renouveau démocratique complet » proposé avec le jugement majoritaire. Il ne nomme pas les élections législatives et ne précise pas la part de proportionnelle. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
       "id": "mikolajczak-2026-09-fret",
       "date": "2026-09-20",
       "title": "Remettre le fret sur de bons rails",

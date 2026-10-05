@@ -84,7 +84,7 @@ const isDate = (d: unknown): d is string => typeof d === 'string' && /^\d{4}-\d{
 const signed = (v: number | null | undefined) => (v === null || v === undefined ? '—' : v > 0 ? `+${v}` : `${v}`);
 
 const report: string[] = [];
-const added: string[] = [];
+const added: (() => string)[] = [];
 const changes: string[] = [];
 const skipped: string[] = [];
 const statusLines: string[] = [];
@@ -176,6 +176,7 @@ for (const r of result.candidates) {
     for (let i = 2; allDeclIds.has(id); i++) id = `${id.replace(/-\d+$/, '')}-${i}`;
     const seen = new Set<string>();
     const positions: Declaration['positions'] = [];
+    const changeLines = new Map<string, string>();
     for (const p of d.positions) {
       if (!questionIds.has(p.questionId) || seen.has(p.questionId) || ![-2, -1, 0, 1, 2].includes(p.value) || !p.quote || p.quote.trim().length < 8) {
         skipped.push(`- ${c.displayName} · ${p.questionId} : position ignorée (question inconnue, en double, valeur ou citation invalide)`);
@@ -193,10 +194,23 @@ for (const r of result.candidates) {
       });
       const prev = p.previousValue ?? null;
       if (prev !== null && prev !== p.value) {
-        changes.push(`- **${c.displayName}** · \`${p.questionId}\` ${statement.get(p.questionId)} : ${signed(prev)} → **${signed(p.value)}** — « ${p.quote.trim().slice(0, 220)} » ([source](${isUrl(p.sourceUrl) ? p.sourceUrl : d.sourceUrl}))`);
+        changeLines.set(p.questionId, `- **${c.displayName}** · \`${p.questionId}\` ${statement.get(p.questionId)} : ${signed(prev)} → **${signed(p.value)}** — « ${p.quote.trim().slice(0, 220)} » ([source](${isUrl(p.sourceUrl) ? p.sourceUrl : d.sourceUrl}))`);
       }
     }
     if (!positions.length) continue;
+    // Two passes of the same run can propose the same document: merge into the first proposal instead of recording it twice.
+    const twin = (fresh.get(c.id) ?? []).find((x) => x.sourceUrl === d.sourceUrl && x.date === d.date);
+    if (twin) {
+      const known = new Set(twin.positions.map((p) => p.questionId));
+      const extra = positions.filter((p) => !known.has(p.questionId));
+      twin.positions.push(...extra);
+      positionsAdded += extra.length;
+      for (const p of extra) if (changeLines.has(p.questionId)) changes.push(changeLines.get(p.questionId) as string);
+      const doubles = positions.length - extra.length;
+      skipped.push(`- ${c.displayName} · « ${d.title} » : document déjà proposé par une autre passe de la même veille ; ${extra.length} position(s) fusionnée(s) dans la même déclaration${doubles ? `, ${doubles} en double ignorée(s)` : ''}`);
+      continue;
+    }
+    for (const line of changeLines.values()) changes.push(line);
     const draft: Declaration = {
       id,
       date: d.date,
@@ -225,7 +239,8 @@ for (const r of result.candidates) {
     dirty.add(c.id);
     declarationsAdded++;
     positionsAdded += positions.length;
-    added.push(`- **${c.displayName}** · ${d.date} · [${d.title}](${d.sourceUrl}) (${d.sourceType}, ${d.publisher}) — ${positions.length} position(s) : ${positions.map((p) => `\`${p.questionId}\` ${signed(p.value)}`).join(', ')}`);
+    // Rendered once all proposals are in, so a merged twin is listed with its final positions.
+    added.push(() => `- **${c.displayName}** · ${decl.date} · [${decl.title}](${decl.sourceUrl}) (${decl.sourceType}, ${decl.publisher}) — ${decl.positions.length} position(s) : ${decl.positions.map((p) => `\`${p.questionId}\` ${signed(p.value)}`).join(', ')}`);
   }
   const rejected = r.rejected ?? [];
   if (rejected.length) {
@@ -252,7 +267,7 @@ if (dirty.has('candidates')) write(join(DATA_DIR, 'candidates.json'), candidates
 
 // ---- Report ------------------------------------------------------------------------------------------
 report.push(`Veille du ${result.window.since} au ${today} : **${declarationsAdded} déclaration(s)** et **${positionsAdded} position(s)** ajoutées, toutes « en attente de vérification ».`);
-report.push('', '### Déclarations ajoutées', added.length ? added.join('\n') : 'Aucune.');
+report.push('', '### Déclarations ajoutées', added.length ? added.map((line) => line()).join('\n') : 'Aucune.');
 report.push('', '### Positions qui changent', changes.length ? changes.join('\n') : 'Aucune : les positions ajoutées complètent ou confirment les positions existantes.');
 report.push('', '### Candidatures', statusLines.length ? statusLines.join('\n') : 'Aucun changement de statut établi.');
 if (result.status?.primaries) report.push('', `Primaires : ${result.status.primaries}`);

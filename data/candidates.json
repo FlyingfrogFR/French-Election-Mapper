@@ -16,8 +16,8 @@
     "choisir-2027": {
       "name": "Primaire « Choisir 2027 » (camp social-démocrate)",
       "date": "2026-10-09/10 et 2026-10-16/17",
-      "organizers": "Parti socialiste et partenaires",
-      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/"
+      "organizers": "Parti socialiste, Place publique et Gauche républicaine et socialiste",
+      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/"
     }
   },
   "candidates": [
@@ -32,7 +32,7 @@
       "declaredOn": "2025-12-08",
       "statusNote": "Désignée candidate par Lutte ouvrière.",
       "primary": null,
-      "website": "https://www.lutte-ouvriere.org/",
+      "website": "https://nathalie-arthaud.info/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -92,7 +92,7 @@
       "declaredOn": "2026-05-22",
       "statusNote": "Candidature officialisée le 22 mai 2026.",
       "primary": null,
-      "website": "https://parti-renaissance.fr/",
+      "website": "https://attalpresident.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -277,7 +277,7 @@
       "declaredOn": "2025-03-08",
       "statusNote": "Candidature annoncée en mars 2025 et formalisée le 19 septembre 2026.",
       "primary": null,
-      "website": "https://www.debout-la-france.fr/",
+      "website": "https://www.dupontaignan.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -337,7 +337,7 @@
       "declaredOn": "2026-08-30",
       "statusNote": "Premier secrétaire du PS ; candidat à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
       "primary": "choisir-2027",
-      "website": "https://www.parti-socialiste.fr/",
+      "website": "https://avecfaure2027.fr/",
       "sources": [
         {
           "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
@@ -607,8 +607,13 @@
       "declaredOn": "2026-07-07",
       "statusNote": "Candidature confirmée après l'arrêt de la cour d'appel de Paris du 7 juillet 2026 (peine d'inéligibilité ferme réduite à 15 mois, déjà purgée). Pourvoi en cassation en cours ; la Cour de cassation a annoncé un examen avant la campagne.",
       "primary": null,
-      "website": "https://rassemblementnational.fr/",
+      "website": "https://marinelepen.com/",
       "sources": [
+        {
+          "title": "Rassemblement national — Livret du XIXe Congrès, éditorial de Marine Le Pen (« j’ai pris la décision d’être à nouveau candidate à l’élection présidentielle »)",
+          "url": "https://archives.rassemblementnational.fr/wp-content/uploads/2026/09/19eCongres_CN.pdf",
+          "date": "2026-09-22"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -673,12 +678,22 @@
       "displayName": "Lydie Massard",
       "party": "Union démocratique bretonne",
       "partyShort": "UDB",
-      "status": "primary",
+      "status": "withdrawn",
       "declaredOn": "2026-04-02",
-      "statusNote": "Candidate à la primaire de la gauche unitaire, abandonnée le 21 septembre 2026. Sa candidature à la présidentielle hors primaire n'est attestée que par une source (Public Sénat, 18 septembre 2026) : statut à confirmer.",
-      "primary": "gauche-unitaire",
+      "statusNote": "Candidate depuis le 2 avril 2026 à la primaire de la gauche unitaire (abandonnée le 21 septembre 2026), elle a annoncé le 9 septembre 2026 retirer sa candidature, sans rejoindre la primaire du PS et de Place publique. Elle a indiqué qu'une campagne présidentielle imposerait une trop grosse logistique à un petit parti comme l'UDB.",
+      "primary": null,
       "website": null,
       "sources": [
+        {
+          "title": "Le Télégramme — « Le PS et Place publique l'ont enterrée » : la cantinière pontivyenne Lydie Massard se retire de la primaire de la gauche pour la présidentielle 2027",
+          "url": "https://www.letelegramme.fr/morbihan/pontivy-56300/le-ps-et-place-publique-lont-enterree-la-cantiniere-pontivyenne-lydie-massard-se-retire-de-la-primaire-de-la-gauche-pour-la-presidentielle-2027-7114497.php",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Ouest-France — « Porter ça d'une autre manière » : à Pontivy, Lydie Massard renonce à la primaire de la gauche pour la présidentielle",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/porter-ca-dune-autre-maniere-a-pontivy-lydie-massard-renonce-a-la-primaire-de-la-gauche-pour-la-presidentielle-1fe99272-ac6b-11f1-8346-c9d5c99462af",
+          "date": "2026-09-09"
+        },
         {
           "title": "Public Sénat — Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
           "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
@@ -782,7 +797,7 @@
       "declaredOn": "2026-05-03",
       "statusNote": "Quatrième candidature (2012, 2017, 2022). Refuse de participer aux primaires de gauche.",
       "primary": null,
-      "website": "https://lafranceinsoumise.fr/",
+      "website": "https://melenchon2027.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -882,7 +897,7 @@
       "declaredOn": "2026-04-19",
       "statusNote": "Désigné candidat par les adhérents LR le 19 avril 2026 (73,8 % des voix).",
       "primary": null,
-      "website": "https://republicains.fr/",
+      "website": "https://www.avecretailleau.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -917,7 +932,7 @@
       "declaredOn": "2026-09-06",
       "statusNote": "Candidature validée par le vote des adhérents du PCF le 6 septembre 2026 (72 %).",
       "primary": null,
-      "website": "https://www.pcf.fr/",
+      "website": "https://www.fabienroussel2027.fr/",
       "sources": [
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
@@ -1042,7 +1057,7 @@
       "declaredOn": "2025-12-08",
       "statusNote": "Désignée le 8 décembre 2025 (86 %) candidate des Écologistes pour la primaire de la gauche unitaire. Cette primaire ayant été abandonnée, une motion du conseil fédéral adoptée à 69,44 % (résultat annoncé le 21 septembre 2026) maintient sa candidature jusqu'à un référendum interne des adhérents (10-13 décembre 2026), qui choisiront entre cette candidature et le soutien à un candidat d'une autre formation de gauche.",
       "primary": null,
-      "website": "https://lesecologistes.fr/",
+      "website": "https://marinetondelier.fr/",
       "sources": [
         {
           "title": "Public Sénat — Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
@@ -1143,6 +1158,46 @@
           "title": "Toute l'Europe — Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
           "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
           "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "becht",
+      "firstName": "Olivier",
+      "lastName": "Becht",
+      "displayName": "Olivier Becht",
+      "party": "Divers centre",
+      "partyShort": "DVC",
+      "status": "declared",
+      "declaredOn": "2026-09-24",
+      "statusNote": "Député du Haut-Rhin et ancien ministre chargé du Commerce extérieur (2022-2024), il a déclaré sa candidature, sans étiquette, le 24 septembre 2026 dans Paris Match puis devant la mairie de Rixheim.",
+      "primary": null,
+      "website": "https://becht2027.fr/",
+      "sources": [
+        {
+          "title": "Olivier Becht — Dossier de presse « Le Projet France » (becht2027.fr)",
+          "url": "https://becht2027.fr/wp-content/uploads/2026/09/dossier_presse_4p-A4.pdf",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Paris Match — EXCLUSIF - « Je suis candidat à la présidentielle » : un ancien ministre d'Élisabeth Borne sort du bois",
+          "url": "https://www.parismatch.com/actu/politique/exclusif-je-suis-candidat-a-la-presidentielle-un-ancien-ministre-delisabeth-borne-sort-du-bois-276281",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "France 3 Régions — « Je suis lucide, je ne suis pas le favori », Olivier Becht, député du Haut-Rhin, déclare sa candidature à l'élection présidentielle",
+          "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "BFMTV — Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+          "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-l-ancien-ministre-et-depute-olivier-becht-se-declare-officiellement-candidat_AN-202609240341.html",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Le Monde — Olivier Becht, ancien ministre du commerce extérieur, candidat à l'élection présidentielle",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/24/l-ancien-ministre-olivier-becht-candidat-a-l-election-presidentielle_6781497_823448.html",
+          "date": "2026-09-24"
         }
       ]
     }

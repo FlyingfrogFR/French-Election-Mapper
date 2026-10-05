@@ -2,6 +2,78 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-09-ivg-evars",
+      "date": "2026-09-28",
+      "title": "« La Macronie et l’extrême droite menacent le droit à l’IVG : le 28 septembre, journée mondiale de lutte pour le droit à l’avortement, mobilisons-nous pour le défendre ! » – communiqué du groupe LFI",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/09/28/la-macronie-et-lextreme-droite-menacent-le-droit-a-livg-le-28-septembre-journee-mondiale-de-lutte-pour-le-droit-a-lavortement-mobilisons-nous-pour-le-defendre/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Communiqué du groupe LFI à l’Assemblée nationale, publié le 28 septembre, journée mondiale de lutte pour le droit à l’avortement. Il dénonce la fermeture de centres IVG et le manque de moyens pour l’éducation à la vie affective et sexuelle (EVARS). Il annonce qu’en 2027, « avec Jean-Luc Mélenchon », les centres IVG fermés seraient rouverts, les professionnels de santé formés, les associations recevraient des subventions pérennes et tous les élèves bénéficieraient des heures d’EVARS.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "Nous verserons des subventions pérennes aux associations, et mettrons enfin les moyens pour que tous les élèves bénéficient des heures d’EVARS.",
+          "note": "Le communiqué du groupe LFI présente cette mesure comme un engagement pris pour 2027 « avec Jean-Luc Mélenchon » : tous les élèves doivent bénéficier des heures d’EVARS. C’est une position du parti dont le candidat ne s’est pas démarqué, même valeur que dans l’AEC 2025."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-09-plan-btp-logement",
+      "date": "2026-09-24",
+      "title": "« BTP et logement » – plan d’investissement productif publié sur le site de campagne Mélenchon 2027",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan d’investissement productif « BTP et logement » publié sur le site de campagne et élaboré par des experts coordonnés par Clémence Guetté et Hadrien Clouet : 400 000 logements abordables par an dont 200 000 publics, 700 000 rénovations par an, 12 milliards d’euros par an d’investissements supplémentaires de l’État, et rappel des mesures de L’Avenir en commun sur le logement. La page n’affiche pas de date : selon ses métadonnées, elle a été publiée le 24 septembre 2026 et modifiée le 28 septembre 2026, date de la consultation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Rehausser le seuil de logements sociaux dans les villes (loi SRU) à 30 %, le calculer par arrondissement pour les grandes métropoles, et aggraver les sanctions contre les communes hors la loi",
+          "note": "Le plan reprend la mesure de L’Avenir en commun : seuil SRU porté à 30 % et sanctions aggravées contre les communes qui ne le respectent pas ; même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "log-06",
+          "value": 2,
+          "quote": "limitant les locations des meublés touristiques de type AirBnB à 60 jours par an, fixer un quota de locations touristiques dans les zones en tension, interdire la location de meublés touristiques dans l’hypercentre des grandes métropoles, et supprimer leur niche fiscale",
+          "note": "Le plan reprend la suppression de la niche fiscale des meublés de tourisme, avec une limite de 60 jours de location par an ; même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "env-12",
+          "value": 2,
+          "quote": "Mettre fin aux situations de précarité énergétique : privilégier les rénovations complètes, interdire réellement la location des passoires thermiques, renforcer les programmes de détection des passoires énergétiques, cibler les aides à la rénovation en fonction des revenus des ménages",
+          "note": "Le plan reprend la mesure « interdire réellement la location des passoires thermiques » et vise la rénovation de toutes les passoires thermiques pendant le quinquennat ; même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "log-03",
+          "value": -2,
+          "quote": "l’heure n’est sûrement pas à revenir en arrière sur les normes écologiques dans le bâtiment que ce soit concernant la performance énergétique ou la qualité des constructions",
+          "inferred": true,
+          "note": "Le plan refuse de « revenir en arrière » sur les normes écologiques du bâtiment (performance énergétique, qualité des constructions) tout en visant 400 000 logements par an ; il ne propose pas d’alléger les règles d’urbanisme et prévoit, pour accélérer, le recours à des outils existants comme les opérations d’intérêt national. La position est donc déduite, même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "log-09",
+          "value": -1,
+          "quote": "Le « Plan relance logement » et sa mesure phare, le « dispositif Jeanbrun » (une réduction d’impôt pour les propriétaires bailleurs) misent quasi exclusivement sur la construction neuve, oubliant son impact écologique et les solutions complémentaires",
+          "inferred": true,
+          "note": "Le plan critique le « dispositif Jeanbrun », réduction d’impôt pour les propriétaires bailleurs, jugé centré sur le neuf et n’ayant « atteint que 5 % de son objectif », sans annoncer sa suppression : opposition déduite et partielle, même valeur que dans l’AEC 2025."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-09-echelle-mobile-salaires",
       "date": "2026-09-22",
       "title": "« Qui fait augmenter toute seule la charge de la dette à prix fou ? » – note de blog de Jean-Luc Mélenchon",

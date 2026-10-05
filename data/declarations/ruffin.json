@@ -2,6 +2,69 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-09-cahier-logement",
+      "date": "2026-09-24",
+      "title": "Cahier de campagne n°6 – Face à la crise du logement : faire sauter le verrou",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Sixième cahier de campagne, consacré au logement et ouvert par un éditorial de François Ruffin : encadrement des loyers sur tout le territoire, doublement du prêt à taux zéro, imposition accrue des meublés touristiques, suppression d'avantages fiscaux des multipropriétaires, 200 000 logements publics par an et plan de rénovation énergétique. PDF : https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf (date de publication d'après les métadonnées de la page, article:published_time 2026-09-24).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-09-28 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "En plus d'étendre cet encadrement des loyers à l'ensemble des agglomérations, nous proposons de le généraliser à l'ensemble du territoire.",
+          "note": "Remplace +1 déduit du manifeste de Debout! (2025) : le cahier propose explicitement d'étendre l'encadrement des loyers à toutes les agglomérations et de le généraliser à l'ensemble du territoire."
+        },
+        {
+          "questionId": "log-06",
+          "value": 2,
+          "quote": "ils doivent devenir plus rentables que les locations occasionnelles, en imposant les usages occasionnels au moins deux fois plus qu'actuellement, tout en réduisant l'imposition des locations pérennes abordables.",
+          "note": "Les « usages occasionnels » désignent les meublés touristiques, dont le cahier fixe l'imposition cible entre 40 et 70 % selon les revenus du propriétaire."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Les abattements et amortissements qui permettent à de nombreux multipropriétaires d'être peu ou pas imposés doivent être supprimés, y compris pour les meublés « à l'année », très utilisés dans les métropoles pour les petites surfaces avec des loyers parmi les plus élevés.",
+          "note": "Le cahier propose aussi de supprimer l'abattement pour durée de détention sur les plus-values immobilières hors résidence principale, pour au moins 3 milliards d'euros de recettes par an."
+        },
+        {
+          "questionId": "log-05",
+          "value": 1,
+          "quote": "Le doublement et l'extension du PTZ bénéficiera à plus d'1,5 million de ménages accédants aux revenus modestes et moyens sur 5 ans (dont les bénéficiaires en cours récents), avec des gains compris entre 1 000 et 2 000 euros par an dans la plupart des cas.",
+          "inferred": true,
+          "note": "Mesure voisine : le cahier propose de doubler les montants du PTZ, ce qui doublerait selon lui le nombre de bénéficiaires, et d'étendre ce doublement aux bénéficiaires en cours ; il ne propose pas explicitement d'étendre le PTZ à tous les territoires."
+        },
+        {
+          "questionId": "log-02",
+          "value": 1,
+          "quote": "Pire encore, il souhaite abroger la loi SRU qui impose aux communes de plus de 3 500 habitants (ou 1 500 habitants en Île-de-France) d'atteindre un taux minimum de 25% de logements sociaux pour favoriser la mixité sociale…",
+          "inferred": true,
+          "note": "Le cahier présente comme une aggravation (« Pire encore ») la volonté du ministre du Logement d'abroger la loi SRU, ce qui implique son maintien ; il ne propose pas de la renforcer."
+        },
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "Depuis 2021, plusieurs lois ont néanmoins complexifié le dispositif, sous couvert de « simplification » et introduit des dérogations multiples qui questionnent l'efficacité écologique et la justice sociale de cette politique publique.",
+          "inferred": true,
+          "note": "Le cahier critique les dérogations apportées depuis 2021 au dispositif ZAN et veut réduire l'artificialisation des sols, sans écrire explicitement que l'objectif ZAN sera maintenu."
+        },
+        {
+          "questionId": "env-12",
+          "value": 1,
+          "quote": "En complément, les obligations pesant sur les locations ordinaires (ex. interdiction de location des passoires énergétiques) devraient être identiques pour les meublés touristiques",
+          "inferred": true,
+          "note": "Le cahier veut appliquer aux meublés touristiques l'interdiction de louer les passoires énergétiques, ce qui suppose son maintien ; il ne se prononce pas explicitement sur le calendrier d'interdiction."
+        }
+      ]
+    },
+    {
       "id": "ruffin-2026-08-ppl-3106",
       "date": "2026-08-11",
       "title": "Proposition de loi n°3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (cosignataire)",
@@ -457,12 +520,12 @@
     },
     {
       "id": "ruffin-np-cahier-4-travaillisme",
-      "date": "2026-09-01",
+      "date": "2026-09-09",
       "title": "Cahier de campagne n°4 – Face au chantier du siècle : pour un travaillisme écologique",
       "sourceType": "programme",
       "sourceUrl": "https://nouspresident.fr/travaillisme-ecologique/",
       "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
-      "summary": "PDF : https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf (Date du document : 2026-09 ; jour inconnu.)",
+      "summary": "PDF : https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf (Publié le 09/09/2026, date de publication donnée par les métadonnées de la page (article:published_time).)",
       "review": {
         "status": "pending",
         "reviewers": [],
