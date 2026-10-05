@@ -2,6 +2,148 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-10-breve-etrangers",
+      "date": "2026-10-02",
+      "title": "Brève du NPA-Révolutionnaires du 2 octobre 2026 — « Économies budgétaires : les étrangers à nouveau ciblés »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/economies-budgetaires-les-etrangers-a-nouveau-cibles",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Brève non signée publiée le 2 octobre 2026 dans la rubrique « Brèves » du site du NPA-Révolutionnaires : elle décrit des mesures du projet de budget 2027 qui restreindraient l'accès de certains étrangers à des prestations sociales comme les APL et les allocations familiales (personnes en situation régulière venant de pays hors Union européenne et ne disposant pas d'un titre de travail), après la suppression en juillet des APL pour les étudiants étrangers non européens ni boursiers ni apprentis. Elle estime que ces économies « limitées » permettent surtout « de cibler celles et ceux qui viennent d’ailleurs » et y voit un « thème xénophobe tout droit sorti de la panoplie de la droite et de l’extrême droite ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-06",
+          "value": -1,
+          "quote": "Des économies limitées, mais qui permettent surtout de cibler celles et ceux qui viennent d’ailleurs et qui profiteraient « indûment » des « largesses » de notre système social. Un thème xénophobe tout droit sorti de la panoplie de la droite et de l’extrême droite.",
+          "inferred": true,
+          "note": "Brève non signée du parti dont elle est la candidate désignée, qui qualifie de « thème xénophobe » les mesures du projet de budget 2027 restreignant l'accès aux APL et aux allocations familiales des étrangers non communautaires en situation régulière sans titre de travail ; l'opposition à une condition de cinq ans de résidence légale pour les prestations non contributives s'en déduit, mais le critère de durée de résidence n'y est pas discuté (−1)."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-10-communique-lyceens",
+      "date": "2026-10-02",
+      "title": "Communiqué « Soutien aux lycéens face à la répression : la violence, c’est celle du gouvernement et de ses policiers, c’est celle de l’ordre social contre les exploités et leurs enfants ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/soutien-aux-lyceens-face-a-la-repression-la-violence-cest-celle-du-gouvernement-et-de-ses-policiers-cest-celle-de-lordre-social-contre-les-exploites-et-leurs-enfant",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Communiqué du NPA-Révolutionnaires et du NPA-Jeunes Révolutionnaires du 2 octobre 2026, signé par Selma Labib, candidate du NPA-R, et Gaël Quirante, porte-parole de campagne. Il soutient la mobilisation lycéenne, impute la dégradation des établissements des quartiers populaires au manque de moyens, critique les mesures gouvernementales dans les lycées, condamne la répression (libération des inculpés, abandon des poursuites, refus des fermetures administratives) et appelle à manifester le 6 octobre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-10",
+          "value": -1,
+          "quote": "Et dans ce contexte, les seules mesures du gouvernement sont de transformer les lycées en casernes entre caméras de vidéosurveillance, interdiction du téléphone, horaires à rallonge, police du vêtement… sois jeune et tais-toi !",
+          "inferred": true,
+          "note": "Le communiqué signé par la candidate range « l’interdiction du téléphone » parmi les mesures qui transforment les lycées « en casernes » ; rejet déduit d’une critique formulée en passant, sans demande explicite d’abrogation."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 1,
+          "quote": "Depuis des dizaines d’années, la situation des établissements scolaires dans les quartiers populaires se détériore à cause du manque de moyens organisé par les gouvernements successifs : classes surchargées ; enseignants non remplacés ; manque d’AESH et d’infirmières",
+          "inferred": true,
+          "note": "Le communiqué impute la dégradation des établissements des quartiers populaires au « manque de moyens organisé par les gouvernements successifs », d’où un soutien déduit à davantage de moyens pour ces établissements, sans que l’éducation prioritaire soit nommée ni une hausse chiffrée."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-09-4-pages-campagne",
+      "date": "2026-09-28",
+      "title": "Tract de campagne de quatre pages « C’est aux travailleurs et aux travailleuses de diriger la société ! »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Tract de campagne de quatre pages pour Selma Labib, mis en ligne le 28 septembre 2026 dans la rubrique « Matériel » du site du NPA-Révolutionnaires (PDF créé le même jour), avec une présentation à la première personne de la candidate, conductrice de bus, et un texte de son porte-parole Gaël Quirante. Il réclame 400 à 500 euros d’augmentation, l’indexation des salaires, pensions et allocations sur les prix, l’interdiction des licenciements, la baisse du temps de travail sans perte de salaire et l’expropriation des grandes entreprises, s’oppose au militarisme et énumère les positions qu’il reproche au RN.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Pour vivre et non survivre : Augmenter les salaires et les indexer sur les prix !",
+          "page": "2",
+          "note": "Indexation des salaires sur les prix explicitement réclamée, présentée comme un objectif à imposer par les mobilisations ; même valeur que l’intervention du 23 août 2026, avec une formulation plus explicite."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 2,
+          "quote": "L’augmentation massive, générale des salaires mais aussi des pensions et des allocations, et leur indexation sur les prix : c’est le premier objectif que doivent se fixer les travailleurs, c’est une urgence pour l’ensemble du monde du travail !",
+          "page": "2",
+          "note": "Remplace +1 du 7 septembre 2026, qui ne portait que sur les pensions : le tract réclame aussi l’indexation sur les prix des « allocations », terme général qui inclut les minima sociaux, en plus de leur hausse."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Arracher 400 et même 500 euros d’augmentation, c’est ce qu’il nous faut pour nous en sortir. On ne peut pas vivre décemment aujourd’hui avec moins de 2 200 euros net par mois.",
+          "page": "2",
+          "inferred": true,
+          "note": "Hausse de 400 à 500 euros et seuil de 2 200 euros net à « arracher » par les luttes plutôt que par décision de l’État ; le SMIC n’est pas nommé dans ce passage, mais le tract reproche au RN d’être « contre l’augmentation du Smic » ; même valeur que le discours du 12 septembre."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Imposer l’interdiction des licenciements, l’arrêt de toutes les suppressions d’emplois et la baisse du temps de travail sans perte de salaire, jusqu’à l’extinction du chômage, c’est la seule manière de mettre fin au chômage de masse, pour les jeunes comme pour les anciens.",
+          "page": "2",
+          "inferred": true,
+          "note": "Interdiction de tous les licenciements, au-delà des seules entreprises qui versent des dividendes, à imposer par la mobilisation ; même valeur que le discours du 12 septembre."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "Imposer l’interdiction des licenciements, l’arrêt de toutes les suppressions d’emplois et la baisse du temps de travail sans perte de salaire, jusqu’à l’extinction du chômage, c’est la seule manière de mettre fin au chômage de masse, pour les jeunes comme pour les anciens.",
+          "page": "2",
+          "inferred": true,
+          "note": "Baisse du temps de travail sans perte de salaire « jusqu’à l’extinction du chômage », à imposer par la mobilisation plutôt que par la loi ; ni les 32 heures ni la semaine de quatre jours ne sont nommées ; même valeur que le discours du 12 septembre."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 1,
+          "quote": "exproprier les grandes entreprises et prendre le pouvoir sur l’économie : que produit-on ? Pour qui ? Pour remplir quels besoins de la population ? En respectant quelles contraintes environnementales ? Et ce, dans tous les secteurs : logement, alimentation, énergie, transport, etc.",
+          "page": "2",
+          "inferred": true,
+          "note": "Le tract appelle à « exproprier les grandes entreprises », y compris dans l’énergie et les transports, pour que les travailleurs prennent « le pouvoir sur l’économie » : orientation contraire à la propriété privée de ces entreprises, sans renationalisation par l’État formulée ni mention des autoroutes ; même valeur que la lettre aux maires."
+        },
+        {
+          "questionId": "def-01",
+          "value": -2,
+          "quote": "Et partout, c’est l’explosion des dépenses militaires. Dans l’Allemagne de Merz comme dans la France de Macron, et ce sont les caisses des producteurs d’engins de mort qui se remplissent.",
+          "page": "2",
+          "inferred": true,
+          "note": "Le tract dénonce « l’explosion des dépenses militaires » en France, scande « Pas un euro pour les guerres impérialistes » et reproche au RN d’être « pour l’augmentation des budgets militaires » ; le seuil de 3 % du PIB n’est pas discuté ; même valeur que le discours du 12 septembre."
+        },
+        {
+          "questionId": "def-03",
+          "value": -2,
+          "quote": "Partout sur la planète, les États font l’apologie du militarisme et remettent au goût du jour des formes rénovées de service militaire. Macron et les politiciens bourgeois nous disent que c’est pour nous défendre.",
+          "page": "2",
+          "inferred": true,
+          "note": "Le tract range la remise au goût du jour de « formes rénovées de service militaire » dans l’« apologie du militarisme » qu’il combat (« À bas le militarisme, pas une femme, pas un homme… ») ; le caractère obligatoire n’est pas précisé ; même valeur que le discours du 12 septembre."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "L’argent coule à flots pour les Rafale et la course aux armements, mais manque pour les hôpitaux, les écoles ou les pompiers.",
+          "page": "1",
+          "inferred": true,
+          "note": "Le tract juge que l’argent « manque pour les hôpitaux » et réclame par ailleurs des « embauches massives » dans les services publics, hôpitaux compris ; ni plan propre à l’hôpital ni mode de financement ne sont précisés, d’où +1 déduit, même valeur que l’intervention du 23 août 2026."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-09-edito-revolte",
       "date": "2026-09-28",
       "title": "Éditorial du NPA-Révolutionnaires du 28 septembre 2026 — « Le pouvoir craint notre révolte : donnons-lui raison ! »",

@@ -2,6 +2,133 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-10-lettre-francais",
+      "date": "2026-10-05",
+      "title": "Lettre aux Français·es (tract « Vivre ! » n° 1 de la campagne, signé par Fabien Roussel)",
+      "sourceType": "autre",
+      "sourceUrl": "https://assets.nationbuilder.com/pcf/pages/44577/attachments/original/1791209572/tract_a5_numero_1_adresse_aux_francais_stc_%281%29.pdf?1791209572",
+      "publisher": "Campagne de Fabien Roussel (fabienroussel2027.fr), Parti communiste français",
+      "summary": "Lettre signée par Fabien Roussel (tract A5 n° 1, PDF créé le 8 septembre 2026), mise en ligne le 5 octobre 2026 dans la rubrique « Le matériel » de son site de campagne (liste archivée : https://web.archive.org/web/20261005174904/https://www.fabienroussel2027.fr/materiel?page=2). Il y propose la hausse du SMIC et l'indexation de tous les salaires sur l'inflation, aucune aide publique aux entreprises sans contrepartie (remboursement en cas de licenciement), la sortie des énergies carbonées à l'horizon 2050 avec un mix nucléaire et renouvelables, la nationalisation de Total et la sortie de l'OTAN.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Vivre de notre travail avec des salaires dignes. Ce sont les travailleurs qui produisent les richesses, pas ceux qui les exploitent. Hausse du SMIC et indexation de tous les salaires sur l’inflation.",
+          "page": "2",
+          "note": "Lettre signée par Fabien Roussel qui propose l'indexation de tous les salaires sur l'inflation, aussi précise que le communiqué du 18 septembre 2026 : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-10-tract-climat",
+      "date": "2026-10-05",
+      "title": "Tract « Climat - Planifier, produire autrement et protéger »",
+      "sourceType": "autre",
+      "sourceUrl": "https://assets.nationbuilder.com/pcf/pages/44578/attachments/original/1791209636/tract_climat.pdf?1791209636",
+      "publisher": "Parti communiste français, site de campagne de Fabien Roussel (fabienroussel2027.fr)",
+      "summary": "Tract du PCF (PDF créé le 17 septembre 2026) appelant à marcher partout en France le 26 septembre 2026, mis en ligne le 5 octobre 2026 dans la rubrique « Le matériel » du site de campagne de Fabien Roussel (liste archivée : https://web.archive.org/web/20261005174904/https://www.fabienroussel2027.fr/materiel?page=2). Il présente le plan climat « Empreinte 2050 » et propose un plan national d'adaptation, de grands services publics de l'énergie autour d'EDF, d'Engie et de TotalEnergies nationalisées, une SNCF réunifiée et un petit véhicule électrique produit en France.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Construire de grands services publics pour l’énergie autour d’EDF, d’Engie et de TotalEnergies nationalisées, pour la rénovation énergétique, pour les transports collectifs et le fret autour d’une SNCF réunifiée.",
+          "page": "2",
+          "note": "Tract du PCF diffusé sur le site de campagne de son candidat désigné, qui propose de nationaliser EDF, Engie et TotalEnergies et de réunifier la SNCF, aussi précis que le programme de 2023 : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-10-tract-ivg",
+      "date": "2026-10-05",
+      "title": "Tract « Pour le droit à l'avortement »",
+      "sourceType": "autre",
+      "sourceUrl": "https://assets.nationbuilder.com/pcf/pages/44580/attachments/original/1791209781/tract_IVG_28sept2026.pdf?1791209781",
+      "publisher": "Parti communiste français, site de campagne de Fabien Roussel (fabienroussel2027.fr)",
+      "summary": "Tract du PCF (PDF créé le 17 septembre 2026) préparé pour la Journée internationale pour le droit à l'avortement (28 septembre), mis en ligne le 5 octobre 2026 dans la rubrique « Le matériel » du site de campagne de Fabien Roussel (liste archivée : https://web.archive.org/web/20261005173724/https://www.fabienroussel2027.fr/materiel). Il défend des centres IVG sur tout le territoire, une IVG prise en charge à 100 %, le libre choix de la méthode, la suppression de la double clause de conscience, l'accès libre et gratuit à la contraception et une éducation à la vie affective, relationnelle et à la sexualité effective dans tous les établissements scolaires.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-08",
+          "value": -2,
+          "quote": "Nous défendons une IVG prise en charge à 100 %, le libre choix entre les méthodes médicamenteuse et instrumentale, la suppression de la double clause de conscience et des moyens renforcés pour le Planning familial et les associations.",
+          "page": "2",
+          "note": "Tract du PCF diffusé sur le site de campagne de son candidat désigné, qui demande de modifier encore les conditions de l'IVG (suppression de la double clause de conscience, libre choix de la méthode), aussi précis que le programme de 2023 : la valeur (−2) ne change pas."
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "Nous voulons également une véritable éducation à la vie affective, relationnelle et à la sexualité, avec les moyens nécessaires pour qu’elle soit effective dans tous les établissements scolaires.",
+          "page": "2",
+          "note": "Tract du PCF diffusé sur le site de campagne de son candidat désigné, qui demande que l'éducation à la vie affective, relationnelle et à la sexualité soit effective dans tous les établissements scolaires, sans mentionner expressément le programme national."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-10-tract-palestine",
+      "date": "2026-10-05",
+      "title": "Tract « Paix et justice pour la Palestine »",
+      "sourceType": "autre",
+      "sourceUrl": "https://assets.nationbuilder.com/pcf/pages/44582/attachments/original/1791209863/tract_palestine_octobre2026.pdf?1791209863",
+      "publisher": "Parti communiste français, site de campagne de Fabien Roussel (fabienroussel2027.fr)",
+      "summary": "Tract du PCF appelant aux mobilisations du 10 octobre et du mois d'octobre 2026, mis en ligne le 5 octobre 2026 dans la rubrique « Le matériel » du site de campagne de Fabien Roussel (liste archivée : https://web.archive.org/web/20261005173724/https://www.fabienroussel2027.fr/materiel). Il demande notamment un embargo sur les exportations d'armes vers Israël, la suspension de l'accord d'association UE-Israël, des sanctions économiques contre Israël, un cessez-le-feu permanent et la réalisation de l'État de Palestine aux côtés de l'État d'Israël sur la base des frontières de 1967.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "Suspension de l’accord d’association UE-Israël tant que le droit international et les droits humains fondamentaux sont bafoués.",
+          "page": "2",
+          "note": "Tract du PCF diffusé sur le site de campagne de son candidat désigné, qui demande la suspension de l'accord d'association UE-Israël et des sanctions économiques, plus précis que le discours du 40e congrès : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-10-tract-legitime-defense",
+      "date": "2026-10-04",
+      "title": "Tract « Non à la loi de présomption de légitime défense »",
+      "sourceType": "autre",
+      "sourceUrl": "https://assets.nationbuilder.com/pcf/pages/44584/attachments/original/1791210439/tract_legitime_defense.pdf?1791210439",
+      "publisher": "Parti communiste français, site de campagne de Fabien Roussel (fabienroussel2027.fr)",
+      "summary": "Tract du PCF publié dans la rubrique « Le matériel » du site de campagne de Fabien Roussel (page datée du 4 octobre 2026 dans le flux RSS du site, PDF mis en ligne le 5 octobre selon son adresse ; liste archivée : https://web.archive.org/web/20261005174904/https://www.fabienroussel2027.fr/materiel?page=2). Il juge que la présomption de légitime défense pour les forces de l'ordre adoptée par l'Assemblée nationale remet gravement en cause l'État de droit et demande des moyens pour la police et la justice.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "L’Assemblée nationale a adopté une proposition de loi instaurant une présomption de légitime défense pour les forces de l’ordre. Cette mesure constitue une remise en cause grave de notre État de droit.",
+          "page": "1",
+          "note": "Tract du PCF diffusé sur le site de campagne de son candidat désigné, qui rejette la présomption de légitime défense pour les forces de l'ordre comme le communiqué du 8 juillet 2026 : la valeur (−2) ne change pas."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-09-loi-sru",
       "date": "2026-09-26",
       "title": "« Vite une loi SRU 2, avec un taux de logements sociaux porté à 30% ! »",

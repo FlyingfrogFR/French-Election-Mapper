@@ -1200,6 +1200,46 @@
           "date": "2026-09-24"
         }
       ]
+    },
+    {
+      "id": "markovic",
+      "firstName": "Mira",
+      "lastName": "Markovic",
+      "displayName": "Mira Markovic",
+      "party": "Parti animaliste",
+      "partyShort": "PA",
+      "status": "designated",
+      "declaredOn": "2026-10-02",
+      "statusNote": "Cofondatrice du Parti animaliste (2016) et ancienne conseillère de Paris (2014-2020), présentée par le parti comme sa candidate à l'élection présidentielle le 2 octobre 2026.",
+      "primary": null,
+      "website": "https://parti-animaliste.fr/",
+      "sources": [
+        {
+          "title": "Parti animaliste — communiqué « Mira Markovic représentera le Parti animaliste à la présidentielle »",
+          "url": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "Le Parisien — Présidentielle 2027 : qui est Mira Markovic, candidate du Parti animaliste ?",
+          "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-qui-est-mira-markovic-candidate-du-parti-animaliste-02-10-2026-RJSPJSR3BNCCLC22YRC7VDAPMU.php",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "CNews — Présidentielle 2027 : « Si nous ne sommes pas là, personne ne parle des animaux », déplore Mira Markovic, la candidate du Parti animaliste",
+          "url": "https://www.cnews.fr/france/2026-10-02/presidentielle-2027-si-nous-ne-sommes-pas-la-personne-ne-parle-des-animaux",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "Le HuffPost — Pour la présidentielle 2027, la candidate du Parti animaliste, Mira Markovic, cherche les 500 parrainages",
+          "url": "https://www.huffingtonpost.fr/politique/article/pour-la-presidentielle-2027-la-candidate-du-parti-animaliste-mira-markovic-cherche-les-500-parrainages_334061.html",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "Le Monde — Présidentielle 2027 : le Parti animaliste annonce la candidature de Mira Markovic",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/02/presidentielle-2027-le-parti-animaliste-annonce-la-candidature-de-mira-markovic_6787208_823448.html",
+          "date": "2026-10-02"
+        }
+      ]
     }
   ]
 }
