@@ -2,6 +2,30 @@
   "candidateId": "guedj",
   "declarations": [
     {
+      "id": "guedj-2026-10-secu-integrale",
+      "date": "2026-10-06",
+      "title": "« Vite la Sécurité sociale intégrale ! » : ma proposition pour une Sécurité sociale intégrale",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.jeromeguedj2027.fr/docs/securite-sociale-integrale.pdf",
+      "publisher": "Jérôme Guedj 2027 (site de campagne)",
+      "summary": "Document de deux pages en lien sur la page d'accueil du site de campagne. Il ne porte pas de date ; ses métadonnées indiquent un PDF créé le 6 octobre 2026. Le document présente la « Sécurité sociale intégrale » : pour un panier de soins essentiels, l'Assurance maladie devient le payeur unique et reprend progressivement le ticket modérateur, le forfait hospitalier et le panier 100 % Santé. Les mutuelles se recentrent sur la prévoyance et sur une assurance dépendance obligatoire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Pour le panier de soins essentiels, un seul payeur : la Sécu ! Elle reprend progressivement le ticket modérateur, le forfait hospitalier et le panier du 100 % Santé.",
+          "page": "1",
+          "note": "Confirme et précise le +2 de la profession de foi du 23 septembre 2026. Pour le « panier de soins essentiels », la Sécurité sociale reprend progressivement le ticket modérateur, le forfait hospitalier et le panier 100 % Santé. Les garanties de confort restent facultatives et les franchises ne sont pas mentionnées."
+        }
+      ]
+    },
+    {
       "id": "guedj-2026-09-profession-de-foi",
       "date": "2026-09-23",
       "title": "Profession de foi pour la primaire « Choisir 2027 »",

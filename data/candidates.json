@@ -15,9 +15,9 @@
     },
     "choisir-2027": {
       "name": "Primaire « Choisir 2027 » (camp social-démocrate)",
-      "date": "2026-10-09/10 et 2026-10-16/17",
+      "date": "2026-10-09/11 (premier tour, prolongé jusqu'au 11 octobre après une cyberattaque ; Raphaël Glucksmann désigné dès ce tour, second tour annulé)",
       "organizers": "Parti socialiste, Place publique et Gauche républicaine et socialiste",
-      "source": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/"
+      "source": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la"
     }
   },
   "candidates": [
@@ -333,12 +333,32 @@
       "displayName": "Olivier Faure",
       "party": "Parti socialiste",
       "partyShort": "PS",
-      "status": "primary",
+      "status": "withdrawn",
       "declaredOn": "2026-08-30",
-      "statusNote": "Premier secrétaire du PS ; candidat à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
+      "statusNote": "Candidat à la primaire « Choisir 2027 », il est arrivé deuxième (14,46 % des voix) du premier tour, organisé en ligne du 9 au 11 octobre 2026 et remporté par Raphaël Glucksmann (66,17 %), désigné dès ce tour ; le soir des résultats, le 11 octobre, il a déclaré : « Nous avons désormais un candidat ».",
       "primary": "choisir-2027",
       "website": "https://avecfaure2027.fr/",
       "sources": [
+        {
+          "title": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+          "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "LCP — Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+          "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Public Sénat — Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "franceinfo — Raphaël Glucksmann remporte dès le premier tour la primaire à gauche",
+          "url": "https://www.francetvinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+          "date": "2026-10-11"
+        },
         {
           "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
           "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
@@ -373,12 +393,32 @@
       "displayName": "Raphaël Glucksmann",
       "party": "Place publique",
       "partyShort": "PP",
-      "status": "primary",
+      "status": "designated",
       "declaredOn": "2026-08-23",
-      "statusNote": "Candidature officialisée le 23 août 2026 pour la primaire « Choisir 2027 » du camp social-démocrate (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026) ; l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
+      "statusNote": "Désigné le 11 octobre 2026 candidat de la primaire « Choisir 2027 » (Parti socialiste, Place publique, Gauche républicaine et socialiste), qu'il a remportée dès le premier tour avec 66,17 % des voix ; le vote en ligne, prévu les 9 et 10 octobre, a été prolongé jusqu'au 11 octobre après une cyberattaque.",
       "primary": "choisir-2027",
       "website": "https://glucks2027.fr/",
       "sources": [
+        {
+          "title": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+          "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Public Sénat — Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "franceinfo — Raphaël Glucksmann remporte dès le premier tour la primaire à gauche",
+          "url": "https://www.francetvinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Parti socialiste — CHOISIR 2027 | Rétablissement de service de la plateforme : les électeurs pourront voter jusqu’à dimanche 18h",
+          "url": "https://parti-socialiste.fr/actualite-en-avant/choisir-2027_les-electeurs-pourront-voter-jusqua-dimanche-18h/",
+          "date": "2026-10-09"
+        },
         {
           "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
           "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
@@ -413,12 +453,32 @@
       "displayName": "Jérôme Guedj",
       "party": "Parti socialiste",
       "partyShort": "PS",
-      "status": "primary",
+      "status": "withdrawn",
       "declaredOn": null,
-      "statusNote": "Député ; candidat à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
+      "statusNote": "Candidat à la primaire « Choisir 2027 », il est arrivé cinquième (5,83 % des voix) du premier tour, organisé en ligne du 9 au 11 octobre 2026 et remporté par Raphaël Glucksmann (66,17 %), désigné dès ce tour ; le 11 octobre, il a déclaré : « Je continuerai ma campagne à la place que Raphaël Glucksmann jugera utile ».",
       "primary": "choisir-2027",
       "website": "https://www.jeromeguedj2027.fr/",
       "sources": [
+        {
+          "title": "LCP — Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+          "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+          "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Public Sénat — Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "franceinfo — Raphaël Glucksmann remporte dès le premier tour la primaire à gauche",
+          "url": "https://www.francetvinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+          "date": "2026-10-11"
+        },
         {
           "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
           "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
@@ -682,7 +742,7 @@
       "declaredOn": "2026-04-02",
       "statusNote": "Candidate depuis le 2 avril 2026 à la primaire de la gauche unitaire (abandonnée le 21 septembre 2026), elle a annoncé le 9 septembre 2026 retirer sa candidature, sans rejoindre la primaire du PS et de Place publique. Elle a indiqué qu'une campagne présidentielle imposerait une trop grosse logistique à un petit parti comme l'UDB.",
       "primary": null,
-      "website": null,
+      "website": "https://www.udb.bzh/",
       "sources": [
         {
           "title": "Le Télégramme — « Le PS et Place publique l'ont enterrée » : la cantinière pontivyenne Lydie Massard se retire de la primaire de la gauche pour la présidentielle 2027",
@@ -723,12 +783,32 @@
       "displayName": "Emmanuel Maurel",
       "party": "Gauche républicaine et socialiste",
       "partyShort": "GRS",
-      "status": "primary",
+      "status": "withdrawn",
       "declaredOn": "2026-09-04",
-      "statusNote": "Candidat à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'un des cinq candidats dont la liste officielle a été rendue publique le 16 septembre 2026.",
+      "statusNote": "Candidat à la primaire « Choisir 2027 », il est arrivé quatrième (5,92 % des voix) du premier tour, organisé en ligne du 9 au 11 octobre 2026 et remporté par Raphaël Glucksmann (66,17 %), désigné dès ce tour ; le 11 octobre, il a promis au vainqueur un « soutien qui sera loyal et exigeant ».",
       "primary": "choisir-2027",
       "website": "https://emmanuel-maurel.fr/",
       "sources": [
+        {
+          "title": "LCP — Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+          "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+          "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Public Sénat — Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "franceinfo — Raphaël Glucksmann remporte dès le premier tour la primaire à gauche",
+          "url": "https://www.francetvinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+          "date": "2026-10-11"
+        },
         {
           "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
           "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
@@ -958,12 +1038,32 @@
       "displayName": "Ségolène Royal",
       "party": "Divers gauche",
       "partyShort": "DVG",
-      "status": "primary",
+      "status": "withdrawn",
       "declaredOn": "2026-07-10",
-      "statusNote": "Candidate à la primaire « Choisir 2027 » (1er tour 9-10 octobre, second tour éventuel 16-17 octobre 2026), l'une des cinq candidatures dont la liste officielle a été rendue publique le 16 septembre 2026.",
+      "statusNote": "Candidate à la primaire « Choisir 2027 », elle est arrivée troisième (7,62 % des voix) du premier tour, organisé en ligne du 9 au 11 octobre 2026 et remporté par Raphaël Glucksmann (66,17 %), désigné dès ce tour ; le 11 octobre, elle a indiqué que, conformément à la charte signée par les cinq candidats, elle serait « pour celui qui a gagné ce soir ».",
       "primary": "choisir-2027",
       "website": "https://segolene-ordrejuste.fr/",
       "sources": [
+        {
+          "title": "LCP — Victoire de Raphaël Glucksmann à la primaire socialiste : premières réactions des candidats vaincus et des autres partis de gauche",
+          "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "LCP — Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+          "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Public Sénat — Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "franceinfo — Raphaël Glucksmann remporte dès le premier tour la primaire à gauche",
+          "url": "https://www.francetvinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+          "date": "2026-10-11"
+        },
         {
           "title": "Public Sénat — Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »",
           "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence",
@@ -1238,6 +1338,41 @@
           "title": "Le Monde — Présidentielle 2027 : le Parti animaliste annonce la candidature de Mira Markovic",
           "url": "https://www.lemonde.fr/politique/article/2026/10/02/presidentielle-2027-le-parti-animaliste-annonce-la-candidature-de-mira-markovic_6787208_823448.html",
           "date": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "id": "platret",
+      "firstName": "Gilles",
+      "lastName": "Platret",
+      "displayName": "Gilles Platret",
+      "party": "Divers droite",
+      "partyShort": "DVD",
+      "status": "declared",
+      "declaredOn": "2026-10-08",
+      "statusNote": "Maire de Chalon-sur-Saône depuis 2014 (divers droite, ex-Les Républicains), il a annoncé sa candidature le 8 octobre 2026 lors d'un meeting intitulé « Parlons de la France » dans sa commune (« Devant vous, avec vous, je m'engage résolument vers 2027 ») ; son communiqué du 9 octobre indique qu'il « se lance dans la campagne des présidentielles ». Il doit encore réunir les 500 parrainages d'élus.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Gilles Platret (@gillesplatret, X) — Communiqué de presse du vendredi 9 octobre 2026 : Gilles Platret « se lance dans la campagne des présidentielles »",
+          "url": "https://x.com/gillesplatret/status/2108481774368027063",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Le JSL — Chalon-sur-Saône. Gilles Platret annonce sa candidature à l'élection présidentielle",
+          "url": "https://www.lejsl.com/elections/2026/10/08/gilles-platret-annonce-sa-candidature-a-l-election-presidentielle",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "France 3 Régions — Gilles Platret, le maire de Chalon-sur-Saône, se déclare candidat à l'élection présidentielle : « je m'engage résolument vers 2027 »",
+          "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/gilles-platret-le-maire-de-chalon-sur-saone-se-declare-candidat-a-l-election-presidentielle-je-m-engage-resolument-vers-2027-3430416.html",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Le Parisien — Présidentielle 2027 : « La guerre civile a déjà commencé », le maire divers droite de Chalon-sur-Saône Gilles Platret annonce sa candidature",
+          "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-guerre-civile-a-deja-commence-le-maire-divers-droite-de-chalon-sur-saone-gilles-platret-annonce-sa-candidature-09-10-2026-7Z4HG62GOJHTNOFLHDN7J7HZLQ.php",
+          "date": "2026-10-09"
         }
       ]
     }
