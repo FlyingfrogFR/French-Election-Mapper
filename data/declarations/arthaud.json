@@ -2,6 +2,42 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-10-edito-17-octobre",
+      "date": "2026-10-12",
+      "title": "Le 17 octobre et après, montrons que l'esprit de révolte n'a pas d'âge ! (éditorial)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/17-octobre-apres-montrons-lesprit-revolte-na-dage-205755.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud, publié le 12/10/2026 sur le portail de Lutte ouvrière. Il qualifie de « promesse dérisoire » la baisse de 12 à 18 centimes du litre de carburant annoncée par le Premier ministre et appelle les travailleurs à se mobiliser le 17 octobre. Il demande « un plan d'augmentation massif » des salaires, leur indexation sur l'inflation et un Smic à 2 200 €. Il dénonce aussi un « budget de guerre sociale » : non-remplacement d'un départ à la retraite sur trois dans la fonction publique, baisse des allocations familiales, gel des APL, médicaments déremboursés, 5 milliards demandés aux retraités et baisse de la surtaxe sur les profits.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "2 200 € est un minimum aujourd'hui pour vivre sans avoir peur du lendemain, alors revendiquons le Smic à 2 200 €.",
+          "note": "L'éditorial revendique un Smic à 2 200 €, présenté comme « un minimum aujourd'hui pour vivre ». Il ne dit pas s'il s'agit d'un montant net (le discours du 26/09/2026 disait « nets ») ni si la hausse passerait par une décision de l'État. Même valeur que le discours de la Mutualité."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Les salaires prennent du retard sur l’inflation depuis trop d’années. Il faut un plan d’augmentation massif et les indexer de nouveau sur l’inflation.",
+          "note": "Demande explicitement que les salaires soient de nouveau indexés sur l'inflation, avec un « plan d'augmentation massif ». Même valeur que l'éditorial du 28/09/2026."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Le gouvernement veut prendre 5 milliards dans la poche des retraités, quand il baisse la surtaxe sur les profits de 2 milliards et renonce à prendre ne serait-ce qu’un petit peu sur les grandes fortunes.",
+          "inferred": true,
+          "note": "L'éditorial oppose la baisse de 2 milliards de la surtaxe sur les profits aux 5 milliards demandés aux retraités. Il ne nomme ni l'impôt sur les sociétés en général ni les impôts de production, d'où une position déduite à −1. Même valeur que la brève du parti du 04/10/2026, ici sous la signature de la candidate."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-10-breve-franchises",
       "date": "2026-10-04",
       "title": "Logique gouvernementale : malades, donc taxés (brève)",

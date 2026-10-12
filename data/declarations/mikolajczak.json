@@ -2,6 +2,36 @@
   "candidateId": "mikolajczak",
   "declarations": [
     {
+      "id": "mikolajczak-2026-10-elevage",
+      "date": "2026-10-08",
+      "title": "Protéger les animaux, l'environnement et nos éleveurs",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/proteger-les-animaux-lenvironnement-et-nos-eleveurs/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur l'élevage, qui défend l'élevage extensif face aux systèmes intensifs. Il propose notamment une PAC fondée sur la main-d'œuvre plutôt que sur la surface, une éco-conditionnalité des aides favorisant les élevages herbagers et plein air, des prix rémunérateurs avec encadrement des marges de la distribution, le respect des clauses miroirs, un protectionnisme stratégique sur certaines filières, un repas végétarien hebdomadaire en restauration scolaire et l'amplification des expériences de sécurité sociale de l'alimentation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Faire respecter les clauses miroirs des traités de libre-échange. Instaurer un protectionnisme stratégique sur certaines filières en luttant contre les importations non soumises à nos règles.",
+          "note": "Mesure explicite : faire respecter les clauses miroirs des traités de libre-échange et lutter contre les importations agricoles non soumises aux règles françaises. Position du parti, dont il est le candidat désigné ; le 7 octobre, le site du parti indique qu'Antoine Mikolajczak a présenté « nos propositions pour l'élevage français » au Sommet de l'élevage."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Renforcer l'éco-conditionnalité des aides en favorisant les élevages herbagers et plein air.",
+          "inferred": true,
+          "note": "Position déduite (orientation) : le texte décrit les « conditions de vie très rudes » imposées aux animaux par les élevages intensifs, présente l'élevage extensif comme favorable au bien-être animal et propose d'orienter les aides vers les élevages herbagers et plein air ; il ne propose pas de limitation réglementaire de l'élevage intensif. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
       "id": "mikolajczak-2026-09-jugement-majoritaire",
       "date": "2026-09-25",
       "title": "En finir avec le vote utile : le jugement majoritaire",

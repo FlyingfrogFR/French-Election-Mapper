@@ -2,6 +2,31 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-10-plan-jeunesse",
+      "date": "2026-10-06",
+      "title": "Plan « Jeunesse 2027-2032 »",
+      "sourceType": "programme",
+      "sourceUrl": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+      "publisher": "Campagne de Fabien Roussel (fabienroussel2027.fr), Parti communiste français",
+      "summary": "Plan de dix propositions pour l'école et la jeunesse, avec un avant-propos signé par Fabien Roussel, publié le 6 octobre 2026 (horodatage du fichier dans l'URL, et date de mise en ligne de la page « plan_jeunesse_2027_2032 » du site de campagne d'après son sitemap). Il prévoit 5 Md€ de crédits d'urgence pour les lycées, puis 5 Md€ par an de prêts à taux zéro pendant cinq ans pour rénover le bâti scolaire, 90 000 postes d'enseignants en cinq ans, 32 heures de cours par semaine, le retour des filières au lycée et la suppression de Parcoursup et de MonMaster. Il finance les postes par un redéploiement depuis le budget de la défense et le bâti par une reprise sur les aides publiques aux entreprises.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": -2,
+          "quote": "La création des postes d’enseignants est financée par un choix de priorité. 3,5 Md€ passent du budget de la défense à celui de l'école, une fois les 90 000 postes pourvus.",
+          "page": "11",
+          "inferred": true,
+          "note": "Le plan transfère 3,5 Md€ du budget de la défense vers l'école (« l'école avant les dépenses d'armement », même page). Une baisse du budget militaire est incompatible avec sa hausse à 3 % du PIB, d'où −2 déduit. La mesure budgétaire est plus précise que la source actuelle (Pacte 2025, opposition générale à la militarisation) ; la valeur ne change pas."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-10-lettre-francais",
       "date": "2026-10-05",
       "title": "Lettre aux Français·es (tract « Vivre ! » n° 1 de la campagne, signé par Fabien Roussel)",

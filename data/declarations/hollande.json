@@ -2,6 +2,36 @@
   "candidateId": "hollande",
   "declarations": [
     {
+      "id": "hollande-2026-10-jeunesse-ecole",
+      "date": "2026-10-09",
+      "title": "La jeunesse est le projet, l'école est la priorité",
+      "sourceType": "tribune",
+      "sourceUrl": "https://francoishollande.substack.com/p/la-jeunesse-est-le-projet-lecole",
+      "publisher": "François Hollande (lettre signée, francoishollande.substack.com)",
+      "summary": "Texte signé par François Hollande et publié le 9 octobre 2026 sur sa lettre Substack, en réponse aux mobilisations lycéennes. Il propose d'affecter le « dividende démographique » à l'école : 19 élèves par classe en primaire, extension du dédoublement au CE2 puis au cours moyen, révision des temps scolaires, modules de rattrapage, rattrapage salarial des enseignants dès le début de carrière, quotas obligatoires d'élèves modestes dans le privé, « précepteur numérique » sous le contrôle des enseignants, « Erasmus national » et service civique doublé ouvrant droit à 10 000 euros.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Leur rémunération est aujourd’hui inférieure de 10 à 20 % à celle de leurs collègues européens. Le rattrapage doit commencer en début de carrière.",
+          "note": "Il propose un rattrapage de la rémunération des enseignants, qu'il dit inférieure de 10 à 20 % à celle de leurs collègues européens, à commencer par le début de carrière. Il n'en fait pas une priorité sur les autres dépenses éducatives, puisque la baisse des effectifs par classe vient « d’abord » : d'où +1."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 1,
+          "quote": "Il faut, d’abord, alléger les effectifs, en ramenant à 19 le nombre d’élèves par classe en primaire, au niveau de la moyenne européenne. Étendre le dédoublement au CE2, puis au cours moyen, là où les retards sont les plus lourds.",
+          "inferred": true,
+          "note": "Position déduite : il propose d'étendre le dédoublement des classes au CE2 puis au cours moyen « là où les retards sont les plus lourds », ce qui ajoute des moyens ciblés pour les écoles en difficulté. Le texte ne nomme ni l'éducation prioritaire ni les élèves défavorisés, et ne chiffre pas ces moyens."
+        }
+      ]
+    },
+    {
       "id": "hollande-2026-09-lettre-ia",
       "date": "2026-09-28",
       "title": "Tribune « IA : rien n’est perdu pour la France » (lettre Substack de François Hollande)",

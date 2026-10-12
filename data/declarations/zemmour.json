@@ -2,6 +2,59 @@
   "candidateId": "zemmour",
   "declarations": [
     {
+      "id": "zemmour-2026-10-tract-avenir",
+      "date": "2026-10-12",
+      "title": "Tract « L'avenir est à nous » (Reconquête, avec Éric Zemmour et Sarah Knafo)",
+      "sourceType": "autre",
+      "sourceUrl": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
+      "publisher": "Reconquête!",
+      "summary": "Tract national de Reconquête qui présente cinq priorités sous les intitulés « L'immigration négative, maintenant ! », « Préférence nationale : Français d'abord », « Dépenser moins pour taxer moins », « Travailler, gagner, transmettre » et « Une meilleure école pour vos enfants ». Le document n'est pas daté : il a été consulté le 12 octobre 2026 sur la page « J'agis » du parti, et les métadonnées du PDF indiquent une création le 6 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Supprimer l’AME qui soigne les clandestins avec votre argent.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré, qui figure sur le tract ; même valeur que le programme de 2022."
+        },
+        {
+          "questionId": "num-02",
+          "value": 2,
+          "quote": "Privatiser l’audiovisuel public : vous n’avez pas à financer la propagande contre vous.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; le tract ne précise pas le périmètre, contrairement au programme de 2022 qui conservait un pôle culturel public."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Baisser d’un tiers l’accise sur les carburants, supprimer la CSG sur les revenus du travail et supprimer les droits de succession.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; la suppression des droits de succession va au-delà de la réduction énoncée (le programme de 2022 proposait une franchise de 200 000 € par enfant) ; valeur inchangée."
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Réserver les aides sociales non-contributives, les allocations familiales et le logement social aux Français.",
+          "page": "2",
+          "inferred": true,
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; va au-delà de l'énoncé : les prestations non contributives sont réservées aux Français, quelle que soit la durée de résidence légale des étrangers."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "L’IMMIGRATION NÉGATIVE, MAINTENANT ! Expulser les étrangers en situation irrégulière, les délinquants étrangers et les étrangers chômeurs de longue durée. Arrêter l’immigration pour que la France retrouve la maîtrise de ses frontières, sa sécurité et sa souveraineté.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; va au-delà de l'énoncé (arrêt de l'immigration, « immigration négative ») ; aucun système de quotas votés par le Parlement n'est mentionné, comme dans la source de 2022."
+        }
+      ]
+    },
+    {
       "id": "zemmour-2026-09-candidature",
       "date": "2026-09-17",
       "title": "Confirmation de candidature",

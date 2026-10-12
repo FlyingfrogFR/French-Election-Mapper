@@ -2,6 +2,66 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-10-blois-bourges",
+      "date": "2026-10-05",
+      "title": "Gabriel Attal débat avec les Français à Blois et à Bourges",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-debat-avec-les-francais-a-blois-et-a-bourges",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié sur le site de campagne, des échanges de Gabriel Attal avec des Français, dont des lycéens, des parents et des membres de la communauté éducative, à Blois et à Bourges. Il y expose ses propositions sur l'éducation et le logement étudiant, la santé, l'agriculture, l'énergie, l'intelligence artificielle et les retraites.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-08",
+          "value": 2,
+          "quote": "Face aux difficultés de logement des étudiants et des jeunes actifs, il propose notamment une garantie universelle des loyers et la construction de nouvelles résidences universitaires.",
+          "note": "La mesure est nommée « garantie universelle des loyers » et présentée comme une réponse aux difficultés de logement des étudiants et des jeunes actifs. Son financement et ses modalités ne sont pas précisés."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Une première étape qu’il souhaite prolonger dans son projet présidentiel en augmentant les enseignants de 200 euros net et jusqu’à 500 euros pour les professeurs en milieu de carrière.",
+          "note": "Même mesure que dans l'entretien sur France 2 du 1er septembre 2026 : +200 € nets pour les enseignants, jusqu'à +500 € en milieu de carrière."
+        },
+        {
+          "questionId": "san-01",
+          "value": -1,
+          "quote": "Imposer aux généralistes leur lieu d'installation serait contre-productif, car on ne réussirait pas à couvrir tous les besoins. Le sujet est avant tout le nombre de médecins.",
+          "note": "Il écarte explicitement l'obligation faite aux généralistes de s'installer en un lieu donné. Il privilégie l'augmentation du nombre de médecins et la délégation de tâches à d'autres professions de santé. (Force ramenée de -2 à -1 en relecture : The quote checks 'exact' and the sign is right: he rejects « imposer aux généralistes leur lieu d'installation » and prefers increasing the number of doctors. But he rejects only the most coercive form (imposing the location), and only for GPs. The affirmation covers State regulation of installation in general, including softer forms such as making installation in over-served areas subject to authorisation, which the text does not address. That is a partial rejection, so −1 rather than −2, consistent with Becht's −1. The note should say the rejection covers the obligation imposed on GPs.)"
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "Premier ministre, il a doublé le nombre de médecins en formation. On doit aller plus loin pour arriver à 20 000 formés dans les années qui viennent et faire en sorte qu'ils restent.",
+          "note": "Objectif de 20 000 médecins formés « dans les années qui viennent ». La baisse de sélectivité et les formations paramédicales ne sont pas abordées, d'où +1."
+        },
+        {
+          "questionId": "agr-01",
+          "value": 1,
+          "quote": "Il propose ainsi d’établir, filière par filière, les coûts de production, de les indexer pour tenir compte de leur évolution et de garantir que les agriculteurs ne soient pas contraints de vendre en dessous de leurs coûts de production.",
+          "inferred": true,
+          "note": "Le document propose d'établir et d'indexer des coûts de production par filière, et de garantir que les agriculteurs ne vendent pas en dessous, soit un plancher de fait. L'expression « prix minimum garanti » n'est pas employée et le mécanisme n'est pas précisé, d'où +1 déduit."
+        },
+        {
+          "questionId": "agr-02",
+          "value": 1,
+          "quote": "Gabriel Attal défend également un alignement des normes agricoles au niveau européen. La France ne peut pas imposer à ses producteurs des règles différentes de celles appliquées à leurs concurrents européens tout en laissant entrer leurs produits sur le marché français.",
+          "note": "Remplace le +1 du discours de Reims du 17 septembre 2026, qui visait une harmonisation des normes au sein des « États-Unis d'Europe ». Il défend ici explicitement un alignement des normes agricoles françaises sur celles des concurrents européens. (Force ramenée de 2 à 1 en relecture : The quote checks 'exact' and the sign is right. The move to +2 is not justified. « Un alignement des normes agricoles au niveau européen » means harmonisation at European level, which is the same orientation as the 17 September Reims speech (+1). The text does not say French norms would be aligned on the European minimum, and unlike Reims it does not name surtransposition. Nothing shows a change of position, and the document is no more precise than the Reims speech, so +1 stays. The note (« Remplace le +1… explicitement… ») must be rewritten to say the value does not change.)"
+        },
+        {
+          "questionId": "eur-07",
+          "value": 1,
+          "quote": "Les accords de libre-échange doivent, eux aussi, comporter des garde-fous permettant de protéger les producteurs français. C’est pourquoi il s’était opposé au MERCOSUR.",
+          "note": "Le document rappelle son opposition passée à l'accord avec le Mercosur, motivée par l'absence de garde-fous pour les producteurs. Il ne précise pas ce qu'il ferait de l'accord, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "attal-2026-09-cnews",
       "date": "2026-09-30",
       "title": "Gabriel Attal sur CNEWS et Europe 1 : « Il faut proposer aux Français un projet d’espoir »",
