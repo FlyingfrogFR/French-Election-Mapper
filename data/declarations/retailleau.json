@@ -2,6 +2,70 @@
   "candidateId": "retailleau",
   "declarations": [
     {
+      "id": "retailleau-2026-09-entretien-telegramme",
+      "date": "2026-09-16",
+      "title": "Entretien au Télégramme : « Produire en France, la meilleure des solutions écologiques » (reproduit sur republicains.fr)",
+      "sourceType": "interview",
+      "sourceUrl": "https://republicains.fr/actualites/2026/09/16/produire-en-france-la-meilleure-des-solutions-ecologiques/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Entretien de Bruno Retailleau au Télégramme sur l'agriculture, reproduit en questions-réponses sur le site des Républicains. La page est datée du 16 septembre 2026 mais a été mise en ligne le 1er octobre 2026 (métadonnées WordPress ; absente de la page d'accueil archivée le 26 septembre). Il y propose quatre leviers : compétitivité (moins de normes et de charges), recours à la science (nouvelles techniques génomiques, drones, réservoirs d'eau), revenu et réciprocité aux frontières, contrôle politique (agriculture dans la Constitution, suppression du principe de précaution et de l'OFB, interdiction des surtranspositions).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Et j’interdirai les surtranspositions par une loi organique européenne : ce qui est autorisé en Europe doit l’être aussi en France.",
+          "note": "Même valeur que le livret « Agriculture » (février 2026) : interdiction des surtranspositions par une loi organique."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-09-entretien-jdd",
+      "date": "2026-09-12",
+      "title": "Entretien au JDD : « Les pressions ne marchent pas avec moi, rien ne m’arrêtera » (reproduit sur republicains.fr)",
+      "sourceType": "interview",
+      "sourceUrl": "https://republicains.fr/actualites/2026/09/12/les-pressions-ne-marchent-pas-avec-moi-rien-ne-marretera/",
+      "publisher": "Les Républicains / Bruno Retailleau",
+      "summary": "Entretien de Bruno Retailleau au JDD, reproduit en questions-réponses sur le site des Républicains. La page est datée du 12 septembre 2026 mais a été mise en ligne le 1er octobre 2026 (métadonnées WordPress ; absente de la page d'accueil archivée le 26 septembre). Il y écarte un ralliement à Édouard Philippe, met en avant le recours au référendum et présente plusieurs propositions : une baisse des cotisations sur les salaires, financée notamment par le plafonnement des aides sociales à 70 % du SMIC ; 150 milliards d'euros d'économies ; l'interdiction du voile dans les compétitions sportives, lors des sorties scolaires et à l'université publique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-10",
+          "value": 2,
+          "quote": "Je suis contre le voile, qui est un marqueur utilisé par les islamistes, mais je propose de l’interdire là où nous pouvons réellement le faire : dans les compétitions sportives, lors des sorties scolaires, à l’université publique.",
+          "note": "Même valeur que le livret « École » (3 septembre 2026), qui ne visait que les accompagnateurs de sorties scolaires ; le candidat y ajoute ici les compétitions sportives."
+        },
+        {
+          "questionId": "lib-02",
+          "value": 2,
+          "quote": "Je suis contre le voile, qui est un marqueur utilisé par les islamistes, mais je propose de l’interdire là où nous pouvons réellement le faire : dans les compétitions sportives, lors des sorties scolaires, à l’université publique.",
+          "note": "Même valeur que l'entretien au Parisien du 7 janvier 2025 ; la proposition porte sur le voile à l'université publique."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "Cette baisse de cotisations, je la financerai sans un euro d’argent public, juste en mettant fin aux abus, notamment par le plafonnement des aides sociales à 70 % du Smic.",
+          "note": "Même valeur que le livret « Travail gagnant » (janvier 2026), où le plafond de 70 % du SMIC était au conditionnel ; il est ici présenté comme un engagement du candidat."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Seul un mandat du peuple permettra de réaliser les 150 milliards d’euros d’économies que je propose.",
+          "note": "Même valeur que le discours du 26 août 2026 : 150 milliards d'euros d'économies et rejet de « l’obsession fiscale » (« L’impôt n’est pas la solution, il est le problème ») ; l'objectif de 3 % du PIB n'est pas cité."
+        }
+      ]
+    },
+    {
       "id": "retailleau-2026-09-mesure-droit-du-sol",
       "date": "2026-09-24",
       "title": "Supprimer le droit du sol et revenir à l'assimilation (mesure n° 05 du projet présidentiel)",

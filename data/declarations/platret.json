@@ -1,0 +1,80 @@
+{
+  "candidateId": "platret",
+  "declarations": [
+    {
+      "id": "platret-2026-10-communique-candidature",
+      "date": "2026-10-09",
+      "title": "Communiqué de presse du 9 octobre 2026 : Gilles Platret « se lance dans la campagne des présidentielles »",
+      "sourceType": "communique",
+      "sourceUrl": "https://x.com/gillesplatret/status/2108481774368027063",
+      "publisher": "Gilles Platret (compte X officiel @gillesplatret)",
+      "summary": "Communiqué publié sur son compte X au lendemain du meeting de Chalon-sur-Saône du 8 octobre 2026. Il annonce son entrée dans la campagne présidentielle et liste ses « chevaux de batailles », notamment : interdiction des Frères musulmans, loi d'assimilation interdisant le voile dans l'espace public, rétablissement des frontières, retour aux 39 heures, réduction de la dette sous 100 % du PIB, réarmement, scrutin uninominal à un tour et diplomatie de soutien à Israël.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "quote": "pour réhabiliter la valeur Travail et sauver les retraites, abolition de la loi des 35 heures et retour aux 39 heures hebdomadaires de travail",
+          "note": "Abolition de la loi des 35 heures et retour à une durée hebdomadaire de 39 heures."
+        },
+        {
+          "questionId": "lib-01",
+          "value": 2,
+          "quote": "Une grande loi d'assimilation portant notamment interdiction du voile dans l'espace public",
+          "note": "L'interdiction proposée vise le voile, et non l'ensemble des signes religieux ostensibles."
+        },
+        {
+          "questionId": "lib-10",
+          "value": 2,
+          "quote": "Une grande loi d'assimilation portant notamment interdiction du voile dans l'espace public",
+          "inferred": true,
+          "note": "Déduite : l'interdiction du voile dans tout l'espace public couvre les accompagnatrices de sorties scolaires et les compétitions sportives, que le communiqué ne cite pas."
+        },
+        {
+          "questionId": "eur-12",
+          "value": 2,
+          "quote": "rétablissement des frontières pour juguler l'immigration irrégulière et politique de réduction drastique de la délivrance des titres de séjour",
+          "note": "Rétablissement des frontières proposé ; le communiqué ne précise ni le sort de l'espace Schengen ni la durée des contrôles."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "rétablissement des frontières pour juguler l'immigration irrégulière et politique de réduction drastique de la délivrance des titres de séjour",
+          "note": "Réduction « drastique » de la délivrance des titres de séjour ; des quotas annuels votés par le Parlement ne sont pas évoqués."
+        },
+        {
+          "questionId": "ins-03",
+          "value": -2,
+          "quote": "instauration du mode de scrutin uninominal à un tour aux législatives (modèle anglo-saxon) pour mettre un terme à l'émiettement du paysage politique et dégager une majorité stable à l'Assemblée nationale",
+          "inferred": true,
+          "note": "Déduite : il propose un scrutin uninominal à un tour aux législatives, sans part de proportionnelle ; la proportionnelle n'est pas mentionnée."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "réhabilitation des missions régaliennes de sécurité et de justice par des moyens largement supérieurs à ceux d'aujourd'hui",
+          "note": "Forte hausse des moyens de la sécurité et de la justice, sans chiffrage ni objectif de doublement du budget de la justice."
+        },
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "accélération du réarmement militaire français face aux menaces extérieures",
+          "inferred": true,
+          "note": "Déduite : il demande d'accélérer le réarmement, sans objectif chiffré en points de PIB."
+        },
+        {
+          "questionId": "eur-06",
+          "value": -1,
+          "quote": "nouvelle diplomatie soutenant en particulier Israël, rompant les relations diplomatiques avec la République islamique d'Iran",
+          "inferred": true,
+          "note": "Déduite : il propose une diplomatie « soutenant en particulier Israël », incompatible avec le soutien à des sanctions contre Israël ; les sanctions et l'accord d'association UE-Israël ne sont pas évoqués."
+        }
+      ]
+    }
+  ]
+}

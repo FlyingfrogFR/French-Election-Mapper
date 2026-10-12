@@ -2,6 +2,201 @@
   "candidateId": "becht",
   "declarations": [
     {
+      "id": "becht-2026-10-livre-partie-1",
+      "date": "2026-10-05",
+      "title": "Le Projet France (livre), partie 1 : « Reprendre la route » et « La France est ce qui nous lie »",
+      "sourceType": "autre",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-1/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Première partie du livre « Le Projet France », publié en feuilleton sur le site de campagne (onze parties annoncées jusqu’au 9 novembre) : récit de son engagement d’élu et de ministre, de sa tournée des 101 départements et de ce qui, selon lui, unit les Français. Page non datée, mise en ligne le 5 octobre 2026 selon les métadonnées du site, date de consultation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "J’ai compris très tôt que le contraire de l’Europe, c’était la guerre. Pour moi, l’Europe n’est pas qu’un choix politique. C’est une nécessité pour vivre en paix avec ses voisins.",
+          "inferred": true,
+          "note": "Déduit : il présente l’Europe comme « une nécessité pour vivre en paix avec ses voisins » ; le maintien dans l’Union n’est pas formulé comme tel."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-pacte-democratique-territorial",
+      "date": "2026-10-05",
+      "title": "Le Projet France — « Le pacte démocratique et territorial » (page de propositions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/projet-france/les-5-refondations/refondation-democratique-territoriale/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Page « Le pacte démocratique et territorial » du Projet France : reconnaissance du vote blanc, référendum d’initiative citoyenne, autonomie des collectivités, fusion possible des départements en Provinces, 10 milliards d’euros de l’État sur cinq ans pour les territoires, services de proximité, plan ferroviaire de 10 milliards d’euros et simplification normative. Page non datée, consultée le 5 octobre 2026, date de sa dernière modification selon les métadonnées du site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Nous instaurerons également un véritable référendum d’initiative citoyenne, qui permettra à chacun de saisir directement l’Assemblée nationale, et donnera aux Français les moyens de peser sur les décisions qui engagent leur avenir, sans attendre une prochaine échéance électorale.",
+          "note": "Même valeur que le dossier de presse du 24 septembre : la page propose d’instaurer « un véritable référendum d’initiative citoyenne »."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1,
+          "quote": "Cette refondation démocratique passera tout d’abord par la reconnaissance du vote blanc, afin que l’abstention ne soit plus le seul mode d’expression de ceux qui ne se reconnaissent dans aucun candidat, et que leur voix compte véritablement dans le débat démocratique.",
+          "note": "Reconnaissance du vote blanc pour que ces voix « comptent véritablement », sans préciser qu’il serait comptabilisé parmi les suffrages exprimés ; même valeur que le dossier de presse."
+        },
+        {
+          "questionId": "log-07",
+          "value": 1,
+          "quote": "d’assurer des services de proximité essentiels, comme l’internet à haut débit, un commerce alimentaire, une gendarmerie, une école maternelle et élémentaire, ou encore un collège et un lycée, pour que vivre en dehors des grandes villes ne signifie plus être privé de l’essentiel.",
+          "inferred": true,
+          "note": "Déduit : la page veut assurer hors des grandes villes des services de proximité (gendarmerie, écoles, collège, lycée) ; la condition « même s’ils sont déficitaires » n’est pas traitée ; même valeur que le dossier de presse."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Un grand plan ferroviaire de 10 milliards d’euros sera par ailleurs engagé pour la rénovation et l’entretien de nos lignes, trop souvent laissées à l’abandon.",
+          "note": "Plan ferroviaire de 10 milliards d’euros pour la rénovation et l’entretien des lignes ; ni son financement ni l’effet sur la dette publique ne sont abordés."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-refondation-energie",
+      "date": "2026-10-05",
+      "title": "Le Projet France — « L’énergie » (page de propositions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/projet-france/les-5-refondations/refondation-energie/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Page « L’énergie » du Projet France : carburants de synthèse, sortie des énergies fossiles avec un mix associant nucléaire, énergies renouvelables et stockage, neutralité carbone en avance sur les objectifs européens, filières prioritaires de « l’économie de la vie » et programme technologique DEF-I-TECH. Page non datée, consultée le 5 octobre 2026, date de sa dernière modification selon les métadonnées du site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-14",
+          "value": 1,
+          "quote": "Nous porterons l’ambition d’atteindre la neutralité carbone en avance de phase par rapport aux objectifs européens, parce que la France dispose des atouts industriels, scientifiques et énergétiques pour être pionnière dans cette transition.",
+          "inferred": true,
+          "note": "Déduit : ambition d’atteindre la neutralité carbone avant l’échéance européenne ; l’arbitrage avec la croissance de court terme n’est pas abordé."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-refondation-sante",
+      "date": "2026-10-05",
+      "title": "Le Projet France — « La santé » (page de propositions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/projet-france/les-5-refondations/refondation-sante/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Page « La santé » du Projet France : santé élevée au rang de priorité régalienne, prévention dès le plus jeune âge, médecin traitant et pharmacie à moins de trente minutes, hausse des quotas de soignants, carte Vitale intégrée à la carte d’identité contre la fraude et réforme de l’hôpital. Page non datée, consultée le 5 octobre 2026, date de sa dernière modification selon les métadonnées du site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Nous intégrerons par ailleurs la carte Vitale à la carte d’identité, dans le cadre du plan France Identité, pour lutter efficacement contre la fraude.",
+          "note": "Remplace +1 du vote du 5 mai 2026 (scrutin n°6319) : la page propose explicitement d’intégrer la carte Vitale à la carte d’identité pour lutter contre la fraude."
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "Pour y parvenir, il est impératif de former davantage de soignants, d’augmenter les quotas, et de leur permettre d’exercer plus tôt dans leur parcours.",
+          "note": "Hausse des quotas de formation des soignants sans ampleur chiffrée ; la sélectivité n’est pas abordée."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-refondation-securite",
+      "date": "2026-10-05",
+      "title": "Le Projet France — « La sécurité » (page de propositions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/projet-france/les-5-refondations/refondation-securite/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Page « La sécurité » du Projet France : 10 000 policiers supplémentaires, travaux d’intérêt général, centres de redressement encadrés par des militaires, places en prisons de haute sécurité, confiscation des avoirs, protection des policiers en légitime défense, refonte du code de l’entrée et du séjour et « Europe des trois cercles ». Page non datée, consultée le 5 octobre 2026, date de sa dernière modification selon les métadonnées du site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Afin de mettre durablement les criminels hors d’état de nuire, nous créerons davantage de places dans des prisons de haute sécurité, de manière à ce que les peines prononcées puissent réellement être exécutées.",
+          "note": "Davantage de places en prisons de haute sécurité, sans objectif chiffré (l’affirmation vise au moins 20 000 places)."
+        },
+        {
+          "questionId": "eur-03",
+          "value": 1,
+          "quote": "La mise en place de cette politique impliquera de repenser l’Europe en une Europe des trois cercles, dont le premier est à bâtir pour assurer notre défense.",
+          "inferred": true,
+          "note": "Déduit : le premier cercle d’une « Europe des trois cercles » serait « à bâtir pour assurer notre défense », sans préciser le cadre (Union entière ou groupe d’États) ni le degré d’intégration."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-refondation-sociale",
+      "date": "2026-10-05",
+      "title": "Le Projet France — « La refondation sociale » (page de propositions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/projet-france/les-5-refondations/refondation-sociale/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Page « La refondation sociale » du Projet France : politique de natalité et politique familiale avec des allocations dès le premier enfant, contrat unique de travail garantissant un revenu jamais inférieur au salaire minimum, Maisons de Vie et Maisons de mentors, revalorisation du salaire des enseignants et prêt étudiant garanti par l’État. Page non datée, consultée le 5 octobre 2026, date de sa dernière modification selon les métadonnées du site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Pour que l’enseignement redevienne un métier que l’on choisit, la formation des enseignants sera repensée, et leur salaire, revalorisé.",
+          "note": "Revalorisation du salaire des enseignants sans ampleur ni priorité sur les autres dépenses éducatives ; même valeur que le rapport « Refaire Nation »."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-resultats",
+      "date": "2026-10-05",
+      "title": "« Des résultats concrets » (page de présentation du candidat)",
+      "sourceType": "autre",
+      "sourceUrl": "https://becht2027.fr/olivier-becht/ses-resultats/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Page de présentation « Des résultats concrets » : gestion de la ville de Rixheim, action de député et de ministre du Commerce extérieur, et votes mis en avant, dont ceux contre la CSG sur les retraites et contre la réintégration de pesticides interdits. Page non datée, consultée le 5 octobre 2026, date de sa dernière modification selon les métadonnées du site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -1,
+          "quote": "il vote pour ce qui lui semble aller dans le bon sens, et contre ce qui lui parait contraire aux intérêts des Français — en particulier contre la CSG sur les retraites, contre la réintégration de pesticides interdits",
+          "note": "La page de campagne présente au présent son vote « contre la réintégration de pesticides interdits » comme le rejet de ce qui lui paraît contraire aux intérêts des Français ; le Projet France vise aussi « une alimentation saine sans phytosanitaires ». (Force ramenée de -2 à -1 en relecture : Page biographique qui relate des votes, sans proposition. Il a voté Pour la loi Duplomb (scrutin n°2957, 8 juillet 2025), qui prévoyait la réautorisation dérogatoire de l'acétamipride. Il a ensuite voté Contre le projet de loi d'urgence agricole (scrutin n°8427, séance du 20 juillet 2026), dont l'article 2 quater ouvrait la voie à l'acétamipride et au flupyradifurone. La réautorisation temporaire au bénéfice de filières n'est pas traitée en tant que telle.)"
+        }
+      ]
+    },
+    {
       "id": "becht-2026-09-dossier-presse",
       "date": "2026-09-24",
       "title": "Dossier de presse « Le Projet France »",

@@ -2,13 +2,281 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
+      "id": "dupont-aignan-2026-10-projet-education",
+      "date": "2026-10-12",
+      "title": "Le Projet de Debout La France – Éducation : « Repenser l'école de la République, l'excellence pour tous ! » (mise à jour du 12 octobre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique Éducation du projet de Debout la France (anciennement « Repenser l'école de la République », 40 mesures), publiée le 2022-09-15, réécrite et mise à jour le 2026-10-12 (dateModified 2026-10-12T15:14:14Z). Sous le titre « Nos 60 mesures » (58 sont listées), elle s'organise en cinq axes (rétablissement de l'autorité, apprentissage des savoirs, formation des professeurs, retour au mérite, seconde chance) ; on y trouve notamment l'uniforme obligatoire, la suppression du programme EVARS, des classes de niveau au collège et une hausse de 15 % en 4 ans des salaires nets des professeurs. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti, dont Nicolas Dupont-Aignan est le président et le candidat déclaré.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-01",
+          "value": 2,
+          "quote": "Uniforme obligatoire, niveau de langage minimum et vouvoiement.",
+          "note": "Remplace le +1 du projet de 2024, qui laissait chaque établissement décider : l'uniforme devient obligatoire."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Augmenter de 15 % en 4 ans les salaires nets des professeurs.",
+          "note": "La mesure de 2024 (20 % de hausse automatique, plus 20 % en échange d'heures de soutien) devient une hausse de 15 % en 4 ans des salaires nets ; la valeur ne change pas, et la page ne dit pas que cette hausse passe avant les autres dépenses."
+        },
+        {
+          "questionId": "edu-03",
+          "value": 2,
+          "quote": "Le collège Organiser des classes de niveau tout en garantissant leur porosité.",
+          "inferred": true,
+          "note": "Position déduite : la page propose des classes de niveau au collège, une forme de regroupement par niveau plus poussée que les groupes de niveau."
+        },
+        {
+          "questionId": "edu-04",
+          "value": -1,
+          "quote": "Accepter les créations de classes demandées par les établissements privés pour répondre à la forte demande des familles.",
+          "inferred": true,
+          "note": "Position déduite : la page ne parle pas du financement, mais elle propose d'accepter les ouvertures de classes demandées par les établissements privés, ce qui va à l'encontre d'une réduction de leur financement public."
+        },
+        {
+          "questionId": "edu-08",
+          "value": 2,
+          "quote": "Instaurer le principe de souveraineté des conseils de classe (redoublement, choix d’orientation, etc.).",
+          "note": "Même mesure que dans la version de 2024 : souveraineté des conseils de classe, avec mention explicite du redoublement."
+        },
+        {
+          "questionId": "edu-09",
+          "value": -2,
+          "quote": "Suppression du programme EVARS.",
+          "note": "Suppression explicite du programme d'éducation à la vie affective, relationnelle et sexuelle (EVARS)."
+        },
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "Interdiction de l'usage des objets connectés dans l'enceinte des établissements.",
+          "inferred": true,
+          "note": "Position déduite : l'interdiction de l'usage des objets connectés, qui comprennent les téléphones portables, figure parmi les mesures de rétablissement de l'autorité et vaut pour tous les établissements, lycées compris."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-2026-10-projet-economie",
+      "date": "2026-10-10",
+      "title": "Le Projet de Debout La France – Économie : « Récompenser le travail et relocaliser ! » (mise à jour du 10 octobre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique Économie du projet de Debout la France (anciennement « Économie, Travail »), publiée le 2022-09-15, largement réécrite et mise à jour le 2026-10-10 (dateModified 2026-10-10T19:18:22Z) ; le bloc « Nos principales mesures » reprend celui de la version précédente. Elle présente ensuite 30 mesures en trois volets (créer et relocaliser 2 millions d'emplois, relancer le pouvoir d'achat, assainir les finances publiques) : sortie de l'UE, capital de 10 000 euros à la naissance placé dans un fonds public de capitalisation, suppression des droits de succession sur la résidence principale, sortie du marché européen de l'électricité, rapatriement du pouvoir monétaire. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers le projet du parti, dont Nicolas Dupont-Aignan est le président et le candidat déclaré.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 1,
+          "quote": "Rétablir un impôt sur les très grandes fortunes en excluant la résidence principale et en permettant de déduire tous les investissements dans des entreprises / organismes localisant leur production en France",
+          "note": "Comme dans la version de 2024, l'impôt est limité aux très grandes fortunes, hors résidence principale et avec déduction des investissements productifs en France : c'est une orientation partielle vers l'ISF."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doubler les plafonds d’exonération des donations, exonérer de 90 % la valeur des titres d’une entreprise transmise (75 % actuellement).",
+          "note": "Mesure plus détaillée que celle de la page Logement : elle vise aussi les terres agricoles, les plafonds des donations et les transmissions d'entreprise."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Baisser de 40 centimes le prix des carburants (suppression des certificats d’économies d’énergie (CEE) : 17 centimes ; suppression de la TVA sur la taxe (6 milliards d’euros de coût) : 13 centimes ; plafonnement des marges des raffineurs : 10 centimes).",
+          "note": "Mesure partielle : la TVA appliquée à la taxe sur les carburants est supprimée, sans taux de 5,5 % sur l'ensemble de l'énergie ; l'électricité et le gaz baissent par d'autres voies (sortie du marché européen, monopole public)."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Baisser les impôts de production (3,2 % du PIB, soit près du double de la médiane des pays européens et du quadruple de l’Allemagne, ce qui décourage nos entrepreneurs)",
+          "note": "La page prévoit aussi un crédit d'impôt qui divise par deux l'impôt sur les sociétés sur les bénéfices réinvestis en France, et une baisse de cet impôt liée à l'actionnariat salarié."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Créer un grand fonds d’investissement et de relocalisation doté de 4 milliards d’euros par an et piloté par la Caisse des dépôts et consignations, qui favoriserait l’investissement productif, la robotisation, l’emploi et la recherche dans les zones périphériques et rurales notamment.",
+          "note": "La page prévoit aussi un « protectionnisme intelligent », des droits de douane compensateurs et un « Buy French Act » qui réserve la commande publique aux entreprises produisant en France, même à un prix jusqu'à 50 % plus élevé."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1,
+          "quote": "Réindexer les pensions de retraite et les salaires des fonctionnaires sur l’inflation",
+          "note": "Comme dans la version de 2024, l'indexation ne vise que les pensions et les salaires des fonctionnaires, pas l'ensemble des salaires."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 1,
+          "quote": "À 60 ans, le bénéficiaire disposerait ainsi d’un socle de retraite par capitalisation, qui viendrait en complément de la retraite par répartition.",
+          "note": "Même mesure que dans le discours du 19/09/2026, ici détaillée : un capital de 10 000 euros versé à la naissance dans un fonds public de capitalisation complète la retraite par répartition, qui est maintenue."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "Faire en sorte que, pour tout inactif, l’ensemble des prestations sociales ne dépasse pas 70 % du SMIC net.",
+          "note": "Plafond chiffré : les prestations sociales d'une personne inactive sont limitées à 70 % du SMIC net."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Couper les pompes aspirantes migratoires et économiser 5 milliards d’euros (conditionner les aides sociales non contributives à 5 ans de résidence pour tout étranger, supprimer l’AME, lutter contre les fraudes aux mineurs isolés).",
+          "note": "Suppression explicite de l'AME."
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Couper les pompes aspirantes migratoires et économiser 5 milliards d’euros (conditionner les aides sociales non contributives à 5 ans de résidence pour tout étranger, supprimer l’AME, lutter contre les fraudes aux mineurs isolés).",
+          "note": "Pour les étrangers, les aides sociales non contributives sont conditionnées à cinq ans de résidence."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Les programmes de construction des EPR2 et de déploiement des petits réacteurs modulaires français pour remplacer nos centrales en fin de vie seront accélérés.",
+          "inferred": true,
+          "note": "Position déduite : la page accélère les EPR2 et le déploiement de petits réacteurs modulaires appelés à remplacer les centrales en fin de vie, soit de nouveaux réacteurs au-delà des six EPR2, sans en donner le nombre."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Diviser par 2 le prix de l’électricité dès la première année en : Sortant du marché européen de fixation du prix de l’électricité.",
+          "note": "Même mesure que dans la page Affaires européennes (version du 21/09/2026)."
+        },
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Diviser par 2 l’ensemble des normes administratives qui entravent la bonne marche des entreprises et exaspèrent les Français (les ZFE seront supprimées, tout comme le seuil minimal de DPE pour louer un logement…) et zéro taxe et zéro norme supplémentaire pour les TPE/PME.",
+          "note": "La suppression des ZFE est annoncée explicitement."
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Diviser par 2 l’ensemble des normes administratives qui entravent la bonne marche des entreprises et exaspèrent les Français (les ZFE seront supprimées, tout comme le seuil minimal de DPE pour louer un logement…) et zéro taxe et zéro norme supplémentaire pour les TPE/PME.",
+          "note": "Comme dans la page Logement, le seuil minimal de DPE exigé pour louer un logement est supprimé."
+        },
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Sortir de l’UE et économiser ainsi les 15 milliards d’euros de notre solde contributeur.",
+          "note": "La version de 2024 de cette page excluait un « Frexit » ; la nouvelle prévoit la sortie de l'UE (la page Affaires européennes la soumet à un référendum sur l'appartenance)."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Mettre fin aux aides à l’Ukraine (7 milliards d’euros par an en comptant les aides de la France et la quote-part des aides de l’UE dues par la France).",
+          "note": "Fin de toutes les aides à l'Ukraine, évaluées à 7 milliards d'euros par an."
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "Un grand emprunt national offrant un avantage fiscal aux Français permettra de reprendre le contrôle de notre dette et de conforter notre nouvelle monnaie à l’exemple du Japon.",
+          "inferred": true,
+          "note": "Remplace le +1 (déduit) du discours du 19/09/2026 : la page prévoit de rapatrier le pouvoir monétaire détenu par la BCE vers une Banque de France autonome et parle de « notre nouvelle monnaie », alors que la version de 2024 excluait un Frexit ; la sortie de l'euro est déduite, la page ne la formule pas en ces termes."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Supprimer l’échelon régional, le mandat de conseiller régional, les intercommunalités inutiles, le Conseil économique, social et environnemental (CESE), tout en renforçant le pouvoir des maires et des conseils départementaux, avec un objectif de 5 milliards d’euros au bout de 3 ans.",
+          "note": "Suppression de l'échelon régional et des intercommunalités « inutiles », au profit des communes et des départements."
+        },
+        {
+          "questionId": "num-03",
+          "value": 2,
+          "quote": "Instaurer une taxe numérique forfaitaire, pour l’exploitation commerciale des données personnelles des internautes résidant en France et amener les GAFAM à payer leurs impôts en France",
+          "note": "Mesure reprise telle quelle de la version de 2024 de la page."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doubler les plafonds d’exonération des donations, exonérer de 90 % la valeur des titres d’une entreprise transmise (75 % actuellement).",
+          "note": "Comme dans la page Agriculture, les droits de succession sont supprimés sur les 100 premiers hectares de terres agricoles."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-2026-09-projet-logement",
+      "date": "2026-09-30",
+      "title": "Le Projet de Debout La France – Logement : « 30 mesures pour une France de propriétaires ! » (mise à jour du 30 septembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/logement/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique Logement du projet de Debout la France, publiée le 2022-09-15 et mise à jour le 2026-09-30 (dateModified 2026-09-30T18:07:22Z), jour où le parti a aussi mis en ligne une brochure PDF de quatre pages reprenant les 30 mesures (Logement-2026_09-30_brochure.pdf). Par rapport à la version du 2026-04-28 : la suppression des droits de succession sur les résidences principales n'est plus plafonnée à un million d'euros ; la sous-mesure « Rouvrir le prêt aux maisons individuelles sur tout le territoire » est retirée ; la mesure sur les plus-values immobilières vise désormais les prélèvements sociaux et non plus les « cotisations immobilières » ; les chiffres du constat sont actualisés. Les autres mesures sont inchangées. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti, dont Nicolas Dupont-Aignan est le président et le candidat déclaré.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Supprimer les droits de succession sur les résidences principales.",
+          "sourceUrl": "https://www.debout-la-france.fr/wp-content/uploads/2026/09/Logement-2026_09-30_brochure.pdf",
+          "page": "2",
+          "note": "Même mesure que dans le discours du 19/09/2026 ; la version du 2026-04-28 de la page la limitait à un plafond d'un million d'euros, retiré le 30/09/2026 (phrase identique dans la brochure PDF citée et sur la page en ligne)."
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Abandonner l’interdiction de location de logements sur la base du DPE pour remettre sur le marché les petits logements qui bénéficient aux étudiants et aux plus modestes.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 de la même page (et de la brochure du 30/09/2026)."
+        },
+        {
+          "questionId": "log-02",
+          "value": -1,
+          "quote": "Adapter la loi Solidarité et renouvellement urbain (SRU) en incluant les logements en accession sociale dans le quota des logements sociaux.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 : assouplissement du quota SRU (inclusion de l'accession sociale, construction de logements sociaux conditionnée au-delà de 50 %), pas de renforcement."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Cela rend nécessaire un allègement des normes , le déblocage de l’offre foncière et de nouvelles incitations fiscales à l’acquisition de logements.",
+          "note": "Phrase reprise de la version du 2026-04-28 (l'objectif de 400 000 logements par an est désormais fixé « d'ici 2028 ») ; la page propose aussi un permis de construire à destinations multiples et la conversion de bureaux en logements."
+        },
+        {
+          "questionId": "log-04",
+          "value": -2,
+          "quote": "Réformer intégralement la loi Climat et Résilience pour mettre fin à l’objectif de Zéro Artificialisation Nette (ZAN) afin de déverrouiller le marché des maisons individuelles en excluant leur terrain du calcul de l’artificialisation.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 de la même page."
+        },
+        {
+          "questionId": "log-06",
+          "value": 1,
+          "quote": "Réguler les locations de tourisme type Airbnb en harmonisant l’abattement fiscal par rapport aux locations standards et en donnant davantage de pouvoirs aux maires pour encadrer les biens saisonniers dans leur commune.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 : alignement de l'abattement fiscal sur celui des locations classiques, sans durcissement au-delà."
+        },
+        {
+          "questionId": "log-08",
+          "value": 1,
+          "quote": "Mettre en place une garantie universelle des loyers impayés pour sécuriser les propriétaires et encourager la mise en location , financée par les locataires à hauteur de 1% du loyer chaque mois.",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 : garantie universelle, mais financée par les locataires (1 % du loyer) et non sur fonds publics."
+        },
+        {
+          "questionId": "log-09",
+          "value": 2,
+          "quote": "Rétablir un avantage fiscal type Pinel pour relancer le marché du neuf .",
+          "note": "Mesure reprise à l'identique de la version du 2026-04-28 ; la page permet aussi aux bailleurs de passer du micro-foncier au régime réel sans engagement."
+        }
+      ]
+    },
+    {
       "id": "dupont-aignan-2026-09-projet-affaires-europeennes",
       "date": "2026-09-21",
       "title": "Le Projet de Debout La France – Affaires européennes : « Remplacer l’Union européenne par une communauté des nations libres et des projets à la carte »",
       "sourceType": "programme",
       "sourceUrl": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
       "publisher": "Debout la France (site officiel du parti)",
-      "summary": "Page thématique Affaires européennes du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-09-21 (dateModified). Sous le sous-titre « Europe : remplacer l’Union européenne par une communauté des nations libres et des projets à la carte ! », la page propose de mettre fin à l’Union européenne avec les pays volontaires et de la remplacer par une organisation intergouvernementale soumise à référendum. Les mesures déjà encodées depuis la version du 2024-02-05 (Schengen, Mercosur, clauses miroirs, marché de l’électricité, contribution nette, portefeuille numérique) y figurent toujours. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti dont Nicolas Dupont-Aignan est le candidat déclaré.",
+      "summary": "Page thématique Affaires européennes du projet DLF, publiée le 2022-09-15, dernière mise à jour le 2026-09-21 (dateModified). Sous le sous-titre « Europe : remplacer l’Union européenne par une communauté des nations libres et des projets à la carte ! », la page propose d’organiser un référendum sur l’appartenance de la France à l’Union européenne : « si le peuple l'accepte par référendum », la France la quittera, puis bâtira avec les pays qui l’auront aussi quittée une organisation intergouvernementale de coopérations, elle-même approuvée par référendum. Les mesures déjà encodées depuis la version du 2024-02-05 (Schengen, Mercosur, clauses miroirs, marché de l’électricité, contribution nette, portefeuille numérique) y figurent toujours. Le lien « Projet » du site de campagne dupontaignan.fr renvoie vers ce projet du parti dont Nicolas Dupont-Aignan est le candidat déclaré.",
       "review": {
         "status": "pending",
         "reviewers": [],
