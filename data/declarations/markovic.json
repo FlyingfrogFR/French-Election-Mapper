@@ -1,0 +1,271 @@
+{
+  "candidateId": "markovic",
+  "declarations": [
+    {
+      "id": "markovic-2026-10-candidature",
+      "date": "2026-10-02",
+      "title": "Mira Markovic représentera le Parti animaliste à la présidentielle",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+      "publisher": "Parti animaliste",
+      "summary": "Communiqué du Parti animaliste du 2 octobre 2026 annonçant que Mira Markovic, cofondatrice du parti, sera sa candidate à l'élection présidentielle. Il cite parmi les mesures portées par le parti un ministère indépendant de la Condition animale, la sortie de l'élevage intensif, la fin de la chasse et de la corrida et l'intégration des animaux aux plans de secours ORSEC.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Nous portons, par exemple, la création d’un ministère indépendant de la Condition animale, la sortie de l’élevage intensif, la fin des pratiques cruelles comme la chasse et la corrida, ou encore l’intégration des animaux aux plans de secours ORSEC.",
+          "note": "Position du parti dans le communiqué qui la désigne candidate : sortie de l'élevage intensif, au-delà d'une limitation progressive."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 2,
+          "quote": "Nous portons, par exemple, la création d’un ministère indépendant de la Condition animale, la sortie de l’élevage intensif, la fin des pratiques cruelles comme la chasse et la corrida, ou encore l’intégration des animaux aux plans de secours ORSEC.",
+          "note": "Position du parti dans le communiqué qui la désigne candidate : fin de la chasse, au-delà d'un simple encadrement."
+        }
+      ]
+    },
+    {
+      "id": "markovic-2026-07-loi-urgence-agricole",
+      "date": "2026-07-22",
+      "title": "Loi d'urgence agricole : l'urgence n'est pas de réautoriser des pesticides, mais de préparer l'agriculture de demain",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-animaliste.fr/news/communique-de-presse/loi-durgence-agricole-lurgence-nest-pas-de-reautoriser-des-pesticides-mais-de-preparer-lagriculture-de-demain",
+      "publisher": "Parti animaliste",
+      "summary": "Communiqué du Parti animaliste après l'adoption par l'Assemblée nationale de la loi d'urgence agricole : il demande le rétablissement de l'interdiction de l'acétamipride et du flupyradifurone, l'interdiction d'importer des produits agricoles obtenus avec des substances interdites en France et un accompagnement des agriculteurs, et s'oppose aux dispositions favorisant les mégabassines.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "L’Assemblée nationale a adopté cette nuit la loi d’urgence agricole, qui réautorise à titre dérogatoire deux pesticides interdits en France : l’acétamipride et le flupyradifurone, dangereux pour les pollinisateurs. Le Parti animaliste demande le rétablissement de leur interdiction",
+          "note": "Position du parti contre la réautorisation dérogatoire de l'acétamipride (un néonicotinoïde) et du flupyradifurone."
+        },
+        {
+          "questionId": "env-13",
+          "value": -2,
+          "quote": "Le Parti animaliste s’oppose également aux dispositions favorisant le stockage massif de l’eau au bénéfice de certains modèles agricoles intensifs. Les mégabassines accentuent la pression sur les ressources hydriques",
+          "note": "Position du parti : opposition aux dispositions de la loi d'urgence agricole favorisant les mégabassines."
+        },
+        {
+          "questionId": "agr-02",
+          "value": -1,
+          "quote": "Le Parti animaliste refuse toutefois que la protection des animaux et de l’environnement serve de variable d’ajustement dans cette compétition économique.",
+          "inferred": true,
+          "note": "Déduite, position du parti : il demande de rétablir des interdictions nationales de pesticides et refuse d'abaisser la protection des animaux et de l'environnement face à la concurrence, ce qui s'oppose à un alignement sur le minimum européen."
+        }
+      ]
+    },
+    {
+      "id": "markovic-2026-02-plateformes",
+      "date": "2026-02-11",
+      "title": "Faux enlèvement d'un chien : le Parti animaliste interpelle l'État",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-animaliste.fr/news/communique-de-presse/faux-enlevement-dun-chien-le-parti-animaliste-interpelle-letat",
+      "publisher": "Parti animaliste",
+      "summary": "Communiqué du Parti animaliste après la mise en scène du faux enlèvement d'un chien par un influenceur : il demande l'application stricte de la loi de 2023 sur les influenceurs, un cadre réglementaire propre à la présence d'animaux dans les contenus numériques monétisés, la responsabilité solidaire des plateformes et des créateurs, et la création d'un ministère de la Condition animale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Rendre les plateformes et créateurs de contenus solidairement responsables de la diffusion de contenus monétisés impliquant des animaux, notamment en cas de mise en scène trompeuse de situations de détresse animale",
+          "note": "Position du parti ; mesure partielle : régulation nationale des plateformes demandée au gouvernement, limitée aux contenus monétisés impliquant des animaux, sans taxation."
+        }
+      ]
+    },
+    {
+      "id": "markovic-2026-01-mercosur",
+      "date": "2026-01-17",
+      "title": "Le Parti animaliste appelle le Parlement européen à voter contre le traité UE-Mercosur",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-animaliste.fr/news/communique-de-presse/le-parti-animaliste-appelle-le-parlement-europeen-a-voter-contre-le-traite-ue-mercosur",
+      "publisher": "Parti animaliste",
+      "summary": "Communiqué du Parti animaliste publié après la signature de l'accord de libre-échange entre l'Union européenne et le Mercosur : le parti appelle le Parlement européen à voter contre ce traité, faute de clauses miroirs réellement contrôlées, et plaide pour une agriculture végétale et la sortie de l'élevage.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "le Parti animaliste appelle le Parlement européen à voter contre ce traité pour sauver notre agriculture et ne pas nuire davantage aux animaux.",
+          "note": "Position du parti, dont elle est coprésidente et, depuis le 2 octobre 2026, la candidate désignée."
+        }
+      ]
+    },
+    {
+      "id": "markovic-2025-09-profession-de-foi",
+      "date": "2025-09-11",
+      "title": "Profession de foi de Douchka Markovic — élection législative partielle, 2e circonscription de Paris (21 et 28 septembre 2025)",
+      "sourceType": "programme",
+      "sourceUrl": "https://parti-animaliste.fr/wp-content/uploads/2025/09/2025-Legislatives-partielles-profession-de-foi-Douchka-web.pdf",
+      "publisher": "Parti animaliste",
+      "summary": "Profession de foi de Douchka (Mira) Markovic, candidate du Parti animaliste à l'élection législative partielle de la 2e circonscription de Paris (21 et 28 septembre 2025). La page « Le bureau » du parti la présente sous le nom de « Mira Douchka Markovic », cofondatrice, coprésidente et porte-parole. Le document ne porte pas de date imprimée ; il a été mis en ligne sur le site du parti le 11 septembre 2025 d'après la médiathèque du site. Il présente les mesures du parti (interdiction de « loisirs cruels » dont la chasse, fin de l'élevage intensif, RIC, proportionnelle intégrale, ministre d'État à la Protection animale) et renvoie à « l'ensemble du programme sur parti-animaliste.fr ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Mettre fin à l’élevage intensif en accompagnant la reconversion des éleveurs.",
+          "page": "2",
+          "note": "Fin de l'élevage intensif avec reconversion des éleveurs, au-delà d'une limitation progressive ; le document décrit cette filière comme « destructrice pour les animaux »."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 2,
+          "quote": "Interdire la corrida et les combats de coqs, la chasse, la détention d’animaux pour les spectacles, les courses hippiques professionnelles et la pêche de loisir.",
+          "page": "2",
+          "note": "Interdiction de la chasse, au-delà d'un simple encadrement."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Instaurer le Référendum d’initiative citoyenne (RIC).",
+          "page": "2"
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Instaurer un scrutin proportionnel intégral pour les élections législatives.",
+          "page": "2",
+          "note": "Proportionnelle intégrale, au-delà d'une simple « part »."
+        },
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "Lutter contre la déforestation, l’urbanisation, l’artificialisation des sols et la fragmentation des paysages.",
+          "page": "2",
+          "inferred": true,
+          "note": "Déduite : lutte contre l'artificialisation des sols, sans que l'objectif « zéro artificialisation nette » soit nommé."
+        }
+      ]
+    },
+    {
+      "id": "markovic-2024-05-programme-europeen",
+      "date": "2024-05-28",
+      "title": "Les animaux au cœur de la société — synthèse du programme du Parti animaliste pour les élections européennes du 9 juin 2024",
+      "sourceType": "programme",
+      "sourceUrl": "https://parti-animaliste.fr/wp-content/uploads/2024/05/programme-europeennes-2024.pdf",
+      "publisher": "Parti animaliste",
+      "summary": "DOCUMENT DE 2024. Synthèse du programme du Parti animaliste pour les élections européennes du 9 juin 2024, publiée sur le site du parti et non signée par Mira Markovic, désignée candidate du parti à l'élection présidentielle le 2 octobre 2026 ; elle prévoit notamment l'interdiction de la chasse, l'interdiction de l'élevage intensif et industriel à l'horizon 2030, des clauses miroirs pour les importations et la réduction de moitié de l'usage des pesticides d'ici 2030.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 1,
+          "quote": "Subventionner les cultures biologiques végétaliennes pour encourager leur développement.",
+          "page": "6",
+          "note": "Programme du parti dont elle est la candidate désignée ; mesure partielle : subventions ciblées sur les cultures biologiques végétaliennes (sans intrants d'origine animale) et les petits cultivateurs, pas sur l'agriculture biologique dans son ensemble."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Dans le cadre des clauses et mesures miroirs, inverser la charge de la preuve : pour importer en UE, on doit prouver que les normes UE sont respectées.",
+          "page": "47",
+          "note": "Programme du parti dont elle est la candidate désignée ; clauses et mesures miroirs avec inversion de la charge de la preuve pour les importations, le programme demandant aussi d'insérer des clauses de protection animale dans toutes les relations commerciales internationales."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Interdire l’élevage intensif (sans accès au plein air) et industriel (ICPE – Installations classées pour la protection de l’environnement soumises aux régimes d’enregistrement et d’autorisation) à horizon 2030.",
+          "page": "6",
+          "note": "Programme du parti dont elle est la candidate désignée ; interdiction de l'élevage intensif et industriel à l'horizon 2030, avec un moratoire immédiat sur les nouveaux « élevages industriels »."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 2,
+          "quote": "Interdire toute forme de chasse.",
+          "page": "36",
+          "inferred": true,
+          "note": "Programme du parti dont elle est la candidate désignée ; position déduite : le programme demande l'abolition de la chasse, au-delà d'un encadrement, et prévoit aussi l'interdiction immédiate de la participation des mineurs à la chasse et des lâchers d'animaux pour la chasse."
+        },
+        {
+          "questionId": "env-07",
+          "value": -1,
+          "quote": "Exiger le non-renouvellement de l’autorisation du glyphosate.",
+          "page": "19",
+          "inferred": true,
+          "note": "Programme du parti dont elle est la candidate désignée ; position déduite : le programme exige le non-renouvellement de l'autorisation du glyphosate et la réduction de moitié de l'usage des pesticides d'ici 2030, sans traiter explicitement de la réautorisation de pesticides interdits. (Force ramenée de -2 à -1 en relecture : Citation exacte, page 19. Le sens négatif est fondé sur le texte : le programme veut « Limiter le recours aux pesticides et herbicides, produits toxiques pour les animaux, les humains et l'environnement » (p. 5), réduire de moitié leur usage d'ici 2030 et ne pas renouveler l'autorisation du glyphosate (p. 19). En revanche, il ne parle jamais de réautorisation de pesticides interdits, de néonicotinoïdes ni de dérogations temporaires, et la note le reconnaît (« sans traiter explicitement de la réautorisation de pesticides interdits »). Selon la règle d'encodage, ±2 est réservé à une mesure explicitement rejetée. Or un objectif global de réduction n'exclut pas logiquement des dérogations ciblées, et le refus de renouveler le glyphosate porte sur une autre substance et un autre mécanisme. Le document exprime donc une orientation : −1 déduit, comme pour cazeneuve (−1 déduit). Le −2 déduit d'asselineau reposait sur une interdiction générale des « pesticides dangereux », plus large. Adapter la note pour préciser que la valeur reflète une orientation.)"
+        }
+      ]
+    },
+    {
+      "id": "markovic-2022-03-programme-national",
+      "date": "2022-03-29",
+      "title": "Notre programme : Sauver les animaux et nous sauver nous-mêmes — programme national 2022 du Parti animaliste",
+      "sourceType": "programme",
+      "sourceUrl": "https://parti-animaliste.fr/programme-legislatives",
+      "publisher": "Parti animaliste",
+      "summary": "DOCUMENT DE 2022 : programme national du Parti animaliste « pour les élections nationales », en quatorze chapitres (protection animale, élevage, chasse, clauses miroirs, démocratie avec RIC, vote blanc et scrutin proportionnel). Il a été publié en PDF le 29 mars 2022 et le parti l'intitule « Programme national 2022 » sur sa page Programmes. La page citée en reproduit le texte sans date affichée (mise en ligne le 22 avril 2025, modifiée le 4 septembre 2026 d'après ses métadonnées). En octobre 2026, la page d'accueil du site y renvoie sous l'intitulé « Notre programme national ». La profession de foi de Douchka (Mira) Markovic de septembre 2025 renvoie à « l'ensemble du programme sur parti-animaliste.fr ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-04",
+          "value": 2,
+          "quote": "Reconnaître le vote blanc comme suffrage exprimé.",
+          "note": "Position du parti, dont elle est coprésidente et la candidate désignée ; sa profession de foi de 2025 renvoie à ce programme."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Nous introduirons des clauses miroirs en matière de bien-être animal sur les produits importés, prenant en compte l’impact direct ou indirect sur les animaux et exigeant un niveau de protection au moins aussi élevé qu’en France.",
+          "note": "Position du parti ; le chapitre 13 prévoit aussi, dans le cadre des accords internationaux, des clauses miroirs interdisant l'importation de produits issus de pratiques interdites en France."
+        },
+        {
+          "questionId": "agr-01",
+          "value": 1,
+          "quote": "Créer des contrats de partenariat entre les collectivités locales, l’État et les agriculteurs des filières végétales garantissant des débouchés pour leur production, dans la commande publique, à un prix plancher dans le cadre d’appels d’offres.",
+          "note": "Position du parti ; mesure partielle : prix plancher garanti dans des contrats de commande publique, réservé aux filières végétales."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "Instaurer le Référendum d’initiative citoyenne – législatif et abrogatoire – (RIC) en toutes matières et notamment pour les questions relatives à la condition animale, avec un seuil d’un million de signatures.",
+          "inferred": true,
+          "note": "Déduite, position du parti : le RIC « en toutes matières », notamment sur la condition animale, élargit le référendum à tous les sujets sans viser l'article 11."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "Porter au sein de l’Union européenne une politique ambitieuse en matière de protection animale et tout particulièrement : la fin de l’élevage intensif et industriel, la fin de la pêche industrielle",
+          "inferred": true,
+          "note": "Déduite, position du parti : le programme veut porter ses mesures au sein de l'Union européenne et modifier l'article 13 du TFUE, sans envisager de sortie."
+        }
+      ]
+    }
+  ]
+}

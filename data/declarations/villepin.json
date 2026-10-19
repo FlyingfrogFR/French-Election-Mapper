@@ -2,6 +2,41 @@
   "candidateId": "villepin",
   "declarations": [
     {
+      "id": "villepin-2026-10-economie",
+      "date": "2026-10-19",
+      "title": "Projet économique : 20 propositions. Rouvrir les sources de l’abondance",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/programme/economie.html",
+      "publisher": "La France Humaniste",
+      "summary": "Page du Projet France 2027 qui présente le programme économique de Dominique de Villepin en vingt propositions, regroupées en quatre axes : travail, abolition des rentes, patrimoine des Français, État stratège. La page n'est pas datée : la date retenue est celle de la consultation (19 octobre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": 1,
+          "quote": "Refonte radicale du régime d’autorisation des projets et abolition des impôts de production.",
+          "note": "Mesure partielle : la page propose l'abolition des impôts de production mais ne dit rien de l'impôt sur les sociétés."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "5 ans pour supprimer toutes les niches fiscales La nuit du 4 août des niches fiscales Toutes supprimées par paliers sur cinq ans : des politiques publiques recentrées.",
+          "note": "Même valeur que villepin-fh-bigbang (+2) : la page prévoit de supprimer toutes les niches fiscales par paliers sur cinq ans."
+        },
+        {
+          "questionId": "log-08",
+          "value": 1,
+          "quote": "500 000 logements par an, coopératives de logement social et banque publique du logement, garantie locative universelle, justice du logement en trois mois.",
+          "note": "La page propose une « garantie locative universelle » sans en préciser le caractère public ni les modalités (portage, bénéficiaires) : position partielle. (Force ramenée de 2 à 1 en relecture : l'affirmation porte sur une garantie publique qui protège propriétaires et locataires, ce que la page ne précise pas.)"
+        }
+      ]
+    },
+    {
       "id": "villepin-fh-bigbang",
       "date": "2026-08-28",
       "title": "Chronique « Big Bang : la règle républicaine » (chantier Fiscalité)",

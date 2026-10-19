@@ -2,6 +2,52 @@
   "candidateId": "egger",
   "declarations": [
     {
+      "id": "egger-2026-10-baronnet",
+      "date": "2026-10-19",
+      "title": "Présidentielle 2027 : Laurent Baronnet, maire de Salagnac, soutient Clara Egger pour redonner du pouvoir aux communes",
+      "sourceType": "communique",
+      "sourceUrl": "https://solutiondemocratique.fr/presidentielle-2027-laurent-baronnet-maire-de-salagnac-soutient-clara-egger-pour-redonner-du-pouvoir-aux-communes/",
+      "publisher": "Solution démocratique (parti dont Clara Egger est la candidate désignée)",
+      "summary": "Communiqué de presse du 19 octobre 2026, publié sur le site du parti et en PDF, annonçant le soutien de Laurent Baronnet, maire de Salagnac, à la candidature de Clara Egger. Il rappelle que la principale proposition de la candidate est d'inscrire dans la Constitution deux droits : le droit des citoyens de proposer des révisions constitutionnelles, et le recours obligatoire au référendum pour toute révision.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Sa principale proposition consiste à inscrire dans la Constitution deux nouveaux droits : celui permettant aux citoyens de proposer des modifications constitutionnelles, et la nécessité de recourir au référendum pour toute révision de la Constitution.",
+          "note": "Confirme le +2 du programme (egger-2026-09-programme) : le communiqué du parti présente le RIC constituant (initiative citoyenne de révision et référendum obligatoire) comme la principale proposition de sa candidate désignée."
+        }
+      ]
+    },
+    {
+      "id": "egger-2026-10-article-11",
+      "date": "2026-10-15",
+      "title": "Le Pen et Ferrand s'affrontent sur l'article 11 : qui a raison ?",
+      "sourceType": "autre",
+      "sourceUrl": "https://solutiondemocratique.fr/le-pen-et-ferrand-saffrontent-sur-larticle-11-qui-a-raison/",
+      "publisher": "Solution démocratique (parti dont Clara Egger est la candidate désignée)",
+      "summary": "Article publié le 15 octobre 2026 sur le site de Solution démocratique, au sujet du désaccord entre Marine Le Pen et Richard Ferrand sur le recours à l'article 11 pour réviser la Constitution. Le parti y écrit que sa candidate Clara Egger soutient le recours à l'article 11 pour réviser la procédure de révision constitutionnelle, afin que les citoyens puissent proposer des révisions et que toute révision soit soumise à leur vote.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "par sa candidate à la présidentielle de 2027 Clara Egger, soutient l'utilisation de l'article 11 pour réviser la procédure de modification constitutionnelle . Les citoyens doivent pouvoir proposer eux-mêmes des modifications constitutionnelles et les soumettre au vote de l'ensemble de la population",
+          "note": "Confirme le +2 du programme (egger-2026-09-programme), avec la même mesure : RIC en matière constitutionnelle, c'est-à-dire initiative citoyenne de révision et vote populaire. La publication du parti attribue explicitement cette position à sa candidate désignée."
+        }
+      ]
+    },
+    {
       "id": "egger-2026-09-programme",
       "date": "2026-07-03",
       "title": "Présidentielle 2027 : découvrez le programme de notre candidat",

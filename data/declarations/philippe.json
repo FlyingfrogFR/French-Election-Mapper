@@ -2,6 +2,48 @@
   "candidateId": "philippe",
   "declarations": [
     {
+      "id": "philippe-2026-10-heure-verite",
+      "date": "2026-10-08",
+      "title": "Trois principales annonces d'Édouard Philippe à l'Heure de vérité",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Le site de campagne présente trois annonces faites par Édouard Philippe dans L'Heure de vérité (France 2). Les entreprises auraient la liberté de fixer leur temps de travail par accord, et les heures au-delà de 35 heures prévues par accord seraient défiscalisées et exonérées de cotisations. Les jeunes parents des classes moyennes seraient exonérés d'impôt sur le revenu pendant les trois premières années de l'enfant, et une allocation familiale unique, dégressive avec le revenu, serait créée dès le premier enfant pour les plus modestes. Enfin, l'objectif est de diviser au moins par deux l'immigration sur le quinquennat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "quote": "Les 35 heures uniformes pour tout le monde ont fait stagner le salaire des travailleurs. Édouard Philippe donnera aux entreprises la liberté de fixer elles-mêmes leur temps de travail par accord.",
+          "note": "Remplace +1 de l'entretien RTL du 25 juin 2025 : l'assouplissement par la négociation, alors présenté comme une orientation, devient une mesure explicitement proposée (temps de travail fixé par accord d'entreprise)."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "si une entreprise trouve un accord pour élever sa durée du travail au-dessus de 35 heures, toutes les heures travaillées au-dessus de 35 heures seront défiscalisées et exonérées de cotisation et il n’y aura plus une seule cotisation pour les entreprises au-delà de 37 heures.",
+          "inferred": true,
+          "note": "Exonération fiscale et sociale des heures au-delà de 35 heures, conditionnée à un accord d'entreprise relevant la durée du travail ; la suppression des cotisations patronales ne vaut qu'au-delà de 37 heures, d'où +1 ; le texte ne parle pas d'« heures supplémentaires » en général."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Édouard Philippe se fixe donc l'objectif de diviser au moins l'immigration par deux sur le quinquennat. Pour ce faire il activera sans tabous tous les leviers pour reprendre le contrôle : quotas migratoires sur l'immigration économique",
+          "note": "Même valeur que la page programme : la forte réduction est désormais chiffrée (au moins diviser par deux), mais les quotas ne visent que l'immigration économique et leur vote annuel par le Parlement n'est pas mentionné."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Pour ce faire il activera sans tabous tous les leviers pour reprendre le contrôle : quotas migratoires sur l'immigration économique, restriction du regroupement familial",
+          "note": "Même valeur que la page programme (« Restreindre l'immigration familiale »), ici formulée explicitement pour le regroupement familial."
+        }
+      ]
+    },
+    {
       "id": "philippe-2024-09-candidature",
       "date": "2024-09-03",
       "title": "Annonce de candidature à l'élection présidentielle 2027",

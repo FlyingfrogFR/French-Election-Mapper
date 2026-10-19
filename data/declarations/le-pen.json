@@ -2,6 +2,29 @@
   "candidateId": "le-pen",
   "declarations": [
     {
+      "id": "le-pen-2026-10-regle-dor",
+      "date": "2026-10-01",
+      "title": "Tribune « Je proposerai aux Français d’adopter une règle d’or budgétaire par référendum » (l'Opinion)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lopinion.fr/economie/marine-le-pen-je-proposerai-aux-francais-dadopter-une-regle-dor-budgetaire-par-referendum",
+      "publisher": "l'Opinion (tribune signée Marine Le Pen)",
+      "summary": "Tribune signée par Marine Le Pen, candidate du Rassemblement national, publiée le 1er octobre 2026 dans l'Opinion. Elle y annonce un plan d'économies d'au moins 4 % du PIB (125 milliards d'euros de baisse des dépenses, « nets des baisses d’impôts ») et propose, si elle est élue, de faire adopter par référendum une règle d'or budgétaire qui imposerait un déficit systématiquement inférieur au seuil stabilisant de la dette (inférieur « à 0,5 point de ce seuil stabilisant » tant que la dette n'a pas atteint 60 % du PIB) et un ajustement d'au moins 0,5 point de PIB par an tant que le déficit dépasse sa cible de plus d'un point ; trajectoire minimale indiquée : de 5,4 % du PIB en 2026 à 2,9 % en 2032, puis jusqu'à un niveau proche de l'équilibre. Un dépassement exceptionnel ne serait autorisé que par un vote des trois cinquièmes du Parlement, ou par référendum si deux exercices exceptionnels se suivent.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "ce n’est pas la croissance ou les impôts qui permettront de rétablir les finances publiques, mais bien l’assainissement radical, rapide et volontaire des comptes de la France à travers un plan d’économies d’au moins 4 % du PIB. Ces 125 milliards d’euros de baisse des dépenses",
+          "note": "Remplace +1 du livret entreprise de 2024, qui ne consacrait qu'un tiers des économies à la réduction des déficits et ne fixait aucune cible de 3 % : la tribune fait de 125 milliards d'euros de baisse des dépenses (au moins 4 % du PIB, « nets des baisses d'impôts ») le moyen de rétablir les comptes, et la trajectoire minimale de sa règle d'or ramène le déficit à 2,9 % du PIB en 2032 puis vers l'équilibre."
+        }
+      ]
+    },
+    {
       "id": "le-pen-2026-06-ppl-2970",
       "date": "2026-06-23",
       "title": "Proposition de loi n°2970 visant à abroger les zones à faibles émissions-mobilités (cosignataire)",

@@ -1,0 +1,99 @@
+{
+  "candidateId": "polony",
+  "declarations": [
+    {
+      "id": "polony-2026-10-vision",
+      "date": "2026-10-19",
+      "title": "« Ma vision pour la France » (page du site de campagne)",
+      "sourceType": "autre",
+      "sourceUrl": "https://natachapolony2027.fr/natacha-polony/ma-vision",
+      "publisher": "Natacha Polony 2027 (natachapolony2027.fr)",
+      "summary": "Page « Ma vision pour la France » du site de campagne. Elle n'est pas datée : la date retenue est celle de la consultation, le 2026-10-19. La candidate y présente ses orientations : reconstruction industrielle, État stratège, école, lutte contre la corruption et les conflits d'intérêts, indépendance diplomatique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "L’État doit redevenir stratège. Planifier les investissements essentiels. Protéger nos infrastructures et nos filières vitales. L’argent public doit servir ceux qui investissent, forment et produisent en France.",
+          "note": "Orientation : l'argent public doit aller à ceux qui produisent en France et les filières vitales doivent être protégées. Le texte ne cite aucune mesure précise de protection commerciale et ne dit pas qu'il accepte un coût élevé, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "polony-2026-07-monnaie",
+      "date": "2026-07-04",
+      "title": "« La monnaie : un enjeu de souveraineté nationale » (texte accompagnant une vidéo)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.npolony.fr/videos?v=ruhSSC5gOwk",
+      "publisher": "Natacha Polony (npolony.fr)",
+      "summary": "Texte publié avec sa vidéo du 4 juillet 2026 et repris sur son site de campagne, consacré à la politique monétaire européenne. Il plaide pour que la France défende une stratégie propre au sein de l'euro et noue des alliances avec les États qui partagent ses objectifs.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-11",
+          "value": -1,
+          "quote": "Trente ans après Maastricht, le premier enjeu n'est pas (n'est vraiment plus) l'existence de l'euro, mais la capacité de la France à défendre une stratégie au sein de cette monnaie commune.",
+          "inferred": true,
+          "note": "Position déduite. Le texte ne propose pas de sortir de l'euro : il juge que l'enjeu n'est plus l'existence de l'euro mais une stratégie française au sein de la monnaie commune. Il juge aussi l'euro adapté aux besoins de l'Allemagne plutôt qu'à ceux de la France, d'où une valeur prudente de −1."
+        }
+      ]
+    },
+    {
+      "id": "polony-2026-06-canicules",
+      "date": "2026-06-22",
+      "title": "« Canicules et réindustrialisation, le défi français » (texte accompagnant une vidéo)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.npolony.fr/videos?v=B8deNFh-EE0",
+      "publisher": "Natacha Polony (npolony.fr)",
+      "summary": "Texte publié avec sa vidéo du 22 juin 2026 et repris sur son site de campagne. Il propose un plan national d'adaptation aux canicules et la construction d'une filière industrielle française appuyée sur l'électricité d'origine nucléaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-02",
+          "value": -1,
+          "quote": "Pour y parvenir, la France doit s’appuyer sur son principal atout stratégique qu'est l'électricité abondante et décarbonée grâce au nucléaire.",
+          "inferred": true,
+          "note": "Position déduite. Le texte fait du nucléaire le « principal atout stratégique » sur lequel la France doit s'appuyer, ce qui est incompatible avec une sortie progressive. La sortie elle-même n'est pas évoquée, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "polony-2026-06-corse",
+      "date": "2026-06-20",
+      "title": "« La Corse mérite des solutions, pas une révision constitutionnelle » (texte accompagnant une vidéo)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.npolony.fr/videos?v=xNbxcJaf-p8",
+      "publisher": "Natacha Polony (npolony.fr)",
+      "summary": "Texte publié par Natacha Polony avec sa vidéo du 20 juin 2026 et repris sur son site de campagne. Elle y rejette le projet de révision constitutionnelle relatif à la Corse au nom de l'unité républicaine et d'une même loi pour tous.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-12",
+          "value": -2,
+          "quote": "En introduisant dans la Constitution des notions identitaires floues et particulières, ce projet ouvre une brèche dangereuse dans l'unité républicaine. La diversité des territoires français doit être respectée et valorisée, mais dans le cadre d'une même République et d'une même loi pour tous.",
+          "note": "Rejet explicite du projet de révision constitutionnelle sur la Corse (titre : « pas une révision constitutionnelle »). Pour les autres territoires, le texte défend « une même loi pour tous »."
+        }
+      ]
+    }
+  ]
+}
