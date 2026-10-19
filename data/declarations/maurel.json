@@ -2,6 +2,150 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-10-assurance-vie-succession",
+      "date": "2026-10-16",
+      "title": "Défense de l'amendement n°3921 sur la taxation de l'assurance-vie au titre des successions (PLF 2027, Assemblée nationale, 16 octobre 2026)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/troisieme-seance-du-vendredi-16-octobre-2026",
+      "publisher": "Assemblée nationale (compte rendu intégral de la troisième séance du vendredi 16 octobre 2026)",
+      "summary": "Emmanuel Maurel défend en séance l'amendement n°3921 au PLF 2027, dont il est cosignataire. Selon sa présentation, il s'agit d'intégrer les contrats d'assurance-vie à l'actif successoral et de leur appliquer le barème de l'impôt sur les successions, afin de dégager des recettes supplémentaires. Le texte de l'amendement abaisse l'abattement applicable aux transmissions d'assurance-vie de 152 500 € à 15 932 € et leur applique un barème progressif de 20 % à 45 %. L'amendement a été rejeté.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "Il s’agit d’intégrer les contrats d’assurance-vie à l’actif successoral et de leur appliquer le barème de l’impôt sur les successions, ce qui est déjà le cas dans les autres pays de l’OCDE.",
+          "inferred": true,
+          "note": "Position déduite d'une mesure voisine : il propose d'étendre le barème des droits de succession aux contrats d'assurance-vie transmis au décès, pour « dégager des recettes supplémentaires ». Alourdir l'imposition des successions va à l'inverse de leur réduction ; comme il ne se prononce pas directement sur le niveau des droits, la valeur est −1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-isf",
+      "date": "2026-10-16",
+      "title": "Scrutin public n°8856 — amendement n°1077 rétablissant l'impôt de solidarité sur la fortune (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8856",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les députés ayant voté « Pour » l'amendement n°1077 (groupe LFI-NFP), qui rétablissait l'impôt de solidarité sur la fortune, assis sur « l'ensemble des biens, droits et valeurs imposables », pour les patrimoines nets taxables supérieurs à 1 000 000 € ; amendement non adopté (32 pour, 69 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "Par cet amendement de repli, le groupe LFI propose de rétablir l’impôt de solidarité sur la fortune (ISF)",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/1077",
+          "note": "Vote personnel « Pour » (16 octobre 2026) sur un amendement dont l'objet principal est le rétablissement de l'ISF, assis sur « l’ensemble des biens, droits et valeurs imposables », avec le même vote « Pour » aux scrutins n°8857 (amendement n°1069) et n°8858 (amendement n°54) et la même valeur que le programme du 18 septembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-niche-demembrement",
+      "date": "2026-10-16",
+      "title": "Scrutin public n°8867 — amendement n°1106 soumettant aux droits de succession la réunion de l'usufruit à la nue-propriété (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8867",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les députés ayant voté « Pour » l'amendement n°1106 (groupe LFI-NFP), qui soumettait aux droits de mutation à titre gratuit la réunion de l'usufruit à la nue-propriété au décès (mécanisme que l'exposé sommaire appelle « niche démembrement ») ; amendement non adopté (26 pour, 41 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "les députés du groupe LFI proposent de mettre un terme à la niche démembrement, qui n'a aucun autre intérêt que de réduire les droits de succession artificiellement.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/1106",
+          "inferred": true,
+          "note": "Position déduite, mesure partielle : il a voté pour supprimer un mécanisme présenté comme réduisant les droits de succession, donc pour leur hausse dans ce cas précis, et il a aussi voté « Pour » l'amendement n°3783 ajoutant une tranche à 45 % sur l'assurance-vie transmise au décès (scrutin n°8866)."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-taxe-zucman",
+      "date": "2026-10-16",
+      "title": "Scrutin public n°8859 — amendements identiques n°2566 et n°3931 instaurant un impôt plancher sur la fortune (« taxe Zucman »), projet de loi de finances pour 2027",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8859",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les députés ayant voté « Pour » ces amendements identiques au projet de loi de finances pour 2027, rejetés le 16 octobre 2026. Il est cosignataire de l'amendement n°3931 (groupe GDR, déposé le 10 octobre 2026), visant à instaurer une contribution différentielle de 2 % sur les patrimoines nets supérieurs à 100 millions d'euros.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Le présent amendement propose donc d’instaurer une contribution différentielle de 2 % sur le patrimoine des contribuables détenant plus de 100 millions d’euros.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3931",
+          "note": "Remplace le +1 du programme du 18 septembre 2026 (une taxe sur les patrimoines de plus de 100 M€, sans taux ni mécanisme d'impôt plancher). Il est cosignataire de l'amendement n°3931 et a voté « Pour » le 16 octobre 2026 l'impôt plancher différentiel de 2 % au-delà de 100 M€, qui est exactement la mesure de l'affirmation."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-cisap",
+      "date": "2026-10-15",
+      "title": "Scrutin public n°8769 — amendement n°3337 de M. Maurel abaissant le plafond du crédit d'impôt pour l'emploi d'un salarié à domicile (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8769",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel, premier signataire de l'amendement n°3337 (déposé le 10 octobre 2026), a voté « Pour » ; l'amendement abaissait les plafonds de dépenses ouvrant droit au crédit d'impôt pour l'emploi d'un salarié à domicile (plafond de base ramené de 12 000 € à 9 000 €, soit −25 % ; plafonds majorés de 15 000 € à 12 000 € et de 18 000 € à 15 000 €) ; non adopté (44 pour, 59 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-08",
+          "value": 1,
+          "quote": "Cet amendement vise à réduire l’avantage fiscal procuré par le crédit d’impôt pour l’emploi des salariés à domicile (CISAP).",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3337",
+          "note": "Réduction et non suppression d'une niche fiscale, qu'il a défendue en séance en précisant « nous ne proposons pas de supprimer le dispositif, mais de baisser un peu le plafond de dépenses, de 25 % aux termes du présent amendement » (compte rendu CRSANR5L17S2027O1N025), avec des votes « Pour » dans le même sens aux scrutins n°8765, 8767, 8768 et 8773 mais un vote « Contre » l'amendement n°856 réduisant l'avantage fiscal des Sofica (scrutin n°8776), d'où la même valeur que le programme (+1)."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-discours-plf-2027",
+      "date": "2026-10-13",
+      "title": "Explication de vote sur la motion de rejet préalable du projet de loi de finances pour 2027 (Assemblée nationale, 13 octobre 2026)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mardi-13-octobre-2026",
+      "publisher": "Assemblée nationale (compte rendu intégral de la deuxième séance du mardi 13 octobre 2026)",
+      "summary": "Au nom du groupe GDR, à l'ouverture de l'examen du projet de loi de finances pour 2027, Emmanuel Maurel reproche au gouvernement de baisser l'impôt sur les sociétés tout en « sanctionn[ant] les fonctionnaires, les retraités et les malades ». Il estime que cette politique prépare la récession et conclut : « Nous nous y opposerons de toutes nos forces ! » La GRS a relayé l'intervention le 14 octobre sur g-r-s.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "D’un côté, vous baissez l’impôt sur les sociétés, y compris celles qui font des profits ; de l’autre, vous sanctionnez les fonctionnaires, les retraités et les malades. C’est incompréhensible !",
+          "note": "Il critique la baisse de l'impôt sur les sociétés prévue par le PLF 2027, sans proposition formelle et sans rien dire des impôts de production, d'où −1. La position est plus directe que celle déduite du programme du 18 septembre 2026, et la valeur ne change pas."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-10-lyceens-etudiants",
       "date": "2026-10-02",
       "title": "Communiqué de la Gauche Républicaine et Socialiste : « Le gouvernement doit répondre aux aspirations légitimes des lycéens et des étudiants »",

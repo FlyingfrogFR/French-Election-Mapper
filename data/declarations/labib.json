@@ -2,6 +2,30 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-10-communique-colere",
+      "date": "2026-10-19",
+      "title": "Communiqué du NPA-Révolutionnaires du 19 octobre 2026 — « Qui sème la misère récolte la colère ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/qui-seme-la-misere-recolte-la-colere",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Communiqué publié le 19 octobre 2026 dans la rubrique « Communiqués de presse » du site du NPA-Révolutionnaires, signé « Le NPA-Révolutionnaires, Selma Labib, candidate à l'élection présidentielle, et Gaël Quirante, porte-parole national de campagne » (une version PDF est aussi en ligne). Après les manifestations du 17 octobre, il répond aux déclarations d'Emmanuel Macron, du gouvernement et de Marine Le Pen sur les « violences », dénonce ce qu'il présente comme la répression du mouvement lycéen par le gouvernement, indique que le parti milite pour que les salaires suivent les prix, qu'aucun revenu ne soit inférieur à 2200 euros et que les licenciements soient interdits, et appelle à amplifier le mouvement par la grève, en citant les journées du 22 et du 24 octobre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Devant une telle urgence sociale, le NPA-Révolutionnaires milite pour que les salaires suivent les prix, qu’aucun revenu ne soit inférieur à 2200 euros et que les licenciements soient interdits.",
+          "inferred": true,
+          "note": "Communiqué signé par la candidate : demande l'interdiction de tous les licenciements, ce qui inclut ceux des entreprises qui versent des dividendes ; même valeur que le tract de campagne du 28 septembre 2026."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-10-breve-etrangers",
       "date": "2026-10-02",
       "title": "Brève du NPA-Révolutionnaires du 2 octobre 2026 — « Économies budgétaires : les étrangers à nouveau ciblés »",

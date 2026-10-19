@@ -2,6 +2,203 @@
   "candidateId": "lisnard",
   "declarations": [
     {
+      "id": "lisnard-2026-10-faq-agriculteurs",
+      "date": "2026-10-16",
+      "title": "FAQ Nouvelle Énergie sur les propositions agricoles de David Lisnard",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-les-agriculteurs/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page de questions-réponses du site de Nouvelle Énergie, mise à jour le 16 octobre 2026 (seule date affichée), sur les propositions agricoles de David Lisnard (moins de normes, fin des surtranspositions, interdiction d’importer des produits dont la production est interdite en France) ; elle rapporte qu’il jugeait en janvier 2026 l’accord UE-Mercosur « pas signable » en l’état.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-07",
+          "value": 1,
+          "quote": "En janvier 2026, David Lisnard juge l’accord avec le Mercosur « pas signable » en l’état, car « on ne peut pas sacrifier nos éleveurs ».",
+          "note": "Il rejette l’accord « en l’état » au nom des éleveurs, en se disant attaché au libre-échange : rejet conditionnel, rapporté par son parti, d’où +1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-10-faq-autonomie-ecoles",
+      "date": "2026-10-16",
+      "title": "FAQ Nouvelle Énergie : quel candidat veut donner leur autonomie aux établissements scolaires ?",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-donner-leur-autonomie-aux-etablissements-scolaires/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page de questions-réponses du site de Nouvelle Énergie, mise à jour le 16 octobre 2026 (seule date affichée), sur l’autonomie des établissements : recrutement par les chefs d’établissement, choix du statut par les enseignants, réseau public maintenu dans chaque ancien canton. Sur l’uniforme, elle rapporte des propos tenus sur LCI le 30 août 2023 : la décision reviendrait au chef d’établissement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-01",
+          "value": -1,
+          "quote": "Sur l’uniforme, par exemple, il estime que c’est au chef d’établissement de trancher, puis de rendre des comptes à l’autorité de l’État, et qu’un établissement qui souhaite tester l’uniforme doit pouvoir le faire.",
+          "inferred": true,
+          "note": "Il confie à chaque chef d’établissement la décision sur l’uniforme, ce qui exclut sa généralisation imposée : position déduite et rapportée par son parti (propos de 2023), d’où −1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-10-faq-laicite",
+      "date": "2026-10-16",
+      "title": "FAQ Nouvelle Énergie sur la laïcité et la lutte contre l'islamisme selon David Lisnard",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-la-laicite-face-a-l-islamisme/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page de questions-réponses du site de Nouvelle Énergie, mise à jour le 16 octobre 2026 (seule date affichée), sur la lutte contre l’islamisme. Elle mentionne le contrôle des mosquées et l’expulsion des islamistes étrangers et, selon un texte de 2021 repris dans son livre, l’interdiction des signes ostentatoires politico-religieux à l’université, sur les plages et pour les parents accompagnateurs de sorties scolaires.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-10",
+          "value": 1,
+          "quote": "Dans un texte de juillet 2021 repris dans son livre, David Lisnard propose d’interdire les signes ostentatoires politico-religieux à l’université, sur les plages et pour les parents accompagnateurs de sorties scolaires",
+          "note": "Même valeur que lisnard-2026-09-cnews-europe1 : interdiction proposée pour les parents qui accompagnent les sorties scolaires ; les compétitions sportives ne sont pas abordées, d’où +1."
+        },
+        {
+          "questionId": "lib-01",
+          "value": 1,
+          "quote": "Dans un texte de juillet 2021 repris dans son livre, David Lisnard propose d’interdire les signes ostentatoires politico-religieux à l’université, sur les plages et pour les parents accompagnateurs de sorties scolaires",
+          "note": "Même valeur que lisnard-ne-laicite : l’interdiction proposée vise l’université, les plages et les sorties scolaires, pas l’ensemble de l’espace public, d’où +1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-10-faq-privatisations",
+      "date": "2026-10-16",
+      "title": "FAQ Nouvelle Énergie : David Lisnard veut-il privatiser les services publics ?",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-privatiser-les-services-publics/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page de questions-réponses du site de Nouvelle Énergie, mise à jour le 16 octobre 2026 (seule date affichée), qui présente sa méthode : vérifier si une action relève de la puissance publique, la confier au privé sous condition de concurrence, sinon la faire à moindre coût. Elle cite des privatisations ciblées, dont celle de France 2, et non de l’ensemble de l’audiovisuel public.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-02",
+          "value": 1,
+          "quote": "il demandait d’en recentrer les missions, de fermer ou réorganiser certaines chaînes et d’envisager la privatisation de celles qui ont une valeur commerciale, comme France 2. La privatisation vise ces chaînes, pas l’ensemble de l’audiovisuel public.",
+          "note": "Privatisation envisagée pour les seules chaînes qui ont une valeur commerciale (France 2), pas pour l’ensemble de l’audiovisuel public : mesure partielle, d’où +1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-10-faq-securite",
+      "date": "2026-10-16",
+      "title": "FAQ Nouvelle Énergie sur le programme de sécurité de David Lisnard",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-a-un-programme-credible-sur-la-securite/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page de questions-réponses du site de Nouvelle Énergie, mise à jour le 16 octobre 2026 (seule date affichée), sur son programme de sécurité : exécution réelle des sanctions, policiers sur le terrain, réécriture du code pénal des mineurs et programme de 20 000 places de prison, cité d’après son entretien au Crayon du 11 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "une grande politique de retour à l’ordre. Donc, réécriture du code pénal des mineurs, partenariat avec des pays qui ont des places disponibles en prison, dont les Pays-Bas, et lancement des programmes de vingt mille places de prison.",
+          "note": "Même valeur que lisnard-2026-07-saint-raphael : la page cite ses propos au Crayon du 11 octobre 2026 annonçant 20 000 places de prison."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-10-faq-succession",
+      "date": "2026-10-16",
+      "title": "FAQ Nouvelle Énergie sur les droits de succession selon David Lisnard",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-droits-de-succession/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page de questions-réponses du site de Nouvelle Énergie, mise à jour le 16 octobre 2026 (seule date affichée) : transmission des entreprises totalement libérée des droits de succession et, selon son livre, barème allégé, taux marginal supérieur ramené à 20 % et abattements unifiés.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 1,
+          "quote": "David Lisnard propose d’alléger substantiellement le barème en revalorisant les tranches, de ramener le taux marginal supérieur à 20 %, son niveau d’avant 1984, et d’unifier abattements et barèmes quel que soit le lien de parenté.",
+          "note": "Même valeur que lisnard-2026-08-bfmtv-rmc : la page détaille la baisse proposée dans son livre (barème allégé, taux marginal ramené à 20 %) ; position rapportée par son parti, d’où +1."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-10-faq-zfe",
+      "date": "2026-10-16",
+      "title": "FAQ Nouvelle Énergie : quel candidat veut supprimer les zones à faibles émissions (ZFE) ?",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-zones-a-faibles-emissions-zfe/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Page de questions-réponses du site de Nouvelle Énergie, mise à jour le 16 octobre 2026 (seule date affichée), qui présente l’engagement de David Lisnard de supprimer les ZFE par une loi et cite sa publication du 21 mai 2026 et son discours de Saint-Raphaël.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "La suppression des ZFE censurée pour un cavalier législatif ? Ok, une fois au pouvoir, nous les supprimerons par une loi en bonne et due forme, et au galop.",
+          "note": "Remplace le +1 déduit du discours de Bayeux, qui citait seulement la censure de la suppression des ZFE : la page reproduit ses propres mots s’engageant à les supprimer par une loi ; même orientation devenue explicite, pas un revirement."
+        }
+      ]
+    },
+    {
+      "id": "lisnard-2026-10-jdnews",
+      "date": "2026-10-15",
+      "title": "« Redresser la France ne se résume pas à un slogan » : entretien au JDNews",
+      "sourceType": "interview",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Entretien de David Lisnard au JDNews (Lara Tchekov), reproduit le 15 octobre 2026 sur le site de Nouvelle Énergie : premières décisions annoncées (DRH de l’État, gouvernement resserré, loi régalienne), dépense publique ramenée au niveau des Pays-Bas, retraite mêlant capitalisation et répartition, recours au référendum sur les flux migratoires, libre choix de l’école avec un financement public qui suit ce choix.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Nous mettrons en place une retraite par capitalisation et créerons une retraite individualisée, mêlant capitalisation et répartition.",
+          "note": "Même valeur que lisnard-2026-10-afer : il annonce une retraite par capitalisation, combinée à la répartition."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Pour maîtriser les flux migratoires, un bras de fer avec les hautes cours européennes et françaises, dont le Conseil constitutionnel, par le recours au référendum, s’imposera.",
+          "note": "Même valeur que le programme (lisnard-ne-prog-2) : il prévoit le recours au référendum pour maîtriser les flux migratoires face aux cours européennes et françaises."
+        }
+      ]
+    },
+    {
       "id": "lisnard-2026-10-afer",
       "date": "2026-10-02",
       "title": "David Lisnard aux Assises de l’AFER : « Être propriétaire, c’est être libre et responsable » (compte rendu publié par Nouvelle Énergie)",

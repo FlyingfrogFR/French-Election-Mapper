@@ -2,6 +2,48 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-10-cahier-industrie",
+      "date": "2026-10-15",
+      "title": "Pour protéger notre industrie, relocaliser 100 produits stratégiques (cahier de campagne n°7)",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Septième cahier de campagne, consacré à l'industrie, ouvert par un édito de François Ruffin. Il a été mis en ligne sur le site de campagne le 15 octobre 2026 : la date vient des métadonnées de la page (article:published_time) et du PDF « Debout-Livret-Campagne-7-Industrie », elle n'est pas affichée dans le texte. Le cahier propose de relocaliser 100 produits stratégiques avec des protections commerciales (barrières douanières, quotas), un « Buy French Act » pour la commande publique, des aides d'État ciblées et conditionnées, un pôle public du médicament, des prix de l'électricité régulés pour l'industrie et la mobilisation de l'épargne nationale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Sur ces 100 produits, on met le paquet : des barrières douanières, des taxes aux frontières, des quotas d'importation. Bref, des protections, comme nous le réclamons, avec constance, mais aussi avec solitude, depuis vingt ans.",
+          "note": "Citation tirée de l'édito de François Ruffin. Le cahier prévoit aussi un « régime d'aides d'État ciblé » pour l'acier, l'aluminium et les médicaments, conditionné au maintien des emplois pendant dix ans, et des subventions à l'électricité pour l'industrie « au moins autant que nos concurrents ». La valeur reste celle du manifeste Debout! ; cette source est plus récente et plus précise."
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Pour les commandes publiques de produits industriels, nous proposons de renforcer les conditions de production en France , en particulier des composants des produits de « défense » qui doivent approcher les 100% de fabrication en France",
+          "note": "Le cahier veut que les composants des produits de défense achetés par l'État soient fabriqués presque à 100 % en France. Il ne parle pas explicitement du surcoût pour la défense. En revanche, il critique les achats publics fondés sur le prix (« Les acheteurs publics regardent le prix, pas le pays ») et demande de « préférer la production locale quand il s'agit de biens vitaux »."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Des réductions un peu moins fortes à proximité du Smic et plus progressives permettront à la fois de « désmicardiser » les salaires et de davantage centrer les soutiens publics sur l'industrie où les salaires sont plus élevés.",
+          "note": "Le cahier propose de « lisser » les réductions de cotisations patronales en les rendant moins fortes près du Smic, ce qui va dans le sens contraire de l'affirmation. La mesure est modérée (« un peu moins fortes ») et ne supprime pas les allègements, d'où −1."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Protéger nos industries n'implique pas de baisser sans fin les salaires et les impôts",
+          "inferred": true,
+          "note": "Position déduite d'un titre de section du cahier. Le cahier juge sans effet sur l'emploi et les exportations les baisses passées de l'impôt sur les sociétés et des impôts de production : le CICE et la CVAE ont fait l'objet d'une évaluation de l'IPP en 2025. Il refuse la stratégie de baisse du « coût du travail » et des impôts pour la compétitivité, mais ne prend pas d'engagement explicite sur le taux de l'IS, d'où −1."
+        }
+      ]
+    },
+    {
       "id": "ruffin-2026-10-plan-urgence-climat",
       "date": "2026-10-12",
       "title": "Plan urgence climat (plan d'action de campagne)",

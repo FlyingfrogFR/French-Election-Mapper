@@ -2,6 +2,59 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-10-edito-revolte-legitime",
+      "date": "2026-10-19",
+      "title": "Une révolte légitime à laquelle les travailleurs peuvent donner une direction (éditorial)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/revolte-legitime-laquelle-travailleurs-peuvent-donner-direction-205975.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial signé Nathalie Arthaud, publié le 19/10/2026 sur le portail de Lutte ouvrière. Après la manifestation du 17 octobre, le texte qualifie la révolte de légitime, désapprouve « la casse pour la casse », appelle les travailleurs à la grève et aux occupations d'entreprises, et reproche au gouvernement de diminuer de 2,5 milliards la surtaxe sur les profits dans son budget.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Le gouvernement ne veut rien céder aux classes populaires, pas un centime. Alors qu’il fait cadeau de 2,5 milliards aux grandes entreprises richissimes en diminuant la surtaxe sur les profits dans son budget, alors que les compagnies pétrolières s’engraissent sur notre dos par milliards.",
+          "inferred": true,
+          "note": "L'éditorial présente comme un « cadeau » aux grandes entreprises la baisse de 2,5 milliards de la surtaxe sur les profits. Il ne nomme ni l'impôt sur les sociétés en général ni les impôts de production, d'où une position déduite à −1. Même valeur que l'éditorial du 12/10/2026."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-10-breve-credits-consommation",
+      "date": "2026-10-15",
+      "title": "Crédits à la consommation : travailleurs pris à la gorge (brève)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/credits-consommation-travailleurs-pris-gorge-205937.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 15/10/2026 sur le site de Lutte ouvrière, sur la hausse de 11 % des dossiers de surendettement et le recours croissant aux crédits à la consommation. Selon la brève, il faudrait « imposer collectivement » qu'aucun salaire ne soit inférieur à 2 200 euros net, ainsi que la revalorisation mensuelle des salaires, des pensions et des allocations en fonction de la hausse des prix.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-04",
+          "value": 2,
+          "quote": "Le minimum pour surnager serait d’imposer collectivement qu’aucun salaire ne soit inférieur à 2200 euros net et la revalorisation des salaires, pensions et allocations tous les mois, en fonction de la hausse des prix.",
+          "note": "Brève du parti, dont Nathalie Arthaud est la candidate désignée. Elle demande la revalorisation des pensions et des allocations (sans préciser lesquelles) « tous les mois, en fonction de la hausse des prix », ce qui va au-delà d'une revalorisation annuelle au niveau de l'inflation. Avec « imposer collectivement », elle renvoie à la lutte plutôt qu'à une loi. Même valeur que l'éditorial du 28/09/2026."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Le minimum pour surnager serait d’imposer collectivement qu’aucun salaire ne soit inférieur à 2200 euros net et la revalorisation des salaires, pensions et allocations tous les mois, en fonction de la hausse des prix.",
+          "note": "Brève du parti, dont Nathalie Arthaud est la candidate désignée. Elle demande la revalorisation des salaires « tous les mois, en fonction de la hausse des prix », c'est-à-dire leur indexation automatique sur les prix, à « imposer collectivement ». Même valeur que l'éditorial signé du 12/10/2026."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-10-edito-17-octobre",
       "date": "2026-10-12",
       "title": "Le 17 octobre et après, montrons que l'esprit de révolte n'a pas d'âge ! (éditorial)",

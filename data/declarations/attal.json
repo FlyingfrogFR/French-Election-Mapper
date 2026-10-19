@@ -2,6 +2,72 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-10-lettre-finances",
+      "date": "2026-10-15",
+      "title": "Lettre de Gabriel Attal aux Français sur les finances publiques : « Rétablir nos comptes pour préserver l'avenir de notre jeunesse »",
+      "sourceType": "autre",
+      "sourceUrl": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+      "publisher": "attalpresident.fr (lettre signée, publiée en PDF sur doc.parti.re et liée depuis le site de campagne)",
+      "summary": "Lettre signée de Gabriel Attal, distribuée à 600 000 foyers et publiée le 15 octobre 2026 (date de l'annonce sur le site de campagne et des métadonnées du PDF). Il y présente son plan de redressement des finances publiques : frein d'urgence de 20 milliards d'euros, 150 milliards d'euros d'économies sur le quinquennat, double règle d'or, plan de départs volontaires dans la fonction publique et un système de retraite universel sans âge légal, avec capitalisation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Ensuite, je lancerai un plan de 150 milliards d’euros d’économies sur le quinquennat. L’objectif : des comptes de la sécurité sociale à l’équilibre en trois ans, un déficit public sous les 3 % de notre richesse nationale avant 2032, puis l’équilibre budgétaire d’ici 2037.",
+          "page": "1",
+          "note": "Même valeur que les déclarations des 23 et 29 septembre, ici dans une lettre signée : il prévoit 150 milliards d'euros d'économies pour ramener le déficit sous 3 % avant 2032, et la lettre précise que deux tiers de ces économies porteront sur les dépenses sociales."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Je propose donc un système universel, plus juste, sans âge légal, avec de la capitalisation pour tous, et qui ne pourra plus être en déficit.",
+          "page": "2",
+          "note": "Même valeur que les déclarations précédentes : capitalisation pour tous dans un système de retraite universel sans âge légal."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-10-mesures-jeunesse",
+      "date": "2026-10-11",
+      "title": "Gabriel Attal présente ses mesures pour la jeunesse et l'avenir de la France",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Liste, publiée le 11 octobre 2026 sur le site de campagne, des mesures présentées par Gabriel Attal à son meeting de Lyon du 10 octobre. Elle couvre le pacte pour la jeunesse, l'éducation, l'emploi et l'enseignement supérieur, la lutte contre les discriminations, la santé, l'autorité et l'engagement, les finances publiques, le travail, l'intelligence artificielle, l'énergie et l'Europe.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-06",
+          "value": 1,
+          "quote": "Un mois d’engagement civique obligatoire avant 25 ans",
+          "note": "Il propose un mois d'engagement civique obligatoire avant 25 ans. La mesure n'est pas appelée service national universel et ses modalités (forme civile ou militaire, contenu) ne sont pas précisées, d'où +1."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Revalorisation des enseignants de 200 à 500 € nets",
+          "note": "Même valeur que la déclaration de Blois et Bourges du 5 octobre : revalorisation des enseignants de 200 à 500 € nets."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Construction de 14 nouveaux réacteurs nucléaires",
+          "note": "Même valeur que le plan de désendettement du 23 septembre : 14 nouveaux réacteurs, soit plus que les six EPR2 déjà décidés."
+        }
+      ]
+    },
+    {
       "id": "attal-2026-10-blois-bourges",
       "date": "2026-10-05",
       "title": "Gabriel Attal débat avec les Français à Blois et à Bourges",

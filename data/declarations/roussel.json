@@ -2,6 +2,54 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-10-tract-17-octobre",
+      "date": "2026-10-16",
+      "title": "Tract national du PCF pour les mobilisations du 17 octobre et du 5 novembre 2026",
+      "sourceType": "autre",
+      "sourceUrl": "https://cher.pcf.fr/wp-content/uploads/sites/18/2026/10/PCF-tract_17octobre_5novembre.pdf",
+      "publisher": "Parti communiste français (tract national), mis en ligne par la fédération du Cher (cher.pcf.fr)",
+      "summary": "Tract national du PCF portant une photo de Fabien Roussel accompagnée d'une citation entre guillemets. Il liste des revendications : TVA sur l'essence ramenée de 20 % à 5,5 %, nationalisation de TotalEnergies, indexation des salaires et des pensions sur l'inflation, encadrement des prix du gaz et de l'électricité, 200 000 emplois. Le PDF n'est pas daté : il a été créé le 15 octobre 2026 selon ses métadonnées et mis en ligne le 16 octobre 2026 par la fédération du Cher, date retenue.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Indexer les salaires et les pensions de retraite sur l’inflation et les augmenter pour enfin vivre dignement.",
+          "page": "2",
+          "note": "Tract national du PCF, au nom de son candidat désigné, qui propose explicitement d'indexer les salaires sur l'inflation. Il est aussi précis que la lettre aux Français du 5 octobre 2026 : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-10-communique-mobilisation",
+      "date": "2026-10-14",
+      "title": "17 octobre et 5 novembre : ensemble, imposons de nouvelles conquêtes pour vivre mieux !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.pcf74.fr/2026/10/17-octobre-et-5-novembre-ensemble-imposons-de-nouvelles-conquetes-pour-vivre-mieux.html",
+      "publisher": "Parti communiste français (communiqué national daté « Paris, le 14 octobre 2026 »), republié par la fédération de Haute-Savoie (pcf74.fr)",
+      "summary": "Communiqué national du PCF appelant aux mobilisations du 17 octobre et du 5 novembre 2026. Il présente ce que le PCF propose « avec Fabien Roussel », dont le refus des 7 milliards d'euros d'augmentation du budget militaire, la hausse des salaires, des pensions et des minima sociaux, et 200 000 emplois dans les services publics et l'industrie.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-01",
+          "value": -2,
+          "quote": "Avec Fabien Roussel, le PCF propose une autre voie : refuser les 7 milliards d'euros d'augmentation du budget militaire, augmenter les salaires, les pensions et les minima sociaux",
+          "inferred": true,
+          "note": "Communiqué national du PCF qui parle « avec Fabien Roussel », son candidat désigné. Refuser la hausse de 7 Md€ du budget militaire exclut de porter ce budget à 3 % du PIB, d'où −2 déduit. C'est la même valeur que le plan jeunesse du 6 octobre 2026."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-10-plan-jeunesse",
       "date": "2026-10-06",
       "title": "Plan « Jeunesse 2027-2032 »",
