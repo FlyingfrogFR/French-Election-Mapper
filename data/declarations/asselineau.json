@@ -2,6 +2,41 @@
   "candidateId": "asselineau",
   "declarations": [
     {
+      "id": "asselineau-2026-10-croissances-fmi",
+      "date": "2026-10-13",
+      "title": "Croissances 2026 selon le FMI : double prodige de Macron !",
+      "sourceType": "communique",
+      "sourceUrl": "https://upr.fr/analyses/croissances-2026-selon-le-fmi-double-prodige-de-macron",
+      "publisher": "Union Populaire Républicaine (rubrique Analyses du site officiel)",
+      "summary": "Analyse non signée publiée le 13 octobre 2026 sur le site de l'UPR, rédigée à la première personne par François Asselineau (« les Français m'élisent à la présidence de la République »). Il y commente les prévisions de croissance du FMI pour 2026 et décrit trois scénarios pour la présidentielle de 2027 ; s'il est élu, il s'engage à lancer aussitôt la sortie de la France de l'UE, de l'euro et de l'OTAN.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Dans le meilleur des cas , les Français m'élisent à la présidence de la République et j'engagerai aussitôt notre sortie de l'UE, de l'euro et de l'OTAN.",
+          "note": "Il s'engage à la première personne à lancer la sortie de l'UE dès son élection. La valeur est la même que dans le programme de 2022 et le compte rendu GP-TV du 3 octobre 2026."
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "Dans le meilleur des cas , les Français m'élisent à la présidence de la République et j'engagerai aussitôt notre sortie de l'UE, de l'euro et de l'OTAN.",
+          "note": "Il s'engage à la première personne à lancer la sortie de l'euro dès son élection. La valeur est la même que dans le programme de 2022 et le compte rendu GP-TV du 3 octobre 2026."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Dans le meilleur des cas , les Français m'élisent à la présidence de la République et j'engagerai aussitôt notre sortie de l'UE, de l'euro et de l'OTAN.",
+          "note": "Il propose de quitter l'OTAN elle-même, et pas seulement son commandement intégré, comme dans l'encodage du discours de rentrée du 30 septembre 2026. La valeur reste la même."
+        }
+      ]
+    },
+    {
       "id": "asselineau-2026-10-gp-tv",
       "date": "2026-10-03",
       "title": "François Asselineau invité de Nicolas Stoquer sur GP-TV – 01/10/2026",

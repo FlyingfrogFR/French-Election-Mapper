@@ -2,6 +2,165 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-10-contre-budget",
+      "date": "2026-10-14",
+      "title": "Comment nous allons remettre de l’ordre dans les comptes publics",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Orientations budgétaires de La France insoumise pour 2027, présentées par Jean-Luc Mélenchon et Éric Coquerel en conférence de presse le 14 octobre 2026 et publiées le même jour sur le site de campagne : 106,4 Md€ de recettes nouvelles, 81,7 Md€ de dépenses nouvelles, 24,7 Md€ de réduction du déficit et 100 Md€ d’investissements du pôle public bancaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "Ainsi, refuser les coupes budgétaires et proposer un autre chemin, ce n’est pas seulement le résultat d’une vision politique, c’est aussi le choix économique le plus rationnel.",
+          "page": "18",
+          "note": "Même valeur que la source actuelle (AEC 2025) : le document rejette les coupes budgétaires (chapitre « La stratégie des coupes budgétaires est une impasse ») et réduit le déficit par des recettes nouvelles."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "nous reviendrons sur les mesures fiscales les plus injustes des mandats d’Emmanuel Macron : suppression de la flat tax pour que le capital ne soit pas moins imposé que le travail (9 milliards d’euros), rétablissement d’un impôt sur la fortune renforcé (10 milliards d’euros)",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Cela passera par exemple par l’instauration de la taxe Zucman pour les personnes possédant plus de 100 millions d’euros de patrimoine",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025) ; recette attendue de 15 Md€."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "Nous reviendrons sur cette injustice, et cette perte de recettes de l’État, via une réforme de l’impôt sur les sociétés (3 milliards)",
+          "page": "14",
+          "note": "Sens inverse de l’affirmation : réforme de l’IS rapportant 3 Md€ et « rétablissement de la CVAE sur les plus grandes entreprises » (p. 13). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Dans le cadre de l’état d’urgence sociale, un décret de blocage des prix du carburant sera pris pour ramener le prix à la pompe à 1,70 euro par litre.",
+          "page": "9",
+          "note": "Blocage des prix des carburants par décret au titre d’un « état d’urgence sociale » ; l’AEC 2025 range le carburant parmi les produits de première nécessité. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "rabotage et suppression des niches fiscales et sociales les plus injustes dont le coût a explosé (22 milliards d’euros en 2027)",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "Nous réformerons l’impôt sur le revenu au cours du mandat pour le rendre plus progressif avec l’instauration de 14 tranches.",
+          "page": "14",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "en augmentant les taxes sur les transactions financières (5 milliards d’euros), les rachats d’actions (2,5 milliards)",
+          "page": "14",
+          "note": "Hausse de la taxe sur les rachats d’actions ; le document supprime aussi la flat tax sur les revenus du capital (p. 13). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "C’est pourquoi nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros.",
+          "page": "11",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités, objectif sur un mandat.",
+          "page": "11",
+          "note": "Retour à 60 ans fixé comme objectif sur le mandat. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Ces mesures d’urgence sociale doivent être complétées par une hausse du SMIC à 1 700 euros net.",
+          "page": "9",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "les gouvernements d’Emmanuel Macron ont réduit les droits à l’assurance chômage en tous points : conditions d’accès, montant, durée et dégressivité de l’indemnité. Nous proposons, dès l’année prochaine, d’abroger ces réformes pour un coût de 3 milliards d’euros.",
+          "page": "12",
+          "note": "Sens inverse : abrogation des réformes qui ont réduit, entre autres, la durée d’indemnisation. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Cette hausse sera accompagnée de la convocation d’une conférence exceptionnelle sur les salaires et d’une indexation généralisée de ceux-ci sur l’inflation.",
+          "page": "9",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "en protégeant les milieux populaires et les familles de l’inflation, sur laquelle nous indexerons toutes les pensions, allocations familiales et APL, qui seront rehaussées de 10 % (8 milliards d’euros)",
+          "page": "8",
+          "note": "Les pensions, les allocations familiales et les APL sont explicitement indexées sur l’inflation, mais les minima sociaux ne sont pas cités : mesure partielle, d’où +1. Même valeur que la source actuelle, qui était déduite."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "en refusant la désindexation des pensions et porter la pension minimum au niveau du SMIC pour une carrière complète.",
+          "page": "12",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Nous proposons une hausse globale de 3 milliards d’euros du budget des hôpitaux avec au moins 10 000 créations de postes de personnel soignant.",
+          "page": "10",
+          "note": "Embauches à l’hôpital financées par une hausse du budget ; le document prévoit aussi une hausse de 10 % du point d’indice des fonctionnaires (p. 8). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Pour lutter efficacement contre les violences sexistes et sexuelles, nous proposons un plan d’urgence pour atteindre les 3 milliards d’euros de budget demandés par les associations",
+          "page": "10",
+          "note": "Budget dédié porté à 3 Md€. Même valeur que la source actuelle (AEC 2025)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-plan-automobile",
+      "date": "2026-10-10",
+      "title": "Plan d’investissement productif : Automobile",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-investissement/automobile/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Deuxième plan d’investissement productif publié sur le site de campagne, élaboré par l’espace programme coordonné par Clémence Guetté et Hadrien Clouet : production de 2 millions de véhicules électriques par an en France d’ici 2032, véhicule électrique léger à partir de 10 000 euros, service public de location et aides conditionnées à la production en France. La date retenue est celle que portent les métadonnées de la page (datePublished, 10 octobre 2026), comme pour le plan Ruralité ; le PDF du plan joint à la page a été déposé sur le site le 14 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Une politique sérieuse de réindustrialisation implique de fixer un prix national de l’électricité, émancipé du marché européen libéralisé.",
+          "note": "Même valeur que la source actuelle (AEC 2025), qui portait sur l’annulation de la libéralisation du marché de l’électricité ; ce plan est plus direct sur un prix national hors du marché européen."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-10-centre-presse",
       "date": "2026-10-09",
       "title": "« Tout pouvoir redoute les révoltes de la jeunesse » – interview pour Centre Presse publiée sur melenchon.fr",

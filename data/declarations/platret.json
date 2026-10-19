@@ -2,6 +2,29 @@
   "candidateId": "platret",
   "declarations": [
     {
+      "id": "platret-2026-10-message-17-octobre",
+      "date": "2026-10-19",
+      "title": "Message publié sur X le 19 octobre 2026 après les violences du 17 octobre",
+      "sourceType": "autre",
+      "sourceUrl": "https://x.com/gillesplatret/status/2112158008637616136",
+      "publisher": "Gilles Platret (compte X officiel @gillesplatret)",
+      "summary": "Message publié sur son compte X, accompagné d'une vidéo, après les violences du 17 octobre 2026. Il écrit que « nous sommes en effet entrés dans une ère nouvelle et durable », une ère « insurrectionnelle » et « de guerre civile », et présente comme « solutions d'urgence » l'interdiction de LFI, le doublement du budget de la Police et de la Justice et la rupture des relations avec la République islamique d'Iran.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-08",
+          "value": 2,
+          "quote": "Quand on a dit cela, des solutions d'urgence apparaissent d'emblée, au nombre desquelles : interdiction de LFI, doublement du budget de la Police et de la Justice, rupture des relations avec la République islamique d'Iran.",
+          "note": "Remplace le +1 du communiqué du 9 octobre, qui parlait de « moyens largement supérieurs » sans chiffre : il propose maintenant de doubler le budget de la Justice, comme solution d'urgence, sans préciser d'horizon de cinq ans."
+        }
+      ]
+    },
+    {
       "id": "platret-2026-10-communique-candidature",
       "date": "2026-10-09",
       "title": "Communiqué de presse du 9 octobre 2026 : Gilles Platret « se lance dans la campagne des présidentielles »",

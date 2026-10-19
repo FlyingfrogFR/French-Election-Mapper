@@ -2,6 +2,134 @@
   "candidateId": "retailleau",
   "declarations": [
     {
+      "id": "retailleau-2026-10-theme-retraites",
+      "date": "2026-10-15",
+      "title": "Projet présidentiel, thème n° 14 « Retraites » (mesures n° 108 à 114)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.avecretailleau.fr/projet/theme/retraites",
+      "publisher": "Les Républicains (site officiel de campagne de Bruno Retailleau, avecretailleau.fr)",
+      "summary": "Rubrique « Retraites » du projet présidentiel publiée sur le site officiel de campagne de Bruno Retailleau. Chacune des sept pages de mesures porte « Mis à jour le 15 octobre 2026 », et le thème ne figurait pas dans l'API du site le 12 octobre. Le projet prévoit un départ possible dès 63 ans avec une décote d'environ 7 % par année avant 65 ans, un taux plein garanti à 65 ans quels que soient les trimestres et deux âges indexés ensuite sur l'espérance de vie. S'y ajoutent un compte individuel de capitalisation alimenté par une cotisation de 1 % du salaire, la pénibilité confiée aux branches, et la surcote et le cumul emploi-retraite après 65 ans.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": 0,
+          "quote": "Partir dès 63 ans sera un droit, et chacun connaîtra à l'avance le montant de sa pension selon l'âge qu'il choisit. À 65 ans, le taux plein sera garanti à tous , quels que soient les trimestres cotisés ou validés.",
+          "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/d",
+          "note": "Remplace le +1 de la tribune du 2 mai 2026 (départ « un peu plus tard », sans âge chiffré) : le projet fixe désormais deux âges, un départ possible dès 63 ans (en deçà de 64 ans) avec une décote d'environ 7 % par année manquante, et un taux plein garanti à 65 ans (au-delà de 64 ans), ces deux âges évoluant ensuite avec l'espérance de vie, si bien que la position est intermédiaire au regard de l'affirmation."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Partir dès 63 ans sera un droit, et chacun connaîtra à l'avance le montant de sa pension selon l'âge qu'il choisit.",
+          "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/d",
+          "inferred": true,
+          "note": "Même valeur que la tribune du 2 mai 2026 : ouvrir le départ à partir de 63 ans exclut un retour de l'âge légal à 60 ans ; seules les exceptions existantes (inaptitude ou invalidité à 62 ans, travailleurs handicapés dès 55 ans, mesure n° 112) sont maintenues."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Chaque salarié, du privé comme du public, aura un capital à son nom pour sa retraite , sur un compte individuel bloqué jusqu'à son départ et protégé par la Constitution.",
+          "sourceUrl": "https://www.avecretailleau.fr/projet/mesure/donner-a-chaque-francais-un-capital-pour-sa-retraite",
+          "note": "Même valeur que le livret « Produire plus » (février 2026), dont l'étage d'épargne était « complémentaire et volontaire » : la mesure prévoit désormais pour chaque salarié un compte alimenté par une cotisation de 1 % du salaire (moitié salarié, moitié employeur), la répartition restant le socle, avec l'objectif que la capitalisation finance à terme 25 à 30 % de la retraite des jeunes actifs."
+        }
+      ]
+    },
+    {
+      "id": "retailleau-2026-10-comptes-publics",
+      "date": "2026-10-12",
+      "title": "Rétablir l'ordre dans les comptes publics (fiches presse)",
+      "sourceType": "programme",
+      "sourceUrl": "https://republicains.fr/wp-content/uploads/2026/10/20261011_Fiches_presse_comptes_publics_mise_en_page.pdf",
+      "publisher": "Les Républicains / campagne de Bruno Retailleau (livret du thème « Comptes publics » sur avecretailleau.fr)",
+      "summary": "Fiches presse de la campagne de Bruno Retailleau, couverture datée du 12 octobre 2026. Elles détaillent par poste un plan de 197 Md€ d'économies en 2032, dont 146 Md€ pour ramener le déficit sous 3 % en 2031 (État, retraites, chômage et solidarité, immigration, fraude, collectivités) ; le même PDF est le livret du thème « Comptes publics » sur avecretailleau.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Sur 197 Md€ d’économies en 2032, 146 Md€ vont à la réduction du déficit. Le déficit repasse sous 3 % en 2031 (2,8 %) et atteint 2,2 % en 2032",
+          "page": "15",
+          "note": "Même valeur que l'entretien du 12/09/2026, désormais chiffrée : 197 Md€ d'économies (« coup de frein sur la dépense publique »), dont 146 Md€ affectés au déficit, ramené sous 3 % en 2031, avec des prélèvements obligatoires en baisse dans la trajectoire."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Deux âges : la liberté à 63 ans avec une décote de 7 % par année manquante, le taux plein à 65 ans pour tous, indexé sur l’espérance de vie ; suppression du couperet des 67 ans ; aucun départ avant 63 ans hors handicap, invalidité et incapacité.",
+          "page": "8",
+          "note": "Même valeur que le 02/05/2026, désormais chiffrée : l'âge minimal de départ est fixé à 63 ans (« aucun départ avant 63 ans » hors handicap, invalidité et incapacité), ce qui exclut un retour à 60 ans."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Capitalisation pour tous : cotisation dédiée de 1 %, RAFP doublée sur les primes, réserves investies à long terme ; intéressement et participation fléchés par défaut et suppression du forfait social ; abondement volontaire encouragé.",
+          "page": "8",
+          "note": "Même valeur que le livret « Produire plus » ; l'étage de capitalisation devient général, avec une cotisation dédiée de 1 % sur un compte individuel, la répartition restant le socle (mesure n° 113 du site de campagne)."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "Assurance chômage (livret Travail gagnant, proposition 5) : application des règles de juin 2024, jamais appliquées (durée maximale de 18 à 15 mois, modulation selon la conjoncture, droits seniors plus tardifs)",
+          "page": "10",
+          "note": "Même valeur que le livret « Travail gagnant » (janvier 2026), repris dans le chiffrage avec une durée maximale d'indemnisation ramenée de 18 à 15 mois."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "Compte social unique : l’ensemble des aides non contributives plafonné à 70 % du SMIC net par adulte, hors handicap, dépendance et vieillesse ; registre national des versements.",
+          "page": "10",
+          "note": "Même valeur que l'entretien du 12/09/2026, avec un périmètre précisé : toutes les aides non contributives, plafonnées à 70 % du SMIC net par adulte, hors handicap, dépendance et vieillesse."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Prévenir : échange de données obligatoire entre administrations et fin de la ressaisie ; identité certifiée à l’entrée de chaque dispositif, carte Vitale biométrique fusionnée avec le titre de séjour ; étude d’impact de fraude avant toute aide nouvelle.",
+          "page": "12",
+          "note": "Même valeur ; la carte Vitale biométrique, absente jusqu'ici du programme, y figure désormais (fusionnée avec le titre de séjour), avec un programme « IA anti-fraude » et une liste noire nationale des fraudeurs."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Dès 2027, à droit constant : regroupement familial divisé par deux",
+          "page": "11",
+          "note": "Même valeur que l'entretien du 31/05/2026, désormais chiffrée : regroupement familial divisé par deux dès 2027."
+        },
+        {
+          "questionId": "imm-07",
+          "value": 1,
+          "quote": "Après la révision constitutionnelle soumise à référendum : cinq ans de séjour régulier et de travail pour les prestations de solidarité ; asile examiné hors des frontières.",
+          "page": "11",
+          "note": "Asile « examiné hors des frontières » après révision constitutionnelle (ligne « Asile rapide et hors des frontières », 0,9 Md€). Le document ne dit pas s'il s'agit des frontières françaises ou européennes, ni s'il s'appuie sur des pays tiers : orientation, d'où +1."
+        },
+        {
+          "questionId": "eur-10",
+          "value": -2,
+          "quote": "Coopération 3,5 Mission APD, LFI 2026",
+          "page": "6",
+          "inferred": true,
+          "note": "Déduite : le tableau de la fiche 4 (« Faire moins : périmètre revu, politiques au tamis, dispositifs supprimés – 32 Md€ ») prévoit 3,5 Md€ d'économies en 2032 sur la coopération (mission Aide publique au développement), c'est-à-dire une baisse de l'aide et non une hausse."
+        },
+        {
+          "questionId": "num-08",
+          "value": -1,
+          "quote": "Culture et médias 2,6 Dotation audiovisuel public ≈ 4 Md€ ; Pass Culture, programme 361",
+          "page": "6",
+          "inferred": true,
+          "note": "Déduite : le même tableau d'économies prévoit 2,6 Md€ sur la culture et les médias (dotation de l'audiovisuel public, pass Culture). Le document ne détaille pas la part propre au budget de la culture, d'où −1."
+        }
+      ]
+    },
+    {
       "id": "retailleau-2026-09-entretien-telegramme",
       "date": "2026-09-16",
       "title": "Entretien au Télégramme : « Produire en France, la meilleure des solutions écologiques » (reproduit sur republicains.fr)",

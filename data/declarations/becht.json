@@ -2,6 +2,90 @@
   "candidateId": "becht",
   "declarations": [
     {
+      "id": "becht-2026-10-livre-partie-5",
+      "date": "2026-10-19",
+      "title": "Le Projet France (livre), partie 5 : « Un nouveau modèle social »",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-5/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Cinquième partie du livre-programme « Le Projet France », publié en feuilleton sur le site de campagne. Elle traite du principe de réciprocité, des allocations familiales dès le premier enfant, des Maisons de Vie, du prêt étudiant garanti par l’État, du « CDI universel » remplaçant l’assurance chômage, le revenu de solidarité et les aides au logement, d’une retraite par points avec épargne de capitalisation et minimum de 1 200 euros, et de la filière de la dépendance. Page non datée : « Disponible le 19 octobre » selon le calendrier du livre sur becht2027.fr, date confirmée par la date de modification donnée par l’API du site (2026-10-19).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": 1,
+          "quote": "Chacun pourra compléter sa pension par une épargne de capitalisation, que parents et grands-parents pourront abonder en franchise d’impôt.",
+          "note": "Épargne de capitalisation facultative en complément d’une retraite par points, que la famille peut abonder en franchise d’impôt, au sein d’une réforme à négocier avec les partenaires sociaux puis à soumettre à référendum, d’où +1."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 1,
+          "quote": "Surtout, un complément de dignité garantira qu’aucune retraite, pour une carrière complète ou un travail mené jusqu’à un âge avancé, ne soit inférieure à 1 200 euros par mois",
+          "note": "Mesure partielle : le minimum garanti pour une carrière complète est fixé à 1 200 euros par mois, un montant inférieur au SMIC net mensuel."
+        },
+        {
+          "questionId": "tra-07",
+          "value": 1,
+          "quote": "Sans poste, le salaire de base est maintenu, mais la personne doit alors se former, ou, si l’emploi tarde malgré tout, consacrer vingt-cinq heures par semaine au service d’une collectivité ou d’une association.",
+          "inferred": true,
+          "note": "Déduit : le « CDI universel », qui remplace notamment « le revenu de solidarité », exige d’une personne sans poste une formation ou vingt-cinq heures hebdomadaires au service d’une collectivité ou d’une association. Comme le RSA n’est pas conservé en tant que tel, la valeur reste +1, celle du dossier de presse, mais la source est plus précise."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 1,
+          "quote": "Nous soutiendrons la natalité par des allocations familiales dès le premier enfant, mais plafonnées au-delà du cinquième, pour qu’elles n’aient jamais à devenir un revenu.",
+          "note": "Mesure partielle : seul le plafonnement des allocations familiales au-delà du cinquième enfant est proposé, « pour qu’elles n’aient jamais à devenir un revenu ». Le texte ajoute qu’une personne n’ayant jamais cotisé ne doit plus recevoir « davantage que celui qui a travaillé toute sa vie »."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-livre-partie-4",
+      "date": "2026-10-15",
+      "title": "Le Projet France (livre), partie 4 : « Un nouveau modèle économique »",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-4/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Quatrième partie du livre-programme « Le Projet France », publié en feuilleton sur le site de campagne. Elle traite des carburants de synthèse et d’un développement de la production électrique nucléaire et renouvelable, de la suppression de la moitié des normes en deux ans, de la réindustrialisation avec mesures miroirs et contrôles aux frontières, de l’actionnariat salarié et d’un « bouclier travail », d’une réforme de l’école avec revalorisation chiffrée des enseignants, et d’un fonds souverain, le « Fonds Marianne ». Page non datée : « Disponible le 15 octobre » selon le calendrier du livre sur becht2027.fr ; l’API du site donne une dernière modification le 2026-10-19.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Chaque loi devra comporter des mesures miroirs : tout produit qui entre sur notre territoire doit respecter les normes que nous imposons à nos propres producteurs.",
+          "inferred": true,
+          "note": "Déduit : il propose des « mesures miroirs » dans chaque loi pour tout produit importé, à imposer « quoi qu’il en coûte politiquement » au nom de la « souveraineté agricole et industrielle ». L’instrument cité est la loi, pas les accords commerciaux."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "Pour revaloriser la profession, leurs salaires retrouveront l’écart au salaire minimum d’il y a 30 ans, 1,8 SMIC pour un professeur des écoles et 2,3 pour un agrégé en début de carrière, contre 1,5 et 1,8 aujourd’hui, effort financé notamment par la baisse de la démographie scolaire.",
+          "note": "Remplace le +1 de la page « La refondation sociale », qui ne chiffrait pas la revalorisation. Les salaires de début de carrière passeraient de 1,5 à 1,8 SMIC (professeur des écoles) et de 1,8 à 2,3 SMIC (agrégé), une hausse financée notamment par la baisse de la démographie scolaire, c’est-à-dire par des moyens éducatifs redéployés."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "La première chose à faire est de protéger nos marchés de la concurrence déloyale. Chaque loi devra comporter des mesures miroirs : tout produit qui entre sur notre territoire doit respecter les normes que nous imposons à nos propres producteurs.",
+          "note": "Orientation : la réindustrialisation passe par la protection des marchés (mesures miroirs, contrôles aux frontières, interdiction du rachat d’entreprises stratégiques) et par des projets industriels, mais elle est financée par un fonds souverain alimenté par l’épargne, « autrement que par la dette de l’État », d’où +1."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 1,
+          "quote": "avec un capital et une rémunération garantis par l’État et exonérés de droits de succession si ce capital y reste placé 7 années après la succession.",
+          "note": "Mesure partielle : l’exonération de droits de succession est limitée au capital laissé au moins sept ans dans le Fonds Marianne après la succession. Le texte veut aussi permettre de transmettre un petit patrimoine « sans être écrasé par les droits de succession »."
+        }
+      ]
+    },
+    {
       "id": "becht-2026-10-livre-partie-1",
       "date": "2026-10-05",
       "title": "Le Projet France (livre), partie 1 : « Reprendre la route » et « La France est ce qui nous lie »",

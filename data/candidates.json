@@ -1375,6 +1375,56 @@
           "date": "2026-10-09"
         }
       ]
+    },
+    {
+      "id": "polony",
+      "firstName": "Natacha",
+      "lastName": "Polony",
+      "displayName": "Natacha Polony",
+      "party": "Sans étiquette",
+      "partyShort": "SE",
+      "status": "declared",
+      "declaredOn": "2026-10-14",
+      "statusNote": "Journaliste et essayiste, ancienne directrice de la rédaction de Marianne (2018-2024), elle a annoncé sa candidature le 14 octobre 2026 sur France Inter (« La situation m'oblige, donc oui, je suis candidate à l'élection présidentielle »). Elle avait annoncé fin août 2026 son entrée en politique. Son site de campagne, natachapolony2027.fr, porte le titre « Nous sommes la France ». Elle doit encore réunir les 500 parrainages d'élus.",
+      "primary": null,
+      "website": "https://natachapolony2027.fr/",
+      "sources": [
+        {
+          "title": "Natacha Polony 2027 — site de campagne, page d'accueil (« Natacha Polony est candidate à la présidence de la République. »), page non datée consultée le 19 octobre 2026",
+          "url": "https://natachapolony2027.fr/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Le Monde — Présidentielle 2027 : Natacha Polony se déclare candidate pour « perturber le jeu politique »",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-natacha-polony-se-declare-candidate_6793497_823448.html",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "LCP — Natacha Polony annonce sa candidature à l'élection présidentielle",
+          "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "BFMTV (avec AFP) — « La situation m'oblige » : l'essayiste Natacha Polony annonce sa candidature à l'élection présidentielle",
+          "url": "https://www.bfmtv.com/politique/elections/presidentielle/la-situation-m-oblige-l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_AD-202610140194.html",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Public Sénat — Élection présidentielle 2027 : qui sont les candidats déclarés ou presque ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Euronews — France : Natacha Polony officialise sa candidature à la présidentielle",
+          "url": "https://fr.euronews.com/2026/10/14/france-natacha-polony-officialise-sa-candidature-a-la-presidentielle",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Sud Ouest (avec AFP) — Présidentielle 2027 : l'éditorialiste Natacha Polony annonce sa candidature",
+          "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-l-editorialiste-natacha-polony-annonce-sa-candidature-31064344.php",
+          "date": "2026-10-14"
+        }
+      ]
     }
   ]
 }

@@ -2,6 +2,30 @@
   "candidateId": "faure",
   "declarations": [
     {
+      "id": "faure-2026-10-ppr-3293",
+      "date": "2026-10-13",
+      "title": "Proposition de résolution n°3293 appelant à un moratoire sur les projets de centres de données non souverains (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3293_proposition-resolution.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de résolution enregistrée le 13 octobre 2026, présentée par François Ruffin, Cyrielle Chatelain et des députés de plusieurs groupes, dont Olivier Faure, cosignataire. Elle invite le Gouvernement à instaurer un moratoire de cinq ans sur les projets de centres de données non souverains, à organiser des débats publics et des consultations là où des projets sont en cours, et à rendre publiques les informations sur ces projets.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": -1,
+          "quote": "Mettre en place un moratoire de cinq ans sur les projets de centres de données non souverains, portés par des acteurs extra-européens, ou dont l’utilisation finale prévue est destinée à des acteurs extra-européens",
+          "page": "6",
+          "note": "Remplace le 0 du projet socialiste du 2026-06-30 : le texte cosigné demande un moratoire de cinq ans sur les projets de centres de données non souverains, et son exposé des motifs critique les « procédures accélérées » accordées à ces projets. Le moratoire ne vise pas les projets souverains, d'où −1 et non −2 (même lecture que pour la PPL n°3241 cosignée par François Ruffin)."
+        }
+      ]
+    },
+    {
       "id": "faure-2026-09-profession-foi",
       "date": "2026-09-24",
       "title": "Profession de foi d'Olivier Faure pour la primaire « Choisir 2027 » (« Pour une France + juste ! »)",

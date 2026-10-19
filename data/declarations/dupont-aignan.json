@@ -2,6 +2,30 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
+      "id": "dupont-aignan-2026-10-brochure-produire-en-france",
+      "date": "2026-10-13",
+      "title": "Produire en France : osons le protectionnisme intelligent ! (brochure PDF du projet de Debout la France, 13 octobre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/wp-content/uploads/2026/10/Produire-en-France-2026_10-13_Brochure.pdf",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Brochure PDF de quatre pages du volet « Produire en France » du projet de Debout la France, datée du 13 octobre 2026 (nom du fichier et date de mise en ligne dans la médiathèque du site), liée par le bouton « Je télécharge ! » de la page thématique du même nom, elle aussi modifiée le 2026-10-13. Elle reprend les 10 mesures de la page : étiquetage du « fabriqué en France », réservation de 75 % de la commande publique, droits de douane compensateurs, fonds d'aide à la relocalisation, crédit d'impôt de production. La liste des mesures (page 3) dote le fonds d'aide à la relocalisation de 4 milliards d'euros, contre 10 milliards sur la page en ligne et sur la dernière page de la brochure. Nicolas Dupont-Aignan est le président et le candidat déclaré de ce parti.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Créer un fonds d’aide à la relocalisation doté de 4 milliards d’euros, attribuant des aides à l’investissement en échange de l’implantation de nouvelles usines en zone rurale.",
+          "page": "3",
+          "note": "Même valeur (+2) que la page Économie du 2026-10-10. La brochure prévoit aussi « des droits de douane compensateurs pour limiter les importations déloyales » (mesure 5) ; sa dernière page donne 10 milliards pour le même fonds."
+        }
+      ]
+    },
+    {
       "id": "dupont-aignan-2026-10-projet-education",
       "date": "2026-10-12",
       "title": "Le Projet de Debout La France – Éducation : « Repenser l'école de la République, l'excellence pour tous ! » (mise à jour du 12 octobre 2026)",
