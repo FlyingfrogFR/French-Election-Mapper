@@ -2,6 +2,246 @@
   "candidateId": "zemmour",
   "declarations": [
     {
+      "id": "zemmour-2026-10-telegram-casseurs",
+      "date": "2026-10-21",
+      "title": "Message du 21 octobre 2026 : quatre mesures contre les émeutiers",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7913?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 21 octobre 2026 sur le canal Telegram officiel d'Éric Zemmour, avec un extrait vidéo. Il propose quatre mesures contre les émeutiers : rétablir la loi anti-casseurs, rétablir les peines planchers, faire payer les dégâts aux casseurs, y compris sur leurs allocations et sans le plafond de 10 000 euros fixé par le Conseil constitutionnel, et déchoir de leur nationalité puis expulser les binationaux condamnés. Il ajoute que ces mesures « n'auront tout leur effet qu'avec une immigration négative ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Je rétablirai les peines planchers, pour que les juges ne les libèrent plus à tout-va.",
+          "note": "Même valeur que le message du 18 octobre et le programme de 2022 ; le message ne dit pas si les peines planchers visent seulement les récidivistes."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-telegram-ecole-exigeante",
+      "date": "2026-10-21",
+      "title": "Message du 21 octobre 2026 sur l'école : « retrouver l'école française qui faisait notre gloire »",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7915?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 21 octobre 2026 sur le canal Telegram officiel d'Éric Zemmour, avec un extrait vidéo, sur l'école. Il propose de rétablir les « méthodes traditionnelles » (par cœur, dictée, histoire, géographie, La Fontaine), d'instaurer des examens exigeants à l'entrée de la 6e, de la seconde et de l'université, de donner « une vraie autonomie » aux chefs d'établissement et de libérer l'enseignement privé de la limite de 20 % des élèves.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-04",
+          "value": -1,
+          "quote": "Le privé doit être libéré de la limite de 20 % des élèves qu'on lui impose depuis les années 90, pour que la concurrence oblige le public à se réformer.",
+          "inferred": true,
+          "note": "Déduite, même valeur que le message du 14 octobre sur les accords Lang-Cloupet : la limite de 20 % ne s'applique qu'à l'enseignement privé sous contrat, financé par l'État. Lever cette limite va à l'encontre d'une réduction de son financement public, dont le message ne parle pas directement."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-telegram-paix-civile",
+      "date": "2026-10-19",
+      "title": "Message du 19 octobre 2026 : « Il n'y aura pas de retour à la paix civile sans la remigration »",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7895?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 19 octobre 2026 sur le canal Telegram officiel d'Éric Zemmour, avec un extrait vidéo, après les violences des jours précédents à Paris et à Limoges. Il affirme qu'il n'y aura « pas de retour à la paix civile sans la remigration ». Il annonce qu'il rétablira la loi anti-casseurs de 1970 et les peines planchers. Il ajoute que « le plus important, c'est le départ de ceux qui sèment le chaos, après la déchéance de leur nationalité ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Je rétablirai la loi anti-casseurs de 1970, que François Mitterrand a supprimée en 1981, ainsi que les peines planchers.",
+          "note": "Même valeur que le message du 18 octobre et le programme de 2022 ; le message ne dit pas si les peines planchers visent seulement les récidivistes ; le message 7913 du 21 octobre, plus récent, couvre aussi cette affirmation."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-telegram-emeutes",
+      "date": "2026-10-18",
+      "title": "Message du 18 octobre 2026 : plan en quatre mesures « contre les émeutiers »",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7891?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié sur le canal Telegram officiel d'Éric Zemmour le lendemain des violences du 17 octobre, avec un extrait vidéo. Il présente un plan en quatre mesures : rétablir la loi anti-casseurs, rétablir les peines planchers, faire payer les dégâts aux coupables et à leurs familles, expulser les étrangers et sans-papiers arrêtés et déchoir de leur nationalité française les binationaux condamnés.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Je rétablis les peines planchers, pour que les juges prononcent un minimum de sanctions.",
+          "note": "Même valeur que le programme de 2022 ; le message ne dit pas si les peines planchers visent seulement les récidivistes."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-telegram-7852",
+      "date": "2026-10-14",
+      "title": "Message Telegram du 14 octobre 2026 : « Nous devons remettre en ordre la justice française »",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7852?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel)",
+      "summary": "Texte accompagnant un message vidéo publié le 14 octobre 2026 sur le canal Telegram officiel d'Éric Zemmour : il appelle, pour les adultes comme pour les mineurs, à rétablir la loi « anti-casseurs » et les peines planchers, à supprimer le juge d'application des peines et à ne plus laisser de décalage entre peines encourues, prononcées et exécutées.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Nous devons remettre en ordre la justice française, pour les adultes comme pour les mineurs : La loi « anti-casseurs » et les peines planchers doivent être rétablies",
+          "note": "Même valeur que le programme de 2022 (+2), rétablissement des peines planchers sans restriction aux récidivistes ; le message 7891 du 18 octobre, plus récent et retenu par la veille, couvre aussi cette affirmation."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-telegram-automobile",
+      "date": "2026-10-14",
+      "title": "Message du 14 octobre 2026 sur l'industrie automobile",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7863?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié sur le canal Telegram officiel d'Éric Zemmour, avec un extrait vidéo. Il estime que l'industrie automobile française pourrait disparaître d'ici cinq ans. Il propose d'imposer à la Chine des droits de douane massifs et d'abroger l'interdiction de vendre des voitures thermiques neuves à partir de 2035.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Nous devons nous protéger de la Chine en lui imposant des droits de douane massifs et en abrogeant l’interdiction de vendre des voitures thermiques neuves dès 2035.",
+          "note": "Même valeur que le programme européen de 2024 : abrogation explicite de l'interdiction de vente des voitures thermiques neuves en 2035."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-telegram-lang-cloupet",
+      "date": "2026-10-14",
+      "title": "Message du 14 octobre 2026 : « Je propose de rompre les accords Lang-Cloupet »",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7856?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié sur le canal Telegram officiel d'Éric Zemmour, avec un extrait vidéo. Il propose de rompre les accords Lang-Cloupet, qui selon lui empêchent l'école privée de se développer et la limitent à 20 % des écoles, pour qu'elle puisse « se développer librement ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-04",
+          "value": -1,
+          "quote": "Je propose de rompre les accords Lang-Cloupet. Ces accords empêchent l’école privée de se développer et la limitent à 20% des écoles présentes en France. Si l’école privée offre aujourd’hui un meilleur enseignement, elle doit pouvoir se développer librement",
+          "inferred": true,
+          "note": "Déduite : il demande de lever la limite de 20 % fixée par les accords Lang-Cloupet. Cette limite ne peut viser que l'enseignement privé sous contrat, dont l'État rémunère les enseignants ; laisser ce secteur « se développer librement » va donc à l'encontre d'une réduction de son financement public, dont le message ne parle pas directement."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-telegram-ecole",
+      "date": "2026-10-13",
+      "title": "Message du 13 octobre 2026 sur l'école : « Nous devons rétablir la sélection au mérite »",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7850?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié sur le canal Telegram officiel d'Éric Zemmour, avec un extrait vidéo. Il propose de supprimer le collège unique et de rétablir les classes de niveau, de rétablir des examens de niveau avant l'entrée au collège et au lycée, de rétablir un baccalauréat exigeant et d'instaurer dès la 4e une orientation vers l'enseignement professionnel pour les élèves qui s'y destinent.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-03",
+          "value": 2,
+          "quote": "Supprimer le collège unique et rétablir les classes de niveau.",
+          "inferred": true,
+          "note": "Même valeur que le programme de 2022 : des classes de niveau au collège, avec suppression du collège unique, ce qui va au-delà de groupes de niveau."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-10-tract-avenir",
+      "date": "2026-10-12",
+      "title": "Tract « L'avenir est à nous » (Reconquête, avec Éric Zemmour et Sarah Knafo)",
+      "sourceType": "autre",
+      "sourceUrl": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
+      "publisher": "Reconquête!",
+      "summary": "Tract national de Reconquête qui présente cinq priorités sous les intitulés « L'immigration négative, maintenant ! », « Préférence nationale : Français d'abord », « Dépenser moins pour taxer moins », « Travailler, gagner, transmettre » et « Une meilleure école pour vos enfants ». Le document n'est pas daté : il a été consulté le 12 octobre 2026 sur la page « J'agis » du parti, et les métadonnées du PDF indiquent une création le 6 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Supprimer l’AME qui soigne les clandestins avec votre argent.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré, qui figure sur le tract ; même valeur que le programme de 2022."
+        },
+        {
+          "questionId": "num-02",
+          "value": 2,
+          "quote": "Privatiser l’audiovisuel public : vous n’avez pas à financer la propagande contre vous.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; le tract ne précise pas le périmètre, contrairement au programme de 2022 qui conservait un pôle culturel public."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Baisser d’un tiers l’accise sur les carburants, supprimer la CSG sur les revenus du travail et supprimer les droits de succession.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; la suppression des droits de succession va au-delà de la réduction énoncée (le programme de 2022 proposait une franchise de 200 000 € par enfant) ; valeur inchangée."
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Réserver les aides sociales non-contributives, les allocations familiales et le logement social aux Français.",
+          "page": "2",
+          "inferred": true,
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; va au-delà de l'énoncé : les prestations non contributives sont réservées aux Français, quelle que soit la durée de résidence légale des étrangers."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "L’IMMIGRATION NÉGATIVE, MAINTENANT ! Expulser les étrangers en situation irrégulière, les délinquants étrangers et les étrangers chômeurs de longue durée. Arrêter l’immigration pour que la France retrouve la maîtrise de ses frontières, sa sécurité et sa souveraineté.",
+          "page": "2",
+          "note": "Document du parti Reconquête, présidé par Éric Zemmour, candidat déclaré ; va au-delà de l'énoncé (arrêt de l'immigration, « immigration négative ») ; aucun système de quotas votés par le Parlement n'est mentionné, comme dans la source de 2022."
+        }
+      ]
+    },
+    {
       "id": "zemmour-2026-09-candidature",
       "date": "2026-09-17",
       "title": "Confirmation de candidature",

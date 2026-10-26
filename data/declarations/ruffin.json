@@ -2,6 +2,237 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-10-plan-redressement",
+      "date": "2026-10-21",
+      "title": "Plan de redressement : répondre aux urgences de l'été et retrouver les moyens d'agir",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/plan-de-redressement/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Plan de la campagne « Nous Président ! » sur les finances publiques et l'adaptation au climat. Il prévoit 22 Md€ d'économies (crédit d'impôt recherche, aides aux entreprises dont les allègements de cotisations, apprentissage dans le supérieur, produits de santé) et des recettes nouvelles (taxe Zucman, réforme des grandes successions, dividende climatique de 2 %). Il finance des dépenses pour la rénovation des bâtiments, la sécurité civile, la gestion publique des forêts et un leasing social public de voitures électriques.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-13",
+          "value": -2,
+          "quote": "nous proposons de mieux lisser les réductions de cotisations patronales et les geler à leur niveau actuel",
+          "note": "Remplace le −1 du cahier industrie (2026-10-15), qui proposait seulement de lisser les réductions. Le plan y ajoute un gel des allègements de cotisations patronales à leur niveau de 2026 (au moins 5 Md€ d'économies dès 2027), avec des réductions « un peu moins fortes à proximité du Smic » : toute baisse supplémentaire est donc écartée explicitement."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "nous proposons de mettre en place ce dividende à hauteur à 2 % pour toutes les entreprises",
+          "note": "Proposition 3 « Augmenter l'imposition des dividendes » : dividende climatique de 2 % pour toutes les entreprises, chiffré à 6 Md€. Le cahier 4 retenait 4 % au-delà de 10 M€ de dividendes et 2 % en dessous. La valeur ne change pas."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "refondre l'assiette et le barème des droits de succession avec une progressivité renforcée pour le top 1 %. L'abattement passerait de 100 000 à 200 000 €",
+          "note": "Proposition 2 : droits plus élevés pour le 1 % des plus grandes successions (taux marginal de 50 % au-delà de 6 M€, avantages de l'assurance-vie et du pacte Dutreil réduits), chiffrés à 20 Md€. L'abattement est en même temps porté à 200 000 €, et la mesure figure sous l'intitulé « impôt continu sur le patrimoine et/ou » réforme des successions. Hausse ciblée, d'où −1."
+        },
+        {
+          "questionId": "edu-07",
+          "value": -1,
+          "quote": "Avec une réduction ciblée d'environ 30% des contrats et les moins efficaces et/ou les plus coûteux et un recentrage sur l'apprentissage dans le secondaire et les BTS, il est possible d'économiser au moins 6 Mds/an de dépenses inutiles",
+          "note": "Le plan propose de réduire les dépenses publiques d'apprentissage d'au moins 6 Md€ par an (sur environ 20 Md€ en 2026), en ciblant les contrats du supérieur et en recentrant les aides sur le secondaire et les BTS. Réduction ciblée sur une partie du dispositif, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2026-10-ppl-3374",
+      "date": "2026-10-20",
+      "title": "Proposition de loi n° 3374 visant à faire contribuer davantage les héritiers les plus fortunés (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3374_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 20 octobre 2026 par Tristan Lahais et cosignée par François Ruffin. Elle calcule les droits de mutation à titre gratuit sur l'ensemble des transmissions reçues au cours de la vie, avec un abattement unique de 200 000 € par bénéficiaire, et réintègre l'assurance-vie dans le droit commun des successions. Elle rend le barème plus progressif, jusqu'à 70 % au-delà de 13 M€.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "Il ne s’agit donc pas ici de taxer davantage les transmissions familiales ordinaires. Il s’agit de réintroduire de la progressivité là où les montants transmis deviennent exceptionnels",
+          "page": "4",
+          "note": "Texte cosigné. Il relève les droits sur les plus grandes transmissions (taux marginaux de 50 % à 70 % au-delà de 1,8 M€) et réintègre l'assurance-vie, mais porte l'abattement à 200 000 € pour « protéger les classes populaires, modestes et moyennes ». Hausse ciblée, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2026-10-cahier-industrie",
+      "date": "2026-10-15",
+      "title": "Pour protéger notre industrie, relocaliser 100 produits stratégiques (cahier de campagne n°7)",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Septième cahier de campagne, consacré à l'industrie, ouvert par un édito de François Ruffin. Il a été mis en ligne sur le site de campagne le 15 octobre 2026 : la date vient des métadonnées de la page (article:published_time) et du PDF « Debout-Livret-Campagne-7-Industrie », elle n'est pas affichée dans le texte. Le cahier propose de relocaliser 100 produits stratégiques avec des protections commerciales (barrières douanières, quotas), un « Buy French Act » pour la commande publique, des aides d'État ciblées et conditionnées, un pôle public du médicament, des prix de l'électricité régulés pour l'industrie et la mobilisation de l'épargne nationale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Sur ces 100 produits, on met le paquet : des barrières douanières, des taxes aux frontières, des quotas d'importation. Bref, des protections, comme nous le réclamons, avec constance, mais aussi avec solitude, depuis vingt ans.",
+          "note": "Citation tirée de l'édito de François Ruffin. Le cahier prévoit aussi un « régime d'aides d'État ciblé » pour l'acier, l'aluminium et les médicaments, conditionné au maintien des emplois pendant dix ans, et des subventions à l'électricité pour l'industrie « au moins autant que nos concurrents ». La valeur reste celle du manifeste Debout! ; cette source est plus récente et plus précise."
+        },
+        {
+          "questionId": "def-04",
+          "value": 2,
+          "quote": "Pour les commandes publiques de produits industriels, nous proposons de renforcer les conditions de production en France , en particulier des composants des produits de « défense » qui doivent approcher les 100% de fabrication en France",
+          "note": "Le cahier veut que les composants des produits de défense achetés par l'État soient fabriqués presque à 100 % en France. Il ne parle pas explicitement du surcoût pour la défense. En revanche, il critique les achats publics fondés sur le prix (« Les acheteurs publics regardent le prix, pas le pays ») et demande de « préférer la production locale quand il s'agit de biens vitaux »."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Des réductions un peu moins fortes à proximité du Smic et plus progressives permettront à la fois de « désmicardiser » les salaires et de davantage centrer les soutiens publics sur l'industrie où les salaires sont plus élevés.",
+          "note": "Le cahier propose de « lisser » les réductions de cotisations patronales en les rendant moins fortes près du Smic, ce qui va dans le sens contraire de l'affirmation. La mesure est modérée (« un peu moins fortes ») et ne supprime pas les allègements, d'où −1."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Protéger nos industries n'implique pas de baisser sans fin les salaires et les impôts",
+          "inferred": true,
+          "note": "Position déduite d'un titre de section du cahier. Le cahier juge sans effet sur l'emploi et les exportations les baisses passées de l'impôt sur les sociétés et des impôts de production : le CICE et la CVAE ont fait l'objet d'une évaluation de l'IPP en 2025. Il refuse la stratégie de baisse du « coût du travail » et des impôts pour la compétitivité, mais ne prend pas d'engagement explicite sur le taux de l'IS, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2026-10-plan-urgence-climat",
+      "date": "2026-10-12",
+      "title": "Plan urgence climat (plan d'action de campagne)",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/plan-urgence-climat/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Plan d'action publié sur le site de campagne le 12 octobre 2026 (date de mise en ligne selon les métadonnées WordPress du site et le chemin du PDF /uploads/2026/10/, non affichée sur la page). Il propose, après l'été 2026, des moyens supplémentaires pour les pompiers et la sécurité civile, la prise en charge des incendies extrêmes par le régime des catastrophes naturelles, un accompagnement psychologique pris en charge pour les habitants des zones sinistrées, des mesures d'urgence pour les agriculteurs (ISN), le renforcement du Fonds Barnier et, à terme, une « Sécurité climatique », nouvelle branche de la Sécurité sociale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-09",
+          "value": 1,
+          "quote": "Nous proposons une prise en charge à 100 % et un accès direct de 12 séances pour les habitants des zones sinistrées , avec la possibilité d'accéder à 12 séances supplémentaires prises en charge après consultation d'un médecin",
+          "inferred": true,
+          "note": "Mesure partielle : la prise en charge à 100 % des séances de psychologue (au lieu de 60 % dans « Mon soutien psy ») et l'accès direct sont réservés aux habitants des zones sinistrées par des catastrophes naturelles. Le plan ne propose pas de remboursement généralisé, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2026-10-plan-data-centers",
+      "date": "2026-10-08",
+      "title": "Plan d'action « Data centers »",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/plan-data-centers/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Plan d'action de la campagne sur les centres de données. Il prévoit une part d'électricité réservée au numérique et arbitrée par une assemblée citoyenne, la priorité aux friches, l'obligation de récupérer la chaleur et la fin du statut de projet d'intérêt national majeur. Il donne aussi un droit de veto suspensif aux communes, supprime le tarif réduit d'accise sur l'électricité pour les projets non stratégiques et propose un moratoire de cinq ans sur les projets non souverains. La page n'affiche pas de date : le 8 octobre 2026 est la date de mise en ligne donnée par les métadonnées du site.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": -2,
+          "quote": "Nous mettrons fin au statut de projet d'intérêt national majeur pour les data centers. Les maires et les conseils municipaux retrouveront l'intégralité de leur pouvoir d'urbanisme pour les projets qui engagent les ressources de leur territoire.",
+          "note": "Le plan rejette les procédures accélérées et propose un moratoire de cinq ans sur les projets de centres de données non souverains. Il juge toutefois nécessaire que la France dispose de ses propres capacités de calcul."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2026-10-cahier-agriculture",
+      "date": "2026-10-07",
+      "title": "Cahier de campagne « Pour une exception agriculturelle française »",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Cahier de campagne sur l'agriculture, avec un édito de François Ruffin. Il propose des prix minimums garantis imposés aux acheteurs, des protections aux frontières et des quotas d'importation, des aides de la PAC orientées vers le travail plutôt que la surface, des paiements pour services environnementaux et un fonds de garantie pour l'agriculture biologique. La page n'affiche pas de date : le 7 octobre 2026 est la date de mise en ligne donnée par les métadonnées du site, et le livret PDF est déposé dans le dossier 2026/10.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Nous proposons d'aller au bout de cette logique, en imposant aux acheteurs, de manière réellement contraignante, des prix minimums garantis pour nos agriculteurs.",
+          "note": "Proposition n° 1 du cahier : prix minimums fixés à partir des coûts de production et d'une rémunération du travail, par accord des interprofessions étendu par l'État ou, à défaut, par l'État lui-même."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Ce fonds rétablira l'aide au maintien indûment supprimée par la Macronie et sécurisera et étendra les moyens d'action de l'Agence Bio notamment pour structurer et renforcer les filières industrielles de transformation et soutenir la distribution de produits bio en restauration collective.",
+          "note": "Proposition n° 3 du cahier : création d'un fonds de garantie pour l'agriculture biologique."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 1,
+          "quote": "Les mesures ou clauses de sauvegarde « sanitaires » prévues par le règlement européen 178/2002 peuvent déjà être utilisées pour interdire toute importation utilisant des substances interdites en France.",
+          "inferred": true,
+          "note": "Déduite. Le cahier veut interdire les importations qui utilisent des substances interdites en France ou qui sont vendues sous les prix planchers, et rompre avec les accords de libre-échange. Il ne parle pas de clauses miroirs dans les accords commerciaux. Même valeur que dans le cahier « travaillisme écologique »."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2026-10-ppl-3241",
+      "date": "2026-10-06",
+      "title": "Proposition de loi n° 3241 d'urgence pour lutter contre le changement climatique (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B3241.html",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 6 octobre 2026 par Cyrielle Chatelain et 36 autres députés, dont François Ruffin, cosignataire. Elle interdit les nouveaux projets d'énergies fossiles et met fin en 2030 aux dépenses fiscales défavorables à l'environnement. Elle prévoit aussi l'arrêt des vols intérieurs substituables par le train en 4 heures ou moins, un quart des fonds du plan stratégique national de la PAC pour l'agriculture biologique, un moratoire de 5 ans sur les grands centres de données non souverains, l'interdiction des coupes rases dans certains cas (zones protégées, fortes pentes, surfaces au-delà de seuils) et un moratoire sur les entrepôts du commerce en ligne.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-10",
+          "value": 2,
+          "quote": "prévoit l’arrêt des liaisons aériennes domestiques facilement substituables par un voyage inférieur ou égal à 4 heures en train et l’arrêt de la création ou de l’extension d’infrastructures aéroportuaires",
+          "note": "Exposé des motifs de l'article 8 : interdit les liaisons aériennes intérieures quand le trajet est assuré par plusieurs liaisons ferroviaires quotidiennes de 4 heures ou moins. Le texte est cosigné, donc chacune de ses mesures engage le signataire."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Au moins un quart des financements du plan stratégique national, instauré par le Règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021, élaboré en vue de la mise en œuvre de la politique agricole commune, contribue directement au développement de l’agriculture biologique",
+          "note": "Article 9 : au moins un quart des fonds du plan stratégique national de la PAC est réservé à l'agriculture biologique, et au moins la moitié à la transition agroécologique."
+        },
+        {
+          "questionId": "num-04",
+          "value": -1,
+          "quote": "Il est instauré un moratoire sur la délivrance des autorisations environnementales prévues aux articles L. 181‑1 à L. 181‑4 du code de l’environnement pour les projets de création et d’implantation de centres de données",
+          "note": "Article 12 : moratoire de 5 ans sur les centres de données d'au moins 20 MW qui ne respectent pas des critères de souveraineté nationale, et abrogation de l'article 35 de la loi du 26 mai 2026 de simplification de la vie économique. L'exposé des motifs parle de 10 ans, l'article de 5 ans. (Force ramenée de -2 à -1 en relecture : La citation est exacte, mais elle est coupée avant les critères. L'article 12 limite le moratoire aux projets de 20 MW ou plus qui ne respectent pas les critères de souveraineté nationale. C'est une mesure partielle ou conditionnelle, pas un rejet général de l'implantation des centres de données. L'article 12 I abroge bien l'article 35 de la loi 2026-403, mais le texte ne dit pas ce que contient cet article. Il ne fonde donc pas, à lui seul, un rejet explicite des procédures simplifiées. La valeur −1 est plus fidèle pour ce document. Le −2 reste fondé par le plan « Data centers » du 8 octobre, qui est plus récent.)"
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "aucune dépense fiscale considérée comme défavorable au sens du rapport sur l’impact environnemental du budget ne peut être maintenue.",
+          "note": "Article 3 : à partir du 1er janvier 2030, toutes les dépenses fiscales classées défavorables à l'environnement sont supprimées. L'article 14 supprime aussi l'exonération de taxe sur les carburants du transport maritime."
+        }
+      ]
+    },
+    {
       "id": "ruffin-2026-09-cahier-logement",
       "date": "2026-09-24",
       "title": "Cahier de campagne n°6 – Face à la crise du logement : faire sauter le verrou",

@@ -2,6 +2,30 @@
   "candidateId": "tondelier",
   "declarations": [
     {
+      "id": "tondelier-2026-10-tract-lycees",
+      "date": "2026-10-12",
+      "title": "Tract « Nos lycées, notre avenir ! » : nos propositions",
+      "sourceType": "autre",
+      "sourceUrl": "https://marinetondelier.fr/s/BAT_tract_lycee_sanstraitdecoupe.pdf",
+      "publisher": "Les Écologistes (lien « Nos propositions » sur la page d'accueil de marinetondelier.fr)",
+      "summary": "Tract des Écologistes de soutien à la mobilisation lycéenne. Il propose de rénover les établissements scolaires et de les adapter au changement climatique, d'augmenter de 15 % en 5 ans les salaires réels des enseignant·es, d'abolir Parcoursup et Mon Master, d'interdire en maintien de l'ordre les LBD, les grenades à charge explosive et les gaz lacrymogènes, et d'ouvrir le droit de vote à 16 ans. Le document n'est pas daté. La date retenue est celle de la mise en ligne du fichier, le 12 octobre 2026 : c'est la date que donnent l'horodatage de l'URL de stockage Squarespace et les métadonnées du PDF, et c'est aussi la date de consultation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Une démocratie refondée : le droit de vote à 16 ans et un réinvestissement dans les démocraties scolaires et étudiantes",
+          "page": "2",
+          "note": "Tract du parti dont elle est la candidate désignée, publié sur son site de campagne. Même valeur que le programme de 2026."
+        }
+      ]
+    },
+    {
       "id": "tondelier-2026-09-enfance",
       "date": "2026-09-17",
       "title": "Livret thématique « Pour un pays à hauteur d'enfants »",

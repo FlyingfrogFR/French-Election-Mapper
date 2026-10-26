@@ -2,6 +2,89 @@
   "candidateId": "le-pen",
   "declarations": [
     {
+      "id": "le-pen-2026-10-contre-budget-2027",
+      "date": "2026-10-15",
+      "title": "Contre-budget 2027 du groupe Rassemblement National (dossier)",
+      "sourceType": "programme",
+      "sourceUrl": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+      "publisher": "Groupe Rassemblement National à l'Assemblée nationale",
+      "summary": "Le groupe RN présente son contre-budget pour 2027, construit sur la base du PLF et du PLFSS 2027. Il détaille les économies, les nouvelles recettes, les baisses d'impôts et les dépenses nouvelles, dont certaines sont rattachées au « programme présidentiel » et à la « réforme des retraites de Marine Le Pen ». Le PDF est daté d'« octobre 2026 » ; il a été mis en ligne le 15 octobre 2026 selon les métadonnées du site deputes-rn.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Réformer la fiscalité des successions : exonération de l'immobilier transmis à hauteur de 300 k€",
+          "page": "12",
+          "note": "Exonération de droits de succession sur l'immobilier transmis jusqu'à 300 k€ (1,2 Md€), à laquelle s'ajoute une réforme des donations. La valeur est la même que dans le programme législatif de 2024, qui proposait de supprimer les impôts sur l'héritage direct des familles modestes et des classes moyennes."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "Taxe sur les rachats d'actions 11,352 Taxe sur les superdividendes 0,750",
+          "page": "12",
+          "note": "Taxe sur les rachats d'actions (11,35 Md€) et taxe sur les superdividendes (0,75 Md€). Le contre-budget 2026 prévoyait déjà ces deux taxes ; la valeur ne change pas."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Lutter contre les dépenses indues (carte vitale biométrique, juste prescription, contrôle automatisé des factures avant paiement, détection des schémas",
+          "page": "11",
+          "note": "Carte Vitale biométrique et contrôles automatisés contre les dépenses indues (2,2 Md€), auxquels s'ajoute un renforcement des contrôles du travail dissimulé. La valeur est la même que dans le projet santé de 2022."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "Construction de 30 000 places de prison",
+          "page": "12",
+          "note": "30 000 places de prison à construire (1 Md€ inscrit pour 2027). Le projet sécurité de 2022 visait 85 000 places disponibles en 2028 ; la valeur ne change pas."
+        },
+        {
+          "questionId": "num-02",
+          "value": 2,
+          "quote": "Baisse de la dotation à l'audiovisuel public, puis privatisation (sauf FranceInfo, Arte, OM, etc)",
+          "page": "11",
+          "note": "La dotation baisse, puis l'audiovisuel public est privatisé, avec des exceptions énumérées par le document (« FranceInfo, Arte, OM, etc »). La valeur est la même que dans le programme législatif de 2024."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Suppression des EPCI et des métropoles",
+          "page": "11",
+          "inferred": true,
+          "note": "Mesure voisine : suppression de l’échelon intercommunal (EPCI et métropoles), qui ne sont pas des collectivités territoriales en droit ; rien sur les départements ou les régions. Même valeur que le programme législatif de 2024. (Force ramenée de 2 à 1 en relecture.)"
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-10-regle-dor",
+      "date": "2026-10-01",
+      "title": "Tribune « Je proposerai aux Français d’adopter une règle d’or budgétaire par référendum » (l'Opinion)",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lopinion.fr/economie/marine-le-pen-je-proposerai-aux-francais-dadopter-une-regle-dor-budgetaire-par-referendum",
+      "publisher": "l'Opinion (tribune signée Marine Le Pen)",
+      "summary": "Tribune signée par Marine Le Pen, candidate du Rassemblement national, publiée le 1er octobre 2026 dans l'Opinion. Elle y annonce un plan d'économies d'au moins 4 % du PIB (125 milliards d'euros de baisse des dépenses, « nets des baisses d’impôts ») et propose, si elle est élue, de faire adopter par référendum une règle d'or budgétaire qui imposerait un déficit systématiquement inférieur au seuil stabilisant de la dette (inférieur « à 0,5 point de ce seuil stabilisant » tant que la dette n'a pas atteint 60 % du PIB) et un ajustement d'au moins 0,5 point de PIB par an tant que le déficit dépasse sa cible de plus d'un point ; trajectoire minimale indiquée : de 5,4 % du PIB en 2026 à 2,9 % en 2032, puis jusqu'à un niveau proche de l'équilibre. Un dépassement exceptionnel ne serait autorisé que par un vote des trois cinquièmes du Parlement, ou par référendum si deux exercices exceptionnels se suivent.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-05 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "ce n’est pas la croissance ou les impôts qui permettront de rétablir les finances publiques, mais bien l’assainissement radical, rapide et volontaire des comptes de la France à travers un plan d’économies d’au moins 4 % du PIB. Ces 125 milliards d’euros de baisse des dépenses",
+          "note": "Remplace +1 du livret entreprise de 2024, qui ne consacrait qu'un tiers des économies à la réduction des déficits et ne fixait aucune cible de 3 % : la tribune fait de 125 milliards d'euros de baisse des dépenses (au moins 4 % du PIB, « nets des baisses d'impôts ») le moyen de rétablir les comptes, et la trajectoire minimale de sa règle d'or ramène le déficit à 2,9 % du PIB en 2032 puis vers l'équilibre."
+        }
+      ]
+    },
+    {
       "id": "le-pen-2026-06-ppl-2970",
       "date": "2026-06-23",
       "title": "Proposition de loi n°2970 visant à abroger les zones à faibles émissions-mobilités (cosignataire)",

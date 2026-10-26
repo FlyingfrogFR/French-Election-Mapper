@@ -2,6 +2,292 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-10-mediapart",
+      "date": "2026-10-25",
+      "title": "« Le pouvoir n’aura qu’un seul choix, accepter les revendications ou s’en aller » – Entretien avec Mediapart",
+      "sourceType": "interview",
+      "sourceUrl": "https://melenchon.fr/2026/10/25/le-pouvoir-naura-quun-seul-choix-accepter-les-revendications-ou-sen-aller-entretien-avec-mediapart/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr), entretien paru dans Mediapart le 23 octobre 2026",
+      "summary": "Entretien paru dans Mediapart le 23 octobre 2026 et republié sur le blog de Jean-Luc Mélenchon le 25 octobre 2026. Il y commente la mobilisation de la jeunesse et contre la vie chère ainsi que la réponse policière du gouvernement, et présente la 6e République et la Constituante comme issue à la « crise de régime ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": 2,
+          "quote": "Parce qu’au bout de la crise de régime, nous avons une solution pacifique et positive. Je la résume : la 6ème République et la Constituante.",
+          "note": "Il cite explicitement la 6e République et la Constituante comme solution à la crise de régime. Même valeur que la source actuelle (AEC 2025)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-contre-budget",
+      "date": "2026-10-14",
+      "title": "Comment nous allons remettre de l’ordre dans les comptes publics",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Orientations budgétaires de La France insoumise pour 2027, présentées par Jean-Luc Mélenchon et Éric Coquerel en conférence de presse le 14 octobre 2026 et publiées le même jour sur le site de campagne : 106,4 Md€ de recettes nouvelles, 81,7 Md€ de dépenses nouvelles, 24,7 Md€ de réduction du déficit et 100 Md€ d’investissements du pôle public bancaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "Ainsi, refuser les coupes budgétaires et proposer un autre chemin, ce n’est pas seulement le résultat d’une vision politique, c’est aussi le choix économique le plus rationnel.",
+          "page": "18",
+          "note": "Même valeur que la source actuelle (AEC 2025) : le document rejette les coupes budgétaires (chapitre « La stratégie des coupes budgétaires est une impasse ») et réduit le déficit par des recettes nouvelles."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "nous reviendrons sur les mesures fiscales les plus injustes des mandats d’Emmanuel Macron : suppression de la flat tax pour que le capital ne soit pas moins imposé que le travail (9 milliards d’euros), rétablissement d’un impôt sur la fortune renforcé (10 milliards d’euros)",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Cela passera par exemple par l’instauration de la taxe Zucman pour les personnes possédant plus de 100 millions d’euros de patrimoine",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025) ; recette attendue de 15 Md€."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "Nous reviendrons sur cette injustice, et cette perte de recettes de l’État, via une réforme de l’impôt sur les sociétés (3 milliards)",
+          "page": "14",
+          "note": "Sens inverse de l’affirmation : réforme de l’IS rapportant 3 Md€ et « rétablissement de la CVAE sur les plus grandes entreprises » (p. 13). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Dans le cadre de l’état d’urgence sociale, un décret de blocage des prix du carburant sera pris pour ramener le prix à la pompe à 1,70 euro par litre.",
+          "page": "9",
+          "note": "Blocage des prix des carburants par décret au titre d’un « état d’urgence sociale » ; l’AEC 2025 range le carburant parmi les produits de première nécessité. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "rabotage et suppression des niches fiscales et sociales les plus injustes dont le coût a explosé (22 milliards d’euros en 2027)",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "Nous réformerons l’impôt sur le revenu au cours du mandat pour le rendre plus progressif avec l’instauration de 14 tranches.",
+          "page": "14",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "en augmentant les taxes sur les transactions financières (5 milliards d’euros), les rachats d’actions (2,5 milliards)",
+          "page": "14",
+          "note": "Hausse de la taxe sur les rachats d’actions ; le document supprime aussi la flat tax sur les revenus du capital (p. 13). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "C’est pourquoi nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros.",
+          "page": "11",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités, objectif sur un mandat.",
+          "page": "11",
+          "note": "Retour à 60 ans fixé comme objectif sur le mandat. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Ces mesures d’urgence sociale doivent être complétées par une hausse du SMIC à 1 700 euros net.",
+          "page": "9",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "les gouvernements d’Emmanuel Macron ont réduit les droits à l’assurance chômage en tous points : conditions d’accès, montant, durée et dégressivité de l’indemnité. Nous proposons, dès l’année prochaine, d’abroger ces réformes pour un coût de 3 milliards d’euros.",
+          "page": "12",
+          "note": "Sens inverse : abrogation des réformes qui ont réduit, entre autres, la durée d’indemnisation. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Cette hausse sera accompagnée de la convocation d’une conférence exceptionnelle sur les salaires et d’une indexation généralisée de ceux-ci sur l’inflation.",
+          "page": "9",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "en protégeant les milieux populaires et les familles de l’inflation, sur laquelle nous indexerons toutes les pensions, allocations familiales et APL, qui seront rehaussées de 10 % (8 milliards d’euros)",
+          "page": "8",
+          "note": "Les pensions, les allocations familiales et les APL sont explicitement indexées sur l’inflation, mais les minima sociaux ne sont pas cités : mesure partielle, d’où +1. Même valeur que la source actuelle, qui était déduite."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "en refusant la désindexation des pensions et porter la pension minimum au niveau du SMIC pour une carrière complète.",
+          "page": "12",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Nous proposons une hausse globale de 3 milliards d’euros du budget des hôpitaux avec au moins 10 000 créations de postes de personnel soignant.",
+          "page": "10",
+          "note": "Embauches à l’hôpital financées par une hausse du budget ; le document prévoit aussi une hausse de 10 % du point d’indice des fonctionnaires (p. 8). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Pour lutter efficacement contre les violences sexistes et sexuelles, nous proposons un plan d’urgence pour atteindre les 3 milliards d’euros de budget demandés par les associations",
+          "page": "10",
+          "note": "Budget dédié porté à 3 Md€. Même valeur que la source actuelle (AEC 2025)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-plan-automobile",
+      "date": "2026-10-10",
+      "title": "Plan d’investissement productif : Automobile",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-investissement/automobile/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Deuxième plan d’investissement productif publié sur le site de campagne, élaboré par l’espace programme coordonné par Clémence Guetté et Hadrien Clouet : production de 2 millions de véhicules électriques par an en France d’ici 2032, véhicule électrique léger à partir de 10 000 euros, service public de location et aides conditionnées à la production en France. La date retenue est celle que portent les métadonnées de la page (datePublished, 10 octobre 2026), comme pour le plan Ruralité ; le PDF du plan joint à la page a été déposé sur le site le 14 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Une politique sérieuse de réindustrialisation implique de fixer un prix national de l’électricité, émancipé du marché européen libéralisé.",
+          "note": "Même valeur que la source actuelle (AEC 2025), qui portait sur l’annulation de la libéralisation du marché de l’électricité ; ce plan est plus direct sur un prix national hors du marché européen."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-centre-presse",
+      "date": "2026-10-09",
+      "title": "« Tout pouvoir redoute les révoltes de la jeunesse » – interview pour Centre Presse publiée sur melenchon.fr",
+      "sourceType": "interview",
+      "sourceUrl": "https://melenchon.fr/2026/10/09/tout-pouvoir-redoute-les-revoltes-de-la-jeunesse-interview-pour-centre-presse/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr), entretien paru dans le groupe Centre Presse le 9 octobre 2026",
+      "summary": "Entretien accordé au groupe Centre Presse avant le meeting de Clermont-Ferrand et publié en entier sur le blog officiel de Jean-Luc Mélenchon. Il y parle du mouvement lycéen et étudiant, de la campagne et de la primaire sociale-démocrate. Il propose aussi de reconnaître un « état d’urgence sociale » permettant de bloquer les prix (gel des loyers et des prix des carburants, de l’électricité et du gaz, blocage des marges) et de convoquer des négociations salariales obligatoires.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Par exemple bloquer les prix. Le gel des loyers, le gel du prix des carburants, de l'électricité et du gaz. La convocation extraordinaire de négociations obligatoires pour pouvoir rétablir un ajustement entre les paies et le niveau du coût de la vie, le blocage des marges.",
+          "note": "Il propose lui-même, au titre d’un « état d’urgence sociale » décrété « sous autorisation du Parlement », de bloquer les prix des carburants, de l’électricité et du gaz, c’est-à-dire de produits de première nécessité. Même valeur que la source actuelle (plan du groupe LFI du 3 septembre 2026)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-plan-ruralite",
+      "date": "2026-10-09",
+      "title": "« Comment nous allons garantir l’égalité pour des ruralités où il fait bon vivre ? » – plan thématique publié sur le site de campagne Mélenchon 2027",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan thématique sur les ruralités, présenté comme un document complémentaire de L’Avenir en commun et élaboré par l’espace programme de LFI coordonné par Clémence Guetté et Hadrien Clouet. Il porte sur les moyens et l’autonomie des communes, la planification écologique, l’arrêt des fermetures de services publics, les déserts médicaux, les transports, le numérique, le commerce de proximité et le tourisme. La page n’affiche pas de date : ses métadonnées indiquent une publication le 9 octobre 2026. Consultée le 12 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Stopper les fermetures de services publics et mettre en place un plan de redéploiement pour les populations rurales et périurbaines : bureaux de poste, gares de proximité, hôpitaux et services de santé, écoles, palais de justice, Trésor public",
+          "note": "Le plan propose de stopper les fermetures de services publics en zone rurale et cite les bureaux de poste, les gares et les écoles. Il n’y met aucune condition de rentabilité. Même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Actionner tous les leviers pour combattre les déserts médicaux : régulation de l'installation des médecins, recrutement de médecins publics, maillage du pays de centres de santé publics en exercice salarié et de maisons de santé pluriprofessionnelles, réouverture de pharmacies, etc.",
+          "note": "Le plan reprend la régulation de l’installation des médecins pour combattre les déserts médicaux. Même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Mettant en place un plan de protection généralisée du foncier agricole, forestier et naturel en vue de mettre en œuvre le zéro artificialisation nette (ZAN) des sols en Hexagone",
+          "note": "Le plan prévoit de mettre en œuvre l’objectif « zéro artificialisation nette » dans l’Hexagone et d’y soumettre l’implantation des grandes surfaces. Même valeur que dans l’AEC 2025, qui fixait en plus l’échéance de 2027."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-niche-pesticides",
+      "date": "2026-10-05",
+      "title": "« Niche 2026 - Interdire les pesticides poisons » – proposition de loi du groupe LFI",
+      "sourceType": "autre",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/10/05/niche-2026-interdire-les-pesticides-poisons/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Page du site de La France insoumise, datée du 5 octobre 2026, qui présente une proposition de loi du groupe LFI pour sa niche parlementaire de 2026 (rapporteure Mathilde Panot, cheffe de file Mathilde Hignet). Le texte vise à rétablir l’interdiction de l’acétamipride et du flupyradifurone, dont la loi « d’urgence agricole » de 2026 permet la réautorisation par l’ANSES sous certaines conditions.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Cette proposition de loi vise à rétablir l’interdiction de deux dangereux pesticides, l’acétamipride et le flupyradifurone, qui présentent de très graves risques pour la santé humaine et pour l’environnement.",
+          "note": "Proposition de loi du groupe parlementaire LFI : c’est une position du parti, et le candidat ne s’en est pas démarqué, puisque la tribune qu’il a cosignée le 19 août annonçait ce texte pour la niche du 29 octobre. Le texte rejette la réautorisation sous conditions de deux pesticides interdits et rétablit leur interdiction. Même valeur que la tribune du 19 août."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-niche-salaires",
+      "date": "2026-10-05",
+      "title": "« Niche 2026 – Augmenter les salaires et les retraites » – proposition de loi du groupe LFI présentée sur le site de LFI",
+      "sourceType": "autre",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/10/05/niche-2026-augmenter-les-salaires-et-les-retraites/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Présentation, sur le site de La France insoumise, d’une proposition de loi que le groupe LFI inscrit à sa niche parlementaire 2026 (rapporteur Hadrien Clouet, chef de file Bérenger Cernon). Elle comporte trois mesures : un salaire minimum à 1 700 euros net par mois, le rétablissement de l’échelle mobile des salaires et un minimum vieillesse relevé au niveau du seuil de pauvreté.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Nous proposons trois mesures : l’augmentation du salaire minimum à 1700 euros net par mois, le rétablissement de l’échelle mobile des salaires, la hausse du minimum vieillesse au niveau du seuil de pauvreté.",
+          "note": "Il s’agit d’une proposition de loi du groupe parlementaire LFI : c’est une position du parti dont le candidat ne s’est pas démarqué. Le texte porte le salaire minimum à 1 700 euros net par mois et souligne qu’il « n’a pas augmenté au-delà de l’inflation depuis 15 ans ». Même valeur que dans l’AEC 2025, qui proposait 1 600 euros net."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-09-ivg-evars",
       "date": "2026-09-28",
       "title": "« La Macronie et l’extrême droite menacent le droit à l’IVG : le 28 septembre, journée mondiale de lutte pour le droit à l’avortement, mobilisons-nous pour le défendre ! » – communiqué du groupe LFI",
