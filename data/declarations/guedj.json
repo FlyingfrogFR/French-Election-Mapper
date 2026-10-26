@@ -2,6 +2,176 @@
   "candidateId": "guedj",
   "declarations": [
     {
+      "id": "guedj-2026-10-vote-c3s",
+      "date": "2026-10-23",
+      "title": "Scrutin public n°9080 — amendement n°293 supprimant la contribution sociale de solidarité des sociétés (projet de loi de financement de la sécurité sociale pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9080",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Contre » l'amendement n°293 (groupe Rassemblement national), qui abrogeait la contribution sociale de solidarité des sociétés (C3S), présentée dans son exposé comme un impôt de production ; amendement adopté (38 pour, 36 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "La contribution sociale de solidarité des sociétés (C3S) est un impôt de production qui pèse sur l'activité de nos entreprises. Sa suppression permettrait d’alléger la fiscalité pesant sur les entreprises et de renforcer leur compétitivité face à la concurrence étrangère.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3211/AN/293",
+          "note": "Vote « Contre » la suppression d'un impôt de production justifiée par la compétitivité des entreprises ; la mesure est partielle (un seul impôt de production, rien sur l'impôt sur les sociétés), d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-10-vote-heures-sup",
+      "date": "2026-10-22",
+      "title": "Scrutin public n°8981 — amendement n°468 supprimant la réduction de cotisations salariales sur les heures supplémentaires (projet de loi de financement de la sécurité sociale pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8981",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Pour » l'amendement n°468 (groupe GDR) et les amendements identiques, qui abrogeaient l'article L. 241-17 du code de la sécurité sociale, c'est-à-dire la réduction de cotisations salariales sur les heures supplémentaires ; amendements non adoptés (35 pour, 95 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-08",
+          "value": -1,
+          "quote": "Cet amendement prévoit la suppression de la désocialisation des heures supplémentaires.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3211/AN/468",
+          "inferred": true,
+          "note": "Position déduite d'une mesure voisine : il a voté pour supprimer l'allègement de cotisations existant sur les heures supplémentaires, de même pour la déduction forfaitaire patronale (amendement n°1302, scrutin n°8984), et contre l'amendement n°356 excluant les heures supplémentaires défiscalisées du revenu fiscal de référence (scrutin n°8809), ce qui s'oppose à leur exonération totale, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-10-vote-dividendes",
+      "date": "2026-10-21",
+      "title": "Scrutin public n°8950 — amendement n°772 créant une contribution exceptionnelle sur les dividendes (projet de loi de financement de la sécurité sociale pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8950",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Pour » l'amendement n°772 (groupe LFI-NFP), qui créait une contribution exceptionnelle de 16 % sur les dividendes, reversée aux caisses de retraite du régime de base ; amendement non adopté (54 pour, 110 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Cet amendement du groupe parlementaire La France Insoumise propose une contribution exceptionnelle sur les dividendes afin de financer le système de retraites.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3211/AN/772",
+          "note": "Même valeur que la source de novembre 2024 : il vote une taxation supplémentaire des dividendes, comme au scrutin n°8993 (amendement n°1349 les soumettant aux cotisations sociales), sans rien sur les rachats d'actions, mesure partielle."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-10-vote-isf",
+      "date": "2026-10-16",
+      "title": "Scrutin public n°8856 — amendement n°1077 rétablissant l'impôt de solidarité sur la fortune (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8856",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Pour » l'amendement n°1077 (groupe LFI-NFP), qui rétablissait l'impôt de solidarité sur la fortune, assis sur « l'ensemble des biens, droits et valeurs imposables », pour les patrimoines nets taxables supérieurs à 1 000 000 € ; amendement non adopté (32 pour, 69 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "Par cet amendement de repli, le groupe LFI propose de rétablir l’impôt de solidarité sur la fortune (ISF)",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/1077",
+          "note": "Vote personnel « Pour » (16 octobre 2026) sur un amendement dont l'objet principal est le rétablissement de l'ISF sur l'ensemble du patrimoine, avec le même vote aux scrutins n°8857 (amendement n°1069), n°8858 (amendement n°54) et n°8870 (amendement n°1079), et un vote « Pour » l'amendement n°47 étendant l'IFI aux placements financiers (scrutin n°8863)."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-10-vote-niche-assurance-vie",
+      "date": "2026-10-16",
+      "title": "Scrutin public n°8843 — amendement n°3929 supprimant le régime fiscal de faveur de l'assurance-vie au regard des successions (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8843",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Pour » l'amendement n°3929 (groupe GDR), qui visait à « supprimer la niche fiscale de l’assurance vie » en faisant entrer les capitaux transmis dans l'actif successoral ; amendement non adopté (29 pour, 57 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-08",
+          "value": 1,
+          "quote": "L’objet du présent amendement est de supprimer la niche fiscale de l’assurance vie pour la faire entrer de plein droit dans l’actif successoral.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3929",
+          "note": "Vote « Pour » la suppression d'une niche fiscale précise, comme pour le régime du « carried interest » (amendement n°3533, scrutin n°8820), avec la cosignature de l'amendement n°1602 plafonnant l'ensemble des réductions et crédits d'impôt (scrutin n°8787), mais il a aussi voté pour rétablir ou créer d'autres avantages fiscaux ciblés (amendements n°2171 et n°3787, scrutins n°8788 et n°8790), d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-10-vote-taxe-zucman",
+      "date": "2026-10-16",
+      "title": "Scrutin public n°8860 — amendement n°471 du groupe Socialistes et apparentés instaurant un impôt plancher sur la fortune (« taxe Zucman »), projet de loi de finances pour 2027",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8860",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj, cosignataire de l'amendement n°471 (groupe Socialistes et apparentés, déposé le 8 octobre 2026), figure nommément parmi les députés ayant voté « Pour » ; l'amendement instaurait un prélèvement annuel plancher de 2 % pour les contribuables dont le patrimoine net dépasse 100 millions d'euros et n'a pas été adopté (35 pour, 68 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "vise à instaurer un prélèvement annuel plancher de 2 % pour les contribuables dont le patrimoine net (actifs moins dettes) est supérieur à 100 millions d’euros",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/471",
+          "note": "Valeur inchangée (+2), source plus récente que celle d'octobre 2025 : il cosigne l'amendement, qui est exactement la mesure de l'affirmation, et a voté « Pour » le 16 octobre 2026, comme aux scrutins n°8859 (amendements n°2566 et identique) et n°8861 (amendement n°38) sur le même impôt plancher."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-10-vote-cehr",
+      "date": "2026-10-15",
+      "title": "Scrutin public n°8799 — amendement n°3189 relevant les taux de la contribution exceptionnelle sur les hauts revenus (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8799",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Pour » l'amendement n°3189 de M. Castellani, qui portait les taux de la contribution exceptionnelle sur les hauts revenus (CEHR) de 3 % à 3,5 % et de 4 % à 5 % ; amendement non adopté (47 pour, 72 contre). Il a aussi voté « Pour » les amendements n°2517 et n°448 relevant davantage ces taux (scrutins n°8797 et n°8798).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-10",
+          "value": 1,
+          "quote": "Dans un double objectif de justice fiscale et d’amélioration du rendement, le présent amendement propose de relever les taux applicables aux deux tranches de la CEHR.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3189",
+          "inferred": true,
+          "note": "Position déduite d'une mesure voisine : la CEHR, que l'exposé du même amendement décrit comme « fonctionnant comme une tranche additionnelle du barème de l’impôt sur le revenu », frappe les revenus supérieurs à 250 000 €, et voter la hausse de ses taux (ici et aux scrutins n°8797 et n°8798) va vers une imposition plus progressive des hauts revenus, sans création de tranche nouvelle du barème, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "guedj-2026-10-secu-integrale",
       "date": "2026-10-06",
       "title": "« Vite la Sécurité sociale intégrale ! » : ma proposition pour une Sécurité sociale intégrale",

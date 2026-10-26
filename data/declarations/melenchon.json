@@ -2,6 +2,29 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-10-mediapart",
+      "date": "2026-10-25",
+      "title": "« Le pouvoir n’aura qu’un seul choix, accepter les revendications ou s’en aller » – Entretien avec Mediapart",
+      "sourceType": "interview",
+      "sourceUrl": "https://melenchon.fr/2026/10/25/le-pouvoir-naura-quun-seul-choix-accepter-les-revendications-ou-sen-aller-entretien-avec-mediapart/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr), entretien paru dans Mediapart le 23 octobre 2026",
+      "summary": "Entretien paru dans Mediapart le 23 octobre 2026 et republié sur le blog de Jean-Luc Mélenchon le 25 octobre 2026. Il y commente la mobilisation de la jeunesse et contre la vie chère ainsi que la réponse policière du gouvernement, et présente la 6e République et la Constituante comme issue à la « crise de régime ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": 2,
+          "quote": "Parce qu’au bout de la crise de régime, nous avons une solution pacifique et positive. Je la résume : la 6ème République et la Constituante.",
+          "note": "Il cite explicitement la 6e République et la Constituante comme solution à la crise de régime. Même valeur que la source actuelle (AEC 2025)."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-10-contre-budget",
       "date": "2026-10-14",
       "title": "Comment nous allons remettre de l’ordre dans les comptes publics",

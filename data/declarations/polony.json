@@ -2,6 +2,138 @@
   "candidateId": "polony",
   "declarations": [
     {
+      "id": "polony-2026-10-projet",
+      "date": "2026-10-26",
+      "title": "« Notre projet, douze chantiers pour la France » (page du site de campagne)",
+      "sourceType": "programme",
+      "sourceUrl": "https://natachapolony2027.fr/projet",
+      "publisher": "Natacha Polony 2027 (natachapolony2027.fr)",
+      "summary": "Page « Notre projet » du site de campagne, qui présente douze chantiers : infrastructures, industrie et numérique, agriculture, santé, école, immigration, sécurité, question sociale, défense et diplomatie, égalité, enfants, démocratie. La page n'est pas datée : la date retenue est celle de la consultation, le 2026-10-26 (le plan du site indique une mise à jour le 2026-10-22).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Par la planification, nous construirons une capacité électrique majoritairement nucléaire capable de supporter l'électrification générale des usages",
+          "inferred": true,
+          "note": "Position déduite. Remplace le −1 déduit du texte du 22 juin 2026 : le projet prévoit de construire une capacité électrique « majoritairement nucléaire », ce qui exclut une sortie progressive du nucléaire ; la sortie n'est pas évoquée en tant que telle."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "une nouvelle révolution industrielle autour des filières stratégiques, notamment l'IA et la robotique, grâce à un protectionnisme raisonné, une loi de programmation et une politique fiscale réservant les avantages à l'investissement dans la production en France.",
+          "note": "Même valeur que la page « Ma vision » : la protection commerciale est désormais nommée (« protectionnisme raisonné ») et les avantages fiscaux sont réservés à l'investissement productif en France, mais l'industrie doit être « financée par l'épargne française » et le coût n'est pas évoqué, d'où +1. (Force ramenée de 2 à 1 en relecture.)"
+        },
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Pour faire revivre l'agriculture française, nous établirons, dans une loi de programmation, des prix planchers",
+          "note": "Prix planchers agricoles inscrits dans une loi de programmation."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "nous établirons, dans une loi de programmation, des prix planchers, interdirons l'importation de produits étrangers ne respectant pas nos normes",
+          "inferred": true,
+          "note": "Position déduite : elle propose d'interdire l'importation des produits étrangers qui ne respectent pas les normes françaises, mesure unilatérale qui poursuit le même objectif que des clauses miroirs strictes ; les accords commerciaux ne sont pas mentionnés."
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "nous augmenterons les places dans les facultés de médecine et favoriserons les voies d'accès interne",
+          "note": "Hausse des places en faculté de médecine, sans ampleur précisée ; la sélectivité et les formations paramédicales ne sont pas évoquées."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Nos enseignants doivent être payés à la hauteur de leurs homologues de l'OCDE, et bien formés dans des écoles normales 2.0.",
+          "note": "Elle veut aligner la rémunération des enseignants sur celle de leurs homologues de l'OCDE, sans chiffrer la hausse ni la placer en priorité sur les autres dépenses éducatives."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "il est devenu indispensable de réduire au maximum les flux migratoires entrants qui, dans l'état actuel de la France, fragilisent la cohésion sociale. Pour cela, nous recentrerons l'asile sur son principe, réduirons les droits au séjour et les recours au strict minimum",
+          "note": "Réduction « au maximum » des flux migratoires entrants et des droits au séjour, sous le titre « Faire une pause dans l'immigration » ; les quotas annuels votés par le Parlement ne sont pas mentionnés."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 1,
+          "quote": "Pour cela, nous recentrerons l'asile sur son principe, réduirons les droits au séjour et les recours au strict minimum et profiterons des voies ouvertes par le droit européen.",
+          "inferred": true,
+          "note": "Position déduite : elle propose de réduire « au strict minimum » les droits au séjour, dont relève le regroupement familial ; celui-ci n'est pas nommé."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "il est devenu indispensable de réduire au maximum les flux migratoires entrants qui, dans l'état actuel de la France, fragilisent la cohésion sociale. Pour cela, nous recentrerons l'asile sur son principe",
+          "inferred": true,
+          "note": "Position déduite : elle veut réduire « au maximum » les flux migratoires entrants et recentrer l'asile « sur son principe », ce qui s'oppose à un accueil accru de réfugiés ; les voies d'accès légales ne sont pas abordées."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "une politique pénale différenciée doit éviter la récidive chez les primo-délinquants grâce à des courtes peines dans des prisons spécifiquement créées",
+          "note": "Création de prisons destinées aux courtes peines des primo-délinquants, sans nombre de places (l'affirmation vise au moins 20 000 places)."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 1,
+          "quote": "une politique pénale différenciée doit éviter la récidive chez les primo-délinquants grâce à des courtes peines dans des prisons spécifiquement créées",
+          "inferred": true,
+          "note": "Position déduite : elle propose que les primo-délinquants purgent de courtes peines dans des prisons créées à cet effet ; l'aménagement des peines de moins d'un an n'est pas évoqué."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "la justice doit se voir dotée de moyens en ligne avec les autres pays de l'OCDE",
+          "note": "Moyens de la justice à porter au niveau de ceux des autres pays de l'OCDE, sans engagement chiffré de doublement du budget en cinq ans."
+        },
+        {
+          "questionId": "log-01",
+          "value": 1,
+          "quote": "nous contrôlerons l'évolution des loyers du parc privé",
+          "inferred": true,
+          "note": "Position déduite : elle propose de contrôler l'évolution des loyers de l'ensemble du parc privé, sans préciser le mécanisme ni le limiter aux zones tendues."
+        },
+        {
+          "questionId": "soc-04",
+          "value": -1,
+          "quote": "désindexerons progressivement les pensions les plus élevées",
+          "note": "Elle propose de désindexer progressivement les pensions les plus élevées, ce qui écarte pour celles-ci une revalorisation au niveau de l'inflation ; les minima sociaux et les autres pensions ne sont pas évoqués."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "nous rétablirons la justice fiscale en augmentant le nombre de tranches de l'impôt sur le revenu",
+          "note": "Hausse du nombre de tranches de l'impôt sur le revenu, présentée comme un moyen de « rétablir la justice fiscale » ; les seuils des nouvelles tranches ne sont pas chiffrés."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "Nous élargirons le champ du référendum prévu à l'article 11, afin de pouvoir ensuite rendre à la Ve République son ancien esprit",
+          "note": "Elle propose d'élargir le champ du référendum de l'article 11 pour réformer ensuite les institutions ; le texte ne dit pas que l'élargissement porterait sur les questions de société."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "rendre à la Ve République son ancien esprit : affirmation des principes constitutifs de l'identité constitutionnelle française pour défendre les intérêts vitaux de la Nation, réduction des pouvoirs du Conseil constitutionnel, référendum d'initiative citoyenne régulier.",
+          "note": "Le « référendum d'initiative citoyenne régulier » fait partie des réformes institutionnelles proposées dans le chantier « démocratie »."
+        },
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "Reconquérir la démocratie et le pouvoir d'agir dans une Ve République revivifiée",
+          "inferred": true,
+          "note": "Position déduite : le chantier vise une « Ve République revivifiée » et propose de « rendre à la Ve République son ancien esprit » ; une VIe République ou une assemblée constituante ne sont pas évoquées."
+        }
+      ]
+    },
+    {
       "id": "polony-2026-10-vision",
       "date": "2026-10-19",
       "title": "« Ma vision pour la France » (page du site de campagne)",

@@ -2,6 +2,101 @@
   "candidateId": "becht",
   "declarations": [
     {
+      "id": "becht-2026-10-livre-partie-7",
+      "date": "2026-10-26",
+      "title": "Le Projet France (livre), partie 7 : « Un nouveau modèle de sécurité »",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-7/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Septième partie du livre-programme « Le Projet France », publiée en feuilleton sur le site de campagne et consacrée à un « plan 100 % sécurité » : polices municipales renforcées, réforme des peines et des remises de peine, refonte du code de l'entrée et du séjour avec contingents fixés par le Parlement, demandes d'asile déposées dans des centres à l'étranger, encadrement des cultes et interdiction des financements étrangers, lutte contre le narcotrafic, renforcement des armées et engagement citoyen de 10 mois. Page non datée : « Disponible le 26 octobre » selon le calendrier du livre sur becht2027.fr (copie web.archive.org du 14 octobre 2026), date confirmée par la date de modification donnée par l'API du site (2026-10-26).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Le code de l’entrée et du séjour sera entièrement remanié, et le nombre de titres ramené à cinq catégories. Les étudiants, dont le contingent annuel sera fixé par le Parlement",
+          "note": "Mesure partielle : le Parlement fixerait un contingent annuel d'étudiants et un nombre annuel d'éligibles à l'asile, le regroupement familial serait limité et il s'agit de « mettre fin à l'immigration subie », mais les travailleurs seraient admis « selon les besoins du marché » et aucune réduction globale chiffrée n'est annoncée, d'où +1."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Les titres de vie familiale seront encadrés, le regroupement familial limité hors Union européenne.",
+          "note": "Limitation explicite du regroupement familial pour les ressortissants de pays hors de l'Union européenne."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "La France resserrera ses critères et fixera chaque année au Parlement un nombre limité d’éligibles.",
+          "note": "Le texte prévoit de resserrer les critères de l'asile, de fixer chaque année au Parlement un nombre limité d'éligibles et de limiter l'asile dans le temps ; la seule voie d'accès évoquée est le dépôt des demandes dans des centres à l'étranger, d'où −1."
+        },
+        {
+          "questionId": "imm-07",
+          "value": 1,
+          "quote": "Toute demande devra d’abord être déposée dans un centre à l’étranger, recours compris ; et les personnes déjà présentes ou se présentant à la frontière ne verront leur demande instruite que dans des centres fermés, logées et nourries, pour éviter les campements indignes.",
+          "note": "Mesure partielle : toute demande serait d'abord déposée, recours compris, dans un centre « à l'étranger », sans précision sur sa situation hors de l'Union européenne, tandis que les demandes des personnes déjà présentes ou se présentant à la frontière seraient instruites dans des centres fermés, d'où +1."
+        },
+        {
+          "questionId": "imm-09",
+          "value": 2,
+          "quote": "Les étudiants, dont le contingent annuel sera fixé par le Parlement, garderont leur titre en cas de réussite, avec le retour au pays en cas d’échec et un titre permanent à l’issue d’un cursus réussi.",
+          "inferred": true,
+          "note": "Déduit : les étudiants étrangers ayant réussi leur cursus obtiendraient un titre permanent, ce qui leur permettrait de rester en France ; le droit de travailler n'est pas mentionné expressément, et le contingent annuel d'étudiants admis serait fixé par le Parlement."
+        },
+        {
+          "questionId": "lib-07",
+          "value": 2,
+          "quote": "Leur financement et celui des lieux de culte passeront par une contribution des fidèles, déductible sous plafond. Les collectivités pourront mettre des locaux à disposition et contrôleront la propriété des lieux de culte. Tout financement venu de l’étranger sera strictement interdit.",
+          "note": "Interdiction explicite de tout financement venu de l'étranger, y compris celui des États, pour les ministres du culte et les lieux de culte."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Nous augmenterons les places de prison de haute sécurité pour mettre hors d’état de nuire à la société : terroristes, meurtriers, violeurs, pédophiles, narcotrafiquants.",
+          "note": "Même valeur que la page « La sécurité » : davantage de places en prisons de haute sécurité et construction accélérée de petites prisons modulaires, sans objectif chiffré (l'affirmation vise au moins 20 000 places), d'où +1."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Nous renforcerons les juridictions interrégionales spécialisées, déployées dans chaque cour d’appel avec des groupes interministériels de recherche musclés pour les enquêtes financières, afin de couper l’argent des trafiquants",
+          "note": "Remplace +1 du vote du 29 avril 2025 (scrutin n°1473) : le chapitre « Livrer une guerre sans merci au narcotrafic » propose explicitement des moyens répressifs (renseignement, juridictions spécialisées, unités équipées de véhicules blindés, places de prison de haute sécurité pour les narcotrafiquants), le volet demande passant par la « justice résolutive »."
+        },
+        {
+          "questionId": "edu-06",
+          "value": 1,
+          "quote": "chaque Français consacrera, au cours de sa vie active, 10 mois à la protection de la Nation, d’un bloc au sein des armées ou par séquences aux côtés de la gendarmerie, de la police, des pompiers ou de la sécurité civile.",
+          "note": "Même valeur que le rapport d'août 2026, mais la source est plus précise : un « engagement citoyen » de 10 mois concernerait chaque Français, militaire ou civil, mais « au cours de sa vie active » et non spécifiquement pour les jeunes ; le mot « obligatoire » n'apparaît pas, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-livre-partie-6",
+      "date": "2026-10-22",
+      "title": "Le Projet France (livre), partie 6 : « Un nouveau modèle de santé »",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-6/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Sixième partie du livre-programme « Le Projet France », publiée en feuilleton sur le site de campagne : secrétariat d'État à la santé publique, suppression des agences régionales de santé, prévention, délais d'accès aux soins, hausse de 20 % des quotas d'étudiants en santé, dossier médical partagé intégré à la carte d'identité numérique contre la fraude, pharmacien traitant, fin de la tarification à l'activité et 20 milliards pour la recherche en santé. Page non datée : « Disponible le 22 octobre » selon le calendrier du livre sur becht2027.fr (copie web.archive.org du 14 octobre 2026), date confirmée par la date de modification donnée par l'API du site (2026-10-22).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "il faudra encore augmenter de 20 % les quotas d’étudiants en santé, et cesser d’envoyer les nôtres étudier en Roumanie faute de places en France.",
+          "note": "Même valeur que la page « La santé », mais la source est plus précise : la hausse des quotas d'étudiants en santé est chiffrée à 20 % ; la sélectivité n'est pas abordée, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "becht-2026-10-livre-partie-5",
       "date": "2026-10-19",
       "title": "Le Projet France (livre), partie 5 : « Un nouveau modèle social »",

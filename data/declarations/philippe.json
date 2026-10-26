@@ -2,6 +2,53 @@
   "candidateId": "philippe",
   "declarations": [
     {
+      "id": "philippe-2026-10-ecole-questions-reponses",
+      "date": "2026-10-23",
+      "title": "L'école : vos questions, les réponses d'Édouard Philippe",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page de questions-réponses sur l'école publiée sur le site de campagne après la réunion d'appartement du 15 octobre 2026. Elle porte notamment sur les savoirs fondamentaux, le soutien scolaire universel, une hausse de 20 % de la rémunération des enseignants, l'autonomie des établissements, l'interdiction du téléphone de l'école au lycée et celle des réseaux sociaux avant 15 ans. La page n'est pas datée : la date retenue est celle de l'actualité du site qui l'annonce (23 octobre 2026), qui correspond aussi à sa date de modification dans le sitemap.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "Faut-il interdire le téléphone portable à l'école ? Oui, strictement, à l'école primaire, au collège et au lycée : un téléphone sorti en classe ou dans la cour sera confisqué et rendu aux parents.",
+          "note": "Interdiction stricte du téléphone portable étendue au lycée, avec confiscation."
+        },
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Édouard Philippe est favorable à l'interdiction des réseaux sociaux aux moins de 15 ans. Cette loi a été censurée par le Conseil constitutionnel pour des raisons de rédaction, pas de principe.",
+          "note": "Remplace la valeur +1 (déduite) tirée du discours de l'Adidas Arena du 5 juillet 2026, qui ne citait pas de seuil d'âge. Il soutient désormais explicitement l'interdiction avant 15 ans et propose de réécrire le texte, au besoin par référendum."
+        },
+        {
+          "questionId": "edu-03",
+          "value": -2,
+          "quote": "Faut-il des classes ou des groupes de niveau ? Pas des groupes de niveau : des réponses sur mesure. L'autonomie qu'Édouard Philippe souhaite donner aux établissements leur permettra d'ajouter des heures de français dans une classe, de maths dans une autre",
+          "note": "Il rejette explicitement les groupes de niveau. À la place, les établissements autonomes ajouteraient des heures et organiseraient de petits groupes pour les élèves qui en ont besoin, en plus des cours."
+        },
+        {
+          "questionId": "edu-01",
+          "value": -1,
+          "quote": "Êtes-vous favorable à l'uniforme ? La décision appartiendra à chaque établissement : c'est exactement le type de choix qui doit se faire sur le terrain, avec les équipes et les parents, pas depuis Paris.",
+          "note": "Même valeur que dans le discours de l'Adidas Arena. Chaque établissement choisit, ce qui exclut une généralisation nationale sans rejeter l'uniforme lui-même."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "D'abord par le salaire : une hausse de 20 % de la rémunération moyenne sur le quinquennat, soit près de 7 000 euros annuels de plus à la fin du quinquennat par rapport à aujourd'hui, pour atteindre au moins la moyenne européenne",
+          "note": "Même valeur que la page programme « Pour une France plus attentive à ses enfants ». La revalorisation est désormais chiffrée (+20 % de la rémunération moyenne) et présentée comme financée par la baisse démographique."
+        }
+      ]
+    },
+    {
       "id": "philippe-2026-10-heure-verite",
       "date": "2026-10-08",
       "title": "Trois principales annonces d'Édouard Philippe à l'Heure de vérité",

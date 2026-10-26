@@ -2,6 +2,48 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
+      "id": "dupont-aignan-2026-10-communique-20-mesures",
+      "date": "2026-10-20",
+      "title": "Communiqué de presse : 20 mesures chocs pour rétablir l’ordre et défendre la justice sociale.",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
+      "publisher": "Nicolas Dupont-Aignan (site de campagne dupontaignan.fr)",
+      "summary": "Communiqué publié le 20 octobre 2026 sur le site de campagne, à la suite d'un déplacement de Nicolas Dupont-Aignan à Limoges. Devant l'hôtel de ville, il a présenté 20 propositions sous forme de liste d'intitulés : 10 mesures « pour rétablir l'ordre » et 10 mesures « pour défendre la justice sociale ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "Construction de 40 000 places de prison",
+          "note": "Même mesure que la page Sécurité du projet (version du 16/02/2026) : 40 000 places nouvelles, soit au-delà du seuil de 20 000 de l'affirmation."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "Baisse de la majorité pénale à 16 ans",
+          "inferred": true,
+          "note": "Même formulation que la page Justice du projet (version du 10/06/2026) : avec une majorité pénale à 16 ans, les 16-18 ans ne relèvent plus du régime d'atténuation de responsabilité des mineurs."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Fin du droit du sol",
+          "note": "Même mesure que la page Immigration et assimilation du projet (version du 03/03/2026), qui précisait la voie du référendum."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Réduction de 50 % du prix de l’électricité par la sortie du marché européen",
+          "note": "Même mesure que la page Économie du projet (version du 10/10/2026) : sortie du marché européen de l'électricité pour diviser son prix par deux."
+        }
+      ]
+    },
+    {
       "id": "dupont-aignan-2026-10-brochure-produire-en-france",
       "date": "2026-10-13",
       "title": "Produire en France : osons le protectionnisme intelligent ! (brochure PDF du projet de Debout la France, 13 octobre 2026)",
