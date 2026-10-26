@@ -2,6 +2,184 @@
   "candidateId": "philippe",
   "declarations": [
     {
+      "id": "philippe-2026-10-priorites-conquerante",
+      "date": "2026-10-14",
+      "title": "Pour une France plus conquérante (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus conquérante ». Elle comprend : infrastructure d'IA européenne souveraine ; relance du nucléaire avec 8 EPR supplémentaires en plus des 6 prévus ; développement des renouvelables ; prix du carbone aux frontières européennes ; adaptation au changement climatique ; accélération du stockage de l'eau agricole. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
+          "note": "Remplace +1 de la version antérieure de la page, qui affirmait la relance du nucléaire sans chiffrage : 8 EPR supplémentaires sont désormais proposés en plus des 6 déjà prévus."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
+          "inferred": true,
+          "note": "Même valeur : la sortie du nucléaire n'est pas discutée en tant que telle, mais la relance avec 8 EPR supplémentaires l'exclut sans ambiguïté."
+        },
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
+          "inferred": true,
+          "note": "Même valeur : le développement des renouvelables est revendiqué et aucun moratoire éolien n'est envisagé."
+        },
+        {
+          "questionId": "env-13",
+          "value": 1,
+          "quote": "Accélérer le stockage de l'eau agricole en plaçant « la protection avant la procédure », et atteindre 10 % de réutilisation des eaux usées traitées pour les usages non potables, contre moins de 1 % aujourd'hui.",
+          "inferred": true,
+          "note": "Il veut accélérer le stockage de l'eau agricole en faisant passer la protection avant la procédure ; les grandes retenues (« mégabassines ») ne sont pas nommées, d'où +1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-priorites-enfants",
+      "date": "2026-10-14",
+      "title": "Pour une France plus attentive à ses enfants (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus attentive à ses enfants ». Elle comprend : protection de l'enfance ; autonomie des chefs d'établissement ; hausse de 20 % de la rémunération moyenne des enseignants sur le quinquennat ; interdiction du téléphone à l'école primaire et au collège ; allocation familiale unique de 350 € dès le premier enfant, dégressive avec le revenu ; suppression de l'impôt sur le revenu des classes moyennes pendant les trois premières années de l'enfant. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-01",
+          "value": -1,
+          "quote": "Créer une allocation familiale unique dès le premier enfant, à hauteur de 350€, en fusionnant les dispositifs existants trop complexes et trop éparpillés, dégressive avec le revenu.",
+          "inferred": true,
+          "note": "L'allocation familiale unique proposée serait dégressive avec le revenu, donc fonction des ressources ; le texte ne dit pas si les foyers les plus aisés en seraient exclus, d'où −1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-priorites-prospere",
+      "date": "2026-10-14",
+      "title": "Pour une France plus prospère (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus prospère ». Elle comprend : temps de travail fixé librement par les entreprises avec zéro cotisation patronale au-delà de la 37e heure ; exonération de cotisations sociales et d'impôt sur le revenu des heures travaillées en plus lorsqu'une entreprise allonge sa durée du travail ; âge de départ porté progressivement à 65 ans et durée de cotisation à 45 ans ; généralisation de la retraite par capitalisation collective ; indemnisation chômage limitée à 12 mois pour les moins de 50 ans ; effort sur les dépenses publiques portant pour moitié sur les dépenses sociales ; déficit ramené à 2 % du PIB en fin de quinquennat. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "quote": "Sauver nos retraites sans hausse des cotisations ni baisse générale des pensions : porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, pour ceux qui le peuvent.",
+          "note": "Même valeur que le discours de l'Adidas Arena, désormais chiffrée : âge de départ à 65 ans et 45 ans de cotisation ; la même page maintient des départs avant 65 ans pour « un Français sur trois »."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "Réduire à 12 mois maximum la durée d'indemnisation chômage pour les moins de 50 ans, contre 18 mois aujourd'hui, sur le modèle allemand.",
+          "note": "Réduction explicite de la durée maximale d'indemnisation, de 18 à 12 mois, pour les demandeurs d'emploi de moins de 50 ans."
+        },
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "quote": "Permettre aux entreprises de fixer librement le temps de travail pour sortir des 35h, de la manière la plus adaptée à leur activité, avec zéro cotisation patronale au-delà de la 37ème heure.",
+          "note": "Même valeur que l'annonce de L'Heure de vérité (8 octobre 2026), désormais inscrite au programme avec la sortie des 35 heures et zéro cotisation patronale au-delà de la 37e heure."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "Faire que le travail supplémentaire paie : lorsqu'une entreprise décide, après discussion interne, de travailler plus longtemps, exonérer ces heures de cotisations sociales et d'impôt sur le revenu, soit environ 1 000 € de plus par an au SMIC pour deux heures de plus par semaine.",
+          "inferred": true,
+          "note": "Même valeur : l'exonération de cotisations et d'impôt sur le revenu vise les heures en plus quand l'entreprise allonge sa durée du travail, pas les heures supplémentaires en général ; la même page ne supprime la cotisation patronale qu'au-delà de la 37e heure."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Généraliser à tous les salariés la retraite par capitalisation collective, qui existe déjà pour les fonctionnaires, et ouvrir un plan d'épargne retraite à chaque Français, avec un premier versement de l'État de 500€ dès le premier emploi.",
+          "note": "Même valeur ; le « pilier de capitalisation à 10-15 % des pensions » de la version antérieure a disparu de la page, remplacé par la généralisation de la capitalisation collective."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Mettre en place une stratégie de sauvetage des dépenses publiques avec 50 % de l'effort sur les dépenses sociales et un quart sur l'État et les collectivités et un quart grâce à la croissance.",
+          "note": "Même valeur que le discours de l'Adidas Arena, désormais chiffrée : trois quarts de l'effort par la dépense ; la même page vise un déficit de 2 % du PIB en fin de quinquennat et exclut tout nouvel impôt."
+        },
+        {
+          "questionId": "eur-09",
+          "value": -2,
+          "quote": "Inscrire dans la Constitution une règle d'or de maîtrise des déficits via un référendum, et ramener le déficit de plus de 5% à 2% du PIB à la fin du quinquennat.",
+          "inferred": true,
+          "note": "Même valeur : il vise un déficit inférieur au plafond européen et une règle d'or constitutionnelle, désormais par référendum ; s'affranchir des règles budgétaires européennes est l'inverse de sa proposition."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-priorites-sure",
+      "date": "2026-10-14",
+      "title": "Pour une France plus sûre (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus sûre ». Elle comprend : courtes peines dès la première infraction ; suppression du juge d'application des peines ; plan contre le narcotrafic ; objectif de diviser l'immigration par deux ; suspension du regroupement familial pour la durée du quinquennat ; fin de l'asile à vie ; suspension du droit du sol à Mayotte ; massification des armées. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Suspendre le regroupement familial pour la durée du quinquennat.",
+          "note": "Même valeur ; la mesure passe de « Restreindre l'immigration familiale » à une suspension du regroupement familial pour toute la durée du quinquennat."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 1,
+          "quote": "Suspendre le droit du sol à Mayotte.",
+          "note": "Suspension du droit du sol limitée à Mayotte ; rien sur le droit du sol dans le reste du pays, d'où +1."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "Mettre fin au dévoiement de l'asile en faisant voter chaque année par le Parlement une liste de pays sûrs et en mettant fin à l’asile à vie.",
+          "inferred": true,
+          "note": "Même valeur : liste de pays sûrs, fin de l'asile à vie, suspension des nouvelles demandes à Mayotte et en Guyane. Aucune voie d'accès légale supplémentaire n'est proposée."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Mettre en place des courtes peines, en s'inspirant des pays du Nord qui condamnent dès la première infraction à une peine courte et dissuasive plutôt que d'enfermer trop tard et trop longtemps.",
+          "inferred": true,
+          "note": "Même valeur ; la même page propose de « Supprimer le juge d'application des peines afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui »."
+        },
+        {
+          "questionId": "sec-13",
+          "value": 2,
+          "quote": "Être intraitable avec les consommateurs : opérations « place nette » dans les boîtes de nuit et festivals, recouvrement forcé des amendes, y compris sur les prestations sociales.",
+          "note": "Même valeur ; même mesure que dans la version antérieure de la page, seule la typographie des guillemets ayant changé."
+        }
+      ]
+    },
+    {
       "id": "philippe-2026-10-ecole-questions-reponses",
       "date": "2026-10-23",
       "title": "L'école : vos questions, les réponses d'Édouard Philippe",
