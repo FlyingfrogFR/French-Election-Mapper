@@ -2,6 +2,81 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-10-tract-5-novembre",
+      "date": "2026-10-21",
+      "title": "Tract « La colère est légitime. La réponse doit être sociale » (mobilisation du 5 novembre 2026)",
+      "sourceType": "autre",
+      "sourceUrl": "https://po.pcf.fr/wp-content/uploads/sites/40/2026/10/tract_5novembre2026.pdf",
+      "publisher": "Parti communiste français (tract national portant le nom de Fabien Roussel et l'adresse fabienroussel2027.fr), mis en ligne par la fédération des Pyrénées-Orientales (po.pcf.fr)",
+      "summary": "Tract national du PCF au nom de Fabien Roussel, créé et mis en ligne le 21 octobre 2026, qui appelle à la journée de mobilisation du 5 novembre. Il cite Fabien Roussel, qui demande une conférence sociale associant les organisations de jeunesse et une commission d'enquête parlementaire sur les violences et le maintien de l'ordre. Il présente les propositions des communistes : blocage des prix des carburants et des produits essentiels, nationalisation de TotalEnergies et d'Engie, SMIC à 2 200 € brut, plan d'urgence pour les lycées et abrogation de Parcoursup, 200 000 emplois.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Le blocage des carburants à 1,60€ le litre et des prix des produits essentiels",
+          "page": "2",
+          "note": "Remplace +1 déduit du communiqué du 18 septembre 2026 (repris le 18 octobre 2026), qui ne visait que les carburants. Le tract propose explicitement de bloquer aussi les prix des produits essentiels, sans préciser la durée du blocage."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "la nationalisation de TotalEnergies et d’Engie aux côtés d’EDF",
+          "page": "2",
+          "note": "Tract national du PCF au nom de son candidat désigné, qui propose de nationaliser TotalEnergies et Engie aux côtés d'EDF. C'est aussi précis pour l'énergie que le tract climat du 5 octobre 2026 : la valeur (+2) ne change pas."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "L’augmentation des salaires et des pensions, en commençant par porter le SMIC à 2 200 € brut.",
+          "page": "2",
+          "note": "Le tract propose de porter le SMIC à 2 200 € brut, aussi précis que le communiqué du 18 septembre 2026 : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-10-communique-macron",
+      "date": "2026-10-18",
+      "title": "« Déclaration d'Emmanuel Macron : aucune réponse aux attentes du pays pour continuer à servir les profits »",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.pcf74.fr/2026/10/declaration-d-emmanuel-macron-aucune-reponse-aux-attentes-du-pays-pour-continuer-a-servir-les-profits.html",
+      "publisher": "Parti communiste français (communiqué national daté « Paris, le 18 octobre 2026 »), republié par la fédération de Haute-Savoie (pcf74.fr)",
+      "summary": "Communiqué national du PCF publié après la déclaration d'Emmanuel Macron qui a suivi les manifestations du 17 octobre 2026. Il demande la hausse des salaires et des pensions, le blocage du prix du carburant à 1,60 € le litre, TotalEnergies et Engie publics aux côtés d'EDF et la garantie du droit de manifester. Il rappelle aussi la conférence sociale proposée par Fabien Roussel.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Reprenons la maîtrise de l'énergie avec TotalEnergies et Engie publics aux côtés d'EDF.",
+          "note": "Communiqué national du PCF, qui nomme son candidat désigné Fabien Roussel. Il demande TotalEnergies et Engie publics aux côtés d'EDF. C'est aussi précis pour l'énergie que le tract climat du 5 octobre 2026 : la valeur (+2) ne change pas."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "L'heure est à augmenter les salaires et les pensions, bloquer le prix du carburant à 1,60 € le litre",
+          "inferred": true,
+          "note": "Le communiqué demande de bloquer le prix du carburant à 1,60 € le litre. La mesure ne vise que le carburant, d'où +1 déduit pour l'affirmation générale sur les produits de première nécessité, comme dans le communiqué du 18 septembre 2026 : la valeur ne change pas."
+        },
+        {
+          "questionId": "lib-11",
+          "value": 2,
+          "quote": "Manifester et faire grève font partie de la démocratie. Le gouvernement doit garantir le droit constitutionnel de manifester. Les violences, destructions de lieux publics et de commerces ne sauraient priver des centaines de milliers de personnes de leurs droits.",
+          "inferred": true,
+          "note": "Le communiqué rejette l'interdiction des rassemblements après les violences du 17 octobre (« Interdire des rassemblements […] ne répond à rien ») et demande que le droit de manifester soit garanti malgré ces violences. La primauté de la liberté de manifester sur la réponse sécuritaire s'en déduit, d'où +2 déduit, la même valeur que le programme de 2023."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-10-tract-17-octobre",
       "date": "2026-10-16",
       "title": "Tract national du PCF pour les mobilisations du 17 octobre et du 5 novembre 2026",

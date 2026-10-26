@@ -2,6 +2,71 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-10-plan-redressement",
+      "date": "2026-10-21",
+      "title": "Plan de redressement : répondre aux urgences de l'été et retrouver les moyens d'agir",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/plan-de-redressement/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Plan de la campagne « Nous Président ! » sur les finances publiques et l'adaptation au climat. Il prévoit 22 Md€ d'économies (crédit d'impôt recherche, aides aux entreprises dont les allègements de cotisations, apprentissage dans le supérieur, produits de santé) et des recettes nouvelles (taxe Zucman, réforme des grandes successions, dividende climatique de 2 %). Il finance des dépenses pour la rénovation des bâtiments, la sécurité civile, la gestion publique des forêts et un leasing social public de voitures électriques.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-13",
+          "value": -2,
+          "quote": "nous proposons de mieux lisser les réductions de cotisations patronales et les geler à leur niveau actuel",
+          "note": "Remplace le −1 du cahier industrie (2026-10-15), qui proposait seulement de lisser les réductions. Le plan y ajoute un gel des allègements de cotisations patronales à leur niveau de 2026 (au moins 5 Md€ d'économies dès 2027), avec des réductions « un peu moins fortes à proximité du Smic » : toute baisse supplémentaire est donc écartée explicitement."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "nous proposons de mettre en place ce dividende à hauteur à 2 % pour toutes les entreprises",
+          "note": "Proposition 3 « Augmenter l'imposition des dividendes » : dividende climatique de 2 % pour toutes les entreprises, chiffré à 6 Md€. Le cahier 4 retenait 4 % au-delà de 10 M€ de dividendes et 2 % en dessous. La valeur ne change pas."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "refondre l'assiette et le barème des droits de succession avec une progressivité renforcée pour le top 1 %. L'abattement passerait de 100 000 à 200 000 €",
+          "note": "Proposition 2 : droits plus élevés pour le 1 % des plus grandes successions (taux marginal de 50 % au-delà de 6 M€, avantages de l'assurance-vie et du pacte Dutreil réduits), chiffrés à 20 Md€. L'abattement est en même temps porté à 200 000 €, et la mesure figure sous l'intitulé « impôt continu sur le patrimoine et/ou » réforme des successions. Hausse ciblée, d'où −1."
+        },
+        {
+          "questionId": "edu-07",
+          "value": -1,
+          "quote": "Avec une réduction ciblée d'environ 30% des contrats et les moins efficaces et/ou les plus coûteux et un recentrage sur l'apprentissage dans le secondaire et les BTS, il est possible d'économiser au moins 6 Mds/an de dépenses inutiles",
+          "note": "Le plan propose de réduire les dépenses publiques d'apprentissage d'au moins 6 Md€ par an (sur environ 20 Md€ en 2026), en ciblant les contrats du supérieur et en recentrant les aides sur le secondaire et les BTS. Réduction ciblée sur une partie du dispositif, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "ruffin-2026-10-ppl-3374",
+      "date": "2026-10-20",
+      "title": "Proposition de loi n° 3374 visant à faire contribuer davantage les héritiers les plus fortunés (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3374_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi déposée le 20 octobre 2026 par Tristan Lahais et cosignée par François Ruffin. Elle calcule les droits de mutation à titre gratuit sur l'ensemble des transmissions reçues au cours de la vie, avec un abattement unique de 200 000 € par bénéficiaire, et réintègre l'assurance-vie dans le droit commun des successions. Elle rend le barème plus progressif, jusqu'à 70 % au-delà de 13 M€.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "Il ne s’agit donc pas ici de taxer davantage les transmissions familiales ordinaires. Il s’agit de réintroduire de la progressivité là où les montants transmis deviennent exceptionnels",
+          "page": "4",
+          "note": "Texte cosigné. Il relève les droits sur les plus grandes transmissions (taux marginaux de 50 % à 70 % au-delà de 1,8 M€) et réintègre l'assurance-vie, mais porte l'abattement à 200 000 € pour « protéger les classes populaires, modestes et moyennes ». Hausse ciblée, d'où −1."
+        }
+      ]
+    },
+    {
       "id": "ruffin-2026-10-cahier-industrie",
       "date": "2026-10-15",
       "title": "Pour protéger notre industrie, relocaliser 100 produits stratégiques (cahier de campagne n°7)",

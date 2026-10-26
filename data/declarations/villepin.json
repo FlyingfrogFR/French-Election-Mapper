@@ -2,6 +2,36 @@
   "candidateId": "villepin",
   "declarations": [
     {
+      "id": "villepin-2026-10-paix-civile",
+      "date": "2026-10-21",
+      "title": "Chronique « Appel à la paix civile et sociale »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/articles/appel-paix-civile-sociale.html",
+      "publisher": "La France Humaniste",
+      "summary": "Dans une chronique signée publiée sur le site de La France Humaniste, Dominique de Villepin appelle à des États généraux de la République dans chaque commune. Il propose aux partis et candidat·es une « plateforme commune anticrise » (déficit public sous 3 %, respect de l'État de droit, loi de programmation militaire, maintien dans l'Union européenne) et quatre plans d'urgence : lycées, vie chère, police, patriotisme économique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "S’engager à ne pas sortir de l’Union européenne ni engager de démarches en ce sens pendant le quinquennat.",
+          "note": "Engagement explicite, proposé à tous les candidats dans la « plateforme commune anticrise ». La valeur +2 reste la même ; elle était jusqu'ici déduite de la déclaration villepin-fh-europe du 2026-03-06."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 1,
+          "quote": "Un plan d’aide contre la vie chère , avec l’encadrement des prix des carburants pour qu’ils ne dépassent pas 2,30 euros, ainsi que pour le gaz de chauffage.",
+          "inferred": true,
+          "note": "Mesure partielle : un plafond de prix (2,30 euros) limité aux carburants et au gaz de chauffage, dans un « plan d'urgence » contre la vie chère, et non un blocage général des prix des produits de première nécessité."
+        }
+      ]
+    },
+    {
       "id": "villepin-2026-10-economie",
       "date": "2026-10-19",
       "title": "Projet économique : 20 propositions. Rouvrir les sources de l’abondance",

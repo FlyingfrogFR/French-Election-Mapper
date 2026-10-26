@@ -2,6 +2,53 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-10-breve-encadrement-loyers",
+      "date": "2026-10-26",
+      "title": "Brève « Loyers : Un encadrement au rabais »",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/loyers-encadrement-rabais-209283.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 26/10/2026 sur le portail de Lutte ouvrière. Elle relève que le Sénat a voté la prolongation pour deux ans de l'encadrement des loyers dans les communes où il s'applique déjà. Elle lui reproche de refuser que de nouvelles villes l'adoptent et que les compléments de loyer soient limités, et note que le délai pour contester un loyer dépassant le plafond sera réduit de trois ans à un an.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-01",
+          "value": 1,
+          "quote": "Mais il refuse de permettre à de nouvelles villes de l’adopter et de limiter les compléments de loyer qui permettent aux propriétaires de contourner les plafonds.",
+          "inferred": true,
+          "note": "Texte de parti non signé (Nathalie Arthaud est la candidate désignée de LO) reprochant au Sénat de refuser l'extension de l'encadrement à de nouvelles villes, ce qui marque une orientation favorable à l'extension sans demande explicite de généralisation aux zones tendues (+1 déduit) ; remplace le 0 déduit de la page de 2024, qui jugeait l'efficacité de l'encadrement « bien limitée » sans se prononcer sur son extension."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-10-edito-renforcons-mobilisation",
+      "date": "2026-10-26",
+      "title": "Éditorial « Renforçons la mobilisation ! »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/renforcons-mobilisation-209280.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial hebdomadaire signé Nathalie Arthaud, publié le 26/10/2026 sur le portail de Lutte ouvrière après les manifestations du 24 octobre. Il dénonce les arrestations de manifestants et le racisme. Il qualifie de « provocation » la hausse de 15 euros du Smic que le gouvernement accorderait en anticipant son indexation, et revendique un minimum de 2 200 € net par mois et au moins 300 à 400 euros de plus sur tous les salaires. Il invite à s'emparer de l'appel des confédérations syndicales à une journée de grève le 5 novembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Il l’augmenterait de 15 euros, ce qui serait une provocation, car nous ne demandons pas l’aumône, nous revendiquons notre droit de vivre dignement. Ce qu’il nous faut, c’est un minimum de 2200 € net par mois et au moins 300 à 400 euros de plus sur tous les salaires !",
+          "note": "Le texte qualifie de « provocation » la hausse de 15 euros que le gouvernement accorderait en anticipant l'indexation du Smic et revendique un minimum de 2 200 € net par mois, sans dire si la hausse passerait par une décision de l'État (il appelle à la grève) ; même valeur que l'éditorial du 12/10/2026."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-10-edito-revolte-legitime",
       "date": "2026-10-19",
       "title": "Une révolte légitime à laquelle les travailleurs peuvent donner une direction (éditorial)",

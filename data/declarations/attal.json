@@ -2,6 +2,60 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-10-bfm-ordre",
+      "date": "2026-10-20",
+      "title": "Gabriel Attal appelle à rétablir l’ordre et à mettre fin à l’impunité",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-retablir-ordre-mettre-fin-impunite",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié le 20 octobre 2026 sur le site de campagne, de l'entretien de Gabriel Attal sur BFM TV du 19 octobre. Il y présente cinq mesures immédiates (état d'urgence si nécessaire et couvre-feux locaux, identification et sanction rapide des casseurs y compris repérés par reconnaissance faciale, suspension temporaire et ciblée de réseaux sociaux, mobilisation de militaires et de réservistes, recours aux drones), la reprise de sa réforme de la justice des mineurs et trois priorités jusqu'à 2027.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-07",
+          "value": 1,
+          "quote": "Identifier, interpeller et sanctionner rapidement les casseurs, notamment ceux qui revendiquent leurs actes sur les réseaux sociaux ou qui sont repérés grâce à la reconnaissance faciale.",
+          "inferred": true,
+          "note": "Parmi ses mesures immédiates figure l'identification des casseurs repérés grâce à la reconnaissance faciale, sans autorisation générale formulée de la reconnaissance faciale par vidéosurveillance dans l'espace public, d'où +1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-10-rtl-ordre",
+      "date": "2026-10-19",
+      "title": "Gabriel Attal sur RTL : rétablir l'ordre, répondre à la jeunesse et préparer l'avenir de la France",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-rtl-retablir-ordre-jeunesse-avenir-france",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié le 19 octobre 2026 sur le site de campagne, de l'entretien de Gabriel Attal sur RTL après les violences du week-end. Il y défend des mesures de maintien de l'ordre (perquisitions administratives, assignations à résidence, état d'urgence si nécessaire, reconnaissance faciale et IA pour identifier les pilleurs), un durcissement de la justice des mineurs, la suspension temporaire et ciblée de réseaux sociaux s'il est confirmé qu'ils jouent un rôle dans l'organisation des pillages, et un pacte pour la jeunesse. Il revient aussi sur les finances publiques, une coalition pour 2027 et le soutien à l'Ukraine.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-07",
+          "value": 1,
+          "quote": "utiliser la reconnaissance faciale et l'intelligence artificielle pour identifier les pilleurs et permettre des condamnations rapides",
+          "inferred": true,
+          "note": "Il propose d'utiliser la reconnaissance faciale pour identifier les auteurs de pillages, sans formuler d'autorisation générale de la reconnaissance faciale par vidéosurveillance dans l'espace public, d'où +1 déduit."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 1,
+          "quote": "Il propose la comparution immédiate pour les récidivistes dès 16 ans et la fin de l'excuse de minorité automatique pour les récidivistes.",
+          "note": "Il propose la fin du caractère automatique de l'excuse de minorité pour les seuls récidivistes, et non sa suppression pour tous les 16-18 ans, d'où +1, valeur inchangée par rapport à l'entretien TF1 du 23 mai 2026 (« atténuation de l'excuse de minorité »)."
+        }
+      ]
+    },
+    {
       "id": "attal-2026-10-lettre-finances",
       "date": "2026-10-15",
       "title": "Lettre de Gabriel Attal aux Français sur les finances publiques : « Rétablir nos comptes pour préserver l'avenir de notre jeunesse »",

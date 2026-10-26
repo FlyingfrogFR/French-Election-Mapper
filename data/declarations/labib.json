@@ -2,6 +2,71 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-10-lettre-juvin",
+      "date": "2026-10-26",
+      "title": "Réponse de Selma Labib à Philippe Juvin, rapporteur général de la commission des finances",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-a-philippe-juvin-rapporteur-general-de-la-commission-des-finances",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Lettre signée de Selma Labib, en tant que candidate, au rapporteur général de la commission des finances de l'Assemblée nationale, qui interrogeait les candidat·es sur la dette et le budget. Elle est datée du 19 octobre 2026 dans le PDF et a été publiée sur le site du NPA-R le 26 octobre 2026. Elle y propose l'annulation de la dette, la socialisation des banques et des grandes entreprises, la suppression des allègements de cotisations et des niches fiscales des entreprises et des grandes fortunes, et le remplacement de la TVA et des taxes sur les carburants par un impôt fortement progressif.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "Depuis de nombreuses décennies, la dette sert de prétexte aux coupes budgétaires et aux nombreuses attaques contre les retraites, les allocations chômage, les minima sociaux, les aides au logement et les services publics.",
+          "inferred": true,
+          "note": "Dans cette lettre signée, la candidate répond au rapporteur général qui lui demandait ses objectifs de déficit et de dette. Elle présente la dette comme un « prétexte aux coupes budgétaires », conteste que les dépenses publiques « explosent » et propose l'annulation de la dette, sans fixer d'objectif de déficit. Même valeur que le discours du 15 septembre 2026."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "suppression de la TVA et des taxes sur les carburants, remplacées par un impôt fortement progressif sur les revenus et les bénéfices des grandes entreprises.",
+          "inferred": true,
+          "note": "Propose la « suppression de la TVA et des taxes sur les carburants », ce qui va au-delà d'une baisse à 5,5 %. La phrase ne précise pas si la suppression de la TVA s'applique aussi à l'électricité et au gaz, d'où +1 déduit."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "suppression de la TVA et des taxes sur les carburants, remplacées par un impôt fortement progressif sur les revenus et les bénéfices des grandes entreprises.",
+          "inferred": true,
+          "note": "Propose un impôt « fortement progressif » sur les bénéfices des grandes entreprises et, dans la même liste, la suppression des niches fiscales des entreprises, ce qui exclut une nouvelle baisse de l'impôt sur les sociétés. Les impôts de production ne sont pas nommés. Même valeur que le discours du 15 septembre 2026."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "suppression des allègements de cotisations sociales et autres niches fiscales et sociales pour les entreprises et les grandes fortunes",
+          "note": "Remplace le +1 déduit de l'éditorial non signé du 21 septembre 2026. Dans cette lettre signée, la candidate propose explicitement la « suppression » des niches fiscales et sociales des entreprises et des grandes fortunes. C'est une formulation plus explicite, pas un changement d'avis. Les niches des autres ménages ne sont pas évoquées."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 1,
+          "quote": "suppression de la TVA et des taxes sur les carburants, remplacées par un impôt fortement progressif sur les revenus et les bénéfices des grandes entreprises.",
+          "inferred": true,
+          "note": "Propose de remplacer la TVA et les taxes sur les carburants par un impôt « fortement progressif sur les revenus et les bénéfices des grandes entreprises ». C'est une orientation vers un impôt sur le revenu plus progressif, mais le barème et d'éventuelles tranches supplémentaires ne sont pas précisés, d'où +1 déduit."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -2,
+          "quote": "suppression des allègements de cotisations sociales et autres niches fiscales et sociales pour les entreprises et les grandes fortunes",
+          "inferred": true,
+          "note": "Propose la « suppression des allègements de cotisations sociales », dont elle chiffre plus haut à près de 40 milliards d'euros ceux qui portent sur les salaires inférieurs à 1,6 smic. Cela exclut de les accroître sur les bas salaires. Même valeur que le discours du 15 septembre 2026."
+        },
+        {
+          "questionId": "sec-08",
+          "value": -1,
+          "quote": "Chaque nouvelle baisse des dépenses utiles à la société est systématiquement annulée soit par de nouvelles dépenses dont l’objectif est toujours plus répressif et désastreux pour l’avenir de l’humanité (police, justice, armée)",
+          "inferred": true,
+          "note": "Classe les nouvelles dépenses de « justice », avec celles de la police et de l'armée, parmi les dépenses « toujours plus répressi[ves] et désastreu[ses] » qui annulent les baisses des dépenses utiles. On en déduit une opposition à une forte hausse du budget de la justice. Le doublement de ce budget n'est pas évoqué, d'où −1."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-10-communique-colere",
       "date": "2026-10-19",
       "title": "Communiqué du NPA-Révolutionnaires du 19 octobre 2026 — « Qui sème la misère récolte la colère ! »",

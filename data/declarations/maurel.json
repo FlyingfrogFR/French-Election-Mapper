@@ -2,6 +2,53 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-10-plfss-exonerations",
+      "date": "2026-10-23",
+      "title": "Explication de vote sur la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-23-octobre-2026",
+      "publisher": "Assemblée nationale (compte rendu intégral de la première séance du vendredi 23 octobre 2026)",
+      "summary": "Emmanuel Maurel remplace Yannick Monnet pour l'explication de vote du groupe GDR sur la deuxième partie du PLFSS 2027 et déclare que le groupe ne peut pas voter pour ce budget. Il estime qu'il faut trouver de nouvelles recettes pour la sécurité sociale en commençant par réduire les exonérations de cotisations sociales qu'il juge « injustifiées » et « trop importantes », et il conteste l'argument du coût du travail.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "il fallait commencer par s’attaquer à ce chantier colossal des exonérations de cotisations sociales injustifiées. (Mme Dominique Voynet applaudit.) Elles sont trop importantes. Il fallait les réduire.",
+          "inferred": true,
+          "note": "Position déduite d'une explication de vote prononcée pour le groupe GDR. Il demande de réduire les exonérations de cotisations sociales, qu'il juge « trop importantes », et répond à l'argument du coût du travail que « le travail a un prix ». Cela va contre de nouvelles baisses de cotisations patronales sur les bas salaires, mais la mesure exacte n'est pas nommée, d'où −1. Même valeur que le programme du 18 septembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-cpeb-impot-societes",
+      "date": "2026-10-19",
+      "title": "Intervention sur l'article 37 du projet de loi de finances pour 2027 (contribution progressive à l'effort budgétaire des collectivités)",
+      "sourceType": "discours",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-lundi-19-octobre-2026",
+      "publisher": "Assemblée nationale (compte rendu intégral de la deuxième séance du lundi 19 octobre 2026)",
+      "summary": "Emmanuel Maurel demande la suppression de l'article 37 du PLF 2027, qui institue une contribution progressive à l'effort budgétaire de 2,5 milliards d'euros à la charge des collectivités. Il présente comme solution de rechange le « rabais sur l'impôt sur les sociétés » accordé aux multinationales, dont il dit qu'il correspond exactement à ce montant. Il a voté pour les amendements de suppression de l'article (scrutin public n°8887).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "les 2,5 milliards d’euros dont nous parlons correspondent exactement au rabais sur l’impôt sur les sociétés que vous avez accordé aux multinationales.",
+          "note": "Il critique la baisse d'impôt sur les sociétés accordée aux multinationales, qu'il présente comme la ressource qui aurait évité le prélèvement sur les collectivités. Il ne fait pas de proposition formelle et ne dit rien des impôts de production, d'où −1. Même valeur et même précision que le discours du 13 octobre 2026."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-10-assurance-vie-succession",
       "date": "2026-10-16",
       "title": "Défense de l'amendement n°3921 sur la taxation de l'assurance-vie au titre des successions (PLF 2027, Assemblée nationale, 16 octobre 2026)",
