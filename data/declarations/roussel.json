@@ -66,13 +66,6 @@
           "quote": "L'heure est à augmenter les salaires et les pensions, bloquer le prix du carburant à 1,60 € le litre",
           "inferred": true,
           "note": "Le communiqué demande de bloquer le prix du carburant à 1,60 € le litre. La mesure ne vise que le carburant, d'où +1 déduit pour l'affirmation générale sur les produits de première nécessité, comme dans le communiqué du 18 septembre 2026 : la valeur ne change pas."
-        },
-        {
-          "questionId": "lib-11",
-          "value": 2,
-          "quote": "Manifester et faire grève font partie de la démocratie. Le gouvernement doit garantir le droit constitutionnel de manifester. Les violences, destructions de lieux publics et de commerces ne sauraient priver des centaines de milliers de personnes de leurs droits.",
-          "inferred": true,
-          "note": "Le communiqué rejette l'interdiction des rassemblements après les violences du 17 octobre (« Interdire des rassemblements […] ne répond à rien ») et demande que le droit de manifester soit garanti malgré ces violences. La primauté de la liberté de manifester sur la réponse sécuritaire s'en déduit, d'où +2 déduit, la même valeur que le programme de 2023."
         }
       ]
     },
