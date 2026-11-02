@@ -2,6 +2,54 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-10-cahier-education",
+      "date": "2026-10-28",
+      "title": "Cahier de campagne « Éducation : une école de tous les savoirs »",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Cahier de campagne sur l'école, ouvert par un édito de François Ruffin, publié le 28 octobre 2026 sur son site de campagne (date de publication de la page, article:published_time). Il propose des savoirs pratiques au collège, une voie professionnelle renforcée, le remplacement de Parcoursup, la revalorisation des enseignants et la mixité sociale, privé sous contrat compris, présentés comme des bases de travail pour des États généraux de l'Éducation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Mettre en place un grand plan de revalorisation des salaires. La rémunération des enseignants français est inférieure de 20% en début de carrière et jusqu'à 30% en milieu de parcours par rapport aux pays comparables.",
+          "note": "Grand plan de revalorisation par une hausse pérenne de la grille indiciaire, sans contreparties mais non chiffré. Le cahier ne le place pas en priorité sur les autres dépenses éducatives (il finance aussi des postes, les AESH, la santé scolaire et le périscolaire), d'où +1."
+        },
+        {
+          "questionId": "edu-03",
+          "value": -2,
+          "quote": "La droite et l'extrême droite souhaitent accentuer la ségrégation scolaire en triant les élèves par niveau au plus tôt (groupes de niveau, fin du collège unique, brevet couperet) plutôt que de faire progresser les élèves en difficulté. Ce choix politique est inacceptable",
+          "note": "Rejet explicite : le tri par niveau, groupes de niveau compris, est qualifié de « choix politique inacceptable ». Le cahier classe aussi les groupes de niveau au collège parmi les « réformes inégalitaires »."
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1,
+          "quote": "Moduler les dotations publiques aux établissements privés en fonction de la mixité sociale : tout établissement sous contrat dont le taux d'élèves favorisés ou celui d'élèves boursiers s'écarte de la moyenne du territoire verra ses subventions réduites en proportion.",
+          "note": "Réduction conditionnelle, pas générale : les subventions baissent pour les établissements sous contrat qui s'écartent de la mixité du territoire. Le cahier prévoit aussi que le privé perde son financement public s'il refuse les objectifs de mixité."
+        },
+        {
+          "questionId": "edu-09",
+          "value": 1,
+          "quote": "Intégrer le programme d'Éducation à la Vie Affective, Relationnelle et Sexuelle aux cours de SVT.",
+          "inferred": true,
+          "note": "Déduite : intégrer le programme EVARS aux cours de SVT suppose qu'il soit enseigné à tous les élèves concernés. La mesure porte sur les programmes « notamment au collège » et figure dans une liste de pistes où « tout ou presque reste à imaginer », d'où +1."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Supprimer les niches fiscales de l'entre-soi , à commencer par les réductions d'impôt pour les cours particuliers privés, qui bénéficient quasi exclusivement aux ménages les plus aisés.",
+          "note": "Même valeur que la PPL n°3241 (+2) : le cahier propose explicitement de supprimer une niche fiscale nommée, la réduction d'impôt pour les cours particuliers privés."
+        }
+      ]
+    },
+    {
       "id": "ruffin-2026-10-plan-redressement",
       "date": "2026-10-21",
       "title": "Plan de redressement : répondre aux urgences de l'été et retrouver les moyens d'agir",

@@ -2,6 +2,30 @@
   "candidateId": "villepin",
   "declarations": [
     {
+      "id": "villepin-2026-11-lettre-retailleau",
+      "date": "2026-11-02",
+      "title": "Lettre à Bruno Retailleau publiée sur X le 2 novembre 2026",
+      "sourceType": "autre",
+      "sourceUrl": "https://x.com/Villepin/status/2117257453389701346",
+      "publisher": "Dominique de Villepin (compte X officiel @Villepin)",
+      "summary": "Texte signé « Dominique de Villepin », publié sur son compte X et adressé à Bruno Retailleau après la mort de Pengo Bossio Wangi à Trappes. Il y interroge la responsabilité politique des mots, écrit que « le voile est libre dans l'espace public, sous les seules limites que fixe la loi » et conclut qu'« un homme d'État protège toutes les Françaises, voilées ou non ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "lib-01",
+          "value": -1,
+          "quote": "Or en République, faut-il vous le rappeler, la liberté est la règle. Le voile est libre dans l'espace public, sous les seules limites que fixe la loi, à l'école, pour les agents publics ou lorsqu'il dissimule le visage.",
+          "inferred": true,
+          "note": "Déduite : il rappelle que le port du voile est libre dans l'espace public dans les seules limites légales (école, agents publics, dissimulation du visage) et défend cette liberté, sans se prononcer explicitement sur une proposition d'interdiction ; le texte ne traite que du voile. Même valeur (−1, déduite) que le texte du 16 novembre 2025, avec une formulation plus directe sur l'espace public."
+        }
+      ]
+    },
+    {
       "id": "villepin-2026-10-paix-civile",
       "date": "2026-10-21",
       "title": "Chronique « Appel à la paix civile et sociale »",

@@ -2,6 +2,29 @@
   "candidateId": "lisnard",
   "declarations": [
     {
+      "id": "lisnard-2026-10-objectif-elysee",
+      "date": "2026-10-28",
+      "title": "David Lisnard sur CNews et Europe 1 : « Je ne suis pas candidat pour un poste. Je viens pour redresser le pays » (compte rendu publié par Nouvelle Énergie)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Compte rendu publié le 28 octobre 2026 par Nouvelle Énergie de l'émission « Objectif Élysée 2027 » diffusée le 27 octobre sur CNews et Europe 1. Sujets abordés : baisse de la CSG sur les revenus d'activité, 80 puis 200 milliards d'euros d'économies, réforme de la fonction publique, autonomie des établissements scolaires, justice des mineurs, objectif de 80 000 entrées légales par an, fiscalité locale, intelligence artificielle et primaire ouverte.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-04",
+          "value": -1,
+          "quote": "Ne pas revaloriser, à titre d’exemple, les pensions de retraite supérieures à 2 200 euros.",
+          "note": "Même valeur que lisnard-ne-questions (seuil alors d'environ 2 000 €) : il propose, « à titre d'exemple », de ne pas revaloriser les pensions supérieures à 2 200 € ; rien sur les minima sociaux ni sur les autres pensions, donc rejet partiel, d'où −1."
+        }
+      ]
+    },
+    {
       "id": "lisnard-2026-10-faq-agriculteurs",
       "date": "2026-10-16",
       "title": "FAQ Nouvelle Énergie sur les propositions agricoles de David Lisnard",

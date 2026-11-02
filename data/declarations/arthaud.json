@@ -2,6 +2,138 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-11-breve-plein-emploi",
+      "date": "2026-11-02",
+      "title": "Brève « “Plein-emploi” : paroles, paroles… »",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/plein-emploi-paroles-paroles-209455.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 02/11/2026 sur le portail de Lutte ouvrière, à propos des 30 400 inscrits supplémentaires à France Travail au troisième trimestre. Elle oppose la promesse de plein-emploi de Macron au pouvoir des patrons d'embaucher ou de licencier, et affirme que les travailleurs peuvent « interdire les licenciements ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Or ce ne sont pas les discours politiciens qui commandent l'économie, qui décident d'embaucher ou de licencier, ce sont les patrons. Mais ce sont les travailleurs, qui font tourner les entreprises. Alors ils sont une force qui peut s’opposer aux décisions patronales et interdire les licenciements !",
+          "inferred": true,
+          "note": "Texte de parti non signé (Nathalie Arthaud est la candidate désignée de LO) qui présente les travailleurs comme une force capable d'« interdire les licenciements ». Le texte ne fait pas le lien avec le versement de dividendes, et l'interdiction passe par la lutte plutôt que par une loi, d'où une position déduite. Même valeur que le discours du 26/09/2026."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-11-edito-greve-5-novembre",
+      "date": "2026-11-02",
+      "title": "Éditorial « Tous en grève et en manifestation jeudi 5 novembre ! »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/greve-manifestation-jeudi-5-novembre-209457.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial hebdomadaire signé Nathalie Arthaud, publié le 02/11/2026 sur le portail de Lutte ouvrière, qui appelle à la grève et aux manifestations du 5 novembre. Il revendique des augmentations de 300 à 400 €, l'indexation des salaires sur l'inflation et un Smic net à 2 200 €. Il qualifie d'« insulte » la hausse de 22 € brut du Smic annoncée par le gouvernement et conteste l'argument de « charges » patronales trop élevées.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "À moins de 2200 €, il est impossible de vivre dignement, alors il faut porter le Smic net à ce niveau-là.",
+          "note": "Demande que le Smic net soit porté à 2 200 € et qualifie d'« insulte » la revalorisation anticipée avec coup de pouce (22 € brut par mois) annoncée par le gouvernement. Le moyen proposé est la grève, sans dire si la hausse passerait par une décision de l'État. Même valeur que l'éditorial du 26/10/2026."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Il nous faut des augmentations de 300 à 400 €, et indexer les salaires sur l’inflation, mois après mois si nécessaire.",
+          "note": "Demande explicitement l'indexation des salaires sur l'inflation, « mois après mois si nécessaire ». Même valeur que la brève du 15/10/2026, cette fois sous la signature de la candidate."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Mais c’est toujours pour nous expliquer que les patrons payent trop de charges et que le problème viendrait de l’État. C’est de l’enfumage. Les cotisations et les impôts patronaux n’ont cessé de baisser ces dernières années, donc ce ne sont pas les charges qui les ont empêché d’augmenter les payes.",
+          "inferred": true,
+          "note": "L'éditorial qualifie d'« enfumage » l'argument selon lequel les patrons paieraient trop de charges. Il souligne que les cotisations et impôts patronaux n'ont cessé de baisser sans que les salaires augmentent. Il ne parle ni des bas salaires ni de l'embauche, d'où une position déduite à −1."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-10-breve-surtaxe",
+      "date": "2026-10-29",
+      "title": "Brève « Surtaxe : les capitalistes ont leurs défenseurs »",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/surtaxe-capitalistes-defenseurs-209427.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 29/10/2026 sur le portail de Lutte ouvrière. Elle relève qu'une majorité de députés, de droite et du RN, a rejeté la surtaxe prévue sur 400 grandes entreprises réalisant plus de 1,5 milliard d'euros de chiffre d'affaires. Elle juge « très peu » les 5 milliards d'euros que devait rapporter cette surtaxe, déjà réduite par le gouvernement, au regard des 107 milliards distribués en 2025 aux actionnaires du CAC 40.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Par rapport à l’an dernier, le gouvernement a pourtant réduit cette surtaxe, qui ne devait rapporter que 5 milliards d’euros. C’est très peu comparé aux 107 milliards distribués en 2025 uniquement aux actionnaires du CAC 40.",
+          "inferred": true,
+          "note": "Texte de parti non signé (Nathalie Arthaud est la candidate désignée de LO). Il juge trop faible la surtaxe sur les bénéfices des grandes entreprises et reproche son rejet aux députés de droite et du RN. Ni l'impôt sur les sociétés en général ni les impôts de production ne sont nommés, d'où une position déduite à −1. Même valeur que l'éditorial du 19/10/2026."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-10-breve-eau",
+      "date": "2026-10-28",
+      "title": "Brève « Eau : les prédateurs »",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/predateurs-leau-209313.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 28/10/2026 sur le portail de Lutte ouvrière, alors que l'usage de l'eau reste restreint dans 72 départements. Elle reproche aux députés « de la droite et de la macronie » d'avoir annulé, sous la pression de la FNSEA, la proposition de compteurs connectés mesurant les prélèvements, et écrit que les gros producteurs veulent « pomper sans limite ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-08",
+          "value": 1,
+          "quote": "Un tel état des lieux se heurte aux intérêts privés, en particulier ceux de l'agriculture intensive. Comme tous les capitalistes, les gros producteurs ne veulent pas être contrôlés. Ils veulent pomper sans limite, sans se soucier des conséquences pour la collectivité.",
+          "inferred": true,
+          "note": "Texte de parti non signé (Nathalie Arthaud est la candidate désignée de LO). En période de sécheresse, il déplore l'abandon des compteurs qui devaient mesurer les prélèvements, et reproche aux gros producteurs de l'agriculture intensive de vouloir « pomper sans limite ». C'est une orientation favorable au contrôle et à la limitation des prélèvements agricoles, sans demande explicite de restrictions supplémentaires, d'où +1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-10-revue-intelligence-artificielle",
+      "date": "2026-10-25",
+      "title": "L’intelligence artificielle aux mains du capital (revue Lutte de classe n°259)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/mensuel/article/lintelligence-artificielle-mains-capital-209252.html",
+      "publisher": "Lutte ouvrière (revue Lutte de classe)",
+      "summary": "Article non signé de la revue mensuelle de Lutte ouvrière, publié en ligne le 25/10/2026 (daté du 20 octobre 2026 en fin de texte), sur l'intelligence artificielle aux mains des groupes capitalistes. Il décrit la consommation d'eau et d'électricité des centres de données et approuve la mobilisation de riverains contre une trentaine de projets en France. Il défend la collectivisation de l'information et un usage « conscient, démocratique et planifié » des algorithmes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": -1,
+          "quote": "Des riverains se mobilisent contre une trentaine d’entre eux, dénonçant les conséquences néfastes de projets menés sans aucune évaluation de leur utilité. Et en effet, leur mobilisation est bien leur seule arme contre des décisions imposées par des groupes capitalistes qui agissent sans contrôle.",
+          "inferred": true,
+          "note": "Texte de parti publié dans la revue de LO, dont Nathalie Arthaud est la candidate désignée. Il approuve la mobilisation de riverains contre des projets de centres de données en France, « menés sans aucune évaluation de leur utilité ». Les procédures simplifiées ne sont pas évoquées, d'où une position déduite à −1. Même valeur que le discours du 26/09/2026."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-10-breve-encadrement-loyers",
       "date": "2026-10-26",
       "title": "Brève « Loyers : Un encadrement au rabais »",

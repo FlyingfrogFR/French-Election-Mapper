@@ -2,6 +2,54 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-11-breve-cnews",
+      "date": "2026-11-01",
+      "title": "Brève du NPA-Révolutionnaires du 1er novembre 2026 — « La pétition « Supprimer CNews » dépasse les 300 000 signatures »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/la-petition-supprimer-cnews-depasse-les-300-000-signatures",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Brève non signée publiée le 1er novembre 2026 dans la rubrique « Brèves » du site du NPA-Révolutionnaires. Elle porte sur la pétition « Supprimer CNews de l'audiovisuel français », qui a dépassé les 300 000 signatures. Selon elle, si la chaîne disparaissait, rien n'empêcherait Bolloré d'en lancer une nouvelle « dans la même tonalité que tous les médias qu'il contrôle », et « la seule solution » est d'« exproprier les grands groupes de presse capitalistes ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-05",
+          "value": 1,
+          "quote": "dans la même tonalité que tous les médias qu’il contrôle : Canal+, CStar, Europe 1, Europe 2, RFM, Le Journal du dimanche, etc. La seule solution : exproprier les grands groupes de presse capitalistes et les remettre aux mains de la population laborieuse.",
+          "inferred": true,
+          "note": "Brève non signée du parti dont elle est la candidate désignée. Après avoir énuméré les médias contrôlés par un même propriétaire, elle propose d'« exproprier les grands groupes de presse capitalistes », ce qui va au-delà d'une limitation légale de la concentration. Elle ne parle pas d'une loi anti-concentration, d'où +1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-10-edito-racisme",
+      "date": "2026-10-25",
+      "title": "Éditorial du NPA-Révolutionnaires du 25 octobre 2026 — « Le racisme tue et la répression mutile en défense des intérêts du Medef. Le mouvement continue : construisons la grève dans les entreprises »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/le-racisme-tue-et-la-repression-mutile-en-defense-des-interets-du-medef-le-mouvement-continue-construisons-la-greve-dans-les-entreprises",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Éditorial non signé du NPA-Révolutionnaires daté du 25 octobre 2026 (rubrique « Éditos » de son site, repris comme éditorial de Révolutionnaires n° 66 et dans les bulletins d'entreprise). Après la tuerie de Trappes, qu'il qualifie d'attentat raciste et islamophobe, et les manifestations du 24 octobre, il dénonce la répression et oppose au gouvernement les revendications de « la jeunesse populaire et les salariés » : salaires qui suivent les prix, rattrapage de 600 ou 700 euros mensuels, Smic à 2 200 euros nets, interdiction des licenciements. Il appelle à faire du 5 novembre le début d'une grève générale.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "qui exigent que les salaires suivent les prix avec un rattrapage de 600 ou 700 euros mensuels et un Smic à 2200 euros nets pour ne pas être dans le rouge dès le 10 du mois",
+          "inferred": true,
+          "note": "Éditorial non signé du parti dont elle est la candidate désignée : il range parmi les exigences du camp qu'il soutient « un Smic à 2200 euros nets », hausse bien supérieure à l'indexation. Il ne dit pas si la hausse doit venir d'une décision de l'État ou des luttes, d'où « déduite ». Même valeur que le tract du 28 septembre 2026, mais le Smic est ici nommé."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-10-lettre-juvin",
       "date": "2026-10-26",
       "title": "Réponse de Selma Labib à Philippe Juvin, rapporteur général de la commission des finances",

@@ -2,6 +2,127 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-11-vote-tva-energie",
+      "date": "2026-11-02",
+      "title": "Scrutin public n°9488 — amendement n°635 de Mme Le Pen appliquant une TVA à 5,5 % au gaz, à l'électricité, au fioul et aux carburants (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9488",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les députés ayant voté « Contre » l'amendement n°635 (groupe RN), qui proposait « une TVA à 5,5 % sur le gaz, l’électricité, le fioul et les carburants » ; amendement non adopté (28 pour, 40 contre). Lors de la même séance du 2 novembre 2026, il vote contre les amendements de repli n°748 (carburants et fioul, scrutin n°9490) et n°674 (gaz, scrutin n°9491), et pour l'amendement n°3692 soumettant au taux de 5,5 % l'ensemble de la facture d'électricité (scrutin n°9494, adopté).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": 0,
+          "quote": "Le présent amendement propose une TVA à 5,5 % sur le gaz, l’électricité, le fioul et les carburants.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/635",
+          "note": "Remplace +1 du programme du 18 septembre 2026, qui ne prévoyait la TVA à 5,5 % que pour l'électricité sans mentionner le gaz ni les carburants : le 2 novembre 2026, il vote contre la mesure complète (n°9488) et contre les amendements de repli limités aux carburants et au fioul (n°9490) puis au gaz (n°9491), mais pour le taux de 5,5 % sur toute la facture d'électricité (amendement n°3692, scrutin n°9494), soit une position mixte (pour l'électricité, contre le gaz et les carburants), d'où 0."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-elevage-plein-air",
+      "date": "2026-10-30",
+      "title": "Scrutin public n°9412 — amendement n°3588 de Mme Maximi conditionnant le suramortissement des bâtiments d'élevage à l'accès des animaux au plein air (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9412",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les députés ayant voté « Pour » l'amendement n°3588 (groupe LFI-NFP) à l'article 13, qui réservait le suramortissement prévu pour les bâtiments et installations d'élevage des projets d'avenir agricole aux élevages « garantissant l’accès des animaux au plein air » ; amendement non adopté (14 pour, 50 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Cet amendement du groupe LFI a pour objet de conditionner le suramortissement prévu par cet article pour les projets d'avenir agricole, lorsqu'il porte sur des bâtiments et installations d'élevage, à la garantie d'un accès au plein air pour les animaux.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3588",
+          "inferred": true,
+          "note": "Position déduite d'une mesure voisine : vote « Pour » l'exclusion d'un avantage fiscal (suramortissement) des bâtiments d'élevage ne garantissant pas l'accès des animaux au plein air, mesure justifiée dans l'exposé sommaire par le bien-être animal et le rejet de l'élevage intensif « en cage ou en bâtiment fermé » ; limitation partielle, par la fiscalité, de l'élevage intensif, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-pacte-dutreil",
+      "date": "2026-10-30",
+      "title": "Scrutin public n°9379 — amendement n°3939 de M. Sansu réformant le pacte Dutreil en se référant aux recommandations de la Cour des comptes (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9379",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel, cosignataire de l'amendement n°3939 (groupe GDR, déposé le 10 octobre 2026), a voté « Pour » ; l'amendement excluait du pacte Dutreil les sociétés dont l'activité principale est une profession réglementée (pharmacien, médecin, architecte, expert-comptable, avocat), ramenait de 75 % à 50 % l'exonération de droits de mutation à titre gratuit pour la fraction de la valeur des titres supérieure à 50 millions d'euros, la limitait aux biens affectés à l'activité opérationnelle et la remettait en cause en cas de donation-partage avec soulte financée par endettement ; non adopté (19 pour, 46 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-08",
+          "value": 1,
+          "quote": "Ces recommandations sont les suivantes : suppression du Pacte Dutreil pour les professions réglementées (1°), abaissement du taux d’exonération de 75 % (2°) et suppression du cumul Dutreil- Family Buy Out (3°).",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3939",
+          "note": "Suppression partielle (professions réglementées) et réduction d'une niche fiscale dans un amendement qu'il cosigne, avec des votes « Pour » sur les amendements voisins restreignant le pacte Dutreil (scrutins n°9380 à 9382, 9384 et 9388 à 9395), un vote « Contre » l'amendement n°1475 portant l'exonération à 100 % (n°9383) et une abstention sur ceux qui plafonnaient le dispositif à 2 millions d'euros (n°9385 à 9387), d'où la même valeur (+1) que le vote du 15 octobre 2026."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-dividendes-rachats",
+      "date": "2026-10-27",
+      "title": "Scrutin public n°9133 — amendement n°2144 créant une taxe de 10 % sur les dividendes et les rachats d'actions (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9133",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel est nommément le seul député du groupe GDR à avoir voté « Pour » l'amendement n°2144 (groupe LFI-NFP, déposé le 9 octobre 2026). Cet amendement créait une taxe de 10 % sur les dividendes et sur les réductions de capital par rachat d'actions des sociétés cotées redevables de l'impôt sur les sociétés dont le chiffre d'affaires dépasse 2 milliards d'euros. Il n'a pas été adopté (64 pour, 139 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "Par cet amendement, le groupe parlementaire La France insoumise prévoit d'instaurer une contribution exceptionnelle à hauteur de 10 % sur les dividendes et rachats d'actions distribués par les entreprises du CAC 40.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/2144",
+          "note": "Remplace le +1 déduit du programme du 18 septembre 2026, qui proposait seulement de porter le PFU à 40 % et ne taxait pas les rachats d'actions : vote personnel « Pour » sur un amendement dont l'objet principal est une taxe de 10 % sur les dividendes et les rachats d'actions des grandes sociétés cotées (le dispositif crée une « taxe de solidarité », que l'exposé appelle « contribution exceptionnelle »). Le même jour, il a aussi voté « Pour » les amendements n°49, 2630 et 2620, qui restreignaient le régime mère-fille d'exonération des dividendes (scrutins n°9134 à 9136)."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-10-vote-surtaxe-is",
+      "date": "2026-10-27",
+      "title": "Scrutin public n°9123 — amendements de suppression de l'article 15 (surtaxe d'impôt sur les sociétés des grandes entreprises) du projet de loi de finances pour 2027",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9123",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel est nommément parmi les cinq députés GDR qui ont voté « Contre » l'amendement n°69 de M. Grenon et les amendements identiques. Ces amendements supprimaient l'article 15 du PLF 2027, qui reconduisait pour un troisième exercice la contribution exceptionnelle sur les bénéfices des grandes entreprises et rétablissait la contribution exceptionnelle applicable aux grandes entreprises de transport maritime. Ils ont été adoptés (79 pour, 77 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Cet amendement vise à supprimer l’article 15, qui prévoit de reconduire pour un troisième exercice la contribution exceptionnelle sur les bénéfices des grandes entreprises",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/69",
+          "note": "Vote contre la suppression de la surtaxe d'impôt sur les sociétés des grandes entreprises, c'est-à-dire contre une baisse de l'IS pour ces entreprises. Le vote ne dit rien des impôts de production, d'où −1, même valeur que le discours du 19 octobre 2026. Pendant la discussion de l'article, il a répondu « Évidemment que non ! » quand une députée demandait si 5 milliards d'euros demandés aux très grandes entreprises étaient une « juste répartition des efforts » (compte rendu de la première séance du 27 octobre 2026). Le même jour, il a voté « Contre » les amendements n°1382, 2633 et 1372 qui élargissaient le régime des jeunes entreprises innovantes (scrutins n°9130 à 9132)."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-10-plfss-exonerations",
       "date": "2026-10-23",
       "title": "Explication de vote sur la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture)",

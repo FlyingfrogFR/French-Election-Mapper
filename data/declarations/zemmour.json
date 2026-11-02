@@ -2,6 +2,35 @@
   "candidateId": "zemmour",
   "declarations": [
     {
+      "id": "zemmour-2026-10-telegram-impunite",
+      "date": "2026-10-26",
+      "title": "Message du 26 octobre 2026 : trois mesures « pour mettre fin à l'impunité »",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7933?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 26 octobre 2026 sur le canal Telegram officiel d'Éric Zemmour, avec un extrait vidéo. Il propose trois mesures pour que « la peine exécutée soit enfin celle que la loi prévoit » : rétablir les peines planchers, supprimer le juge d'application des peines, dont les magistrats rejoindraient les juridictions classiques, et construire « très vite » 100 000 places de prison.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "Je construirai très vite 100 000 places de prison.",
+          "note": "Remplace +1 du programme de 2022 (10 000 places supplémentaires) : le message propose désormais de construire 100 000 places de prison, au-delà des 20 000 de l'énoncé."
+        },
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Je rétablirai les peines planchers, pour empêcher le juge de réduire trop la peine prévue par la loi.",
+          "note": "Même valeur que les messages des 18, 19 et 21 octobre 2026 et que le programme de 2022 ; le message ne dit pas si les peines planchers visent seulement les récidivistes."
+        }
+      ]
+    },
+    {
       "id": "zemmour-2026-10-telegram-casseurs",
       "date": "2026-10-21",
       "title": "Message du 21 octobre 2026 : quatre mesures contre les émeutiers",
