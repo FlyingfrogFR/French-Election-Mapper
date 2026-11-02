@@ -2,6 +2,82 @@
   "candidateId": "mikolajczak",
   "declarations": [
     {
+      "id": "mikolajczak-2026-10-lyceens",
+      "date": "2026-10-20",
+      "title": "Nos réponses aux revendications lycéennes",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe qui répond une à une aux revendications du mouvement lycéen. Il propose notamment de maintenir le budget et les recrutements de l'Éducation nationale, de revoir le statut des AESH, de rendre Parcoursup plus transparent, de rétablir le certificat d'études, de faire des examens une condition du passage de niveau, de commencer les cours à 9 h, de réduire les vacances d'été, de lancer un plan de rénovation du bâti scolaire, d'investir dans le premier degré, et il prévoit des mesures de santé mentale, dont l'ouverture de « Mon soutien psy » à tous les psychologues. Le texte de la page ne porte pas de date ; la date retenue est celle que donne le flux RSS du site (20 octobre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-09",
+          "value": 1,
+          "quote": "Faire connaître le dispositif déjà existant « Mon soutien psy » permettant d’accéder à 12 séances remboursées par an. Rendre tous les psychologues accessibles par ce dispositif (plus d’offre).",
+          "note": "Mesure partielle : ouvrir à tous les psychologues le dispositif « Mon soutien psy » (12 séances remboursées par an), sans proposer d'augmenter le nombre de séances ni le niveau de remboursement, d'où +1. C'est une position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-10-violence",
+      "date": "2026-10-19",
+      "title": "Rompre avec la spirale de la violence",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/rompre-avec-la-spirale-de-la-violence/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe publié après les violences et pillages du 17 octobre 2026 en marge des manifestations. Il propose une aide d'urgence aux commerces et mairies sinistrés, une réponse pénale (peines d'intérêt général, enquêtes, suivi éducatif des mineurs interpellés), une commission d'enquête transpartisane, l'indépendance de l'IGPN, la généralisation des caméras-piétons, la révision de la doctrine du maintien de l'ordre et une nouvelle police de proximité, et demande au président de la République d'accepter la démission du ministre de l'Intérieur. Le texte de la page ne porte pas de date ; la date retenue est celle que donne le flux RSS du site (19 octobre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "Révision de notre doctrine du maintien de l’ordre, en prenant exemple sur ce qui marche chez d’autres pays européens. Eclaircir le rôle des policiers en civil. Nouvelle police de proximité",
+          "note": "« Nouvelle police de proximité » fait partie des mesures proposées pour prévenir de nouvelles violences. Le texte ne dit pas qu'elle doit être privilégiée par rapport aux unités d'intervention, d'où +1. C'est une position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-10-elevage",
+      "date": "2026-10-08",
+      "title": "Protéger les animaux, l'environnement et nos éleveurs",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/proteger-les-animaux-lenvironnement-et-nos-eleveurs/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur l'élevage, qui défend l'élevage extensif face aux systèmes intensifs. Il propose notamment une PAC fondée sur la main-d'œuvre plutôt que sur la surface, une éco-conditionnalité des aides favorisant les élevages herbagers et plein air, des prix rémunérateurs avec encadrement des marges de la distribution, le respect des clauses miroirs, un protectionnisme stratégique sur certaines filières, un repas végétarien hebdomadaire en restauration scolaire et l'amplification des expériences de sécurité sociale de l'alimentation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Faire respecter les clauses miroirs des traités de libre-échange. Instaurer un protectionnisme stratégique sur certaines filières en luttant contre les importations non soumises à nos règles.",
+          "note": "Mesure explicite : faire respecter les clauses miroirs des traités de libre-échange et lutter contre les importations agricoles non soumises aux règles françaises. Position du parti, dont il est le candidat désigné ; le 7 octobre, le site du parti indique qu'Antoine Mikolajczak a présenté « nos propositions pour l'élevage français » au Sommet de l'élevage."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Renforcer l'éco-conditionnalité des aides en favorisant les élevages herbagers et plein air.",
+          "inferred": true,
+          "note": "Position déduite (orientation) : le texte décrit les « conditions de vie très rudes » imposées aux animaux par les élevages intensifs, présente l'élevage extensif comme favorable au bien-être animal et propose d'orienter les aides vers les élevages herbagers et plein air ; il ne propose pas de limitation réglementaire de l'élevage intensif. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
       "id": "mikolajczak-2026-09-jugement-majoritaire",
       "date": "2026-09-25",
       "title": "En finir avec le vote utile : le jugement majoritaire",
