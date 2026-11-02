@@ -2,6 +2,115 @@
   "candidateId": "becht",
   "declarations": [
     {
+      "id": "becht-2026-11-livre-partie-9",
+      "date": "2026-11-02",
+      "title": "Le Projet France, partie 9 : « Un nouveau modèle de rayonnement »",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-9/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Neuvième partie du livre-programme « Le Projet France », publié en feuilleton sur le site de campagne : politique culturelle et audiovisuelle, langue française, sport, Français de l’étranger, « Routes du Succès », et « Europe des 3 cercles » dont le premier serait une Confédération européenne de 6 à 10 États volontaires (défense intégrée, dissuasion nucléaire selon le principe des deux clés, budget propre alimenté par une taxe data), ainsi que le concept de « souverainabilité ». Page non datée : mise en ligne le 2 novembre 2026 selon la date de modification donnée par l’API et le plan (sitemap) du site becht2027.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Mais la liquider pour revenir aux nations seules, comme le proposent les extrêmes, serait un suicide : seule, la France ne pèserait rien face aux États-Unis, à la Chine ou à la Russie, et finirait en colonie. Impossible de transformer l’Union, impossible de faire sans elle",
+          "note": "Remplace le +1 déduit de la partie 1 du livre : le texte juge « impossible de faire sans » l’Union et qualifie de « suicide » le retour aux nations seules ; l’Union à 27 resterait le deuxième cercle de son « Europe des 3 cercles »."
+        },
+        {
+          "questionId": "def-02",
+          "value": 2,
+          "quote": "Défense ultime de la Confédération ensuite : si ses intérêts vitaux sont menacés, la France assure la sécurité par l’arme nucléaire selon le principe des deux clés, la décision exigeant l’accord conjoint du Président français et du Président de la Confédération",
+          "note": "Extension explicite : la dissuasion française protégerait les intérêts vitaux de la Confédération européenne proposée (6 à 10 États volontaires au départ), avec une décision à deux clés ; pour la défense du territoire national, l’ordre de tir resterait du seul Président de la République."
+        },
+        {
+          "questionId": "eur-03",
+          "value": 1,
+          "quote": "Chaque armée nationale resterait souveraine et libre d’agir seule, comme la France pour ses intérêts propres ; mais toutes seraient interopérables, intégrées jusqu’à la brigade dans un commandement européen activable quand la sécurité de la Confédération est en jeu",
+          "inferred": true,
+          "note": "Déduit : il propose une défense européenne intégrée (armées interopérables, intégrées jusqu’à la brigade dans un commandement européen) au sein d’une Confédération de 6 à 10 États volontaires, et non de l’Union à 27, qui selon lui « ne peut devenir une puissance politique », d’où +1 ; même valeur que la page « La sécurité »."
+        },
+        {
+          "questionId": "num-02",
+          "value": -2,
+          "quote": "Nous protégerons le cinéma français, soutiendrons ses talents et sa diversité, et renforcerons l’audiovisuel public pour alimenter une grande plateforme francophone de streaming, sans fusionner les médias mais en coordonnant leurs actions",
+          "inferred": true,
+          "note": "Déduit : il propose de renforcer l’audiovisuel public (plateforme francophone de streaming, médias publics à l’international), ce qui exclut sa privatisation ; celle-ci n’est pas évoquée expressément."
+        },
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "d’une harmonisation de l’impôt de production pour taxer enfin les géants du numérique",
+          "note": "Orientation : les géants du numérique seraient taxés par une harmonisation de l’impôt de production et une taxe data au niveau de la Confédération européenne proposée, et les plateformes obligées de rémunérer les contenus ; aucune taxation nationale n’est prévue si l’Union n’agit pas, d’où +1."
+        },
+        {
+          "questionId": "num-05",
+          "value": 1,
+          "quote": "prolongerons le fonds d’urgence pour la presse, accompagnerons la transformation numérique des rédactions, obligerons les plateformes à rémunérer les contenus en renforçant le droit d’auteur, y compris face à l’intelligence artificielle, préviendrons les concentrations",
+          "note": "Orientation : engagement à « prévenir les concentrations » dans la presse, sans instrument législatif ni seuil précisé, d’où +1."
+        }
+      ]
+    },
+    {
+      "id": "becht-2026-10-livre-partie-8",
+      "date": "2026-10-29",
+      "title": "Le Projet France, partie 8 : « Un nouveau modèle d’organisation de la République et des Libertés »",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-8/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Huitième partie du livre-programme « Le Projet France », publié en feuilleton sur le site de campagne : Pacte des Territoires (fusion volontaire des départements en Provinces, garantie des 15 services de proximité, plan ferroviaire de 10 milliards d’euros, volet outre-mer, plan d’adaptation au changement climatique de 30 milliards), Pacte démocratique (référendum d’initiative citoyenne, reconnaissance du vote blanc, agence de vérification de l’information), Pacte d’Inclusion et Pacte avec la Nature (bien-être animal, encadrement de la chasse, plan « Ambition Phyto Zéro »). Page non datée : mise en ligne le 29 octobre 2026 selon la date de modification donnée par l’API et le plan (sitemap) du site becht2027.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Mais la plus grande réforme sera l’instauration d’un référendum d’initiative citoyenne. Les citoyens doivent pouvoir soumettre directement une réforme au vote quand ils jugent leurs représentants immobiles.",
+          "note": "Même valeur que la page « Le pacte démocratique et territorial », mais la source est plus précise : RIC sur tout sujet de l’article 34, déclenché par 2 % du corps électoral en six mois, contrôle du Conseil constitutionnel, adoption à la majorité des suffrages avec au moins 50 % de participation."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1,
+          "quote": "Pour les autres scrutins, le vote blanc sera enfin reconnu : lorsqu’il atteint la moitié des votants, l’élection sera annulée et rejouée dans les trois mois, le sortant restant en fonction jusque-là",
+          "note": "Même valeur que la page « Le pacte démocratique et territorial » : le vote blanc serait reconnu et entraînerait l’annulation de l’élection s’il atteint la moitié des votants, mais son décompte parmi les suffrages exprimés n’est pas précisé, d’où +1."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Sur la base du volontariat local, jamais d’une volonté imposée de Paris, les territoires pourront se réorganiser en supprimant une strate : les départements qui fusionneraient en une Province, à taille humaine et fidèle à l’histoire, à la culture et à la géographie locales",
+          "note": "Même valeur que la proposition de loi n°1800 : une strate serait supprimée, les départements fusionnés en Province reprenant les compétences des Régions, mais seulement sur la base du volontariat local et sans généralisation, d’où +1."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Elle s’accompagnera d’un grand plan ferroviaire de 10 milliards d’euros pour entretenir le réseau et renouveler les matériels, avec l’objectif de 95 % des trains à l’heure d’ici 7 ans.",
+          "note": "Même valeur que la page « Le pacte démocratique et territorial » : plan ferroviaire de 10 milliards d’euros pour le réseau et le matériel roulant, objectif de 95 % de trains à l’heure en 7 ans ; ni son financement ni l’effet sur la dette publique ne sont abordés, d’où +1."
+        },
+        {
+          "questionId": "log-07",
+          "value": 1,
+          "quote": "Cette garantie assurera à chacun, où qu’il habite, le même niveau de service : l’internet très haut débit ; un commerce alimentaire et une boulangerie, une école maternelle et élémentaire à moins de 20 minutes ; un collège et un lycée à moins de 40 minutes en transports",
+          "inferred": true,
+          "note": "Déduit : la « garantie des 15 services de proximité » assurerait partout écoles, collège et lycée, point postal, services bancaires, de santé et de secours en deçà de temps de trajet fixés ; la condition « même s’ils sont déficitaires » n’est pas traitée et les gares ne sont pas citées. Même valeur que la page « Le pacte démocratique et territorial »."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 1,
+          "quote": "nous permettrons également aux collectivités d’interdire la chasse dans les zones de promenades ouvertes au public les jours fériés et les vacances scolaires afin d’éviter les accidents.",
+          "note": "Mesure partielle : les collectivités pourraient interdire la chasse dans les zones de promenade ouvertes au public les jours fériés et pendant les vacances scolaires (hors grands domaines privés ou clos), et des pratiques comme la chasse à la colle seraient interdites, la chasse devant par ailleurs « être préservée pour réguler les espèces », d’où +1."
+        }
+      ]
+    },
+    {
       "id": "becht-2026-10-livre-partie-7",
       "date": "2026-10-26",
       "title": "Le Projet France (livre), partie 7 : « Un nouveau modèle de sécurité »",

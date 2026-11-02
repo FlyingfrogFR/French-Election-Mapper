@@ -2,6 +2,42 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-10-plan-esr",
+      "date": "2026-10-26",
+      "title": "Comment nous allons refonder l’enseignement supérieur, la recherche et la formation continue (plan thématique)",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan thématique complémentaire de L’Avenir en commun, consacré à l’enseignement supérieur, à la recherche et à la formation continue. Il prévoit l’abolition de Parcoursup et MonMaster, la gratuité du supérieur, une garantie d’autonomie pour les jeunes, des recrutements statutaires, la suppression du Crédit d’impôt recherche, de l’ANR et du HCÉRES, et la démarchandisation de la formation continue. La date (26 octobre 2026) est celle des métadonnées de publication de la page ; le PDF a été mis en ligne le même jour.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "Instaurer la gratuité de l’enseignement supérieur, de la licence au doctorat, en supprimant également la contribution à la vie étudiante et de campus (CVEC), et en abrogeant l’augmentation des frais d’inscription décidée par Macron pour les étudiant·es étranger·es extracommunautaires",
+          "note": "Même valeur que la source actuelle (AEC 2025). Le plan reprend la gratuité de la licence au doctorat et y ajoute la suppression de la CVEC."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 2,
+          "quote": "Créer une garantie d’autonomie pour tous les jeunes détaché·es du foyer fiscal de leurs parents afin qu’aucun·e ne vive en dessous du seuil de pauvreté (1 337 euros pour une personne seule)",
+          "inferred": true,
+          "note": "Déduite : le plan ne parle pas des bourses. Il prévoit à la place une garantie d’autonomie qui place au-dessus du seuil de pauvreté tous les jeunes détachés du foyer fiscal de leurs parents. Même valeur et même raisonnement que la source actuelle (AEC 2025), avec un seuil actualisé."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Nous supprimerons le Crédit d’impôt recherche au profit de dotations récurrentes à hauteur des besoins pour les universités et instituts de recherche.",
+          "note": "Même valeur que la source actuelle (contre-budget du 14 octobre 2026). Ailleurs, le plan qualifie le CIR de « niche fiscale notoirement inefficace » (plus de 8 milliards d’euros en 2025) et en annonce la suppression."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-10-mediapart",
       "date": "2026-10-25",
       "title": "« Le pouvoir n’aura qu’un seul choix, accepter les revendications ou s’en aller » – Entretien avec Mediapart",

@@ -125,10 +125,30 @@
       "partyShort": "RN",
       "status": "potential",
       "declaredOn": null,
-      "statusNote": "Candidat de substitution possible du RN si Marine Le Pen devenait définitivement inéligible (pourvoi en cassation en cours). Aucune candidature propre annoncée.",
+      "statusNote": "Candidat de substitution possible du RN si Marine Le Pen devenait définitivement inéligible (pourvoi en cassation en cours). Réélu président du RN le 24 octobre 2026 avec 98,98 % des voix, il a été confirmé le 25 octobre par Marine Le Pen comme son futur Premier ministre en cas de victoire. Aucune candidature propre annoncée.",
       "primary": null,
       "website": "https://rassemblementnational.fr/",
       "sources": [
+        {
+          "title": "Rassemblement national — XIXe Congrès du Rassemblement National, Orléans, 24 et 25 octobre 2026 (réélection de Jordan Bardella « avec 98,98 % des voix ») (page non datée, consultée le 2026-11-02)",
+          "url": "https://rassemblementnational.fr/congres2026",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "franceinfo — Au congrès du Rassemblement national, l'unique candidat Jordan Bardella est réélu sans surprise à la présidence du parti avec 98,98 % des voix",
+          "url": "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "franceinfo — Congrès du RN : Marine Le Pen promet un gouvernement « d'union nationale », « pluraliste » et dirigé par Jordan Bardella",
+          "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Public Sénat — Si elle gagne en 2027, Marine Le Pen appelle à la formation d'un « gouvernement d'union nationale »",
+          "url": "https://www.publicsenat.fr/actualites/politique/si-elle-gagne-en-2027-marine-le-pen-appelle-a-la-formation-dun-gouvernement-dunion-nationale",
+          "date": "2026-10-25"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -665,10 +685,30 @@
       "partyShort": "RN",
       "status": "declared",
       "declaredOn": "2026-07-07",
-      "statusNote": "Candidature confirmée après l'arrêt de la cour d'appel de Paris du 7 juillet 2026 (peine d'inéligibilité ferme réduite à 15 mois, déjà purgée). Pourvoi en cassation en cours ; la Cour de cassation a annoncé un examen avant la campagne.",
+      "statusNote": "Candidature confirmée après l'arrêt de la cour d'appel de Paris du 7 juillet 2026 (peine d'inéligibilité ferme réduite à 15 mois, déjà purgée) ; campagne lancée le 25 octobre 2026 à Orléans, lors du congrès du RN. Pourvoi en cassation en cours : la Cour de cassation examinera le 16 décembre 2026 les questions prioritaires de constitutionnalité déposées à l'appui des pourvois.",
       "primary": null,
       "website": "https://marinelepen.com/",
       "sources": [
+        {
+          "title": "Le Figaro — Présidentielle 2027 : Marine Le Pen réorganise son parti et lance sa campagne à Orléans",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-reorganise-son-parti-et-lance-sa-campagne-a-orleans-20261025",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Sud Ouest (avec AFP) — Présidentielle : Marine Le Pen lance sa campagne à Orléans et souhaite l'axer sur la « renaissance » avec l'ambition « d'insuffler un peu d'optimisme »",
+          "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-marine-le-pen-lance-sa-campagne-a-orleans-et-souhaite-l-axer-sur-la-renaissance-avec-l-ambition-d-insuffler-un-peu-d-optimisme-31234926.php",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Sud Ouest (avec AFP) — Procès du RN : les questions prioritaires de constitutionnalité de Marine Le Pen seront examinées le 16 décembre",
+          "url": "https://www.sudouest.fr/politique/proces-du-rn-les-questions-prioritaires-de-constitutionnalite-de-marine-le-pen-seront-examinees-le-16-decembre-31099093.php",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "La Dépêche — DÉCRYPTAGE. Présidentielle 2027 : Marine Le Pen finalement « inéligible » au scrutin ? L'analyse d'un ancien haut magistrat sème le trouble dans la campagne de la candidate RN (mentionne l'examen des QPC le 16 décembre 2026)",
+          "url": "https://www.ladepeche.fr/2026/10/28/decryptage-presidentielle-2027-pourquoi-le-spectre-de-lineligibilite-continue-de-poursuivre-marine-le-pen-13624208.php",
+          "date": "2026-10-28"
+        },
         {
           "title": "Rassemblement national — Livret du XIXe Congrès, éditorial de Marine Le Pen (« j’ai pris la décision d’être à nouveau candidate à l’élection présidentielle »)",
           "url": "https://archives.rassemblementnational.fr/wp-content/uploads/2026/09/19eCongres_CN.pdf",
@@ -1423,6 +1463,76 @@
           "title": "Sud Ouest (avec AFP) — Présidentielle 2027 : l'éditorialiste Natacha Polony annonce sa candidature",
           "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-l-editorialiste-natacha-polony-annonce-sa-candidature-31064344.php",
           "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "mlekuz",
+      "firstName": "Manolo",
+      "lastName": "Mlekuz",
+      "displayName": "Manolo Mlekuz",
+      "party": "Trajectoire",
+      "partyShort": "TRAJ",
+      "status": "declared",
+      "declaredOn": null,
+      "statusNote": "Âgé de 20 ans, il a interrompu ses études d'histoire pour porter la candidature du mouvement citoyen Trajectoire, dont la proposition centrale est une assemblée constituante de citoyens tirés au sort ; le site du mouvement le présente comme « Candidat élection présidentielle ». Selon Le Parisien, il s'est officiellement lancé au printemps 2026 et décidera en décembre d'une éventuelle alliance avec d'autres candidatures citoyennes. Il doit encore réunir les 500 parrainages d'élus.",
+      "primary": null,
+      "website": "https://trajectoire2027.fr/",
+      "sources": [
+        {
+          "title": "Trajectoire 2027 — page « L'équipe » (« Candidat élection présidentielle — Manolo Mlekuz ») (page non datée, consultée le 2026-11-02)",
+          "url": "https://trajectoire2027.fr/equipe",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "Le Parisien — Présidentielle 2027 : à 20 ans, il cherche ses parrainages pour récrire la Constitution",
+          "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-a-20-ans-il-cherche-ses-parrainages-pour-redonner-le-pouvoir-au-peuple-27-10-2026-GBZUDBUBT5FNXBZ3LUWBFUF7IQ.php",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "ICI Isère (Radio France) — « Il y a un vrai problème d'écoute » : à 20 ans il est candidat à la présidentielle et cherche des parrainages en Isère",
+          "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/il-y-a-un-vrai-probleme-d-ecoute-a-20-ans-il-est-candidat-a-la-presidentielle-et-cherche-des-parrainages-en-isere-6140683",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "franceinfo — PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (fiche « Manolo Mlekuz, 20 ans, Trajectoire » ; liste « 34 candidats au 22/10/2026 »)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "durif",
+      "firstName": "Sylvain",
+      "lastName": "Durif",
+      "displayName": "Sylvain Durif",
+      "party": "Sans étiquette",
+      "partyShort": "SE",
+      "status": "declared",
+      "declaredOn": "2026-08-23",
+      "statusNote": "Vidéaste, il a annoncé sa candidature à l'élection présidentielle de 2027 dans une vidéo publiée sur Instagram le 23 août 2026 ; il avait déjà annoncé une candidature en 2017, sans figurer parmi les candidat·es retenu·es. Il doit encore réunir les 500 parrainages d'élus.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "La Dépêche — Présidentielle 2027 : le vidéaste Sylvain Durif, connu comme le « Grand monarque » ou encore le « Christ Cosmique », annonce se présenter aux prochaines élections, il avait déjà été candidat en 2017",
+          "url": "https://www.ladepeche.fr/2026/08/25/presidentielle-2027-le-videaste-sylvain-durif-connu-comme-le-grand-monarque-ou-encore-le-christ-cosmique-annonce-se-presenter-aux-prochaines-elections-13522666.php",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "20 Minutes — Présidentielle 2027 : Qui est Sylvain Durif, le « Christ cosmique » qui veut se présenter ?",
+          "url": "https://www.20minutes.fr/politique/4241053-20260826-presidentielle-2027-sylvain-durif-christ-cosmique-veut-presenter",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "Sud Radio — Qui est ce Sylvain Durif, le « Christ cosmique » candidat à la Présidentielle 2027 ?",
+          "url": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "franceinfo — PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (fiche « Sylvain Pierre Durif, 57 ans, Divers » ; liste « 34 candidats au 22/10/2026 »)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-10-22"
         }
       ]
     }
