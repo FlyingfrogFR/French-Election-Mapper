@@ -1,4 +1,52 @@
 {
   "candidateId": "mlekuz",
-  "declarations": []
+  "declarations": [
+    {
+      "id": "mlekuz-2026-11-programme",
+      "date": "2026-11-02",
+      "title": "Programme de Trajectoire : calendrier du processus constituant jusqu'à la VIe République",
+      "sourceType": "programme",
+      "sourceUrl": "https://trajectoire2027.fr/programme",
+      "publisher": "Trajectoire (trajectoire2027.fr, directeur de publication : Manolo Mlekuz)",
+      "summary": "Page non datée, date de consultation retenue. La page Programme du site de campagne fixe un calendrier : référendum d'initiative constituante en 2027, tirage au sort d'une assemblée constituante, référendum constituant en décembre 2028, puis fin de la Ve République et promulgation de la VIe le 1er janvier 2029, avec un président en retrait pendant le processus.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": 2,
+          "quote": "Temps fort Référendum constituant Adoption de la nouvelle Constitution. 1 er janvier 2029 Changement de régime. Fin de la V e République et promulgation de la VI e République.",
+          "note": "Mesure centrale du programme : la même page décrit le tirage au sort d'une assemblée constituante chargée de rédiger la nouvelle Constitution, soumise ensuite à référendum."
+        }
+      ]
+    },
+    {
+      "id": "mlekuz-2026-11-programme-detaille",
+      "date": "2026-11-02",
+      "title": "Programme détaillé : livre blanc « Nouvelle démocratie. Chemin pour changer les règles du jeu politique dès 2027 »",
+      "sourceType": "programme",
+      "sourceUrl": "https://trajectoire2027.fr/docs/programme-detaille-trajectoire.pdf",
+      "publisher": "Trajectoire (trajectoire2027.fr) ; texte de l'ONG Démocratie Ouverte publié avec l'accord de ses auteurs",
+      "summary": "PDF non daté, date de consultation retenue ; le document porte la mention « version non définitive ». Il s'agit du livre blanc de Démocratie Ouverte, que le site de campagne présente comme « Le programme détaillé ». Il décrit le processus constituant : double référendum d'initiative constituante, comité de pilotage, garants, débat de société, assemblée de 200 citoyens tirés au sort, référendum d'adoption ; la loi pré-constituante ajouterait aussi un RIC constituant.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 1,
+          "quote": "Revoir la procédure de modification de la Vème République en ajoutant la possibilité de la réviser à l’avenir par référendum d’initiative citoyenne. Il s’agit d’une forme de “cliquet de sécurité”",
+          "page": "8",
+          "note": "Mesure partielle : le RIC proposé ne porte que sur la révision de la Constitution (« RIC constituant », pétition d'un million de signatures), comme garde-fou en cas d'échec du processus constituant ; le document est un livre blanc de Démocratie Ouverte que le site présente comme son programme détaillé."
+        }
+      ]
+    }
+  ]
 }
