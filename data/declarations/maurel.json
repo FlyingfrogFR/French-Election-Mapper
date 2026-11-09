@@ -2,6 +2,80 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-11-vote-cvec",
+      "date": "2026-11-04",
+      "title": "Scrutin public n°9701 — amendement n°1042 de Mme Mesmeur supprimant la contribution de vie étudiante et de campus (CVEC), après l'article 42 du projet de loi de finances pour 2027 (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9701",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les quatre députés du groupe GDR ayant voté « Pour » l'amendement n°I-1042 (déposé par Mme Mesmeur et des députés du groupe LFI-NFP, sans cosignature de sa part), qui abrogeait l'article L. 841-5 du code de l'éducation instituant la contribution de vie étudiante et de campus (CVEC, 105 euros selon l'exposé sommaire) ; amendement non adopté (27 pour, 46 contre, 58 abstentions). Lors de la même séance (première séance du 4 novembre 2026), il s'abstient sur l'amendement n°737 de M. Jean-Philippe Tanguy (groupe RN), qui abroge le même article et a été adopté (55 pour, 53 contre, scrutin n°9702).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-05",
+          "value": 1,
+          "quote": "Par cet amendement, le groupe LFI demande la suppression de la Contribution de vie étudiante et de campus (CVEC), afin de réduire les dépenses obligatoires qui pèsent sur les étudiants au moment de leur inscription dans l’enseignement supérieur.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/1042",
+          "inferred": true,
+          "note": "Déduit : vote « Pour » la suppression d'un prélèvement obligatoire de 105 euros payé par les étudiants à leur inscription, une mesure voisine qui va dans le sens d'une université quasi gratuite sans porter sur les droits d'inscription eux-mêmes, et il s'abstient sur l'amendement n°737 du groupe RN, qui a le même objet (scrutin n°9702, une abstention ne fondant aucune position contraire), d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-11-vote-taxes-solidaires-apd",
+      "date": "2026-11-04",
+      "title": "Scrutin public n°9688 — amendements identiques n°996 rectifié de Mme Diop et suivants affectant à l'Agence française de développement une partie du produit de la taxe sur les billets d'avion et de la taxe sur les transactions financières (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9688",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les députés ayant voté « Pour » les amendements identiques n°996 rectifié (groupe Socialistes et apparentés), 1411 rectifié, 1515 rectifié et 2227 rectifié à l'article 42. Ces amendements affectaient à l'Agence française de développement (AFD) une partie du produit du tarif de solidarité de la taxe sur le transport aérien et de la taxe sur les transactions financières, soit 738 millions d'euros ; ils n'ont pas été adoptés (78 pour, 101 contre). Lors de la même séance du 4 novembre 2026, il a voté « Pour » l'amendement n°1139 (groupe LFI-NFP), qui affectait à l'AFD 2,5 milliards d'euros de taxe sur les transactions financières (scrutin n°9690, non adopté, 66 pour, 108 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-10",
+          "value": 1,
+          "quote": "Fidèle à l’esprit originel des taxes solidaires, la réaffectation proposée par cet amendement permettrait donc de compenser en partie les coupes budgétaires inédites et massives réalisées depuis 2024 dans l’aide publique au développement",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/996",
+          "inferred": true,
+          "note": "Position déduite d'une mesure voisine. Il vote « Pour » l'affectation à l'AFD de recettes fiscales (738 millions d'euros), présentée comme une compensation « en partie » des baisses de crédits de l'aide publique au développement, et « Pour » l'amendement n°1139, qui affectait 2,5 milliards d'euros de taxe sur les transactions financières à l'AFD (scrutin n°9690). Ces votes vont dans le sens d'une hausse des moyens de l'aide au développement par rapport au projet de loi de finances, sans objectif chiffré de forte augmentation, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "maurel-2026-11-vote-cvae-cfe",
+      "date": "2026-11-03",
+      "title": "Scrutin public n°9614 — amendement n°1471 de M. Loubet supprimant la cotisation sur la valeur ajoutée des entreprises et la cotisation foncière des entreprises (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9614",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les députés ayant voté « Contre » l'amendement n°1471 (groupe RN), qui supprimait à compter de 2027 la cotisation sur la valeur ajoutée des entreprises (CVAE) et la cotisation foncière des entreprises (CFE). L'amendement n'a pas été adopté (45 pour, 61 contre). Lors de la même séance du 3 novembre 2026, il a voté « Pour » l'amendement n°2094 (groupe LFI-NFP), qui revenait sur la baisse de la CFE décidée par la loi de finances pour 2023 (scrutin n°9613, non adopté, 40 pour, 74 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Cet amendement vise à supprimer, dès le 1er janvier 2027, deux impôts de production : la cotisation sur la valeur ajoutée des entreprises et la cotisation foncière des entreprises.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/1471",
+          "note": "Vote contre la suppression de deux impôts de production (CVAE et CFE), que l'exposé sommaire présente comme une mesure pour « renforcer la compétitivité des entreprises » ; le vote ne porte pas sur l'impôt sur les sociétés. Le même jour, il vote « Pour » le rétablissement de la CFE (scrutin n°9613), mais aussi « Pour » l'amendement n°2330, qui supprimait une hausse temporaire de l'IFER sur les installations photovoltaïques mises en service avant 2021, une mesure propre à ce secteur (scrutin n°9599). D'où −1, même valeur que le vote du 27 octobre 2026 sur la surtaxe d'impôt sur les sociétés."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-11-vote-tva-energie",
       "date": "2026-11-02",
       "title": "Scrutin public n°9488 — amendement n°635 de Mme Le Pen appliquant une TVA à 5,5 % au gaz, à l'électricité, au fioul et aux carburants (projet de loi de finances pour 2027, première lecture)",

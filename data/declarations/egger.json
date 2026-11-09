@@ -2,6 +2,44 @@
   "candidateId": "egger",
   "declarations": [
     {
+      "id": "egger-2026-11-programme",
+      "date": "2026-11-04",
+      "title": "Programme de Solution Démocratique à l’élection présidentielle 2027",
+      "sourceType": "programme",
+      "sourceUrl": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+      "publisher": "Solution démocratique (parti dont Clara Egger est la candidate désignée)",
+      "summary": "Programme présidentiel de 28 pages publié en PDF le 4 novembre 2026 sur la page « Programme présidentielle » du site du parti ; le communiqué du parti du 5 novembre le présente comme « porté par Clara Egger ». L'engagement numéro un est d'inscrire dans la Constitution le RIC constituant et le référendum obligatoire sur les révisions constitutionnelles. Sur treize thèmes, le programme décrit un rôle d'arbitre pour le président et renvoie la plupart des décisions au Parlement, au gouvernement ou à référendum.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Si nous ne devons réaliser qu’une seule promesse, ce sera celle-ci. Le texte intégral de la réforme est publié sur notre site. Il prévoit notamment un seuil de signatures de 700 000 citoyens en 18 mois et un référendum obligatoire sur les révisions constitutionnelles.",
+          "page": "7",
+          "note": "Confirme le +2 (egger-2026-10-baronnet) : le programme complet fait du RIC constituant (initiative de 700 000 citoyens en 18 mois, référendum obligatoire sur les révisions constitutionnelles) sa promesse numéro un ; programme du parti dont Clara Egger est la candidate désignée."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 1,
+          "quote": "Le président refusera de signer les ordonnances qui priveraient le Parlement d’un débat qui lui revient (article 13) et s’opposera en Conseil des ministres au recours au 49.3, sauf circonstances exceptionnelles liées à des urgences particulièrement flagrantes.",
+          "page": "11",
+          "note": "+1 : c'est un engagement de pratique présidentielle (s'opposer en Conseil des ministres au recours au 49.3, sauf urgence exceptionnelle), sans proposition de supprimer ni de réviser l'article 49 alinéa 3 de la Constitution ; programme du parti dont Clara Egger est la candidate désignée."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 1,
+          "quote": "Les décisions les plus importantes en matière migratoire seront soumises à référendum si suffisamment de Français le demandent.",
+          "page": "21",
+          "note": "+1 conditionnel : le référendum n'aurait lieu que si suffisamment de Français le demandent, par le RIC, que le programme subordonne à une révision constitutionnelle approuvée par référendum ; le texte ne donne aucune orientation sur le contenu de la politique migratoire. Programme du parti dont Clara Egger est la candidate désignée."
+        }
+      ]
+    },
+    {
       "id": "egger-2026-10-baronnet",
       "date": "2026-10-19",
       "title": "Présidentielle 2027 : Laurent Baronnet, maire de Salagnac, soutient Clara Egger pour redonner du pouvoir aux communes",

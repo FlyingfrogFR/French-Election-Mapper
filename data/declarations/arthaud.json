@@ -2,6 +2,45 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-11-depliant-campagne",
+      "date": "2026-11-03",
+      "title": "Dépliant de campagne de Nathalie Arthaud (3 novembre 2026)",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+      "publisher": "Lutte ouvrière",
+      "summary": "Dépliant de campagne de quatre pages paru le 3 novembre 2026 et mis en ligne le 04/11/2026 sur le portail de Lutte ouvrière. Sa première page, « Pourquoi je suis candidate », est signée par Nathalie Arthaud. Les pages suivantes présentent des « objectifs de lutte » (Smic à 2 200 €, indexation des salaires, retraites et pensions, répartition du travail sans perte de salaire, suppression du secret commercial et bancaire) et des textes sur le mouvement de la jeunesse, le racisme et la guerre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Exigeons L’AUGMENTATION des salaires, des retraites et des pensions, le SMIC à 2 200 € et leur INDEXATION sur l’inflation.",
+          "page": "2",
+          "note": "Le dépliant de campagne revendique « le SMIC à 2 200 € », présenté comme un objectif de lutte pour les travailleurs, sans dire si la hausse passerait par une décision de l'État. Même valeur que l'éditorial du 02/11/2026."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Exigeons L’AUGMENTATION des salaires, des retraites et des pensions, le SMIC à 2 200 € et leur INDEXATION sur l’inflation.",
+          "page": "2",
+          "note": "Demande explicitement l'indexation sur l'inflation des salaires, des retraites et des pensions. Même valeur que l'éditorial du 02/11/2026."
+        },
+        {
+          "questionId": "edu-06",
+          "value": -1,
+          "quote": "Et les discours se multiplient pour préparer la jeunesse à mourir « pour la patrie », le gouvernement a même déjà réintroduit une forme de service national.",
+          "page": "3",
+          "inferred": true,
+          "note": "Le dépliant classe la réintroduction par le gouvernement d'« une forme de service national » parmi les discours qui préparent la jeunesse à mourir « pour la patrie ». Il ne parle ni d'un service obligatoire ni d'un service civil, d'où une position déduite à −1."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-11-breve-plein-emploi",
       "date": "2026-11-02",
       "title": "Brève « “Plein-emploi” : paroles, paroles… »",

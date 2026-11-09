@@ -2,6 +2,102 @@
   "candidateId": "mikolajczak",
   "declarations": [
     {
+      "id": "mikolajczak-2026-11-programme",
+      "date": "2026-11-05",
+      "title": "Renouer - L'essentiel, programme synthétique pour l'élection présidentielle 2027",
+      "sourceType": "programme",
+      "sourceUrl": "https://parti-equinoxe.fr/wp-content/uploads/2026/11/Equinoxe-Lessentiel-Programme-synthetique-pour-lelection-presidentielle-1.pdf",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Premier livret programmatique d'Équinoxe pour 2027, préfacé et signé par son candidat Antoine Mikolajczak (« Ce programme, c'est le vôtre ! »), publié le 5 novembre 2026 en PDF (version du fichier mise à jour le 6 novembre) et en douze pages web. Il présente douze mesures phares réparties en trois priorités : décider collectivement, produire en France, vivre en bonne santé.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-06",
+          "value": 2,
+          "quote": "Il ou elle est élu au jugement majoritaire, pour un mandat unique de sept ans.",
+          "page": "14",
+          "note": "Septennat unique, repris p. 20 (« La présidence de la République fera l'objet d'un mandat unique de sept ans »)."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Une partie des sièges est ainsi attribuée à la proportionnelle à l’échelle nationale, l’autre partie selon les résultats en circonscription (redécoupée en pays).",
+          "page": "14",
+          "note": "Remplace le +1 déduit du communiqué du 25 septembre 2026 : le programme propose explicitement un scrutin mixte, avec 227 des 577 sièges attribués à la proportionnelle nationale."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1,
+          "quote": "Le vote blanc est reconnu et pris en compte dans la composition de l’Assemblée nationale : une part des sièges, correspondant à la proportion de votes blancs, est attribuée à des citoyennes et citoyens tirés au sort.",
+          "sourceUrl": "https://parti-equinoxe.fr/programme-2027/operation-montesquieu-partage-du-pouvoir/",
+          "note": "Le vote blanc est reconnu aux législatives : une part des sièges égale à la part des votes blancs va à des citoyens tirés au sort, mais le texte ne dit pas que ces votes compteraient parmi les suffrages exprimés."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 1,
+          "quote": "Ils peuvent prendre différentes formes : référendums d’initiative citoyenne, conventions citoyennes délibératives ou renforcement du référendum d’initiative partagée, entre autres.",
+          "sourceUrl": "https://parti-equinoxe.fr/programme-2027/operation-montesquieu-partage-du-pouvoir/",
+          "note": "Sous « Nos propositions », le RIC est cité comme une forme possible, parmi d'autres, des dispositifs de démocratie directe « mis en place », sans engagement à l'instaurer en tant que tel."
+        },
+        {
+          "questionId": "ins-11",
+          "value": 1,
+          "quote": "L’exercice des mandats électifs sera limité dans le temps, à deux mandats pour une même fonction, à l’exception des maires des petites communes.",
+          "page": "20",
+          "note": "Limite fixée à deux mandats pour une même fonction plutôt qu'à trois, avec une exception pour les maires des petites communes."
+        },
+        {
+          "questionId": "env-08",
+          "value": 2,
+          "quote": "Le prix du carbone est progressivement ajusté pour suivre une trajectoire de réduction des émissions fixée démocratiquement, en visant a minima 100€/tCO2e à horizon 2030.",
+          "page": "32",
+          "note": "La même page prévoit que 80 % des recettes reviennent aux ménages sous forme de revenu carbone mensuel, avec un complément de solidarité pour les ménages modestes et ruraux."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Les recommandations de l’Anses et les interdictions de l’Union européenne concernant les pesticides sont respectées en France. Les dérogations d’urgence accordées actuellement cessent",
+          "page": "42",
+          "note": "Fin des dérogations d'urgence actuelles et respect des interdictions européennes de pesticides."
+        },
+        {
+          "questionId": "env-05",
+          "value": 1,
+          "quote": "Guidée par la science et des experts, cette assemblée de 150 citoyens et citoyennes tirés au sort définit des objectifs écologiques, élabore des orientations sectorielles et des recommandations concrètes pour la France.",
+          "page": "30",
+          "inferred": true,
+          "note": "Déduit de la Chambre citoyenne permanente, qui fixe des orientations sectorielles déclinées par six conventions sectorielles et dispose d'un veto qui oblige à réexaminer les lois contraires ; le texte ne fixe pas d'objectifs chiffrés de réduction d'émissions secteur par secteur."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Dans chaque territoire, les installations de médecins libéraux sont conditionnées aux besoins prioritaires, établis à partir de la consultation des parties prenantes (citoyens, professionnels, élus, etc.).",
+          "page": "48",
+          "note": "Avec un nouveau zonage des besoins par bassin de vie et par spécialité."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Par exemple, des prix minimum d’importation sont instaurés grâce à des droits de douane calés sur les coûts de production européens. Une stratégie de relocalisation & maintien industriel est établie pour nos secteurs les plus stratégiques, avec une coordination au niveau européen.",
+          "page": "28",
+          "note": "Confirme le +1 déduit du 17 juillet 2026, ici sur des mesures explicites (droits de douane, stratégie de relocalisation, aides publiques sous conditions), sans que leur coût soit abordé et avec un financement reposant « notamment » sur l'épargne privée."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "La commande publique française et européenne privilégie la souveraineté, en particulier pour la défense, l’énergie et le numérique.",
+          "page": "28",
+          "inferred": true,
+          "note": "Déduit de la priorité donnée à la souveraineté dans la commande publique, notamment de défense ; le surcoût éventuel n'est pas abordé."
+        }
+      ]
+    },
+    {
       "id": "mikolajczak-2026-10-lyceens",
       "date": "2026-10-20",
       "title": "Nos réponses aux revendications lycéennes",

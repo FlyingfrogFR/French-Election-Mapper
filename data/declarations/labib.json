@@ -2,6 +2,30 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-11-edito-amplifier",
+      "date": "2026-11-09",
+      "title": "Éditorial du NPA-Révolutionnaires du 9 novembre 2026 — « Amplifier le mouvement pour gagner »",
+      "sourceType": "communique",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/amplifier-le-mouvement-pour-gagner",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Éditorial non signé du NPA-Révolutionnaires daté du 9 novembre 2026, publié dans la rubrique « Éditos » de son site (aussi téléchargeable au format ODT). Après la grève du 5 novembre et les manifestations du 7 novembre, il juge « dérisoires » les résultats de la concertation lancée par le gouvernement, dont une hausse du Smic de 1,6 % (23 euros). Il relaie les revendications des lycéens contre le « tri social » de Parcoursup, réclame des augmentations d'au moins 600 euros pour tous les salaires et appelle à étendre la grève, en citant les journées du 10 et du 17 novembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "il faut de véritables augmentations de tous les salaires, au moins 600 euros pour tous, et pas les minables 23 euros que le gouvernement ose présenter comme un « coup de pouce » donné au Smic !",
+          "inferred": true,
+          "note": "Éditorial non signé du parti dont elle est la candidate désignée : il réclame « au moins 600 euros pour tous » et juge insuffisante la hausse du Smic de 1,6 % (23 euros) présentée par le gouvernement comme un « coup de pouce », soit une demande bien supérieure à l'indexation. Il ne dit pas si la hausse doit venir d'une décision de l'État ou des luttes, d'où « déduite ». Même valeur que l'éditorial du 25 octobre 2026, et le Smic y est aussi nommé."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-11-breve-cnews",
       "date": "2026-11-01",
       "title": "Brève du NPA-Révolutionnaires du 1er novembre 2026 — « La pétition « Supprimer CNews » dépasse les 300 000 signatures »",

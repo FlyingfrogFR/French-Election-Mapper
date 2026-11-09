@@ -2,6 +2,30 @@
   "candidateId": "glucksmann",
   "declarations": [
     {
+      "id": "glucksmann-2026-11-revolution-ecologique",
+      "date": "2026-11-09",
+      "title": "Révolution écologique : les premiers 100 jours pour sortir des énergies fossiles (livret, première partie)",
+      "sourceType": "programme",
+      "sourceUrl": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+      "publisher": "Campagne de Raphaël Glucksmann 2027 (glucks2027.fr)",
+      "summary": "Livret de campagne de 24 pages publié le 9 novembre 2026 sur le site de campagne et signé par Raphaël Glucksmann et Yannick Jadot. Il présente les mesures des cent premiers jours pour sortir des énergies fossiles : 200 milliards d'euros d'investissement public sur cinq ans, contribution exceptionnelle sur les plus hauts patrimoines, chèque énergie, leasing social, pompes à chaleur, mix énergétique fondé sur les renouvelables et le nucléaire, et mesures d'adaptation au changement climatique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Le mix s’appuiera sur un déploiement massif des énergies renouvelables et la pérennisation de l’énergie nucléaire.",
+          "page": "15",
+          "note": "Confirme le −2 du projet Acte I (2025) : le livret prévoit la « pérennisation » de l'énergie nucléaire et, à la même page, la prolongation des réacteurs existants, soit l'inverse d'une sortie du nucléaire."
+        }
+      ]
+    },
+    {
       "id": "glucksmann-pp-com-budget-2025-09",
       "date": "2025-09-02",
       "title": "Redonner de la crédibilité, de la justice et de la stabilité à la France (communiqué de presse du 2 septembre 2025)",
