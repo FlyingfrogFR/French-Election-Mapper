@@ -2,6 +2,43 @@
   "candidateId": "becht",
   "declarations": [
     {
+      "id": "becht-2026-11-livre-partie-10",
+      "date": "2026-11-05",
+      "title": "Le Projet France, partie 10 : « Un nouveau modèle pour redresser nos comptes publics »",
+      "sourceType": "programme",
+      "sourceUrl": "https://becht2027.fr/chapitre/partie-10/",
+      "publisher": "Olivier Becht – Le Projet France (becht2027.fr)",
+      "summary": "Dixième partie du livre-programme « Le Projet France », publiée en feuilleton sur le site de campagne : diagnostic de la dette et du déficit, engagement de ne ni augmenter ni baisser le taux des impôts, « rabot » de 3 % sur toutes les dépenses (environ 50 milliards d’euros), économies attendues de la suppression de normes, de la croissance, de réformes structurelles et de la lutte contre la fraude, retour à l’équilibre visé en moins de 7 ans, grands projets financés par le fonds souverain ou par la Confédération européenne. Page non datée : mise en ligne le 5 novembre 2026 selon la date donnée par l’API et le plan (sitemap) du site becht2027.fr.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Ne pas augmenter les impôts oblige donc à baisser les dépenses. La seule solution plausible à court terme est le rabot, celui que j’ai employé dans ma ville dès le lendemain des élections : un abattement égalitaire sur toutes les dépenses.",
+          "note": "Remplace +1 de la tribune de février 2025 : le chapitre fait d’un « rabot » de 3 % sur toutes les dépenses (environ 50 milliards d’euros, « le tiers du déficit ») la première étape du redressement, sans hausse du taux des impôts ; il vise l’équilibre en moins de 7 ans, sans mentionner le seuil de 3 % du PIB."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "le taux des impôts n’augmentera pas, mais ne baissera pas non plus. Ni hausse ni baisse. Les règles sont claires et ne changeront pas, et ménages comme entreprises auront enfin un horizon stable.",
+          "inferred": true,
+          "note": "Déduit : le chapitre s’engage à ne ni augmenter ni baisser le taux des impôts, « ménages comme entreprises », ce qui exclut une nouvelle baisse de l’impôt sur les sociétés et des impôts de production, que le texte ne nomme pas."
+        },
+        {
+          "questionId": "eco-10",
+          "value": -2,
+          "quote": "Augmenter les impôts est la solution de facilité, et un drame dans un pays qui a déjà l’une des pressions fiscales les plus élevées du monde. C’est la flûte des mauvais bergers, qui promettent que les riches paieront au nom de la justice fiscale",
+          "inferred": true,
+          "note": "Déduit : le chapitre écrit « Nous n’augmenterons pas le taux des impôts » et rejette la promesse « que les riches paieront », ce qui exclut l’ajout de tranches d’impôt sur le revenu plus élevées pour les hauts revenus, mesure que le texte ne nomme pas."
+        }
+      ]
+    },
+    {
       "id": "becht-2026-11-livre-partie-9",
       "date": "2026-11-02",
       "title": "Le Projet France, partie 9 : « Un nouveau modèle de rayonnement »",

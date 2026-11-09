@@ -2,6 +2,150 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
+      "id": "dupont-aignan-2026-11-projet-economie",
+      "date": "2026-11-05",
+      "title": "Le Projet de Debout La France – Économie : « Récompenser le travail et relocaliser ! » (mise à jour du 5 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Nouvelle version de la page thématique Économie du projet de Debout la France, mise à jour le 2026-11-05 (dateModified 2026-11-05T13:09:00Z). Elle présente toujours 30 mesures en trois volets. Changements par rapport à la version du 2026-10-27 : le « Buy French Act » (préférence nationale dans la commande publique) y figure de nouveau ; la défiscalisation des heures supplémentaires passe d'une limite de 100 à 300 heures par an ; une taxe sur l'exploitation des données personnelles est ajoutée ; la mesure de crédit d'impôt production ne mentionne plus la « division par 2 de l'IS pour les bénéfices réinvestis en France » ; la relance du projet Astrid est ajoutée ; plusieurs chiffrages sont revus, dont le coût de la suppression de la TVA sur la taxe sur les carburants (5 milliards d'euros au lieu de 6) et la retraite complémentaire projetée (400 euros par mois au lieu de 500). Les passages cités pour la version du 2026-10-27 sont repris à l'identique. Nicolas Dupont-Aignan préside le parti et en est le candidat déclaré ; le lien « Projet » de son site de campagne renvoie vers le projet du parti.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doubler les plafonds d’exonération des donations, exonérer de 90 % la valeur des titres d’une entreprise transmise (75 % actuellement).",
+          "note": "Même mesure que dans la version du 27/10/2026 de la page."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Baisser de 40 centimes le prix des carburants (suppression des certificats d’économies d’énergie (CEE) : 17 centimes; suppression de la TVA sur la taxe (5 milliards d’euros de coût) : 13 centimes ; plafonnement des marges des raffineurs : 10 centimes).",
+          "note": "Mesure partielle, identique à la version du 27/10/2026 sauf le coût annoncé (5 milliards d'euros au lieu de 6) : la page supprime la TVA appliquée à la taxe sur les carburants mais ne prévoit pas de taux de 5,5 % sur toute l'énergie ; l'électricité et le gaz baissent par d'autres moyens (sortie du marché européen, monopoles publics)."
+        },
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Baisser les impôts de production (3,2 % du PIB, soit près du double de la médiane des pays européens et du quadruple de l’Allemagne, ce qui décourage nos entrepreneurs).",
+          "note": "La page prévoit aussi un crédit d'impôt production pour les entreprises qui réinvestissent leurs bénéfices en France, et une baisse de l'impôt sur les sociétés liée à l'actionnariat salarié (1 point par tranche de 5 % supplémentaires, dans la limite de 10 points)."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Créer un grand fonds d’investissement et de relocalisation doté de 4 milliards d’euros par an et piloté par la Caisse des dépôts et consignations, qui favoriserait l’investissement productif, la robotisation, l’emploi et la recherche dans les zones périphériques et rurales notamment.",
+          "note": "La page prévoit aussi un « protectionnisme intelligent », des droits de douane compensateurs et, de retour par rapport à la version du 27/10/2026, un « Buy French Act » qui réserve la commande publique aux entreprises produisant en France tant que leur prix ne dépasse pas de plus de 50 % celui du produit étranger."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1,
+          "quote": "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l’inflation",
+          "note": "L'indexation ne vise que les pensions de retraite et les traitements des fonctionnaires, pas l'ensemble des salaires ; même texte que dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 1,
+          "quote": "À 60 ans, le bénéficiaire disposerait ainsi d’un socle de retraite par capitalisation, qui viendrait en complément de la retraite par répartition.",
+          "note": "Sans changement : un capital de 10 000 euros versé à chaque nouveau-né dans un fonds public de capitalisation vient compléter la retraite par répartition, qui est maintenue."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "Couper les pompes aspirantes migratoires et économiser 5 milliards d’euros (conditionner les aides sociales non contributives à 5 ans de résidence pour tout étranger, supprimer l’AME, lutter contre les fraudes aux mineurs isolés).",
+          "note": "Suppression explicite de l'AME, comme dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Couper les pompes aspirantes migratoires et économiser 5 milliards d’euros (conditionner les aides sociales non contributives à 5 ans de résidence pour tout étranger, supprimer l’AME, lutter contre les fraudes aux mineurs isolés).",
+          "note": "Pour les étrangers, les aides sociales non contributives sont conditionnées à cinq ans de résidence, comme dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Les programmes de construction des EPR2 et de déploiement des petits réacteurs modulaires français pour remplacer nos centrales en fin de vie seront accélérés.",
+          "inferred": true,
+          "note": "Position déduite, comme pour les versions précédentes : la page accélère les EPR2 et le déploiement de petits réacteurs modulaires destinés à remplacer les centrales en fin de vie, donc de nouveaux réacteurs au-delà des six EPR2, sans en donner le nombre."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Diviser par 2 le prix de l’électricité dès la première année en : Sortant du marché européen de fixation du prix de l'électricité.",
+          "note": "Même mesure que dans la version du 27/10/2026 : sortie du marché européen de l'électricité, avec retour au monopole d'EDF et tarif réglementé national."
+        },
+        {
+          "questionId": "env-09",
+          "value": 2,
+          "quote": "Diviser par 2 l’ensemble des normes administratives qui entravent la bonne marche des entreprises et exaspèrent les Français (les ZFE seront supprimées, tout comme le seuil minimal de DPE pour louer un logement…) et zéro taxe et zéro norme supplémentaire pour les TPE/PME.",
+          "note": "La suppression des ZFE est annoncée explicitement, comme dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Diviser par 2 l’ensemble des normes administratives qui entravent la bonne marche des entreprises et exaspèrent les Français (les ZFE seront supprimées, tout comme le seuil minimal de DPE pour louer un logement…) et zéro taxe et zéro norme supplémentaire pour les TPE/PME.",
+          "note": "Le seuil minimal de DPE exigé pour louer un logement est supprimé, comme dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Sortir de l’UE et économiser ainsi les 15 milliards d’euros de notre solde contributeur.",
+          "note": "Sortie de l'UE, comme dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "Mettre fin aux aides à l’Ukraine (7 milliards d’euros par an en comptant les aides de la France et la quote-part des aides de l’UE dues par la France).",
+          "note": "Fin de toutes les aides à l'Ukraine, chiffrées à 7 milliards d'euros par an, comme dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "eur-11",
+          "value": 2,
+          "quote": "Un grand emprunt national offrant un avantage fiscal aux Français permettra de reprendre le contrôle de notre dette et de conforter notre nouvelle monnaie à l’exemple du Japon.",
+          "inferred": true,
+          "note": "Position déduite, comme pour les versions précédentes : la page prévoit de sortir de l'UE, de rapatrier le pouvoir monétaire de la BCE vers une Banque de France autonome et parle de « notre nouvelle monnaie » ; la sortie de l'euro n'y est pas écrite en ces termes."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Supprimer l’échelon régional, le mandat de conseiller régional, les intercommunalités inutiles, le Conseil économique, social et environnemental (CESE), tout en renforçant le pouvoir des maires et des conseils départementaux, avec un objectif de 10 milliards d’euros par an au terme de 3 ans.",
+          "note": "Suppression de l'échelon régional et des intercommunalités « inutiles » au profit des communes et des départements, comme dans la version du 27/10/2026."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doubler les plafonds d’exonération des donations, exonérer de 90 % la valeur des titres d’une entreprise transmise (75 % actuellement).",
+          "note": "Les droits de succession sont supprimés sur les 100 premiers hectares de terres agricoles, comme dans la version du 27/10/2026."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-2026-11-projet-affaires-etrangeres",
+      "date": "2026-11-03",
+      "title": "Le Projet de Debout La France – Affaires étrangères : « Une politique étrangère indépendante au service d'une certaine idée de la France ! » (mise à jour du 3 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Page thématique Affaires étrangères du projet de Debout la France, publiée le 2022-09-15 et mise à jour le 2026-11-03 (dateModified 2026-11-03T14:45:29Z). Le texte de la page est identique à celui relevé le 2026-11-02, avant cette mise à jour. Elle présente 23 mesures, parmi lesquelles la sortie du commandement militaire intégré de l'OTAN, la fin de l'Union européenne actuelle au profit d'une « Europe des Nations libres », la paix en Ukraine avec une relance du partenariat avec la Russie, et le recentrage de l'aide au développement sur les pays francophones. Nicolas Dupont-Aignan préside le parti et en est le candidat déclaré.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Sortir du commandement militaire intégré de l’OTAN pour rebâtir une défense nationale autonome.",
+          "note": "Même mesure que dans la page Défense (version du 16/02/2026), avec la même précision."
+        }
+      ]
+    },
+    {
       "id": "dupont-aignan-2026-10-projet-economie-27-octobre",
       "date": "2026-10-27",
       "title": "Le Projet de Debout La France – Économie : « Récompenser le travail et relocaliser ! » (mise à jour du 27 octobre 2026)",

@@ -2,6 +2,54 @@
   "candidateId": "guedj",
   "declarations": [
     {
+      "id": "guedj-2026-11-vote-apd",
+      "date": "2026-11-04",
+      "title": "Scrutin public n°9688 — amendement n°996 (rect.) affectant une partie de la taxe sur les billets d'avion et de la taxe sur les transactions financières à l'Agence française de développement (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9688",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj, cosignataire de l'amendement n°996 (rect.) du groupe Socialistes et apparentés, figure nommément parmi les députés ayant voté « Pour ». L'amendement affectait à l'Agence française de développement 738 millions d'euros du produit de la TSBA et de la TTF, pour compenser en partie les baisses de crédits de l'aide publique au développement depuis 2024. Il n'a pas été adopté (78 pour, 101 contre ; aucune mise au point).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-10",
+          "value": 1,
+          "quote": "la réaffectation proposée par cet amendement permettrait donc de compenser en partie les coupes budgétaires inédites et massives réalisées depuis 2024 dans l’aide publique au développement, en apportant à la solidarité internationale une source de revenus pérenne et prévisible.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/996",
+          "note": "Cosignataire et vote « Pour » le 4 novembre 2026. La mesure accroît les ressources de l'aide publique au développement (738 M€), mais l'amendement la présente comme une compensation partielle des baisses depuis 2024 et non comme une forte augmentation, d'où +1. Même vote « Pour » les amendements n°952 (scrutin n°9689) et n°1139 (scrutin n°9690) du groupe LFI, qui affectaient aussi à l'AFD une partie de la TSBA et de la TTF."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-11-vote-cvae-cfe",
+      "date": "2026-11-03",
+      "title": "Scrutin public n°9614 — amendement n°1471 supprimant la cotisation sur la valeur ajoutée des entreprises et la cotisation foncière des entreprises (projet de loi de finances pour 2027, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9614",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Contre » l'amendement n°1471 (groupe Rassemblement national). L'amendement supprimait dès 2027 la CVAE et la CFE, présentées comme deux impôts de production. Il n'a pas été adopté (45 pour, 61 contre ; aucune mise au point).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": -1,
+          "quote": "Cet amendement vise à supprimer, dès le 1er janvier 2027, deux impôts de production : la cotisation sur la valeur ajoutée des entreprises et la cotisation foncière des entreprises.",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/1471",
+          "note": "Vote « Contre » la suppression de deux impôts de production, que l'exposé justifie par la compétitivité des entreprises. La mesure est partielle (impôts de production seulement, rien sur l'impôt sur les sociétés), d'où −1, valeur inchangée par rapport au scrutin n°9080. Même sens : votes « Contre » l'amendement n°645 (suppression de la CFE, scrutin n°9564 du 2 novembre) et l'amendement n°3614 (base de CFE des immobilisations industrielles réduite de moitié, scrutin n°9592)."
+        }
+      ]
+    },
+    {
       "id": "guedj-2026-10-vote-c3s",
       "date": "2026-10-23",
       "title": "Scrutin public n°9080 — amendement n°293 supprimant la contribution sociale de solidarité des sociétés (projet de loi de financement de la sécurité sociale pour 2027, première lecture)",

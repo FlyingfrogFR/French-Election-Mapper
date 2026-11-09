@@ -2,6 +2,123 @@
   "candidateId": "tondelier",
   "declarations": [
     {
+      "id": "tondelier-2026-11-europe-grand-continent",
+      "date": "2026-11-09",
+      "title": "L’Europe qu’il nous faut",
+      "sourceType": "tribune",
+      "sourceUrl": "https://legrandcontinent.eu/fr/2026/11/09/tondelier-europe-quil-nous-faut/",
+      "publisher": "Le Grand Continent (texte signé Marine Tondelier, série « Doctrines françaises »)",
+      "summary": "Texte signé par Marine Tondelier et publié dans Le Grand Continent, dans la série « Doctrines françaises » dont la revue précise que les positions n’engagent pas sa rédaction. Il plaide pour une Europe fédérale « puissance de paix » : budget européen porté à 2 % du PIB européen en 2035 et 5 % en 2050 grâce à des ressources propres élargies et un emprunt commun, fin des « contraintes austéritaires » du Pacte de stabilité et de croissance, majorité qualifiée à la place de l’unanimité, développement du pilier européen de l’OTAN et commandement militaire intégré européen, soutien à l’aide militaire à l’Ukraine, transition écologique et agroécologique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-03",
+          "value": 2,
+          "quote": "donnons-lui une réalité concrète en créant un commandement militaire intégré européen sous la tutelle du Conseil de l’Union européenne, qui aille plus loin que l’actuel embryon de chaîne de commandement militaire intégrée.",
+          "note": "Même valeur que le programme de 2026, qui proposait déjà ce commandement intégré (p. 194). Le texte ajoute « une plus grande intégration des forces de défense » et le passage à la majorité qualifiée « pour la politique de sécurité commune »."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2,
+          "quote": "Je suis favorable à un budget européen renforcé à hauteur de 2 % du PIB européen en 2035 et 5 % en 2050, avec une plus grande contribution des États mais surtout des ressources propres élargies.",
+          "note": "Le texte nomme ensuite l’origine de ces ressources : un mécanisme d’ajustement carbone aux frontières renforcé et « une taxation commune des entreprises », plus un emprunt commun. Même valeur que le programme de 2026."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Nous voulons une France libre dans une Europe fédérale car désormais, les deux vont de pair.",
+          "note": "Le texte demande de « fédéraliser notre Union européenne » avec la France dedans. Même valeur et même fondement que le programme de 2026 (« saut fédéral européen », p. 189)."
+        }
+      ]
+    },
+    {
+      "id": "tondelier-2026-11-blog-5-novembre",
+      "date": "2026-11-05",
+      "title": "Billet « L’écologie est la seule réponse à la hauteur des crises que nous vivons que nous traversons »",
+      "sourceType": "autre",
+      "sourceUrl": "https://marinetondelier.fr/blog/macron-seul-contre-tous-5-novembre",
+      "publisher": "Marine Tondelier (blog de marinetondelier.fr)",
+      "summary": "Billet daté du 5 novembre 2026, jour de la mobilisation du 5 novembre, sur le blog de marinetondelier.fr. Il est écrit à la première personne au nom de Marine Tondelier ; la page indique « Écrit par Alexis Lebrun », nom qui figure sur la plupart des billets de ce blog. Il traite du pouvoir d'achat, de l'adaptation au changement climatique et de la fiscalité. Il reprend la taxe de 2 % sur les patrimoines de plus de 100 millions d'euros et le rétablissement de l'ISF avec une composante climatique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Nous voulons rétablir une véritable fiscalité sur les grandes fortunes, avec une taxe de 2 % sur les patrimoines supérieurs à 100 millions d’euros",
+          "note": "Même mesure et même seuil que le programme de juillet 2026."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "rétablir l’ISF en y intégrant une composante climatique pour orienter les investissements vers la transition écologique",
+          "note": "Rétablissement de l'ISF avec une composante climatique, comme dans le programme de juillet 2026."
+        }
+      ]
+    },
+    {
+      "id": "tondelier-2026-11-livret-travail",
+      "date": "2026-11-04",
+      "title": "Livret thématique « Travailler mieux »",
+      "sourceType": "programme",
+      "sourceUrl": "https://marinetondelier.fr/s/livret-travail.pdf",
+      "publisher": "Marine Tondelier / Les Écologistes (campagne de Marine Tondelier)",
+      "summary": "Livret thématique de la campagne de Marine Tondelier. L'édito est signé par Marine Tondelier et par le député Charles Fournier. La couverture porte « Novembre 2026 » et le livret a été présenté sur lesecologistes.fr le 4 novembre 2026. Il propose notamment un SMIC à 2 000 € brut dès 2027, un plan « santé au travail » visant zéro mort au travail en 2032, un congé climatique, la réduction de la durée légale du travail à 32 heures dans les métiers pénibles et de nuit, une sécurité sociale professionnelle et un droit de veto écologique des CSE.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Augmenter le salaire minimum à 2000€ brut par mois dès 2027",
+          "page": "22",
+          "note": "Même mesure que le programme de juillet 2026, reprise parmi les mesures clés du livret (p. 10)."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "Réduire la durée légale du travail à 32 heures sans perte de salaire dans les métiers pénibles et de nuit en y conditionnant les aides aux entreprises. Expérimenter, comme le fait l’Espagne, la semaine de 4 jours en 32 heures pendant 3 ans dans 200 entreprises volontaires",
+          "page": "24",
+          "note": "Réduction légale à 32 heures limitée aux métiers pénibles et de nuit, plus une expérimentation de la semaine de 4 jours dans 200 entreprises volontaires. Le programme ne prévoyait pas cette expérimentation."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -2,
+          "quote": "Réduire la durée légale du travail à 32 heures sans perte de salaire dans les métiers pénibles et de nuit",
+          "page": "24",
+          "inferred": true,
+          "note": "Déduite : le livret propose de réduire la durée légale du travail dans les métiers pénibles et de nuit, à l'inverse d'un relèvement. Il ne parle pas explicitement des 35 heures."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 1,
+          "quote": "Améliorer le traitement des fonctionnaires par l’indexation du point d’indice sur l’inflation",
+          "page": "22",
+          "note": "Indexation prévue pour le point d'indice des fonctionnaires seulement. Le livret ne propose pas d'indexation automatique générale des salaires du privé."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Régulariser les travailleur·ses sur la base de critères objectifs (durée de résidence, effectivité du lien familial, durée ou promesse d’activité professionnelle).",
+          "page": "27",
+          "note": "Régularisation des travailleur·ses sur critères objectifs, dont l'activité professionnelle. Elle inclut les métiers en tension sans s'y limiter. Même formulation que le programme."
+        }
+      ]
+    },
+    {
       "id": "tondelier-2026-10-tract-lycees",
       "date": "2026-10-12",
       "title": "Tract « Nos lycées, notre avenir ! » : nos propositions",
