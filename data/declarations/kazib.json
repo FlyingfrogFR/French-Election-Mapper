@@ -2,6 +2,55 @@
   "candidateId": "kazib",
   "declarations": [
     {
+      "id": "kazib-2026-11-conference-sociale",
+      "date": "2026-11-06",
+      "title": "Billet « La conférence sociale ne distribuera que des miettes ! »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.revolutionpermanente.fr/La-conference-sociale-ne-distribuera-que-des-miettes-Anasse-Kazib-appelle-a-durcir-la-mobilisation",
+      "publisher": "Révolution Permanente (billet signé Anasse Kazib)",
+      "summary": "Billet signé Anasse Kazib, publié le 6 novembre 2026 sur le site de Révolution Permanente, qui dénonce la conférence sociale convoquée par le gouvernement après la journée de grève du 5 novembre et énumère des revendications : SMIC à 2 000 € net, indexation des salaires sur l'inflation, baisse du temps de travail, retour à la retraite à 60 ans, plan d'investissement pour l'école.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Une augmentation du SMIC de quelques euros ne changera rien. Il faut lutter pour : Un SMIC à 2 000 € net",
+          "note": "Reprend la revendication du dépliant de septembre 2026 (SMIC à 2 000 € net), face à une hausse de quelques euros envisagée par le gouvernement ; valeur inchangée."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Il faut lutter pour : Un SMIC à 2 000 € net L’indexation des salaires sur l’inflation",
+          "note": "Reprend la revendication du dépliant de septembre 2026 ; valeur inchangée."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Il faut lutter pour : Un SMIC à 2 000 € net L’indexation des salaires sur l’inflation La baisse du temps de travail Le retour à la retraite à 60 ans",
+          "note": "Revendication explicite du retour à la retraite à 60 ans, aussi précise que celle du dépliant de septembre 2026 ; valeur inchangée."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Il faut lutter pour : Un SMIC à 2 000 € net L’indexation des salaires sur l’inflation La baisse du temps de travail Le retour à la retraite à 60 ans",
+          "inferred": true,
+          "note": "Déduite : revenir à la retraite à 60 ans implique d'abroger la réforme de 2023, qui porte l'âge légal à 64 ans ; même déduction que pour le dépliant de septembre 2026, valeur inchangée."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Il faut lutter pour : Un SMIC à 2 000 € net L’indexation des salaires sur l’inflation La baisse du temps de travail Le retour à la retraite à 60 ans",
+          "inferred": true,
+          "note": "Déduite : la demande d'un retour à la retraite à 60 ans exclut de relever l'âge légal au-delà de 64 ans ; même déduction que pour le dépliant de septembre 2026, valeur inchangée."
+        }
+      ]
+    },
+    {
       "id": "kazib-2026-09-pisa",
       "date": "2026-09-09",
       "title": "Billet d'Anasse Kazib sur le rapport PISA : « la macronie ose s'indigner après 10 années à détruire l'école »",

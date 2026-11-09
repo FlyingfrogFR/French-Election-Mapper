@@ -2,6 +2,1206 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-10-plan-sante",
+      "date": "2026-10-30",
+      "title": "Comment nous allons reconstruire notre système de santé (plan thématique)",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan thématique présenté comme complémentaire de L'Avenir en commun et consacré à la santé : suppression des franchises, « 100 % Sécu », centres de santé et régulation de l'installation des médecins, recrutements à l'hôpital, psychiatrie, santé environnementale, légalisation encadrée du cannabis et pôle public du médicament. La page n'affiche pas de date : ses métadonnées indiquent une publication le 30 octobre 2026 et une modification le 4 novembre, jour de la mise en ligne du PDF. Consultée le 9 novembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Réguler l'installation des médecins et généraliser les guichets uniques pour les démarches d'installation des soignants",
+          "note": "Même valeur que la source actuelle (AEC du 6 novembre 2026, plus récente)."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Engager un plan de recrutement pluriannuel pour avoir 100 000 soignant·es et médecins supplémentaires à l'hôpital, 300 000 dans le secteur médico-social et les EHPAD",
+          "note": "Plan pluriannuel d'embauches à l'hôpital. Le même plan prévoit une hausse immédiate de 10 % du point d'indice des soignants et la suppression de l'ONDAM. Même valeur que la source actuelle (contre-budget du 14 octobre 2026)."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Instaurer le « 100 % Sécu » : intégrer les complémentaires privées à la Sécurité sociale et utiliser l'argent ainsi récupéré pour rembourser à 100 % les soins de santé prescrits (dont les soins et appareils dentaires, optiques, auditifs, prothèses)",
+          "note": "Même valeur que la source actuelle (AEC du 6 novembre 2026, plus récente)."
+        },
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Supprimer les franchises médicales et les participations forfaitaires sur les soins",
+          "note": "Sens inverse de l'affirmation : le plan supprime les franchises médicales et les participations forfaitaires. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-06",
+          "value": 2,
+          "quote": "Légaliser et encadrer par un monopole d'État la consommation, la production et la vente de cannabis à des fins récréatives dans des conditions permettant de lutter contre l'addiction",
+          "note": "Même valeur que la source actuelle (AEC du 6 novembre 2026, plus récente)."
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Augmenter le nombre de places en faculté de médecine et créer des écoles normales de la santé et du social dans les collectivités afin de former davantage de professionnel·les de santé et du médico-social",
+          "note": "Le plan prévoit aussi un « plan de formation massif », la fin effective du numerus apertus et le rétablissement du redoublement à l'entrée en médecine. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-08",
+          "value": 2,
+          "quote": "Après revalorisation des rémunérations, mettre fin aux dépassements d'honoraires dans une réforme plus profonde du financement",
+          "note": "Fin des dépassements d'honoraires, placée après une revalorisation des rémunérations. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Engager trois milliards d'euros contre les violences faites aux femmes et coordonner les actions de santé publique avec les acteurs de terrain",
+          "note": "Budget dédié de trois milliards d'euros. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Nous refuserons les OGM et bannirons les pesticides nuisibles avec l'interdiction immédiate des plus dangereux (glyphosate, néonicotinoïdes, etc.)",
+          "note": "Sens inverse de l'affirmation : le plan interdit immédiatement les néonicotinoïdes. Même valeur que la source actuelle."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-11-bourget",
+      "date": "2026-11-07",
+      "title": "Discours du meeting du Bourget consacré au programme de gouvernement",
+      "sourceType": "discours",
+      "sourceUrl": "https://melenchon.fr/2026/11/07/grand-meeting-du-bourget-notre-programme-de-gouvernement/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr)",
+      "summary": "Transcription, publiée sur le blog du candidat, du discours prononcé par Jean-Luc Mélenchon au Bourget le 7 novembre 2026 pour présenter la version actualisée de L’Avenir en commun.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": -2,
+          "quote": "C’est la raison pour laquelle nous allons abandonner le programme macroniste du « nouveau nucléaire français ». Il est dangereux.",
+          "note": "Il annonce l’abandon du programme de nouveaux réacteurs ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "À tout moment, ici le nouveau référendum d’initiative citoyenne donnera au peuple un pouvoir législatif direct. Et aussi celui de révoquer un élu quel qu’il soit en cours de mandat, président de la République inclus.",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Le droit de vote à 16 ans, qui, s’il est appliqué, rendra les autres beaucoup plus vigilants sur ce qu’il se passe dans les lycées.",
+          "note": "Il reprend le droit de vote à 16 ans parmi les mesures de son « agenda » ; même valeur que la source actuelle."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-11-avenir-en-commun",
+      "date": "2026-11-06",
+      "title": "L’Avenir en commun, le programme de la Nouvelle France (édition 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/livre/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Nouvelle édition du programme L’Avenir en commun (1 069 mesures), mise en ligne chapitre par chapitre sur le site de campagne et sortie en librairie le 6 novembre 2026, introduite par un texte de Jean-Luc Mélenchon qui la présente comme le programme qu’il appliquera avec son équipe. Les pages ne sont pas datées : la date retenue est celle de la sortie en librairie, annoncée par La France insoumise le 2 novembre 2026 et confirmée par la page « Commander le programme » du site de campagne.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "Rétablir et renforcer l’impôt de solidarité sur la fortune (ISF) incluant un volet climatique visant à taxer les gros pollueurs",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "note": "Même valeur que la source actuelle (contre-budget du 14 octobre 2026)."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Introduire une garantie d’impôt de 2 % sur le patrimoine des centimillionaires, dite « taxe Zucman »",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "note": "Même valeur que la source actuelle ; l’édition 2026 vise désormais les « centimillionaires », soit le seuil de 100 millions d’euros de l’affirmation."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Bloquer et encadrer les prix des produits de première nécessité (alimentation, énergie, carburant) et interdire la « réduflation » (réduction des quantités pour le même prix)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "note": "Même valeur que la source actuelle ; mesure d’un « état d’urgence sociale »."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Passer au crible les niches fiscales et supprimer celles qui sont injustes, inefficaces socialement ou nuisibles écologiquement",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "note": "Même valeur que la source actuelle ; le programme supprime aussi les niches sur le kérosène et sur les meublés de tourisme."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 2,
+          "quote": "Engager un plan de reconstruction industrielle pour mettre fin à la dépendance de la France dans les domaines stratégiques (semi-conducteurs, médicaments, etc.)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre2",
+          "note": "Même valeur que la source actuelle ; avec « mesures antidumping d’urgence » et « droits de douane sur des critères écologiques » dans le même chapitre."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "Rendre l’impôt sur le revenu plus progressif avec un barème à 14 tranches contre 5 aujourd’hui",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "Identifier et interdire les produits dérivés toxiques et inutiles de la finance, limiter les effets de levier et les rendements actionnariaux exorbitants, taxer les rachats d’action",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+          "note": "Taxation des rachats d’actions ; le programme module aussi l’impôt sur les sociétés pour décourager la distribution de dividendes et supprime la flat tax ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Revenir sur les privatisations (aéroports, autoroutes, Française des jeux, etc.)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre1",
+          "note": "Même valeur que la source actuelle ; le programme renationalise aussi la SNCF, Engie et les autoroutes."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "Abroger la réforme Macron passant l’âge de départ à la retraite à 64 ans, puis abaisser l’âge de départ jusqu’à restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Abroger la réforme Macron passant l’âge de départ à la retraite à 64 ans, puis abaisser l’âge de départ jusqu’à restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Retour progressif à 60 ans à taux plein pour 40 annuités ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "Abroger la réforme Macron passant l’âge de départ à la retraite à 64 ans, puis abaisser l’âge de départ jusqu’à restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Mesure inverse (retour à 60 ans) ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Augmenter immédiatement le SMIC à 1 700 euros net mensuel et les minima sociaux",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "Annuler les réformes Macron sur l’éligibilité et les méthodes de calcul du montant et de la durée de l’allocation, de sorte à indemniser les chômeurs en fonction de leurs derniers salaires, grâce à une assurance calculée à partir du premier jour de travail",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Sens inverse : annulation des réformes qui ont réduit, entre autres, la durée de l’allocation ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-06",
+          "value": -2,
+          "quote": "Rétablir immédiatement la durée légale hebdomadaire du temps de travail à 35 heures",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Sens inverse : rétablissement des 35 heures ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2,
+          "quote": "Abroger la loi dite « France Travail » et l’obligation de réaliser 15 heures d’activité hebdomadaire contre un revenu de remplacement : allocation chômage, allocation de solidarité spécifique (ASS), revenu de solidarité active (RSA)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-08",
+          "value": -1,
+          "quote": "en majorant les heures supplémentaires, cotisations incluses, à 25 % pour les quatre premières et 50 % au-delà",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "inferred": true,
+          "note": "Déduite : les heures supplémentaires restent soumises à cotisations (« cotisations incluses ») ; l’exonération d’impôt sur le revenu n’est pas abordée ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Porter immédiatement le SMIC mensuel à 1 700 euros net et indexer les salaires sur l’inflation dans le privé comme dans la fonction publique",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-10",
+          "value": 2,
+          "quote": "passer aux 32 heures dans les métiers pénibles ou de nuit et favoriser leur généralisation par la négociation collective",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "32 heures par la loi dans les métiers pénibles ou de nuit, généralisation favorisée par la négociation collective ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-11",
+          "value": 2,
+          "quote": "Interdire les licenciements boursiers et économiques par les entreprises qui versent des dividendes ou bénéficient des aides de l’État",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-02",
+          "value": 1,
+          "quote": "Créer une garantie d’autonomie, qui permettra que nul ne soit privé de sa dignité pour vivre : le revenu mensuel de chaque personne atteindra le seuil de pauvreté (1 337 euros pour une personne seule)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "inferred": true,
+          "note": "Revenu minimum garanti (complément jusqu’au seuil de pauvreté), mais pas un revenu universel versé à tous ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-03",
+          "value": -2,
+          "quote": "Intégrer l’aide médicale d’État (AME) au régime général de la Sécurité sociale, abroger les restrictions d’accès instaurées en 2026 et renforcer sa couverture",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Sens inverse : AME intégrée au régime général, restrictions de 2026 abrogées ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 2,
+          "quote": "Financer l’autonomie des jeunes détachés du foyer fiscal parental grâce à la garantie d’autonomie qui les portera au-dessus du seuil de pauvreté (1 337 euros pour une personne seule)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+          "inferred": true,
+          "note": "Déduite : le programme ne parle pas de RSA à 18 ans mais crée pour les jeunes détachés du foyer fiscal une garantie d’autonomie au-dessus du seuil de pauvreté ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "Porter, a minima, toutes les pensions pour une carrière complète (salarié, indépendant, agriculteur) au niveau du SMIC revalorisé, et le minimum vieillesse au niveau du seuil de pauvreté",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-08",
+          "value": -2,
+          "quote": "Interdire certains usages de l’IA et du « big data » qui vont à l’encontre des droits individuels et sociaux : identification biométrique, surveillance pour l’évaluation des droits sociaux",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre7",
+          "inferred": true,
+          "note": "Déduite : la carte Vitale biométrique n’est pas nommée, mais le programme interdit l’identification biométrique et la surveillance pour l’évaluation des droits sociaux, ainsi que la notation des allocataires ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Réguler l’installation des médecins, généraliser les guichets uniques pour les démarches d’installation des soignants",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les assurances maladie complémentaires dans la Sécurité sociale",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-04",
+          "value": -2,
+          "quote": "Garantir le zéro reste à charge en supprimant les franchises médicales, les participations forfaitaires et les frais annexes (comme le stationnement payant à l’hôpital)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Sens inverse : suppression des franchises et participations forfaitaires ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-05",
+          "value": 2,
+          "quote": "Ajouter dans la Constitution le droit de mourir dans la dignité (y compris avec assistance) et l’accès garanti à des soins palliatifs",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-06",
+          "value": 2,
+          "quote": "Légaliser et encadrer par un monopole d’État la consommation, la production et la vente de cannabis à des fins médicales et récréatives dans des conditions permettant de lutter publiquement contre l’addiction",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-07",
+          "value": 2,
+          "quote": "Augmenter le nombre de places en faculté de médecine et créer des écoles normales de la santé et du social dans les collectivités afin de former davantage de professionnels de santé et du médico-social",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+          "note": "Même valeur que la source actuelle ; le programme supprime aussi la sélection Parcoursup."
+        },
+        {
+          "questionId": "san-08",
+          "value": 2,
+          "quote": "Mettre fin aux dépassements d’honoraires dans le secteur conventionné en révisant les inadéquations tarifaires",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+          "note": "Même valeur que la source actuelle (livret santé 2022) ; la mesure figure désormais au programme, pour le secteur conventionné."
+        },
+        {
+          "questionId": "san-09",
+          "value": 2,
+          "quote": "Élargir le conventionnement de psychologues par la Sécurité sociale, au-delà de 12 séances par an et avec un remboursement à 100 %",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+          "note": "Même valeur que la source actuelle, désormais explicite (remboursement à 100 % au-delà de 12 séances) et non plus déduite."
+        },
+        {
+          "questionId": "edu-01",
+          "value": -2,
+          "quote": "Mettre fin à l’expérimentation de l’uniforme",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Rattraper le gel du point d’indice depuis 2010 et revaloriser les grilles salariales en engageant une négociation avec les organisations syndicales",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Revalorisation proposée, mais pas « en priorité sur les autres dépenses éducatives » : le programme augmente aussi les recrutements et réduit les effectifs par classe ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "edu-04",
+          "value": 2,
+          "quote": "Appliquer un malus au financement public des établissements privés sous contrat contribuant à la ségrégation socio-scolaire",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Aussi : interdiction des subventions facultatives des collectivités et abrogation de la loi Carle ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "Instaurer la gratuité de l’enseignement supérieur, de la licence au doctorat, quelle que soit la nationalité des étudiants",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "edu-06",
+          "value": 2,
+          "quote": "Nous proposons à la place un service citoyen obligatoire avant l’âge de 25 ans, rémunéré au SMIC revalorisé pendant neuf mois",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Service citoyen obligatoire (conscription citoyenne écologique) en remplacement du SNU et du service militaire volontaire ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "edu-09",
+          "value": 2,
+          "quote": "Fournir les moyens réels pour assurer à tous les élèves en collège et lycée les trois séances annuelles d’éducation à la vie affective, relationnelle et à la sexualité (EVARS) prévues par la loi",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "edu-11",
+          "value": 2,
+          "quote": "Mettre en place une véritable politique d’éducation prioritaire en refondant la carte de l’éducation prioritaire en fonction des besoins",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Avec réduction des effectifs par classe en priorité dans les classes des actuels REP ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 2,
+          "quote": "Financer l’autonomie des jeunes détachés du foyer fiscal parental grâce à la garantie d’autonomie qui les portera au-dessus du seuil de pauvreté (1 337 euros pour une personne seule)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+          "inferred": true,
+          "note": "Déduite : les bourses ne sont pas citées ; le programme leur substitue une garantie d’autonomie au-dessus du seuil de pauvreté pour les jeunes détachés du foyer fiscal ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-01",
+          "value": -2,
+          "quote": "Planifier la fermeture progressive des centrales nucléaires existantes en ne prolongeant pas au-delà de 60 ans leur durée de vie et arrêter le programme de nouveau nucléaire (EPR2)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Arrêt du programme EPR2 lui-même ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-02",
+          "value": 2,
+          "quote": "Planifier la fermeture progressive des centrales nucléaires existantes en ne prolongeant pas au-delà de 60 ans leur durée de vie et arrêter le programme de nouveau nucléaire (EPR2)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Fermeture progressive du parc (pas de prolongation au-delà de 60 ans) et objectif de 100 % d’énergies renouvelables au plus tard en 2060 ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-03",
+          "value": -2,
+          "quote": "Déployer l’éolien en mer, posé et flottant, pour atteindre au moins 45 gigawatts de puissance installée en 2050",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre5",
+          "note": "Mesure inverse d’un moratoire ; le programme interdit seulement l’éolien « exigeant des coupes rases » ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-05",
+          "value": 2,
+          "quote": "Obliger les entreprises à adopter une comptabilité carbone pour les émissions directes et indirectes de GES certifiée par un organisme public agréé en commençant par les secteurs les plus polluants – énergie, transport, bâtiment, industrie lourde – puis selon la taille des entreprises",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+          "note": "Comptabilité carbone obligatoire, en commençant par les secteurs les plus polluants, avec une trajectoire de baisse des émissions et des lois-cadres de planification écologique ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Planifier la réduction progressive des doses d’engrais et de pesticides, interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l’importation de productions qui en contiennent",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+          "note": "Sens inverse : interdiction immédiate des néonicotinoïdes ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-08",
+          "value": -1,
+          "quote": "Mais aussi l’extension du marché carbone aux particuliers pour le logement et le transport, qui fera payer aux plus précaires le coût de la transition écologique.",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre1",
+          "inferred": true,
+          "note": "Déduite : aucune taxe carbone proposée, et l’extension de la tarification carbone aux ménages est critiquée comme faisant payer les plus précaires ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-09",
+          "value": 1,
+          "quote": "Décréter un moratoire sur les zones à faibles émissions (ZFE) dans leur conception actuelle, dont les critères induisent des inégalités sociales",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Moratoire sur les ZFE « dans leur conception actuelle », pas une suppression définitive ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-10",
+          "value": 2,
+          "quote": "Supprimer les lignes aériennes intérieures quand l’alternative en train est inférieure à quatre heures",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-11",
+          "value": 2,
+          "quote": "Lancer des grands travaux de rénovation des voies ferrées et de réouverture des lignes et gares fermées ces trente dernières années",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Avec renationalisation de la SNCF et « grand plan d’investissements » ; le programme refuse les règles budgétaires européennes ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-12",
+          "value": 2,
+          "quote": "Privilégier les rénovations complètes, interdire réellement la location des passoires thermiques, renforcer les programmes de détection des passoires énergétiques",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Même valeur que la source actuelle ; aucun calendrier précis n’est cité."
+        },
+        {
+          "questionId": "env-13",
+          "value": -2,
+          "quote": "Sanctuariser la ressource en eau en instaurant un moratoire immédiat sur les méga-bassines et en en finissant avec l’accaparement de l’eau",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "env-14",
+          "value": 2,
+          "quote": "Respecter au plus vite les engagements climatiques de la France, relever le niveau de ses ambitions, avec une baisse de 65 % des émissions de gaz à effet de serre (GES) d’ici 2033, et rendre public un bilan annuel incluant les émissions importées",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+          "note": "Même valeur que la source actuelle ; l’objectif de −65 % est désormais fixé à 2033."
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "Faciliter l’accès aux visas et instituer la carte de séjour de dix ans comme titre de séjour de référence",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre3",
+          "note": "Mesure inverse (facilitation des visas) ; aucun quota proposé ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Régulariser les travailleurs, étudiants, parents d’enfants scolarisés sans papiers",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre3",
+          "note": "Régularisation des travailleurs sans restriction aux métiers en tension ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "imm-05",
+          "value": -2,
+          "quote": "Garantir le droit du sol intégral à tous les enfants nés en France, le rétablir sur l’ensemble du territoire national et faciliter l’accès à la nationalité française",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre4",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "Assumer notre devoir d’humanité envers les réfugiés en garantissant sans concession le droit d’asile",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre3",
+          "inferred": true,
+          "note": "Déduite : droit d’asile garanti « sans concession », accès aux visas facilité et structures d’accueil en nombre suffisant ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "imm-12",
+          "value": 2,
+          "quote": "Instituer le droit de vote des étrangers aux élections locales",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre4",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "imm-13",
+          "value": -2,
+          "quote": "Fermer les centres de rétention administrative (CRA) en les remplaçant par des alternatives plus humaines et efficaces fondées sur l’accompagnement juridique, l’hébergement ouvert et le respect des libertés fondamentales",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre3",
+          "inferred": true,
+          "note": "Déduite : la fermeture des centres de rétention exclut une rétention systématique des personnes sous OQTF ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-02",
+          "value": -1,
+          "quote": "Sortir de la logique du tout carcéral, respecter la dignité et les droits des personnes privées de liberté",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre2",
+          "inferred": true,
+          "note": "Déduite : la réponse à la surpopulation est un mécanisme de régulation carcérale, sans programme de construction de places ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-04",
+          "value": -1,
+          "quote": "Intégrer progressivement les polices municipales dans une police de proximité républicaine, formée aux exigences du service public, sous l’autorité fonctionnelle des maires et l’autorité hiérarchique de l’État, sans armes létales",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre2",
+          "note": "Le programme exclut l’armement létal des polices municipales, intégrées à une police de proximité d’État ; il ne se prononce pas sur leurs pouvoirs de police judiciaire."
+        },
+        {
+          "questionId": "sec-05",
+          "value": 2,
+          "quote": "Mettre en place le récépissé de contrôle d’identité par les agents de police et la gendarmerie pour lutter contre le contrôle au faciès, accompagné de dispositifs de formation, de contrôle et de sanctions",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre4",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-06",
+          "value": -2,
+          "quote": "Revenir sur toutes les mesures qui alignent la justice des mineurs sur celle des adultes, rétablir les principes de l’ordonnance de février 1945 de primauté de l’action éducative sur l’action répressive",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+          "inferred": true,
+          "note": "Déduite : l’ordonnance de 1945 fonde l’atténuation de responsabilité des mineurs, et le programme refuse tout alignement sur la justice des adultes ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-07",
+          "value": -2,
+          "quote": "Interdire la reconnaissance faciale",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre2",
+          "note": "La mesure vise la reconnaissance faciale et la surveillance biométrique généralisée « dans les espaces publics » ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Planifier des moyens pour la justice et recruter davantage de fonctionnaires : magistrats, greffiers, agents de la protection judiciaire de la jeunesse",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre2",
+          "note": "Hausse des moyens sans objectif chiffré de doublement du budget ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-09",
+          "value": -1,
+          "quote": "S’attaquer aux causes des addictions pour engager une politique de réduction des risques plutôt que de continuer une politique de répression des consommateurs",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+          "note": "Position mixte : pilotage de la politique des drogues confié au ministère de la Santé, mais moyens de police et de douane accrus contre les filières du crime organisé ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Abroger la loi dite « Cazeneuve » sur le refus d’obtempérer et refuser la loi dite « permis de tuer XXL » instaurant une présomption de légitime défense pour les policiers",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-12",
+          "value": 2,
+          "quote": "Rétablir la police de proximité comme pilier du service public et démanteler les brigades anticriminalité (BAC) ainsi que les brigades de répression des actions violentes motorisées (BRAV-M)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "sec-13",
+          "value": -2,
+          "quote": "S’attaquer aux causes des addictions pour engager une politique de réduction des risques plutôt que de continuer une politique de répression des consommateurs",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+          "note": "Avec légalisation encadrée du cannabis récréatif ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-01",
+          "value": 2,
+          "quote": "Convoquer une Constituante pour passer à la 6e République",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Instaurer le référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Donner le droit de vote à 16 ans",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Élire l’Assemblée nationale au scrutin proportionnel",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Proportionnelle intégrale, au-delà d’une simple « part » ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2,
+          "quote": "Reconnaître le vote blanc, mettre en place le vote obligatoire et instaurer un seuil de votes exprimés pour valider une élection",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-07",
+          "value": 1,
+          "quote": "Instaurer le référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "inferred": true,
+          "note": "Déduite : l’article 11 n’est pas modifié en tant que tel, mais le RIC permettrait des référendums sur toute loi ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-08",
+          "value": 2,
+          "quote": "Reconnaître le vote blanc, mettre en place le vote obligatoire et instaurer un seuil de votes exprimés pour valider une élection",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 0,
+          "quote": "Affirmer les trois échelons de l’organisation décentralisée de l’État (communes, départements, éco-régions) pour mettre fin à la superposition d’échelons technocratiques (métropoles, intercommunalités géantes), qui éloignent les citoyens des prises de décision",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Position mixte : suppression des échelons « technocratiques » (métropoles, intercommunalités géantes) mais maintien des départements et des régions transformées en éco-régions ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-11",
+          "value": 1,
+          "quote": "Rendre effectif le principe du non-cumul des mandats et des indemnités, y compris dans le temps",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Non-cumul « dans le temps » sans préciser le nombre de mandats consécutifs ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-12",
+          "value": 2,
+          "quote": "Donner à la Corse le statut garanti par un nouvel article de la Constitution, assorti d’un principe de non-régression sociale et environnementale",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Statut inscrit dans un nouvel article de la Constitution ; le programme prévoit aussi une conférence sur l’avenir institutionnel des territoires insulaires et éloignés ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "Abolir les procédures de « votes forcés » du Parlement comme l’article 49.3 de la Constitution de la Ve République",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 2,
+          "quote": "Avec nous, la France ne sortira ni de l’Union, ni de la zone euro",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre1",
+          "note": "Remplace +1 déduit de l’AEC 2025 : l’édition 2026 écrit explicitement que la France ne sortira pas de l’Union, d’où +2 non déduit ; ce n’est pas un changement d’orientation."
+        },
+        {
+          "questionId": "eur-11",
+          "value": -2,
+          "quote": "Avec nous, la France ne sortira ni de l’Union, ni de la zone euro",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre1",
+          "note": "Remplace −1 déduit de l’AEC 2025 : l’édition 2026 écrit explicitement que la France ne sortira pas de la zone euro, d’où −2 non déduit ; ce n’est pas un changement d’orientation."
+        },
+        {
+          "questionId": "eur-05",
+          "value": -2,
+          "quote": "Se retirer immédiatement du commandement intégré de l’OTAN puis, par étapes, de l’organisation elle-même",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "Mettre en place des sanctions contre le gouvernement Netanyahou, faire appliquer le mandat d’arrêt contre le Premier ministre israélien ainsi que les autres responsables israéliens visés, et suspendre l’accord d’association entre l’UE et l’État d’Israël",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre2",
+          "note": "Même valeur que la source actuelle ; la suspension de l’accord d’association UE-Israël est désormais écrite au programme."
+        },
+        {
+          "questionId": "eur-07",
+          "value": 2,
+          "quote": "Rompre avec les accords internationaux qui augmentent la déforestation et industrialisent la forêt : Mercosur, crédits compensation carbone, etc.",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eur-09",
+          "value": 2,
+          "quote": "elle appliquera, en revanche, sans aucune concession, le programme choisi démocratiquement par son peuple, même si cela n’est pas permis par les traités.",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre1",
+          "note": "Le Parlement votera aussi sur la suspension du semestre européen et d’autres règles qui empêchent l’application du programme ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2,
+          "quote": "Consacrer 0,7 % du revenu national brut à une aide publique au développement débarrassée du carcan néolibéral",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eur-13",
+          "value": 2,
+          "quote": "L’introduction de protections douanières et d’un impôt sur les multinationales dans le prochain budget européen",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre1",
+          "note": "Recettes nouvelles prélevées au niveau de l’Union (droits de douane, impôt sur les multinationales) pour le prochain budget européen ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "def-03",
+          "value": 1,
+          "quote": "elle comprend également une formation militaire initiale (avec droit d’objection de conscience)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+          "note": "Conscription citoyenne obligatoire de neuf mois, principalement civile, avec formation militaire initiale et droit d’objection : pas un service militaire à proprement parler ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "log-01",
+          "value": 2,
+          "quote": "Geler les loyers le temps de déployer un encadrement des loyers partout sur le territoire et à la baisse dans les grandes villes",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+          "note": "Encadrement partout sur le territoire, zones tendues comprises ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "log-02",
+          "value": 2,
+          "quote": "Rehausser le seuil de logements sociaux à 30 % dans les villes (loi relative à la solidarité et au renouvellement urbain, dite « SRU »), le calculer par arrondissements pour les grandes métropoles et aggraver les sanctions contre les communes hors la loi",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Mettre en place un plan de protection généralisée du foncier agricole, forestier et naturel en vue de mettre en œuvre le « zéro artificialisation nette » (ZAN) des sols dans l’Hexagone",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Instaurer un moratoire sur les fermetures d’écoles, de maternités, de bureaux de poste, de gares et de tous les services publics de proximité",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "log-08",
+          "value": 2,
+          "quote": "Mettre en place une garantie universelle des loyers créant un filet de sécurité contre les impayés de loyers pour les locataires comme pour les propriétaires",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "agr-01",
+          "value": 2,
+          "quote": "Garantir des prix rémunérateurs aux producteurs en instaurant des prix planchers pour les agriculteurs",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Même valeur que la source actuelle (plan d’urgence agricole du groupe LFI du 3 septembre 2026)."
+        },
+        {
+          "questionId": "agr-02",
+          "value": -2,
+          "quote": "Aucune norme européenne ne pourra donc s’appliquer si elle est moins ambitieuse qu’une norme nationale sur le plan social ou écologique.",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre1",
+          "inferred": true,
+          "note": "Déduite : le principe de non-régression maintient les normes nationales plus exigeantes, et le programme refuse le plan « omnibus » qui réautorise des pesticides ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "créer une caisse de défaisance pour reprendre les dettes agricoles des exploitants qui se sont convertis au 100 % bio",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Avec réorientation de la PAC vers la production écologiquement soutenable et restauration collective 100 % biologique ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Instaurer un protectionnisme écologique pour tenir compte des conditions de production : appliquer la « clause de sauvegarde » pour interdire l’importation de produits contrevenant aux normes sanitaires ou environnementales nationales",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Même valeur que la source actuelle ; le programme veut aussi « imposer le respect des normes sociales et écologiques pour la commercialisation des produits importés en France »."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 2,
+          "quote": "Interdire les fermes-usines",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Mesure clé, avec de nouvelles normes d’élevage (accès à l’air libre, densité) ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "agr-06",
+          "value": 2,
+          "quote": "Interdire les pratiques de chasse, de pêche et de « loisirs » dès lors qu’elles sont cruelles pour les animaux (déterrage, chasse à courre, pêche au vif, corrida, exploitation des animaux sauvages dans les cirques et les delphinariums, etc.)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "note": "Encadrement par interdiction de certaines pratiques de chasse ; pas de « jours sans chasse » ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "num-02",
+          "value": -2,
+          "quote": "Garantir l’indépendance, le pluralisme et le financement de l’audiovisuel public en instaurant une contribution audiovisuelle dédiée, universelle et progressive",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Mesure inverse de la privatisation ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "num-04",
+          "value": -1,
+          "quote": "Décréter un moratoire sur l’installation de centres de données non souverains (sans aucune participation publique)",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre7",
+          "note": "Position mixte : moratoire sur les centres de données sans participation publique et autorisation de construction obligatoire, mais cloud public composé de centres de données publics ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Adopter une loi anti-concentration dans les médias et engager leur démocratisation",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "num-06",
+          "value": -2,
+          "quote": "en réorientant les moyens du pass Culture vers des projets collectifs à l’école",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre3",
+          "inferred": true,
+          "note": "Déduite : le pass n’est pas supprimé nommément mais ses moyens sont réorientés vers des projets collectifs ; même valeur que la source actuelle."
+        },
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "Porter la dépense publique consacrée à l’art, à la culture et à la création à 1 % du produit intérieur brut (PIB) par an",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre3",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "lib-03",
+          "value": -2,
+          "quote": "Établir la filiation par reconnaissance comme principe par défaut, refuser la gestation pour autrui (GPA), faire prévaloir l’intérêt supérieur de l’enfant comme principe premier, en toutes circonstances",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Adopter une loi de lutte contre les violences sexistes et sexuelles et allouer les 3 milliards de budget demandés par les associations",
+          "sourceUrl": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+          "note": "Budget de 3 milliards d’euros demandé par les associations ; même valeur que la source actuelle."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-plan-esr",
+      "date": "2026-10-26",
+      "title": "Comment nous allons refonder l’enseignement supérieur, la recherche et la formation continue (plan thématique)",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan thématique complémentaire de L’Avenir en commun, consacré à l’enseignement supérieur, à la recherche et à la formation continue. Il prévoit l’abolition de Parcoursup et MonMaster, la gratuité du supérieur, une garantie d’autonomie pour les jeunes, des recrutements statutaires, la suppression du Crédit d’impôt recherche, de l’ANR et du HCÉRES, et la démarchandisation de la formation continue. La date (26 octobre 2026) est celle des métadonnées de publication de la page ; le PDF a été mis en ligne le même jour.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-02 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-05",
+          "value": 2,
+          "quote": "Instaurer la gratuité de l’enseignement supérieur, de la licence au doctorat, en supprimant également la contribution à la vie étudiante et de campus (CVEC), et en abrogeant l’augmentation des frais d’inscription décidée par Macron pour les étudiant·es étranger·es extracommunautaires",
+          "note": "Même valeur que la source actuelle (AEC 2025). Le plan reprend la gratuité de la licence au doctorat et y ajoute la suppression de la CVEC."
+        },
+        {
+          "questionId": "edu-12",
+          "value": 2,
+          "quote": "Créer une garantie d’autonomie pour tous les jeunes détaché·es du foyer fiscal de leurs parents afin qu’aucun·e ne vive en dessous du seuil de pauvreté (1 337 euros pour une personne seule)",
+          "inferred": true,
+          "note": "Déduite : le plan ne parle pas des bourses. Il prévoit à la place une garantie d’autonomie qui place au-dessus du seuil de pauvreté tous les jeunes détachés du foyer fiscal de leurs parents. Même valeur et même raisonnement que la source actuelle (AEC 2025), avec un seuil actualisé."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Nous supprimerons le Crédit d’impôt recherche au profit de dotations récurrentes à hauteur des besoins pour les universités et instituts de recherche.",
+          "note": "Même valeur que la source actuelle (contre-budget du 14 octobre 2026). Ailleurs, le plan qualifie le CIR de « niche fiscale notoirement inefficace » (plus de 8 milliards d’euros en 2025) et en annonce la suppression."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-mediapart",
+      "date": "2026-10-25",
+      "title": "« Le pouvoir n’aura qu’un seul choix, accepter les revendications ou s’en aller » – Entretien avec Mediapart",
+      "sourceType": "interview",
+      "sourceUrl": "https://melenchon.fr/2026/10/25/le-pouvoir-naura-quun-seul-choix-accepter-les-revendications-ou-sen-aller-entretien-avec-mediapart/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr), entretien paru dans Mediapart le 23 octobre 2026",
+      "summary": "Entretien paru dans Mediapart le 23 octobre 2026 et republié sur le blog de Jean-Luc Mélenchon le 25 octobre 2026. Il y commente la mobilisation de la jeunesse et contre la vie chère ainsi que la réponse policière du gouvernement, et présente la 6e République et la Constituante comme issue à la « crise de régime ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": 2,
+          "quote": "Parce qu’au bout de la crise de régime, nous avons une solution pacifique et positive. Je la résume : la 6ème République et la Constituante.",
+          "note": "Il cite explicitement la 6e République et la Constituante comme solution à la crise de régime. Même valeur que la source actuelle (AEC 2025)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-contre-budget",
+      "date": "2026-10-14",
+      "title": "Comment nous allons remettre de l’ordre dans les comptes publics",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Orientations budgétaires de La France insoumise pour 2027, présentées par Jean-Luc Mélenchon et Éric Coquerel en conférence de presse le 14 octobre 2026 et publiées le même jour sur le site de campagne : 106,4 Md€ de recettes nouvelles, 81,7 Md€ de dépenses nouvelles, 24,7 Md€ de réduction du déficit et 100 Md€ d’investissements du pôle public bancaire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": -2,
+          "quote": "Ainsi, refuser les coupes budgétaires et proposer un autre chemin, ce n’est pas seulement le résultat d’une vision politique, c’est aussi le choix économique le plus rationnel.",
+          "page": "18",
+          "note": "Même valeur que la source actuelle (AEC 2025) : le document rejette les coupes budgétaires (chapitre « La stratégie des coupes budgétaires est une impasse ») et réduit le déficit par des recettes nouvelles."
+        },
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "nous reviendrons sur les mesures fiscales les plus injustes des mandats d’Emmanuel Macron : suppression de la flat tax pour que le capital ne soit pas moins imposé que le travail (9 milliards d’euros), rétablissement d’un impôt sur la fortune renforcé (10 milliards d’euros)",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-03",
+          "value": 2,
+          "quote": "Cela passera par exemple par l’instauration de la taxe Zucman pour les personnes possédant plus de 100 millions d’euros de patrimoine",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025) ; recette attendue de 15 Md€."
+        },
+        {
+          "questionId": "eco-06",
+          "value": -2,
+          "quote": "Nous reviendrons sur cette injustice, et cette perte de recettes de l’État, via une réforme de l’impôt sur les sociétés (3 milliards)",
+          "page": "14",
+          "note": "Sens inverse de l’affirmation : réforme de l’IS rapportant 3 Md€ et « rétablissement de la CVAE sur les plus grandes entreprises » (p. 13). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Dans le cadre de l’état d’urgence sociale, un décret de blocage des prix du carburant sera pris pour ramener le prix à la pompe à 1,70 euro par litre.",
+          "page": "9",
+          "note": "Blocage des prix des carburants par décret au titre d’un « état d’urgence sociale » ; l’AEC 2025 range le carburant parmi les produits de première nécessité. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "rabotage et suppression des niches fiscales et sociales les plus injustes dont le coût a explosé (22 milliards d’euros en 2027)",
+          "page": "13",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 2,
+          "quote": "Nous réformerons l’impôt sur le revenu au cours du mandat pour le rendre plus progressif avec l’instauration de 14 tranches.",
+          "page": "14",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 2,
+          "quote": "en augmentant les taxes sur les transactions financières (5 milliards d’euros), les rachats d’actions (2,5 milliards)",
+          "page": "14",
+          "note": "Hausse de la taxe sur les rachats d’actions ; le document supprime aussi la flat tax sur les revenus du capital (p. 13). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-01",
+          "value": 2,
+          "quote": "C’est pourquoi nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros.",
+          "page": "11",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités, objectif sur un mandat.",
+          "page": "11",
+          "note": "Retour à 60 ans fixé comme objectif sur le mandat. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Ces mesures d’urgence sociale doivent être complétées par une hausse du SMIC à 1 700 euros net.",
+          "page": "9",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-05",
+          "value": -2,
+          "quote": "les gouvernements d’Emmanuel Macron ont réduit les droits à l’assurance chômage en tous points : conditions d’accès, montant, durée et dégressivité de l’indemnité. Nous proposons, dès l’année prochaine, d’abroger ces réformes pour un coût de 3 milliards d’euros.",
+          "page": "12",
+          "note": "Sens inverse : abrogation des réformes qui ont réduit, entre autres, la durée d’indemnisation. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Cette hausse sera accompagnée de la convocation d’une conférence exceptionnelle sur les salaires et d’une indexation généralisée de ceux-ci sur l’inflation.",
+          "page": "9",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-04",
+          "value": 1,
+          "quote": "en protégeant les milieux populaires et les familles de l’inflation, sur laquelle nous indexerons toutes les pensions, allocations familiales et APL, qui seront rehaussées de 10 % (8 milliards d’euros)",
+          "page": "8",
+          "note": "Les pensions, les allocations familiales et les APL sont explicitement indexées sur l’inflation, mais les minima sociaux ne sont pas cités : mesure partielle, d’où +1. Même valeur que la source actuelle, qui était déduite."
+        },
+        {
+          "questionId": "soc-07",
+          "value": 2,
+          "quote": "en refusant la désindexation des pensions et porter la pension minimum au niveau du SMIC pour une carrière complète.",
+          "page": "12",
+          "note": "Même valeur que la source actuelle (AEC 2025)."
+        },
+        {
+          "questionId": "san-02",
+          "value": 2,
+          "quote": "Nous proposons une hausse globale de 3 milliards d’euros du budget des hôpitaux avec au moins 10 000 créations de postes de personnel soignant.",
+          "page": "10",
+          "note": "Embauches à l’hôpital financées par une hausse du budget ; le document prévoit aussi une hausse de 10 % du point d’indice des fonctionnaires (p. 8). Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Pour lutter efficacement contre les violences sexistes et sexuelles, nous proposons un plan d’urgence pour atteindre les 3 milliards d’euros de budget demandés par les associations",
+          "page": "10",
+          "note": "Budget dédié porté à 3 Md€. Même valeur que la source actuelle (AEC 2025)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-plan-automobile",
+      "date": "2026-10-10",
+      "title": "Plan d’investissement productif : Automobile",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-investissement/automobile/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Deuxième plan d’investissement productif publié sur le site de campagne, élaboré par l’espace programme coordonné par Clémence Guetté et Hadrien Clouet : production de 2 millions de véhicules électriques par an en France d’ici 2032, véhicule électrique léger à partir de 10 000 euros, service public de location et aides conditionnées à la production en France. La date retenue est celle que portent les métadonnées de la page (datePublished, 10 octobre 2026), comme pour le plan Ruralité ; le PDF du plan joint à la page a été déposé sur le site le 14 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-19 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "Une politique sérieuse de réindustrialisation implique de fixer un prix national de l’électricité, émancipé du marché européen libéralisé.",
+          "note": "Même valeur que la source actuelle (AEC 2025), qui portait sur l’annulation de la libéralisation du marché de l’électricité ; ce plan est plus direct sur un prix national hors du marché européen."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-centre-presse",
+      "date": "2026-10-09",
+      "title": "« Tout pouvoir redoute les révoltes de la jeunesse » – interview pour Centre Presse publiée sur melenchon.fr",
+      "sourceType": "interview",
+      "sourceUrl": "https://melenchon.fr/2026/10/09/tout-pouvoir-redoute-les-revoltes-de-la-jeunesse-interview-pour-centre-presse/",
+      "publisher": "Jean-Luc Mélenchon (melenchon.fr), entretien paru dans le groupe Centre Presse le 9 octobre 2026",
+      "summary": "Entretien accordé au groupe Centre Presse avant le meeting de Clermont-Ferrand et publié en entier sur le blog officiel de Jean-Luc Mélenchon. Il y parle du mouvement lycéen et étudiant, de la campagne et de la primaire sociale-démocrate. Il propose aussi de reconnaître un « état d’urgence sociale » permettant de bloquer les prix (gel des loyers et des prix des carburants, de l’électricité et du gaz, blocage des marges) et de convoquer des négociations salariales obligatoires.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Par exemple bloquer les prix. Le gel des loyers, le gel du prix des carburants, de l'électricité et du gaz. La convocation extraordinaire de négociations obligatoires pour pouvoir rétablir un ajustement entre les paies et le niveau du coût de la vie, le blocage des marges.",
+          "note": "Il propose lui-même, au titre d’un « état d’urgence sociale » décrété « sous autorisation du Parlement », de bloquer les prix des carburants, de l’électricité et du gaz, c’est-à-dire de produits de première nécessité. Même valeur que la source actuelle (plan du groupe LFI du 3 septembre 2026)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-plan-ruralite",
+      "date": "2026-10-09",
+      "title": "« Comment nous allons garantir l’égalité pour des ruralités où il fait bon vivre ? » – plan thématique publié sur le site de campagne Mélenchon 2027",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan thématique sur les ruralités, présenté comme un document complémentaire de L’Avenir en commun et élaboré par l’espace programme de LFI coordonné par Clémence Guetté et Hadrien Clouet. Il porte sur les moyens et l’autonomie des communes, la planification écologique, l’arrêt des fermetures de services publics, les déserts médicaux, les transports, le numérique, le commerce de proximité et le tourisme. La page n’affiche pas de date : ses métadonnées indiquent une publication le 9 octobre 2026. Consultée le 12 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-07",
+          "value": 2,
+          "quote": "Stopper les fermetures de services publics et mettre en place un plan de redéploiement pour les populations rurales et périurbaines : bureaux de poste, gares de proximité, hôpitaux et services de santé, écoles, palais de justice, Trésor public",
+          "note": "Le plan propose de stopper les fermetures de services publics en zone rurale et cite les bureaux de poste, les gares et les écoles. Il n’y met aucune condition de rentabilité. Même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Actionner tous les leviers pour combattre les déserts médicaux : régulation de l'installation des médecins, recrutement de médecins publics, maillage du pays de centres de santé publics en exercice salarié et de maisons de santé pluriprofessionnelles, réouverture de pharmacies, etc.",
+          "note": "Le plan reprend la régulation de l’installation des médecins pour combattre les déserts médicaux. Même valeur que dans l’AEC 2025."
+        },
+        {
+          "questionId": "log-04",
+          "value": 2,
+          "quote": "Mettant en place un plan de protection généralisée du foncier agricole, forestier et naturel en vue de mettre en œuvre le zéro artificialisation nette (ZAN) des sols en Hexagone",
+          "note": "Le plan prévoit de mettre en œuvre l’objectif « zéro artificialisation nette » dans l’Hexagone et d’y soumettre l’implantation des grandes surfaces. Même valeur que dans l’AEC 2025, qui fixait en plus l’échéance de 2027."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-niche-pesticides",
+      "date": "2026-10-05",
+      "title": "« Niche 2026 - Interdire les pesticides poisons » – proposition de loi du groupe LFI",
+      "sourceType": "autre",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/10/05/niche-2026-interdire-les-pesticides-poisons/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Page du site de La France insoumise, datée du 5 octobre 2026, qui présente une proposition de loi du groupe LFI pour sa niche parlementaire de 2026 (rapporteure Mathilde Panot, cheffe de file Mathilde Hignet). Le texte vise à rétablir l’interdiction de l’acétamipride et du flupyradifurone, dont la loi « d’urgence agricole » de 2026 permet la réautorisation par l’ANSES sous certaines conditions.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Cette proposition de loi vise à rétablir l’interdiction de deux dangereux pesticides, l’acétamipride et le flupyradifurone, qui présentent de très graves risques pour la santé humaine et pour l’environnement.",
+          "note": "Proposition de loi du groupe parlementaire LFI : c’est une position du parti, et le candidat ne s’en est pas démarqué, puisque la tribune qu’il a cosignée le 19 août annonçait ce texte pour la niche du 29 octobre. Le texte rejette la réautorisation sous conditions de deux pesticides interdits et rétablit leur interdiction. Même valeur que la tribune du 19 août."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-10-niche-salaires",
+      "date": "2026-10-05",
+      "title": "« Niche 2026 – Augmenter les salaires et les retraites » – proposition de loi du groupe LFI présentée sur le site de LFI",
+      "sourceType": "autre",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/10/05/niche-2026-augmenter-les-salaires-et-les-retraites/",
+      "publisher": "Groupe LFI à l’Assemblée nationale (site officiel de LFI)",
+      "summary": "Présentation, sur le site de La France insoumise, d’une proposition de loi que le groupe LFI inscrit à sa niche parlementaire 2026 (rapporteur Hadrien Clouet, chef de file Bérenger Cernon). Elle comporte trois mesures : un salaire minimum à 1 700 euros net par mois, le rétablissement de l’échelle mobile des salaires et un minimum vieillesse relevé au niveau du seuil de pauvreté.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Nous proposons trois mesures : l’augmentation du salaire minimum à 1700 euros net par mois, le rétablissement de l’échelle mobile des salaires, la hausse du minimum vieillesse au niveau du seuil de pauvreté.",
+          "note": "Il s’agit d’une proposition de loi du groupe parlementaire LFI : c’est une position du parti dont le candidat ne s’est pas démarqué. Le texte porte le salaire minimum à 1 700 euros net par mois et souligne qu’il « n’a pas augmenté au-delà de l’inflation depuis 15 ans ». Même valeur que dans l’AEC 2025, qui proposait 1 600 euros net."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-09-ivg-evars",
       "date": "2026-09-28",
       "title": "« La Macronie et l’extrême droite menacent le droit à l’IVG : le 28 septembre, journée mondiale de lutte pour le droit à l’avortement, mobilisons-nous pour le défendre ! » – communiqué du groupe LFI",
