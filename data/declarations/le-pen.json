@@ -2,6 +2,101 @@
   "candidateId": "le-pen",
   "declarations": [
     {
+      "id": "le-pen-2026-10-orleans",
+      "date": "2026-10-25",
+      "title": "Discours de Marine Le Pen à Orléans (lancement de campagne au congrès du RN)",
+      "sourceType": "discours",
+      "sourceUrl": "https://marinelepen.com/actualites/discours-de-marine-le-pen-a-orleans",
+      "publisher": "Site de campagne de Marine Le Pen (marinelepen.com)",
+      "summary": "Discours prononcé le 25 octobre 2026 à Orléans et publié en intégralité sur le site de campagne (« Seul le prononcé fait foi »). Marine Le Pen y développe quatre thèmes (renaissance, puissance, présidence, espérance), dont un scrutin proportionnel avec prime majoritaire, une défense et une dissuasion strictement nationales, le refus de repousser l'âge de départ à la retraite à 65, 67 ou 70 ans, la restauration de la Ve République et la supériorité de la Constitution.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-01",
+          "value": -2,
+          "quote": "Il ne s’agit pas de changer de numéro de République mais de retrouver les majestueuses et puissantes institutions que le général de Gaulle nous avait confiées. La Ve République n’a pas besoin d’être remplacée, elle a besoin d’être restaurée",
+          "note": "Rejet explicite d'un changement de République : la Ve doit être restaurée, pas remplacée. Aucune position antérieure sur cette affirmation."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "C’est pourquoi nous établirons un mode de scrutin proportionnel, avec prime majoritaire pour permettre de dégager des majorités, garantissant la juste représentation de tous les courants.",
+          "note": "Même valeur que les 22 mesures de 2022 (« mettre en place la proportionnelle »). Le discours précise qu'il s'agit d'un scrutin proportionnel avec prime majoritaire."
+        },
+        {
+          "questionId": "eur-02",
+          "value": 2,
+          "quote": "Dans un premier temps, nous redonnerons à notre Constitution toute sa valeur et toute sa force en la réinstallant comme la loi fondamentale des Français. Aucun texte, aucune autorité, et surtout pas étrangère, même européenne, ne lui sera supérieure.",
+          "note": "Même valeur que le programme européen de 2024 (« supériorité de la Constitution française sur les normes et juridictions européennes »), avec une formulation aussi précise."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "je ne propose pas de repousser indéfiniment l’âge de départ à 65, 67 voire 70 ans mais de faire entrer plus tôt les jeunes sur le marché du travail, quand l’âge moyen du premier emploi stable est aujourd’hui de 27 ans.",
+          "note": "Même valeur que les 22 mesures de 2022 (« refuser tout allongement ») : la candidate refuse explicitement de porter l'âge de départ à 65, 67 ou 70 ans."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-10-tract-republique",
+      "date": "2026-10-22",
+      "title": "Tract de campagne « Défendons la République avec Marine »",
+      "sourceType": "autre",
+      "sourceUrl": "https://marinelepen.com/materiel-de-campagne/4/telecharger",
+      "publisher": "Site de campagne de Marine Le Pen (marinelepen.com)",
+      "summary": "Tract recto verso de campagne, daté « octobre 2026 » sur la page Matériel de campagne (le fichier PDF a été créé le 22 octobre 2026). Il présente des mesures de sécurité et d'immigration : peines plancher, réforme de l'excuse de minorité, majorité pénale à 16 ans, responsabilité financière intégrale des casseurs, expulsion systématique des criminels et délinquants étrangers et fin des 500 000 entrées légales par an.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "Réforme de l’excuse de minorité Instauration de peines courtes et immédiates pour les mineurs violents dans des centres éducatifs fermés Abaissement de la majorité pénale à 16 ans",
+          "page": "2",
+          "note": "Même valeur et même mesure que le programme législatif de 2024 (abaissement de la majorité pénale à 16 ans, qui supprime l'atténuation de responsabilité pour les 16-18 ans)."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-10-redressement",
+      "date": "2026-10-06",
+      "title": "Marine Le Pen présente un plan de redressement budgétaire pour la France",
+      "sourceType": "autre",
+      "sourceUrl": "https://marinelepen.com/actualites/marine-le-pen-presente-un-plan-de-redressement-budgetaire-pour-la-france",
+      "publisher": "Site de campagne de Marine Le Pen (marinelepen.com)",
+      "summary": "Compte rendu, publié sur le site de campagne, de la conférence de presse du 6 octobre 2026 où Marine Le Pen a présenté sa trajectoire budgétaire : 140 milliards d'euros d'économies d'ici 2032, équilibre primaire en 18 mois, règle d'or adoptée par référendum, au moins 30 milliards d'euros de baisses d'impôts nettes, et remplacement de l'IFI par un impôt sur la fortune financière.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 0,
+          "quote": "Le plan est équilibré par un effort des plus aisés : flat tax et remplacement de l’impôt sur la fortune immobilière par un impôt sur la fortune financière, qui épargne l’immobilier et les biens professionnels.",
+          "note": "Position intermédiaire, identique à celle du livret entreprise de 2024 : un impôt sur la seule fortune financière remplace l'IFI et épargne l'immobilier et les biens professionnels, sans ISF sur l'ensemble du patrimoine."
+        },
+        {
+          "questionId": "eur-11",
+          "value": -1,
+          "quote": "Marine Le Pen veut que la France retrouve sa crédibilité dans la zone euro.",
+          "inferred": true,
+          "note": "Mesure voisine : la candidate veut que la France retrouve sa crédibilité « dans la zone euro », ce qui suppose qu'elle y reste ; le texte ne propose aucune sortie de l'euro. Même valeur déduite que le livret entreprise de 2024."
+        }
+      ]
+    },
+    {
       "id": "le-pen-2026-11-x-tva-jeunes",
       "date": "2026-11-16",
       "title": "Message publié sur X le 16 novembre 2026 : train gratuit aux heures creuses pour les jeunes et baisse de la TVA sur l'énergie",

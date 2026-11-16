@@ -94,6 +94,13 @@
           "page": "28",
           "inferred": true,
           "note": "Déduit de la priorité donnée à la souveraineté dans la commande publique, notamment de défense ; le surcoût éventuel n'est pas abordé."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Pays : Le nouvel échelon de proximité qui remplace le département et les intercommunalités. Il y en aurait environ 350, tracés sur les territoires historiques et les bassins de vie, chacun dirigé par une assemblée élue par ses habitants.",
+          "sourceUrl": "https://parti-equinoxe.fr/programme-2027/une-competence-un-echelon-un-budget/",
+          "note": "Le département et les intercommunalités sont remplacés par un seul échelon, les pays, et l'intercommunalité « n'est plus imposée ». La page d'ensemble du programme renvoie toutefois l'avenir des régions à l'Assise des territoires, et les intercommunalités ne sont pas juridiquement des collectivités : la réduction est donc partielle, d'où +1. Position du parti, dont la personne est le candidat désigné et dont il préface le livret. Position ajoutée par la veille du 16 novembre 2026 : la page web de la mesure phare n° 2 reprend le texte du livret."
         }
       ]
     },

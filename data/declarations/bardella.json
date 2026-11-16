@@ -2,6 +2,61 @@
   "candidateId": "bardella",
   "declarations": [
     {
+      "id": "bardella-2026-10-orleans",
+      "date": "2026-10-25",
+      "title": "Discours de Jordan Bardella à Orléans (XIXe congrès du Rassemblement National)",
+      "sourceType": "discours",
+      "sourceUrl": "https://marinelepen.com/actualites/discours-de-jordan-bardella-a-orleans",
+      "publisher": "Site de campagne de Marine Le Pen (Rassemblement National)",
+      "summary": "Discours prononcé par Jordan Bardella le 25 octobre 2026 à Orléans après sa réélection à la présidence du RN, publié en intégralité sur le site de campagne de Marine Le Pen. Il porte sur l'ordre public (présomption de légitime défense, peines minimales, majorité pénale à 16 ans), l'école (vouvoiement, tenue unique, revalorisation des salaires des professeurs), la TVA sur l'énergie et le prix national de l'électricité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": 2,
+          "quote": "Alors que le carburant atteint des niveaux records, nous ramènerons la TVA sur les carburants, le gaz, l’électricité et le fioul de 20 % à 5,5 %.",
+          "note": "Même valeur que le programme européen de 2024 : baisse de la TVA de 20 % à 5,5 % sur les carburants, le gaz, l'électricité et le fioul."
+        },
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "La France retrouvera un prix national de l’électricité, conforme au prix de production, loin des règles européennes de tarification, ce qui fera mécaniquement baisser les prix des factures d’énergie pour les familles et pour les entreprises.",
+          "inferred": true,
+          "note": "Prix national de l'électricité fixé « loin des règles européennes de tarification » ; la sortie du marché européen n'est pas nommée en ces termes. Même valeur que le discours de Nîmes."
+        },
+        {
+          "questionId": "sec-10",
+          "value": 2,
+          "quote": "La présomption de légitime défense sera instaurée et un principe simple s’appliquera : tu touches à un policier, tu dors en prison.",
+          "note": "Même valeur que le programme de 2024 ; la mesure suit un passage consacré aux policiers et aux gendarmes."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "la majorité pénale sera abaissée à 16 ans ; des places de prison seront créées et des centres de détention spécifiques aux mineurs permettront des peines immédiates.",
+          "inferred": true,
+          "note": "Abaisser la majorité pénale à 16 ans supprimerait l'atténuation de responsabilité pour les 16-18 ans ; même valeur que le discours de Perpignan."
+        },
+        {
+          "questionId": "edu-01",
+          "value": 2,
+          "quote": "Nous restaurerons leur autorité : le vouvoiement sera obligatoire, une tenue unique et informe sera instaurée, et nous rétablirons la discipline dans les classes",
+          "note": "Une tenue unique à l'école est annoncée sans précision du niveau (écoles, collèges, lycées). Même valeur que le discours du 2 mai 2026."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "nous revaloriserons les salaires des professeurs, à la hauteur de leurs qualifications et de leurs responsabilités.",
+          "note": "Revalorisation des salaires des professeurs annoncée sans ampleur chiffrée ni priorité sur les autres dépenses éducatives ; même valeur que le programme de 2024."
+        }
+      ]
+    },
+    {
       "id": "bardella-2026-05-fete-nation",
       "date": "2026-05-02",
       "title": "Fête de la Nation — Discours de Jordan Bardella",

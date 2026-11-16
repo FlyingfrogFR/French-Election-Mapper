@@ -1222,6 +1222,31 @@
           "note": "Il soutient l'assujettissement des dividendes aux cotisations sociales, sans rien dire des rachats d'actions : mesure partielle."
         }
       ]
+    },
+    {
+      "id": "guedj-2026-10-ppl-3253",
+      "date": "2026-10-06",
+      "title": "Proposition de loi n°3253 visant à régulariser les travailleurs sans-papiers (cosignataire)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3253_proposition-loi.pdf",
+      "publisher": "Assemblée nationale",
+      "summary": "Proposition de loi présentée par Paul Christophle et d'autres député·es du groupe Socialistes et apparentés, dont Jérôme Guedj, cosignataire, enregistrée le 6 octobre 2026. Son article unique prévoit la délivrance de plein droit d'une carte de séjour « salarié » à tout étranger, quelle que soit sa situation au regard du séjour, qui justifie de six mois d'activité professionnelle, consécutifs ou non, au cours des vingt-quatre derniers mois.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16, par application de la règle des cosignataires (même encodage que pour François Hollande, autre signataire) : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "L’article unique propose de régulariser tout étranger qui justifierait de l’occupation d’une activité professionnelle sur le territoire français d’une durée d’au moins 6 mois, consécutifs ou non, au cours des 24 derniers mois.",
+          "page": "4",
+          "inferred": true,
+          "note": "Position déduite : le texte va au-delà de l'affirmation en régularisant de plein droit tout étranger justifiant de six mois d'activité professionnelle sur vingt-quatre mois, quel que soit le métier, ce qui inclut les métiers en tension (l'exposé cite le BTP, l'hôtellerie-restauration et l'aide à la personne)."
+        }
+      ]
     }
   ]
 }
