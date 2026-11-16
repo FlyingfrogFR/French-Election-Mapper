@@ -2,6 +2,770 @@
   "candidateId": "philippe",
   "declarations": [
     {
+      "id": "philippe-2026-11-programme-adaptation",
+      "date": "2026-11-12",
+      "title": "Le programme — Adaptation climatique",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Adaptation climatique » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente un fonds d'adaptation de 2 milliards d'euros par an, le stockage et la réutilisation de l'eau, la climatisation des lieux accueillant des personnes fragiles, zéro surtransposition agricole et un plan de transmission des exploitations.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-13",
+          "value": 2,
+          "quote": "Édouard Philippe est-il pour les réserves d’eau agricoles, les bassines ? Oui. Édouard Philippe veut accélérer le stockage de l’eau par les agriculteurs, en plaçant « la protection avant la procédure ».",
+          "note": "Remplace le +1 déduit de la page « Pour une France plus conquérante » (14 octobre 2026), qui ne nommait pas les bassines : la page répond désormais « Oui » à la question des réserves d'eau agricoles et des bassines."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Édouard Philippe veut lancer un grand plan de transmission et de modernisation des exploitations agricoles avec un super Dutreil agricole permettant de défiscaliser les transmissions.",
+          "note": "Remplace le +1 déduit du programme antérieur, qui annonçait un « grand plan de transmission » sans exonération nouvelle : la page propose désormais un « super Dutreil agricole » qui défiscalise les transmissions."
+        },
+        {
+          "questionId": "agr-02",
+          "value": 2,
+          "quote": "Oui. Édouard Philippe veut zéro surtransposition agricole : aucune règle française ne viendra plus s’ajouter à celles de l’Union européenne.",
+          "note": "Même valeur : zéro surtransposition agricole."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-comptes-publics",
+      "date": "2026-11-12",
+      "title": "Le programme — Finances publiques",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/comptes-publics",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Finances publiques » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente une règle d'or budgétaire constitutionnelle adoptée par référendum, un déficit ramené à environ 2 % du PIB, aucun nouvel impôt pendant cinq ans et le non-remplacement d'un fonctionnaire sur trois.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Dans la stratégie budgétaire d’Édouard Philippe, l’effort portera pour moitié sur les dépenses sociales, pour un quart sur l’État et les collectivités, et pour un quart sur la croissance.",
+          "note": "Même valeur : trois quarts de l'effort de redressement passent par la dépense, sans aucun nouvel impôt, pour un déficit ramené à environ 2 % du PIB en fin de quinquennat."
+        },
+        {
+          "questionId": "eur-09",
+          "value": -2,
+          "quote": "C’est une règle inscrite dans la Constitution qui interdira aux parlementaires de creuser le déficit au-delà du seuil européen de 3 %.",
+          "inferred": true,
+          "note": "Même valeur : la règle d'or constitutionnelle proposée reprend le seuil européen de 3 % ; s'affranchir des règles budgétaires européennes est l'inverse de sa proposition."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-defense",
+      "date": "2026-11-12",
+      "title": "Le programme — Défense",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/defense",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Défense » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente une loi de massification des armées, un service militaire volontaire de 50 000 jeunes par an, 250 000 réservistes, des armements « made in Europe » et un soutien plein à l'Ukraine.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "def-03",
+          "value": -1,
+          "quote": "Édouard Philippe mise d’abord sur l’engagement. Il veut faire passer le service militaire volontaire de 3 000 à 50 000 places par an et porter le nombre de réservistes à 250 000.",
+          "inferred": true,
+          "note": "Même valeur : à la question du rétablissement du service militaire obligatoire, la page répond par le volontariat et la réserve sans retenir l'obligation, d'où −1 déduit."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Des armements « made in Europe » : au moins 1 % de la richesse nationale des pays européens de l’OTAN consacrée à des équipements fabriqués en Europe.",
+          "note": "Même valeur, désormais fondée sur une mesure qui porte sur les armements eux-mêmes et non plus sur une déduction tirée du Buy European Tech Act. La préférence européenne prend la forme d'un plancher pour les pays européens de l'OTAN, sans priorité générale ni mention du surcoût, d'où +1."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Un soutien plein à l’Ukraine.",
+          "note": "Même valeur : le soutien plein à l'Ukraine figure parmi les propositions de défense, sans précision sur sa durée ni sur les armes de longue portée, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-ecole",
+      "date": "2026-11-12",
+      "title": "Le programme — École",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/ecole",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « École » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente une hausse moyenne de 20 % du salaire des enseignants, l'autonomie des établissements (uniforme compris), la réduction de la taille des classes en maternelle et en primaire, un soutien scolaire universel et l'interdiction stricte du portable jusqu'au lycée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "Oui. Édouard Philippe veut interdire strictement le téléphone portable à l’école primaire, au collège et au lycée.",
+          "note": "Même valeur : l'interdiction stricte du téléphone portable est étendue au lycée, avec confiscation."
+        },
+        {
+          "questionId": "edu-01",
+          "value": -1,
+          "quote": "Édouard Philippe veut laisser ce choix à chaque établissement. Les chefs d’établissement auront la liberté d’imposer l’uniforme, comme celle d’adapter les méthodes et les horaires, de fixer les règles de discipline et de participer au recrutement de leur équipe.",
+          "note": "Même valeur : le choix de l'uniforme revient à chaque établissement, ce qui exclut une généralisation nationale sans rejeter l'uniforme lui-même, d'où −1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-energie",
+      "date": "2026-11-12",
+      "title": "Le programme — Énergie",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/energie",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Énergie » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente la relance du nucléaire avec 8 EPR supplémentaires en plus des 6 prévus, le développement des renouvelables, l'électrification des usages et un prix du carbone aux frontières européennes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Édouard Philippe propose de lancer 8 EPR supplémentaires, en plus des 6 déjà prévus, soit 14 nouveaux réacteurs.",
+          "note": "Même valeur : 8 EPR supplémentaires en plus des 6 déjà prévus."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Oui. Édouard Philippe veut relancer le nucléaire, avec le lancement de 8 réacteurs EPR supplémentaires en plus des 6 déjà prévus.",
+          "inferred": true,
+          "note": "Même valeur : la sortie du nucléaire n'est pas discutée en tant que telle, mais la relance avec 8 EPR supplémentaires l'exclut sans ambiguïté."
+        },
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Oui. Édouard Philippe veut développer les énergies renouvelables aux côtés du nucléaire.",
+          "inferred": true,
+          "note": "Même valeur : le développement des renouvelables est revendiqué (« là où elles sont efficaces ») ; l'éolien n'est pas nommé et aucun moratoire n'est envisagé, d'où −1 déduit."
+        },
+        {
+          "questionId": "env-05",
+          "value": -1,
+          "quote": "Non. Édouard Philippe veut une écologie qui réduit vraiment les émissions et crée de la croissance. Il préfère investir dans le nucléaire, l’électrification, la rénovation et le fret plutôt que multiplier les contraintes.",
+          "inferred": true,
+          "note": "À la question d'une « écologie punitive », la page répond non et préfère l'investissement à la multiplication des contraintes (« l'innovation et non la norme »). Une planification contraignante par secteur n'est pas nommée, d'où −1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-entreprises",
+      "date": "2026-11-12",
+      "title": "Le programme — Entreprises et industrie",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/entreprises",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Entreprises et industrie » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente un pacte fiscal de 50 milliards d'euros d'impôts de production en moins contre 50 milliards d'aides en moins, un moratoire normatif et fiscal, un « livret capital France » et la protection du marché européen face à la Chine.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-06",
+          "value": 2,
+          "quote": "Oui. Édouard Philippe propose de baisser de 50 milliards d’euros les impôts de production, en supprimant autant d’aides publiques improductives.",
+          "note": "Même valeur que la page « Pour une France plus prospère » : baisse de 50 milliards d'euros des impôts de production, compensée par la suppression d'autant d'aides publiques ; l'impôt sur les sociétés n'est pas mentionné. La relecture proposait +1 (mesure partielle), mais d'autres candidat·es restent à +2 pour une mesure du même type : la valeur est gardée en attendant un arbitrage commun."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-famille",
+      "date": "2026-11-12",
+      "title": "Le programme — Famille",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/famille",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Famille » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente une allocation familiale unique de 350 € dès le premier enfant, dégressive avec le revenu, la suppression de l'impôt sur le revenu des classes moyennes pendant les trois premières années de l'enfant, un prêt à taux zéro à chaque naissance et un plan pour la garde d'enfants.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-01",
+          "value": -1,
+          "quote": "Édouard Philippe veut verser l’allocation familiale dès le premier enfant, alors qu’elle n’est aujourd’hui versée qu’à partir du deuxième. Elle atteindra 350 € pour les plus modestes et sera dégressive avec le revenu.",
+          "inferred": true,
+          "note": "Même valeur : l'allocation familiale unique serait dégressive avec le revenu, donc fonction des ressources ; la page ne dit pas si les foyers les plus aisés en seraient exclus, d'où −1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-ia",
+      "date": "2026-11-12",
+      "title": "Le programme — Intelligence artificielle",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/intelligence-artificielle",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Intelligence artificielle » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente un pacte européen de puissance numérique, l'objectif de faire de la France le leader européen de la puissance de calcul, des « zones d'accélération IA », un droit à la reconversion et 100 000 ingénieurs formés par an.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-04",
+          "value": 2,
+          "quote": "En France, il créera des « zones d’accélération de l’IA » avec des raccordements facilités, des permis accélérés et des normes supprimées pour faciliter l’installation d’infrastructures numériques.",
+          "note": "Même valeur : procédures simplifiées et accès préférentiel à l'électricité décarbonée pour les infrastructures numériques."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-immigration",
+      "date": "2026-11-12",
+      "title": "Le programme — Immigration",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/immigration",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Immigration » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente l'objectif de diviser l'immigration par deux, des quotas pour l'immigration de travail, la suspension du regroupement familial pendant le quinquennat, la dénonciation de l'accord franco-algérien de 1968 et des restrictions du droit d'asile.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Édouard Philippe veut que la France reprenne le contrôle de ses frontières, et qu’elle divise par deux l’immigration. Il propose de dénoncer l’accord de 1968 avec l’Algérie, de suspendre le regroupement familial pendant le quinquennat et de choisir l’immigration de travail par des quotas.",
+          "note": "Même valeur : l'objectif est de diviser l'immigration par deux, mais les quotas ne visent que l'immigration de travail et leur vote annuel par le Parlement n'est pas mentionné, d'où +1."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Pas définitivement. Édouard Philippe propose de le suspendre pendant toute la durée du quinquennat.",
+          "note": "Même valeur : suspension (« moratoire ») du regroupement familial pendant tout le quinquennat."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "Édouard Philippe veut mettre fin au dévoiement de l’asile. Le Parlement voterait chaque année la liste des pays considérés comme sûrs, et l’asile à vie serait supprimé.",
+          "inferred": true,
+          "note": "Même valeur : l'asile est restreint (liste annuelle de pays sûrs, fin de l'asile à vie, suspension des demandes à Mayotte et en Guyane) et aucune voie d'accès légale supplémentaire n'est proposée, d'où −1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-justice",
+      "date": "2026-11-12",
+      "title": "Le programme — Justice",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/justice",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Justice » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente le rétablissement des peines planchers, des peines courtes dès la première infraction, la suppression du juge d'application des peines, une loi d'accélération de la construction de prisons et la levée de l'excuse de minorité pour le narcotrafic.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-01",
+          "value": 2,
+          "quote": "Oui. Édouard Philippe veut des peines minimales et certaines pour les infractions les plus graves, en particulier les atteintes aux personnes dépositaires de l’autorité publique, comme les pompiers, les policiers et les gendarmes, et les professeurs.",
+          "note": "Même valeur que le programme antérieur : les peines planchers rétablies visent les infractions les plus graves, en particulier les atteintes aux personnes dépositaires de l'autorité publique, plutôt que la récidive."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Oui. Édouard Philippe veut supprimer le juge d’application des peines, pour qu’une décision prise par un juge ne puisse pas être défaite par un autre.",
+          "inferred": true,
+          "note": "Même valeur : la suppression du juge d'application des peines (« une peine prononcée sera une peine exécutée »), avec des peines courtes dès la première infraction, exclut l'aménagement des courtes peines. Le seuil d'un an n'est pas mentionné, d'où la déduction."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Une loi d’accélération de la construction de prisons.",
+          "note": "Même valeur : une loi doit accélérer la construction de prisons, sans objectif chiffré de places, d'où +1."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 1,
+          "quote": "Pour le trafic de drogue, oui. Édouard Philippe veut lever l’excuse de minorité pour les faits liés au narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
+          "note": "Même valeur : la levée de l'excuse de minorité est limitée aux faits liés au narcotrafic, sans seuil d'âge de 16 ans, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-outre-mer",
+      "date": "2026-11-12",
+      "title": "Le programme — Outre-mer",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/outre-mer",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Outre-mer » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente la modernisation de l'octroi de mer, des infrastructures à Mayotte, un moratoire total sur l'immigration à Mayotte, la suspension des demandes d'asile à Mayotte et en Guyane, et la suspension du droit du sol à Mayotte.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-05",
+          "value": 1,
+          "quote": "Édouard Philippe veut-il supprimer le droit du sol à Mayotte ? Oui, il veut le suspendre totalement pendant plusieurs années.",
+          "note": "Même valeur : suspension totale du droit du sol limitée à Mayotte, pendant plusieurs années ; rien sur le droit du sol dans le reste du pays, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-retraites",
+      "date": "2026-11-12",
+      "title": "Le programme — Retraites",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/retraites",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Retraites » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente le report progressif de l'âge de départ à 65 ans et de la durée de cotisation à 45 ans, le maintien des départs anticipés, la capitalisation collective pour tous les salariés et un plan d'épargne retraite pour chaque Français.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "quote": "Oui, progressivement et pour ceux qui le peuvent. Édouard Philippe propose de porter l’âge de départ à 65 ans en moins de dix ans.",
+          "note": "Même valeur : âge de départ porté progressivement à 65 ans et 45 annuités, avec maintien des départs anticipés pour raisons de santé et carrières longues."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Édouard Philippe veut que les générations futures aient des retraites décentes, et sauver nos retraites sans augmenter les cotisations des actifs et sans baisse générale des pensions. Cela n’est pas possible avec un départ à 60 ans.",
+          "note": "Même valeur que l'entretien de juin 2025 : la page répond à la question « Pourquoi Édouard Philippe refuse-t-il la retraite à 60 ans ? »."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Oui. Édouard Philippe veut généraliser à tous les salariés la retraite par capitalisation collective, qui existe et fonctionne déjà très bien pour les fonctionnaires, et ouvrir un plan d’épargne retraite à chaque Français.",
+          "note": "Même valeur : capitalisation collective généralisée à tous les salariés, en complément de la répartition."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-securite",
+      "date": "2026-11-12",
+      "title": "Le programme — Sécurité",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/securite",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Sécurité » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente un « état d'urgence narco », la reconnaissance faciale ciblée, des amendes plus fortes pour les consommateurs de drogue, l'expulsion des étrangers délinquants et un pouvoir de sanction des maires.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-07",
+          "value": 1,
+          "quote": "Oui, de façon ciblée. Édouard Philippe l’envisage dans le cadre de l’état d’urgence contre le narcotrafic et en cas d’émeutes, donc seulement dans les zones les plus touchées et pour une durée limitée.",
+          "note": "Même valeur : reconnaissance faciale admise de façon ciblée, dans l'état d'urgence narco et désormais aussi en cas d'émeutes, limitée dans l'espace et dans le temps, d'où +1."
+        },
+        {
+          "questionId": "sec-13",
+          "value": 2,
+          "quote": "Oui. Pour Édouard Philippe, chaque consommateur fait vivre les réseaux. Il propose des opérations « place nette » dans les boîtes de nuit et les festivals, et des amendes réellement payées, au besoin prélevées sur les prestations sociales.",
+          "note": "Même valeur : les consommateurs sont sanctionnés par des amendes effectivement recouvrées, au besoin sur les prestations sociales ; l'inscription au casier n'est pas mentionnée."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 2,
+          "quote": "Il propose un « état d’urgence narco » dans les zones les plus touchées, qui permettra par exemple d’interpeller les trafiquants chez eux la nuit et d’étendre les garde à vue.",
+          "note": "Même valeur : état d'urgence narco, mobilisation de la DGSI, saisie des avoirs, et exécution des peines des grands trafiquants alignée sur celle des terroristes."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-travail",
+      "date": "2026-11-12",
+      "title": "Le programme — Travail et salaires",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/travail",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Travail et salaires » du programme publié sur le site de campagne, mise à jour le 12 novembre 2026. Elle présente un temps de travail fixé par accord d'entreprise, l'exonération des heures travaillées en plus, une indemnisation chômage limitée à 12 mois pour les moins de 50 ans, trois jours de carence pour tous et le développement de l'apprentissage.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "quote": "Oui, il veut qu’elles ne soient plus obligatoires. Édouard Philippe veut permettre aux entreprises de fixer librement leur temps de travail, par accord d’entreprise, de la manière la plus adaptée à leur activité, pour sortir des 35 heures.",
+          "note": "Même valeur : les 35 heures cessent d'être obligatoires et le temps de travail est fixé par accord d'entreprise."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "Oui. Avec Édouard Philippe, quand une entreprise décide de travailler plus longtemps après discussion interne, les heures au-dessus de 37 h seront exonérées de cotisations sociales et d’impôt sur le revenu.",
+          "note": "Même valeur, qui n'est plus déduite : la page répond « Oui » à la défiscalisation des heures supplémentaires. L'exonération reste toutefois liée à la décision de l'entreprise d'allonger sa durée du travail, avec un seuil de 35 h ou de 37 h selon les réponses de la page, d'où +1."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "Oui, pour les moins de 50 ans. Édouard Philippe propose de limiter l’indemnisation chômage à 12 mois au maximum, contre 18 mois aujourd’hui, comme en Allemagne.",
+          "note": "Même valeur : la durée maximale d'indemnisation passe de 18 à 12 mois pour les moins de 50 ans."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-protection-enfance",
+      "date": "2026-11-12",
+      "title": "Le programme — Protection de l’enfance",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page thématique « Protection de l’enfance » du programme d'Édouard Philippe, datée par sa mention « Dernière mise à jour le 12 novembre 2026 ». Elle propose un « droit de savoir » permettant aux parents de vérifier les antécédents des adultes proches de leur enfant, l'imprescriptibilité des crimes sur mineurs, une mesure de protection immédiate dès qu'une plainte concerne un enfant, une Inspection nationale de l’enfance contrôlant les lieux d'accueil au moins tous les trois ans, la généralisation des certificats d’honorabilité et l'interdiction stricte du téléphone portable de l'école primaire au lycée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "il veut interdire strictement le téléphone portable à l’école primaire, au collège et au lycée, avec confiscation immédiate et restitution aux parents",
+          "note": "Confirme le +2 du 2026-10-23 (questions-réponses École) : l'interdiction stricte du portable au lycée, comme à l'école primaire et au collège, est explicitement proposée, avec une précision équivalente (confiscation, restitution aux parents)."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-chartres-apprentissage",
+      "date": "2026-11-09",
+      "title": "À Chartres, Édouard Philippe défend une République qui donne sa chance à chacun",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.edouardphilippe.fr/actualites/a-chartres-edouard-philippe-defend-l-apprentissage-pour-permettre-aux-jeunes-de",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Compte rendu de campagne du déplacement du 9 novembre à Chartres : échanges avec des habitants du quartier de La Madeleine, puis visite du CFA du BTP, où Édouard Philippe défend l'apprentissage, dont il a porté la réforme en 2018.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-07",
+          "value": 1,
+          "quote": "Pourtant, l’apprentissage est attaqué. Des décisions budgétaires rognent sur son financement.",
+          "inferred": true,
+          "note": "Le compte rendu présente comme une attaque les décisions budgétaires qui réduisent le financement de l'apprentissage et ajoute qu'« il continuera à le défendre ». Aucun niveau d'aide n'est chiffré, d'où +1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-priorites-conquerante",
+      "date": "2026-10-14",
+      "title": "Pour une France plus conquérante (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus conquérante ». Elle comprend : infrastructure d'IA européenne souveraine ; relance du nucléaire avec 8 EPR supplémentaires en plus des 6 prévus ; développement des renouvelables ; prix du carbone aux frontières européennes ; adaptation au changement climatique ; accélération du stockage de l'eau agricole. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-01",
+          "value": 2,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
+          "note": "Remplace +1 de la version antérieure de la page, qui affirmait la relance du nucléaire sans chiffrage : 8 EPR supplémentaires sont désormais proposés en plus des 6 déjà prévus."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
+          "inferred": true,
+          "note": "Même valeur : la sortie du nucléaire n'est pas discutée en tant que telle, mais la relance avec 8 EPR supplémentaires l'exclut sans ambiguïté."
+        },
+        {
+          "questionId": "env-03",
+          "value": -1,
+          "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
+          "inferred": true,
+          "note": "Même valeur : le développement des renouvelables est revendiqué et aucun moratoire éolien n'est envisagé."
+        },
+        {
+          "questionId": "env-13",
+          "value": 1,
+          "quote": "Accélérer le stockage de l'eau agricole en plaçant « la protection avant la procédure », et atteindre 10 % de réutilisation des eaux usées traitées pour les usages non potables, contre moins de 1 % aujourd'hui.",
+          "inferred": true,
+          "note": "Il veut accélérer le stockage de l'eau agricole en faisant passer la protection avant la procédure ; les grandes retenues (« mégabassines ») ne sont pas nommées, d'où +1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-priorites-enfants",
+      "date": "2026-10-14",
+      "title": "Pour une France plus attentive à ses enfants (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus attentive à ses enfants ». Elle comprend : protection de l'enfance ; autonomie des chefs d'établissement ; hausse de 20 % de la rémunération moyenne des enseignants sur le quinquennat ; interdiction du téléphone à l'école primaire et au collège ; allocation familiale unique de 350 € dès le premier enfant, dégressive avec le revenu ; suppression de l'impôt sur le revenu des classes moyennes pendant les trois premières années de l'enfant. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-01",
+          "value": -1,
+          "quote": "Créer une allocation familiale unique dès le premier enfant, à hauteur de 350€, en fusionnant les dispositifs existants trop complexes et trop éparpillés, dégressive avec le revenu.",
+          "inferred": true,
+          "note": "L'allocation familiale unique proposée serait dégressive avec le revenu, donc fonction des ressources ; le texte ne dit pas si les foyers les plus aisés en seraient exclus, d'où −1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-priorites-prospere",
+      "date": "2026-10-14",
+      "title": "Pour une France plus prospère (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus prospère ». Elle comprend : temps de travail fixé librement par les entreprises avec zéro cotisation patronale au-delà de la 37e heure ; exonération de cotisations sociales et d'impôt sur le revenu des heures travaillées en plus lorsqu'une entreprise allonge sa durée du travail ; âge de départ porté progressivement à 65 ans et durée de cotisation à 45 ans ; généralisation de la retraite par capitalisation collective ; indemnisation chômage limitée à 12 mois pour les moins de 50 ans ; effort sur les dépenses publiques portant pour moitié sur les dépenses sociales ; déficit ramené à 2 % du PIB en fin de quinquennat. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "quote": "Sauver nos retraites sans hausse des cotisations ni baisse générale des pensions : porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, pour ceux qui le peuvent.",
+          "note": "Même valeur que le discours de l'Adidas Arena, désormais chiffrée : âge de départ à 65 ans et 45 ans de cotisation ; la même page maintient des départs avant 65 ans pour « un Français sur trois »."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "Réduire à 12 mois maximum la durée d'indemnisation chômage pour les moins de 50 ans, contre 18 mois aujourd'hui, sur le modèle allemand.",
+          "note": "Réduction explicite de la durée maximale d'indemnisation, de 18 à 12 mois, pour les demandeurs d'emploi de moins de 50 ans."
+        },
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "quote": "Permettre aux entreprises de fixer librement le temps de travail pour sortir des 35h, de la manière la plus adaptée à leur activité, avec zéro cotisation patronale au-delà de la 37ème heure.",
+          "note": "Même valeur que l'annonce de L'Heure de vérité (8 octobre 2026), désormais inscrite au programme avec la sortie des 35 heures et zéro cotisation patronale au-delà de la 37e heure."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "Faire que le travail supplémentaire paie : lorsqu'une entreprise décide, après discussion interne, de travailler plus longtemps, exonérer ces heures de cotisations sociales et d'impôt sur le revenu, soit environ 1 000 € de plus par an au SMIC pour deux heures de plus par semaine.",
+          "inferred": true,
+          "note": "Même valeur : l'exonération de cotisations et d'impôt sur le revenu vise les heures en plus quand l'entreprise allonge sa durée du travail, pas les heures supplémentaires en général ; la même page ne supprime la cotisation patronale qu'au-delà de la 37e heure."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Généraliser à tous les salariés la retraite par capitalisation collective, qui existe déjà pour les fonctionnaires, et ouvrir un plan d'épargne retraite à chaque Français, avec un premier versement de l'État de 500€ dès le premier emploi.",
+          "note": "Même valeur ; le « pilier de capitalisation à 10-15 % des pensions » de la version antérieure a disparu de la page, remplacé par la généralisation de la capitalisation collective."
+        },
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Mettre en place une stratégie de sauvetage des dépenses publiques avec 50 % de l'effort sur les dépenses sociales et un quart sur l'État et les collectivités et un quart grâce à la croissance.",
+          "note": "Même valeur que le discours de l'Adidas Arena, désormais chiffrée : trois quarts de l'effort par la dépense ; la même page vise un déficit de 2 % du PIB en fin de quinquennat et exclut tout nouvel impôt."
+        },
+        {
+          "questionId": "eur-09",
+          "value": -2,
+          "quote": "Inscrire dans la Constitution une règle d'or de maîtrise des déficits via un référendum, et ramener le déficit de plus de 5% à 2% du PIB à la fin du quinquennat.",
+          "inferred": true,
+          "note": "Même valeur : il vise un déficit inférieur au plafond européen et une règle d'or constitutionnelle, désormais par référendum ; s'affranchir des règles budgétaires européennes est l'inverse de sa proposition."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-priorites-sure",
+      "date": "2026-10-14",
+      "title": "Pour une France plus sûre (version révisée de la page des priorités)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version révisée de la page programme « Pour une France plus sûre ». Elle comprend : courtes peines dès la première infraction ; suppression du juge d'application des peines ; plan contre le narcotrafic ; objectif de diviser l'immigration par deux ; suspension du regroupement familial pour la durée du quinquennat ; fin de l'asile à vie ; suspension du droit du sol à Mayotte ; massification des armées. La page n'est pas datée : la date retenue est celle de sa dernière modification dans le sitemap du site (14 octobre 2026) ; consultée le 26 octobre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Suspendre le regroupement familial pour la durée du quinquennat.",
+          "note": "Même valeur ; la mesure passe de « Restreindre l'immigration familiale » à une suspension du regroupement familial pour toute la durée du quinquennat."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 1,
+          "quote": "Suspendre le droit du sol à Mayotte.",
+          "note": "Suspension du droit du sol limitée à Mayotte ; rien sur le droit du sol dans le reste du pays, d'où +1."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -1,
+          "quote": "Mettre fin au dévoiement de l'asile en faisant voter chaque année par le Parlement une liste de pays sûrs et en mettant fin à l’asile à vie.",
+          "inferred": true,
+          "note": "Même valeur : liste de pays sûrs, fin de l'asile à vie, suspension des nouvelles demandes à Mayotte et en Guyane. Aucune voie d'accès légale supplémentaire n'est proposée."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Mettre en place des courtes peines, en s'inspirant des pays du Nord qui condamnent dès la première infraction à une peine courte et dissuasive plutôt que d'enfermer trop tard et trop longtemps.",
+          "inferred": true,
+          "note": "Même valeur ; la même page propose de « Supprimer le juge d'application des peines afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui »."
+        },
+        {
+          "questionId": "sec-13",
+          "value": 2,
+          "quote": "Être intraitable avec les consommateurs : opérations « place nette » dans les boîtes de nuit et festivals, recouvrement forcé des amendes, y compris sur les prestations sociales.",
+          "note": "Même valeur ; même mesure que dans la version antérieure de la page, seule la typographie des guillemets ayant changé."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-ecole-questions-reponses",
+      "date": "2026-10-23",
+      "title": "L'école : vos questions, les réponses d'Édouard Philippe",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page de questions-réponses sur l'école publiée sur le site de campagne après la réunion d'appartement du 15 octobre 2026. Elle porte notamment sur les savoirs fondamentaux, le soutien scolaire universel, une hausse de 20 % de la rémunération des enseignants, l'autonomie des établissements, l'interdiction du téléphone de l'école au lycée et celle des réseaux sociaux avant 15 ans. La page n'est pas datée : la date retenue est celle de l'actualité du site qui l'annonce (23 octobre 2026), qui correspond aussi à sa date de modification dans le sitemap.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-10",
+          "value": 2,
+          "quote": "Faut-il interdire le téléphone portable à l'école ? Oui, strictement, à l'école primaire, au collège et au lycée : un téléphone sorti en classe ou dans la cour sera confisqué et rendu aux parents.",
+          "note": "Interdiction stricte du téléphone portable étendue au lycée, avec confiscation."
+        },
+        {
+          "questionId": "num-01",
+          "value": 2,
+          "quote": "Édouard Philippe est favorable à l'interdiction des réseaux sociaux aux moins de 15 ans. Cette loi a été censurée par le Conseil constitutionnel pour des raisons de rédaction, pas de principe.",
+          "note": "Remplace la valeur +1 (déduite) tirée du discours de l'Adidas Arena du 5 juillet 2026, qui ne citait pas de seuil d'âge. Il soutient désormais explicitement l'interdiction avant 15 ans et propose de réécrire le texte, au besoin par référendum."
+        },
+        {
+          "questionId": "edu-03",
+          "value": -2,
+          "quote": "Faut-il des classes ou des groupes de niveau ? Pas des groupes de niveau : des réponses sur mesure. L'autonomie qu'Édouard Philippe souhaite donner aux établissements leur permettra d'ajouter des heures de français dans une classe, de maths dans une autre",
+          "note": "Il rejette explicitement les groupes de niveau. À la place, les établissements autonomes ajouteraient des heures et organiseraient de petits groupes pour les élèves qui en ont besoin, en plus des cours."
+        },
+        {
+          "questionId": "edu-01",
+          "value": -1,
+          "quote": "Êtes-vous favorable à l'uniforme ? La décision appartiendra à chaque établissement : c'est exactement le type de choix qui doit se faire sur le terrain, avec les équipes et les parents, pas depuis Paris.",
+          "note": "Même valeur que dans le discours de l'Adidas Arena. Chaque établissement choisit, ce qui exclut une généralisation nationale sans rejeter l'uniforme lui-même."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 2,
+          "quote": "D'abord par le salaire : une hausse de 20 % de la rémunération moyenne sur le quinquennat, soit près de 7 000 euros annuels de plus à la fin du quinquennat par rapport à aujourd'hui, pour atteindre au moins la moyenne européenne",
+          "note": "Même valeur que la page programme « Pour une France plus attentive à ses enfants ». La revalorisation est désormais chiffrée (+20 % de la rémunération moyenne) et présentée comme financée par la baisse démographique."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-10-heure-verite",
+      "date": "2026-10-08",
+      "title": "Trois principales annonces d'Édouard Philippe à l'Heure de vérité",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Le site de campagne présente trois annonces faites par Édouard Philippe dans L'Heure de vérité (France 2). Les entreprises auraient la liberté de fixer leur temps de travail par accord, et les heures au-delà de 35 heures prévues par accord seraient défiscalisées et exonérées de cotisations. Les jeunes parents des classes moyennes seraient exonérés d'impôt sur le revenu pendant les trois premières années de l'enfant, et une allocation familiale unique, dégressive avec le revenu, serait créée dès le premier enfant pour les plus modestes. Enfin, l'objectif est de diviser au moins par deux l'immigration sur le quinquennat.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-06",
+          "value": 2,
+          "quote": "Les 35 heures uniformes pour tout le monde ont fait stagner le salaire des travailleurs. Édouard Philippe donnera aux entreprises la liberté de fixer elles-mêmes leur temps de travail par accord.",
+          "note": "Remplace +1 de l'entretien RTL du 25 juin 2025 : l'assouplissement par la négociation, alors présenté comme une orientation, devient une mesure explicitement proposée (temps de travail fixé par accord d'entreprise)."
+        },
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "si une entreprise trouve un accord pour élever sa durée du travail au-dessus de 35 heures, toutes les heures travaillées au-dessus de 35 heures seront défiscalisées et exonérées de cotisation et il n’y aura plus une seule cotisation pour les entreprises au-delà de 37 heures.",
+          "inferred": true,
+          "note": "Exonération fiscale et sociale des heures au-delà de 35 heures, conditionnée à un accord d'entreprise relevant la durée du travail ; la suppression des cotisations patronales ne vaut qu'au-delà de 37 heures, d'où +1 ; le texte ne parle pas d'« heures supplémentaires » en général."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Édouard Philippe se fixe donc l'objectif de diviser au moins l'immigration par deux sur le quinquennat. Pour ce faire il activera sans tabous tous les leviers pour reprendre le contrôle : quotas migratoires sur l'immigration économique",
+          "note": "Même valeur que la page programme : la forte réduction est désormais chiffrée (au moins diviser par deux), mais les quotas ne visent que l'immigration économique et leur vote annuel par le Parlement n'est pas mentionné."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Pour ce faire il activera sans tabous tous les leviers pour reprendre le contrôle : quotas migratoires sur l'immigration économique, restriction du regroupement familial",
+          "note": "Même valeur que la page programme (« Restreindre l'immigration familiale »), ici formulée explicitement pour le regroupement familial."
+        }
+      ]
+    },
+    {
       "id": "philippe-2024-09-candidature",
       "date": "2024-09-03",
       "title": "Annonce de candidature à l'élection présidentielle 2027",

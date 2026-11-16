@@ -2,6 +2,30 @@
   "candidateId": "glucksmann",
   "declarations": [
     {
+      "id": "glucksmann-2026-11-revolution-ecologique",
+      "date": "2026-11-09",
+      "title": "Révolution écologique : les premiers 100 jours pour sortir des énergies fossiles (livret, première partie)",
+      "sourceType": "programme",
+      "sourceUrl": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+      "publisher": "Campagne de Raphaël Glucksmann 2027 (glucks2027.fr)",
+      "summary": "Livret de campagne de 24 pages publié le 9 novembre 2026 sur le site de campagne et signé par Raphaël Glucksmann et Yannick Jadot. Il présente les mesures des cent premiers jours pour sortir des énergies fossiles : 200 milliards d'euros d'investissement public sur cinq ans, contribution exceptionnelle sur les plus hauts patrimoines, chèque énergie, leasing social, pompes à chaleur, mix énergétique fondé sur les renouvelables et le nucléaire, et mesures d'adaptation au changement climatique.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Le mix s’appuiera sur un déploiement massif des énergies renouvelables et la pérennisation de l’énergie nucléaire.",
+          "page": "15",
+          "note": "Confirme le −2 du projet Acte I (2025) : le livret prévoit la « pérennisation » de l'énergie nucléaire et, à la même page, la prolongation des réacteurs existants, soit l'inverse d'une sortie du nucléaire."
+        }
+      ]
+    },
+    {
       "id": "glucksmann-pp-com-budget-2025-09",
       "date": "2025-09-02",
       "title": "Redonner de la crédibilité, de la justice et de la stabilité à la France (communiqué de presse du 2 septembre 2025)",
@@ -77,7 +101,7 @@
       "date": "2025-06-23",
       "title": "Acte un – Notre vision pour la France : les chantiers de Place publique pour redonner vie à la promesse républicaine (42 chantiers)",
       "sourceType": "programme",
-      "sourceUrl": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "sourceUrl": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
       "publisher": "Place publique (co-directeurs de la publication : Aurore Lalucq et Raphaël Glucksmann)",
       "summary": "88 pages ; présenté le 23 juin 2025 (fichier d'origine 20250623_Projet_placepublique_acte1_BAT_BaDef.pdf), PDF actuel réexporté le 25 mars 2026 et lié depuis https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i. Document de vision du parti (« un document qui présente une vision et non un catalogue figé de mesures »), pas un programme présidentiel : Glucksmann n'a publié aucun programme 2027 au 20 septembre 2026 (glucks2027.fr ne contient que des pages de mobilisation pour la primaire). Les numéros de page cités sont ceux imprimés dans le PDF.",
       "review": {
