@@ -2,6 +2,90 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-11-breve-nationalisme",
+      "date": "2026-11-14",
+      "title": "Brève du NPA-Révolutionnaires du 14 novembre 2026 — « Le nationalisme économique est un leurre »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/le-nationalisme-economique-est-un-leurre",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Brève non signée publiée le 14 novembre 2026 dans la rubrique « Brèves » du site du NPA-Révolutionnaires, au moment du salon « Made in France » où se rendent une dizaine de candidats à la présidentielle. Selon elle, leurs propositions pour réindustrialiser (fermer les frontières, aider les patrons « nationaux », augmenter le soutien financier aux entreprises et filières « stratégiques ») sont « du pipeau » destiné à faire accepter plus de sacrifices à la population laborieuse au nom de « l'intérêt national ». Elle désigne le capitalisme comme « le véritable ennemi ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-09",
+          "value": -2,
+          "quote": "augmenter le soutien financier aux entreprises et filières « stratégiques », etc. Et demain on demandera aux salariés de se serrer un peu plus la ceinture pour rendre l’industrie plus compétitive face à ses concurrents étrangers qui la menace. Mais tout cela est du pipeau",
+          "note": "Brève non signée du parti dont elle est la candidate désignée : elle qualifie de « pipeau » la proposition de réindustrialiser en fermant les frontières, en aidant les patrons « nationaux » et en augmentant le soutien financier aux filières « stratégiques » (la protection, nommée juste avant, n'est pas dans l'extrait cité). Elle rejette donc à la fois les aides ciblées et la protection commerciale. Même valeur que le tract du 11 septembre 2026, qui ne visait que le protectionnisme."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-11-breve-canaries",
+      "date": "2026-11-12",
+      "title": "Brève du NPA-Révolutionnaires du 12 novembre 2026 — « Canaries : arrivée massive de plusieurs milliers de migrants africains »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/canaries-arrivee-massive-de-plusieurs-milliers-de-migrants-africains",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Brève non signée publiée le 12 novembre 2026 dans la rubrique « Brèves » du site du NPA-Révolutionnaires. Elle rapporte l'arrivée de près de 6 000 migrants aux Canaries pendant les dix premiers jours de novembre et, selon l'ONG Caminando Fronteras, la hausse des naufrages mortels sur cette route. Elle conclut que « la seule solution » est l'ouverture des frontières et le droit à la libre circulation et à la libre installation pour toutes les personnes migrantes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-06",
+          "value": 2,
+          "quote": "La seule solution pour arrêter ce carnage est l’ouverture des frontières et le droit à la libre circulation et à la libre installation pour toutes les personnes migrantes.",
+          "inferred": true,
+          "note": "Brève non signée du parti dont elle est la candidate désignée : face aux naufrages, elle réclame l'ouverture des frontières et la libre circulation et installation « pour toutes les personnes migrantes », ce qui dépasse des voies d'accès légales et sûres. L'asile n'est pas traité en tant que tel, d'où « déduite ». Même valeur que l'intervention du 15 septembre 2026."
+        },
+        {
+          "questionId": "imm-01",
+          "value": -2,
+          "quote": "La seule solution pour arrêter ce carnage est l’ouverture des frontières et le droit à la libre circulation et à la libre installation pour toutes les personnes migrantes.",
+          "inferred": true,
+          "note": "Brève non signée du parti dont elle est la candidate désignée : réclamer la libre circulation et la libre installation de toutes les personnes migrantes est incompatible avec une forte réduction de l'immigration légale. Les quotas ne sont pas abordés, d'où « déduite ». Même valeur que l'intervention du 15 septembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "labib-2026-11-breve-smic",
+      "date": "2026-11-10",
+      "title": "Brève du NPA-Révolutionnaires du 10 novembre 2026 — « Hausse du Smic : du foutage de gueule »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/hausse-du-smic-du-foutage-de-gueule",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Brève non signée publiée le 10 novembre 2026 dans la rubrique « Brèves » du site du NPA-Révolutionnaires. Elle qualifie d'« aumône » la hausse du Smic de 1,6 % au 1er décembre (1 502 euros net) annoncée après la « conférence sociale » de Matignon, et appelle à « organiser une lutte d'ensemble » pour obtenir une augmentation générale, l'échelle mobile des salaires et un Smic à au moins 2 000 euros net.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Mais maintenant il s’agit d’organiser une lutte d’ensemble pour obtenir une augmentation générale, l’échelle mobile des salaires et un Smic à au moins 2 000 euros net.",
+          "inferred": true,
+          "note": "Brève non signée du parti dont elle est la candidate désignée : elle réclame « un Smic à au moins 2 000 euros net », bien au-delà de la hausse de 1,6 % qu'elle qualifie d'« aumône ». Le moyen avancé est « une lutte d'ensemble » et non une décision de l'État, d'où « déduite ». Même valeur que l'éditorial du 9 novembre 2026, mais le montant du Smic est ici chiffré."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Mais maintenant il s’agit d’organiser une lutte d’ensemble pour obtenir une augmentation générale, l’échelle mobile des salaires et un Smic à au moins 2 000 euros net.",
+          "note": "Brève non signée du parti dont elle est la candidate désignée : elle réclame « l'échelle mobile des salaires », nom usuel de l'indexation automatique des salaires sur les prix, à obtenir par la lutte. Même valeur que le 4 pages de campagne du 28 septembre 2026."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-11-edito-amplifier",
       "date": "2026-11-09",
       "title": "Éditorial du NPA-Révolutionnaires du 9 novembre 2026 — « Amplifier le mouvement pour gagner »",

@@ -2,6 +2,53 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-11-edito-argent-salaires",
+      "date": "2026-11-16",
+      "title": "Éditorial « Pas d’argent pour les salaires ? Il faut aller voir dans les caisses du patronat ! »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/dargent-salaires-209901.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial hebdomadaire signé Nathalie Arthaud, publié le 16/11/2026 sur le portail de Lutte ouvrière. Il demande l'ouverture des livres de comptes des entreprises et la fin du secret des affaires. Il revendique une augmentation générale des salaires, des pensions et des allocations (« 400 à 500 € de plus ») ainsi que l'indexation de tous les salaires sur la hausse réelle des prix, et appelle à se mobiliser lors de la journée d'actions syndicale du 17 novembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Il faut indexer tous les salaires sur la hausse réelle des prix. Aujourd'hui, le calcul officiel de l’inflation sous-estime la hausse des prix de l’énergie, de l’alimentation ou de la santé qui nous frappe.",
+          "note": "Demande explicitement l'indexation de tous les salaires sur la « hausse réelle des prix » et juge que l'indice officiel sous-estime l'inflation. Même valeur que le dépliant de campagne du 03/11/2026, ici sous la signature de la candidate."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-11-edito-pouvoir-achat",
+      "date": "2026-11-09",
+      "title": "Éditorial « Pouvoir d’achat : il faut augmenter tous les salaires ! »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/editoriaux/pouvoir-dachat-faut-augmenter-salaires-209689.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Éditorial hebdomadaire signé Nathalie Arthaud, publié le 09/11/2026 sur le portail de Lutte ouvrière. Il qualifie de « provocation » la revalorisation du Smic avancée d'un mois par le gouvernement et réclame « une vraie augmentation pour tous les travailleurs, du privé comme du public, de 400 ou 500 euros ». Il rejette aussi les baisses de taxes ou de cotisations sociales destinées à augmenter le salaire net.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Les politiciens qui proposent de baisser les taxes ou les cotisations sociales pour augmenter le salaire net nous tendent un piège. Ces baisses creuseraient un trou dans le budget de l’État et dans les caisses de la Sécurité sociale",
+          "inferred": true,
+          "note": "L'éditorial signé par la candidate qualifie de « piège » les baisses de taxes ou de cotisations sociales destinées à augmenter le salaire net, parce qu'elles creuseraient un trou dans les caisses de la Sécurité sociale. Il ne parle ni des cotisations patronales sur les bas salaires en particulier ni de l'embauche, d'où une position déduite à −1. Même valeur que l'éditorial du 02/11/2026."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-11-depliant-campagne",
       "date": "2026-11-03",
       "title": "Dépliant de campagne de Nathalie Arthaud (3 novembre 2026)",

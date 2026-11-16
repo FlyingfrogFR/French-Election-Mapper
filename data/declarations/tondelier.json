@@ -2,6 +2,67 @@
   "candidateId": "tondelier",
   "declarations": [
     {
+      "id": "tondelier-2026-11-livret-culture",
+      "date": "2026-11-09",
+      "title": "Nos propositions pour une culture vivante (livret thématique)",
+      "sourceType": "programme",
+      "sourceUrl": "https://marinetondelier.fr/s/livret-culture.pdf",
+      "publisher": "Marine Tondelier / Les Écologistes (campagne de Marine Tondelier)",
+      "summary": "Livret thématique de la campagne de Marine Tondelier, daté « Novembre 2026 » et présenté le 9 novembre 2026 à la médiathèque de Bagnolet, selon le journal de campagne et le site des Écologistes. Son éditorial est signé par Marine Tondelier, Steevy Gustave, David Cormand, Antoinette Guhl et Anne Souyris. Il avance dix propositions sur la culture, dont une hausse d'1 Md€ du budget du ministère de la Culture, une loi anti-concentration des médias et une révision en profondeur du Pass Culture.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-08",
+          "value": 2,
+          "quote": "Nous proposons un véritable plan de relance en augmentant le budget du ministère de la Culture d’1 Md€ dans le premier budget du quinquennat",
+          "page": "16",
+          "note": "Hausse explicite du budget du ministère de la Culture (+1 Md€ dès le premier budget), avec l'objectif d'au moins 1 % du budget de l'État au quinquennat suivant (mesure clé, p. 8). Il n'y avait aucune position antérieure."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Limiter strictement la concentration des industries culturelles par une loi anti-trust interdisant à un groupe de détenir plus de deux titres de presse nationale, une chaîne de télévision nationale et une radio nationale.",
+          "page": "17",
+          "note": "Même mesure que dans le programme de juillet 2026 (loi anti-concentration sur le modèle norvégien), reprise parmi les mesures clés du livret (p. 8)."
+        },
+        {
+          "questionId": "num-06",
+          "value": 0,
+          "quote": "Réviser en profondeur le Pass Culture – qui inscrit la culture dans une logique de consommation de masse – pour qu’il favorise le contact avec la création et la découverte durable des œuvres de notre temps et privilégie une dimension collective",
+          "page": "21",
+          "note": "Même position que dans le programme de juillet 2026 : le dispositif n'est ni supprimé ni maintenu en l'état, il est « révisé en profondeur » pour lui donner une dimension plus collective."
+        }
+      ]
+    },
+    {
+      "id": "tondelier-2026-11-journal-ecologistes-par-nature",
+      "date": "2026-11-08",
+      "title": "Journal de campagne, épisode 45 « Écologistes par nature »",
+      "sourceType": "autre",
+      "sourceUrl": "https://marinetondelier.fr/journal-de-campagne/ecologistes-par-nature",
+      "publisher": "Marine Tondelier (journal de campagne de marinetondelier.fr)",
+      "summary": "Épisode 45 du journal de campagne, publié le 8 novembre 2026 sur marinetondelier.fr et écrit à la première personne au nom de Marine Tondelier ; la page indique « Écrit par Alexis Lebrun », nom qui figure sur la plupart des épisodes du journal. Elle y relate une sortie dans le parc naturel régional des caps et marais d'Opale lors des journées régionales des Écologistes et annonce la création de journées sans chasse chaque semaine.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-06",
+          "value": 2,
+          "quote": "On créera quand on sera au pouvoir des journées sans chasse chaque semaine pour que tout le monde puisse profiter de la nature en toute tranquillité.",
+          "note": "Confirme le +2 du programme du 2026-07-13 (journée sans chasse un jour par semaine, que le programme étend aux jours fériés et vacances scolaires) ; texte à la première personne publié sur le site de la candidate, sous le compte de publication « Alexis Lebrun »."
+        }
+      ]
+    },
+    {
       "id": "tondelier-2026-11-europe-grand-continent",
       "date": "2026-11-09",
       "title": "L’Europe qu’il nous faut",

@@ -2,6 +2,29 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-11-cahier-democratie",
+      "date": "2026-11-12",
+      "title": "Cahier de campagne n°9 : « Pour une démocratie en continu : vive les états généraux ! »",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/pour-une-democratie-en-continu-vive-les-etats-generaux/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Le neuvième cahier de campagne, ouvert par un édito de François Ruffin, propose un référendum d'initiative citoyenne (législatif, abrogatif et constitutionnel) par révision de l'article 11 de la Constitution. Il propose aussi des États généraux dotés d'un pouvoir de décision, réunissant des citoyens tirés au sort, des représentants de la société civile et des élus ; les premiers doivent porter sur la fiscalité, puis sur l'organisation du pouvoir politique. Il a été publié le 12 novembre 2026 (date article:published_time de la page) et existe aussi en PDF (Debout-Livret-Campagne-9-Democratie-vWeb.pdf).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Les Gilets jaunes l'ont demandé sur tous les ronds-points de France. Nous le ferons. Nous ferons un RIC législatif pour proposer des lois, un RIC abrogatif pour supprimer des lois injustes, un RIC constitutionnel pour changer nos institutions.",
+          "note": "Confirme le +2 de la PPL constitutionnelle n°2260 (2025) en le précisant : le cahier prévoit trois formes de RIC, à créer par révision de l'article 11, déclenchées par une pétition d'un million de signataires. L'édito signé par François Ruffin reprend la mesure (« le RIC [...] on ne le refuse pas »)."
+        }
+      ]
+    },
+    {
       "id": "ruffin-2026-10-cahier-education",
       "date": "2026-10-28",
       "title": "Cahier de campagne « Éducation : une école de tous les savoirs »",

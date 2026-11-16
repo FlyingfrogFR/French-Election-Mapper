@@ -2,6 +2,114 @@
   "candidateId": "retailleau",
   "declarations": [
     {
+      "id": "retailleau-2026-11-livret-immigration",
+      "date": "2026-11-12",
+      "title": "Reprendre le contrôle de l'immigration (livret du programme)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.avecretailleau.fr/api/media/file/LR_Reprendre%20le%20contro%CC%82le%20de%20l'immigration%20v111126-3.pdf",
+      "publisher": "Les Républicains / campagne de Bruno Retailleau (livret du thème « Immigration » sur avecretailleau.fr)",
+      "summary": "Livret de 56 pages « Reprendre le contrôle de l'immigration ». Le fichier est en version du 11/11/2026 (v111126) et daté « Novembre 2026 » ; il a été mis en ligne le 12 novembre 2026 sur la page du thème « Immigration » du site de campagne, en même temps que les 13 mesures de ce thème (API du site : fichier et mesures créés le 2026-11-12, thème mis à jour le même jour). Il présente 14 propositions pour réduire l'attractivité migratoire, fermer les canaux d'immigration légale et durcir la politique de retour, ainsi qu'une méthode : deux textes constitutionnels soumis à référendum à l'automne 2027, puis un référendum législatif sur l'immigration en 2028.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Un référendum législatif immigration dès 2028, une fois la révision adoptée : visas, état civil, asile, adaptation de notre droit au Pacte européen, contentieux, éloignement",
+          "page": "5",
+          "note": "Même valeur que l'entretien du 31/05/2026, désormais détaillée : deux textes constitutionnels soumis au référendum à l'automne 2027 (article 89), puis référendum législatif sur l'immigration en 2028 (article 11 révisé)."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 2,
+          "quote": "Deux ans de présence avant de faire venir sa famille, contre 18 mois aujourd'hui : le maximum autorisé par le droit européen. En parallèle, la directive regroupement familial sera modifiée, avec l'appui du PPE, pour la rendre plus restrictive",
+          "page": "30",
+          "note": "Même valeur que le livret « Comptes publics » (regroupement familial divisé par deux). L'immigration familiale doit « redevenir l'exception » : deux ans de présence au lieu de 18 mois, ressources hors prestations, passeport républicain, révision de la directive."
+        },
+        {
+          "questionId": "imm-04",
+          "value": -2,
+          "quote": "Aujourd'hui, un clandestin qui travaille au noir quelques années dans un « métier en tension » peut obtenir des papiers : c'est récompenser la fraude, et c'est un appel d'air permanent. L'admission exceptionnelle au séjour (AES) et le mécanisme des « métiers en tension » seront supprimés.",
+          "page": "33",
+          "note": "Même valeur que l'entretien du 31/05/2026, désormais sous forme de mesure : suppression de l'AES et du mécanisme « métiers en tension ». Seule subsisterait une voie très étroite pour les victimes d'exploitation."
+        },
+        {
+          "questionId": "imm-05",
+          "value": 2,
+          "quote": "Suppression du droit du sol sous toutes ses formes : plus d'acquisition automatique à 18 ans, plus de déclaration anticipée dès 13 ou 16 ans, fin du « double droit du sol ». Naître en France ne fera plus, à soi seul, un Français",
+          "page": "34",
+          "note": "Même valeur. La mesure du 24/09/2026 visait le « droit du sol simple » ; le livret propose la suppression « sous toutes ses formes », double droit du sol compris, ainsi que la fin de l'acquisition par mariage."
+        },
+        {
+          "questionId": "imm-06",
+          "value": -2,
+          "quote": "Fin du « visa asile », délivré par nos consulats sans aucune base légale pour faire venir des demandeurs d'asile depuis des pays étrangers : un trait de plume, dès les premières semaines.",
+          "page": "27",
+          "note": "Même valeur que l'entretien du 31/05/2026 : suppression du « visa asile » (voie d'accès depuis l'étranger) et protection subsidiaire « réduite au strict nécessaire » (p. 26), dans un asile voulu « moins attractif que chez nos voisins »."
+        },
+        {
+          "questionId": "imm-07",
+          "value": 1,
+          "quote": "Demander l'asile en France ne donnera plus automatiquement le droit d'attendre en France. Toute demande d'un étranger pouvant être protégé dans un pays tiers sûr - un pays sûr qu'il a traversé, ou avec lequel il a des liens - sera refusée sans examen en France, et il y sera transféré.",
+          "page": "27",
+          "note": "Même valeur que le livret « Comptes publics », désormais précisée : refus sans examen et transfert vers un pays tiers sûr, et accords d'asile avec des États tiers (article 53-1 complété). Le mécanisme ne vise que les demandeurs liés à un tel pays (transit ou liens), d'où +1."
+        },
+        {
+          "questionId": "imm-08",
+          "value": 1,
+          "quote": "Et ce que la France donne, elle pourra le reprendre : les cas de déchéance - le retrait de la nationalité française - seront étendus, à commencer par les assassins de policiers et de gendarmes, mesure votée en 2024 et censurée.",
+          "page": "35",
+          "note": "Extension des cas de déchéance de nationalité, en commençant par les assassins de policiers et de gendarmes. Le document ne détaille pas les autres cas et ne mentionne pas les binationaux : mesure partielle, d'où +1."
+        },
+        {
+          "questionId": "imm-09",
+          "value": -1,
+          "quote": "Étudier vraiment, ou repartir : le titre s'éteindra au premier redoublement. Les meilleurs diplômés, eux, pourront obtenir un titre pour travailler là où la France a besoin d'eux, pour une durée déterminée, selon une liste de secteurs établie et actualisée par l'État",
+          "page": "25",
+          "note": "Restriction : rester travailler serait réservé aux « meilleurs diplômés », pour une durée déterminée, selon une liste de secteurs. Le livret met aussi fin à la « sur-transposition » de la directive (titre de recherche d'emploi de 12 mois en France, 9 exigés). Une voie demeure, d'où −1."
+        },
+        {
+          "questionId": "imm-11",
+          "value": 2,
+          "quote": "Parfois, des juges font dire à un traité international plus que ce que la France a signé - c'est d'abord le cas de la Convention européenne des droits de l'homme. Quand cette lecture bloque une loi voulue par les Français, cette loi pourra être mise à l'abri du traité.",
+          "page": "45",
+          "note": "Même valeur que le discours du 02/09/2026. Le « bouclier constitutionnel » doit protéger les lois migratoires face à une CEDH qui « empêche […] l'éloignement d'étrangers dangereux » (p. 46). La Charte permet d'éloigner tout étranger menaçant gravement l'ordre, « quels que soient les risques qu'il invoque ». Pas de sortie sèche de la Convention."
+        },
+        {
+          "questionId": "imm-13",
+          "value": 1,
+          "quote": "Une rétention qui tient jusqu'au départ. Grâce à la Charte de l'ordre républicain, la rétention décidée par l'administration pourra durer jusqu'à quinze jours sans intervention d'un juge, et sa durée totale sera portée au plafond du règlement retour - vingt-quatre mois",
+          "page": "38",
+          "note": "Même valeur que la Charte républicaine : rétention allongée jusqu'à 24 mois, mais pas systématique. Les centres de préparation au retour accueilleront les autres profils « pour réserver la rétention aux éloignements réellement possibles »."
+        },
+        {
+          "questionId": "soc-03",
+          "value": 2,
+          "quote": "L'aide médicale de l'État (AME) sera supprimée.",
+          "page": "13",
+          "note": "Même valeur que le discours du 24/11/2025. « Ce qui restera : les urgences vitales, la prévention des épidémies - et les enfants resteront soignés » ; la suppression serait votée par la loi référendaire de 2028."
+        },
+        {
+          "questionId": "soc-06",
+          "value": 2,
+          "quote": "Un délai de carence de cinq ans de séjour régulier et de travail pour accéder aux prestations non contributives - allocations familiales, aides au logement, RSA - et maintien du délai de dix ans pour le minimum vieillesse.",
+          "page": "11",
+          "note": "Même valeur que la mesure du 22/09/2026 : cinq ans de séjour régulier et de travail pour les prestations non contributives, dix ans maintenus pour le minimum vieillesse, principe inscrit dans la Constitution."
+        },
+        {
+          "questionId": "edu-05",
+          "value": -1,
+          "quote": "Payer sa formation à son juste prix : les droits d'inscription des étudiants venus de pays hors Union européenne seront relevés, comme partout en Europe - modulés selon les filières que la France veut attirer.",
+          "page": "25",
+          "note": "Même valeur que l'entretien du 31/05/2026 : mesure partielle, qui relève les droits d'inscription des seuls étudiants extra-européens. Rien sur les autres étudiants."
+        }
+      ]
+    },
+    {
       "id": "retailleau-2026-10-theme-retraites",
       "date": "2026-10-15",
       "title": "Projet présidentiel, thème n° 14 « Retraites » (mesures n° 108 à 114)",

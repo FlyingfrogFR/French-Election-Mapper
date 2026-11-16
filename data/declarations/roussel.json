@@ -2,6 +2,29 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-11-communique-miettes",
+      "date": "2026-11-09",
+      "title": "Salaires, éducation : assez de miettes, attaquons-nous au coût du capital !",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.pcf74.fr/2026/11/salaires-education-assez-de-miettes-attaquons-nous-au-cout-du-capital.html",
+      "publisher": "Parti communiste français (communiqué national daté « Paris, le 9 novembre »), republié par la fédération de Haute-Savoie (pcf74.fr)",
+      "summary": "Communiqué national du PCF publié après les réunions de Matignon sur les salaires et l'éducation. Il juge insuffisante la hausse de 1,6 % du SMIC et demande de renationaliser Engie et TotalEnergies aux côtés d'EDF. Il propose aussi un pôle public bancaire qui accorderait des prêts à taux zéro aux PME, et appelle à la grève et aux manifestations du 17 novembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "L'heure est plus que jamais à renationaliser Engie et TotalEnergies aux côtés d'EDF pour reconquérir une maîtrise publique.",
+          "note": "Communiqué national du PCF, dont Fabien Roussel est le candidat désigné ; le texte ne le nomme pas et il ne s'en est pas démarqué. Il demande de renationaliser Engie et TotalEnergies aux côtés d'EDF. C'est aussi précis pour l'énergie que le tract du 21 octobre 2026 : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-10-tract-5-novembre",
       "date": "2026-10-21",
       "title": "Tract « La colère est légitime. La réponse doit être sociale » (mobilisation du 5 novembre 2026)",

@@ -2,6 +2,52 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-11-plan-textile",
+      "date": "2026-11-12",
+      "title": "Plan d’investissement productif : Textile",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/plans-investissement/textile/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan d'investissement productif « Textile » publié sur le site de campagne, élaboré par des expert·es du secteur et coordonné par Clémence Guetté et Hadrien Clouet au sein de l'espace programme de la campagne. Il vise à porter à 10 % d'ici 2032 la part des vêtements neufs consommés en France qui y sont fabriqués, et prévoit l'extension des cultures de lin et de chanvre bio, un bonus-malus écologique, l'usage de la commande publique, le réemploi et le recyclage, pour 3,45 milliards d'euros d'investissements sur le quinquennat. La page n'affiche pas de date : la date retenue est celle de ses métadonnées (datePublished, 12 novembre 2026). Le PDF du plan a été déposé sur le site le 13 novembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Les aides de la PAC seront redéployées pour favoriser les exploitations qui s’installent, se convertissent ou cultivent en bio, mais aussi pour soutenir les coopératives agricoles d’amont et d’aval.",
+          "note": "Le plan annonce que les aides de la PAC iront en priorité aux exploitations qui se convertissent ou cultivent en bio, avec un soutien public aux contrats de transition pour le lin biologique. Même valeur que la source actuelle (L'Avenir en commun 2026)."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-11-ukraine",
+      "date": "2026-11-09",
+      "title": "« Mise au point sur la position de la France insoumise et son candidat sur la guerre en Ukraine » – communiqué de LFI",
+      "sourceType": "communique",
+      "sourceUrl": "https://lafranceinsoumise.fr/2026/11/09/mise-au-point-sur-la-position-de-la-france-insoumise-et-son-candidat-sur-la-guerre-en-ukraine/",
+      "publisher": "La France insoumise (site officiel de LFI)",
+      "summary": "Communiqué de La France insoumise publié le 9 novembre 2026. Il répond aux critiques visant les propos tenus par Jean-Luc Mélenchon au Bourget sur les territoires ukrainiens occupés par la Russie et rappelle que toute cession de territoire devrait être validée par un vote des populations concernées. Selon le texte, LFI a soutenu les textes d'aide à l'Ukraine, sauf ceux qui portaient sur les missiles longue portée, l'envoi de forces combattantes ou l'adhésion de l'Ukraine à l'UE, et elle appelle à des négociations de paix.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-08",
+          "value": -1,
+          "quote": "à l’envoi de forces combattantes sur le sol ukrainien ; aux textes prévoyant l’adhésion de l’Ukraine à l’Union européenne au risque d’une aggravation sans précédent du dumping social qui fracture déjà l’UE",
+          "note": "Parmi les « exceptions, assumées » au soutien à l'Ukraine, le communiqué du parti dont il est le candidat cite le refus des textes prévoyant l'adhésion de l'Ukraine à l'UE, au motif du dumping social. Rien sur les Balkans occidentaux. Refus partiel, d'où −1 : même valeur que la source actuelle (AEC 2025, pas d'élargissement sans harmonisation préalable)."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-10-plan-sante",
       "date": "2026-10-30",
       "title": "Comment nous allons reconstruire notre système de santé (plan thématique)",

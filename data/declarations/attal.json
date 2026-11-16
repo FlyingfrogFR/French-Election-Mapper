@@ -2,6 +2,88 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-11-franceinfo-services-publics",
+      "date": "2026-11-12",
+      "title": "Services publics : Gabriel Attal dévoile ses propositions pour l’école, la justice et le logement",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-services-publics-ecole-justice-logement-franceinfo",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié sur le site de campagne, du Grand oral de Gabriel Attal sur les services publics diffusé par franceinfo le 12 novembre 2026. Il y présente un plan de départ volontaire portant sur 100 000 postes, 150 milliards d'euros d'économies sur cinq ans, des propositions pour l'école et la justice, et une banque publique du logement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Sur le volet pénal, Gabriel Attal défend une politique plus ferme, avec la suppression du juge de l’application des peines et des réductions automatiques de peine, ainsi que la construction de nouvelles places de prison.",
+          "note": "Même valeur que l'entretien au Figaro du 12 juin : construction de nouvelles places de prison, sans objectif chiffré de 20 000 places, d'où +1."
+        },
+        {
+          "questionId": "sec-08",
+          "value": 1,
+          "quote": "Après une augmentation de 50 % du budget de la Justice depuis 2017, Gabriel Attal souhaite poursuivre les investissements avec le recrutement de 3 000 magistrats et greffiers supplémentaires.",
+          "note": "Même valeur que l'entretien au Figaro du 12 juin : il veut poursuivre l'investissement dans la justice (3 000 magistrats et greffiers supplémentaires), sans annoncer de doublement du budget, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-11-sud-ouest-logement",
+      "date": "2026-11-11",
+      "title": "Gabriel Attal veut permettre à tous les Français de devenir propriétaire",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-sud-ouest-tous-proprietaires-banque-investissement-logement",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié sur le site de campagne, de l'entretien de Gabriel Attal à Sud Ouest du 11 novembre 2026 sur le logement. Il y présente une banque nationale d'investissement pour le logement, l'alignement de la fiscalité des donations aux petits-enfants, l'extension de la garantie Visale, un statut du bailleur privé, sa critique de l'encadrement des loyers, un plan pour la géothermie et son appel au rassemblement.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-01",
+          "value": -1,
+          "quote": "Il se montre également critique à l'égard de l'encadrement des loyers. Sans défendre une suppression brutale des protections existantes, il estime que ce dispositif ne permet pas de créer de nouveaux logements et peut contribuer à bloquer le marché.",
+          "inferred": true,
+          "note": "Il critique l'encadrement des loyers (le dispositif ne crée pas de logements et peut bloquer le marché) sans en demander la suppression brutale. Il ne se prononce pas explicitement sur sa généralisation : son opposition à celle-ci est déduite de sa critique, d'où −1."
+        },
+        {
+          "questionId": "log-09",
+          "value": 1,
+          "quote": "Pour encourager l'investissement locatif, Gabriel Attal propose par ailleurs la création d'un véritable statut du bailleur privé, avec un élargissement des possibilités d'amortissement fiscal en contrepartie d'un engagement de location.",
+          "note": "Position rapportée (compte rendu à la troisième personne publié par le site de campagne), limitée à +1 par la règle 3 de la charte. Le statut du bailleur privé comporte désormais explicitement un élargissement de l'amortissement fiscal en contrepartie d'un engagement de location. Même valeur que la REF du 27 août."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-11-saint-raphael",
+      "date": "2026-11-08",
+      "title": "Gabriel Attal aux Rencontres de l’avenir à Saint-Raphaël : « La France doit redevenir la première puissance d’Europe en dix ans »",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-rencontres-avenir-saint-raphael-france-premiere-puissance-europe-dix-ans",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Compte rendu, publié sur le site de campagne, de l'échange de Gabriel Attal aux Rencontres de l'avenir à Saint-Raphaël le 8 novembre 2026. Il y présente l'objectif de faire de la France la première puissance européenne en dix ans, un service civique obligatoire, sa réforme des retraites avec un pilier de capitalisation, l'interdiction des réseaux sociaux avant 15 ans et des propositions sur l'intelligence artificielle.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-06",
+          "value": 1,
+          "quote": "Il a notamment défendu la mise en place, à partir de 2027, d’un service civique obligatoire d’un mois au moins, permettant à chaque jeune de participer à une mission d’intérêt général auprès d’associations ou de services publics.",
+          "note": "Même valeur que les mesures pour la jeunesse du 11 octobre : un service civique obligatoire d'au moins un mois pour chaque jeune à partir de 2027, auprès d'associations ou de services publics. La mesure est civile, de courte durée et n'est pas présentée comme un service national universel, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "attal-2026-10-bfm-ordre",
       "date": "2026-10-20",
       "title": "Gabriel Attal appelle à rétablir l’ordre et à mettre fin à l’impunité",

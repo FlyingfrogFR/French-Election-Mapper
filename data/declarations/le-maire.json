@@ -2,6 +2,205 @@
   "candidateId": "le-maire",
   "declarations": [
     {
+      "id": "le-maire-2026-11-projet",
+      "date": "2026-11-12",
+      "title": "Le projet pour une autre France — 50 propositions",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.uneautrefrance.fr/_files/ugd/96b22b_cf7b4dbfd1fa46a685609cde240ff452.pdf",
+      "publisher": "Une autre France (uneautrefrance.fr, site de Bruno Le Maire)",
+      "summary": "Projet de 28 pages publié en PDF sur uneautrefrance.fr sous le nom de Bruno Le Maire et rédigé à la première personne. Le document n'est pas daté : le serveur indique une dernière modification le 12 novembre 2026, jour de sa présentation selon la presse ; la liste des déplacements qu'il contient s'arrête au 11 novembre 2026. Il propose des mesures d'urgence pour reprendre le contrôle de la dette (contribution sur les hauts revenus, prélèvements exceptionnels, désindexations), une négociation des retraites avec les partenaires sociaux sur la base d'un âge de référence à 65 ans et une retraite par capitalisation, puis 50 propositions sur l'autorité de l'État, la prospérité et une fédération européenne à six, ainsi que cinq référendums.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Nous voulons éliminer les deux tiers des niches fiscales et redistribuer le produit aux entreprises sous forme d’allègements de charges et de suppression des impôts de production.",
+          "page": "18",
+          "note": "Le projet supprime les deux tiers des niches fiscales et reverse le produit aux entreprises. Seuls cinq crédits d'impôt seraient maintenus (innovation, emploi à domicile, retraites par capitalisation, dons, environnement)."
+        },
+        {
+          "questionId": "eco-10",
+          "value": 1,
+          "quote": "Nous augmenterons le taux effectif de l’impôt sur le revenu acquitté par les ménages avec un revenu fiscal de référence supérieur à 500 000 euros en portant la contribution différentielle sur les hauts revenus de 20 % à 30 %.",
+          "page": "6",
+          "inferred": true,
+          "note": "Mesure voisine, d'où +1 : pas de tranches supplémentaires, mais la contribution différentielle sur les hauts revenus passe de 20 % à 30 % au-delà de 500 000 euros de revenu fiscal de référence. Elle fait partie des mesures d'urgence maintenues jusqu'au retour à l'équilibre des comptes."
+        },
+        {
+          "questionId": "eco-12",
+          "value": -1,
+          "quote": "Ce fonds sera alimenté au départ par la cession de la moitié des participations de l’État, soit 100 milliards d’euros. L’État gardera une action spécifique dans les entreprises stratégiques.",
+          "page": "7",
+          "inferred": true,
+          "note": "Déduit de la cession de la moitié des participations de l'État (100 milliards d'euros), l'État ne gardant qu'une action spécifique dans les entreprises stratégiques. Les entreprises de l'énergie et des transports et les autoroutes ne sont pas nommées."
+        },
+        {
+          "questionId": "tra-05",
+          "value": 2,
+          "quote": "Nous limiterons la durée d’indemnisation du chômage à 12 mois pour les moins de 55 ans, nous plafonnerons son montant maximum au niveau du salaire médian, soit 2 200 euros net par mois.",
+          "page": "17",
+          "note": "L'indemnisation est limitée à 12 mois pour les moins de 55 ans et plafonnée à 2 200 euros net par mois."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Nous proposons de mettre en place une retraite par capitalisation, avec un pilier facultatif autour du PER et un pilier obligatoire sous forme de fonds souverains.",
+          "page": "7",
+          "note": "La retraite par capitalisation aurait un pilier facultatif (le PER) et un pilier obligatoire : un fonds souverain alimenté par la cession de participations de l'État."
+        },
+        {
+          "questionId": "soc-02",
+          "value": -1,
+          "quote": "Nous supprimerons le RSA pour le remplacer par une allocation unique qui sera versée exclusivement aux personnes qui ne sont pas en situation de travailler.",
+          "page": "17",
+          "inferred": true,
+          "note": "Déduit du remplacement du RSA par une allocation unique réservée aux personnes qui ne sont pas en situation de travailler, à l'opposé d'un revenu versé à tous. Le revenu universel n'est pas nommé."
+        },
+        {
+          "questionId": "soc-04",
+          "value": -1,
+          "quote": "Nous désindexerons les pensions de retraite - sauf les plus petites retraites.",
+          "page": "6",
+          "note": "Le projet désindexe les pensions (sauf les plus petites) et, deux lignes plus bas, les prestations sociales. Ce sont des mesures d'urgence maintenues jusqu'au retour à l'équilibre des comptes : rejet temporaire et partiel, d'où -1, comme dans le discours de Briançon."
+        },
+        {
+          "questionId": "soc-06",
+          "value": 1,
+          "quote": "Plus aucune prestation sociale ne pourra être versée à des ressortissants étrangers sans contribution à l’Assurance maladie.",
+          "page": "12",
+          "inferred": true,
+          "note": "Mesure voisine, d'où +1 : les prestations sociales versées aux étrangers seraient conditionnées à une contribution à l'Assurance maladie, et non à cinq ans de résidence légale."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 2,
+          "quote": "Nous mettrons en place une carte Vitale biométrique individuelle non falsifiable.",
+          "page": "21",
+          "note": "Remplace +1 du manifeste d'août 2026, qui ne parlait pas de carte Vitale biométrique : le projet la propose explicitement, dans un paragraphe sur les « abus sur la sécurité sociale »."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 2,
+          "quote": "Nous plafonnerons le montant maximum des aides sociales cumulées à un niveau inférieur au SMIC.",
+          "page": "17",
+          "note": "Le cumul des aides sociales serait plafonné sous le niveau du SMIC."
+        },
+        {
+          "questionId": "san-03",
+          "value": -2,
+          "quote": "Nous laisserons à la charge des mutuelles et des assurances privées le remboursement des soins de confort ou accessoires.",
+          "page": "21",
+          "note": "La solidarité nationale serait recentrée sur les plus grands risques et la prévention. Les soins de confort ou accessoires seraient laissés aux mutuelles, à l'opposé d'un remboursement à 100 %."
+        },
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Nous reviendrons sur l’interdiction de la location des logements classés F, G et E.",
+          "page": "19",
+          "note": "Propose de revenir sur l'interdiction de louer les logements classés E, F et G."
+        },
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Nous déciderons un moratoire de 1 an sur tous les flux migratoires. Cette année sera mise à profit pour rédiger une Charte de l’immigration, qui définira les objectifs de la politique migratoire en vue de parvenir à une immigration utile pour la nation.",
+          "page": "12",
+          "note": "Moratoire d'un an sur tous les flux migratoires, puis une Charte de l'immigration soumise à référendum. Pas de quotas annuels votés par le Parlement, d'où +1."
+        },
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Cette année sera mise à profit pour rédiger une Charte de l’immigration, qui définira les objectifs de la politique migratoire en vue de parvenir à une immigration utile pour la nation. Le peuple français se prononcera par référendum sur cette Charte.",
+          "page": "12",
+          "note": "Remplace +1 du discours de Briançon, qui ne précisait pas la consultation : le projet prévoit explicitement un référendum sur une Charte de l'immigration."
+        },
+        {
+          "questionId": "imm-03",
+          "value": 1,
+          "quote": "Nous déciderons un moratoire de 1 an sur tous les flux migratoires.",
+          "page": "12",
+          "inferred": true,
+          "note": "Le regroupement familial n'est pas nommé, mais le moratoire d'un an porte sur « tous les flux migratoires ». La restriction est temporaire, d'où +1."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 1,
+          "quote": "Nous construirons 15 000 places de prison supplémentaires.",
+          "page": "12",
+          "note": "15 000 places de prison supplémentaires, en deçà du seuil de 20 000 de l'affirmation, d'où +1."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 1,
+          "quote": "Nous orienterons la politique carcérale vers des peines courtes et effectives.",
+          "page": "12",
+          "inferred": true,
+          "note": "Orientation vers des peines courtes et effectives ; le passage sur le narcotrafic (p. 10) prévoit aussi « des peines de prison courte à exécution immédiate ». La fin de l'aménagement automatique n'est pas formulée, d'où +1."
+        },
+        {
+          "questionId": "sec-06",
+          "value": 2,
+          "quote": "Nous abaisserons la majorité pénale à 16 ans.",
+          "page": "10",
+          "inferred": true,
+          "note": "L'excuse de minorité n'est pas nommée. Mais avec une majorité pénale à 16 ans, les 16-18 ans seraient jugés comme des majeurs, sans atténuation de responsabilité."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "Nous mettrons en place une direction unique de lutte contre le trafic de stupéfiants. Elle rassemblera les agents et les services de renseignement de la Gendarmerie, des Douanes et de la Police. Elle sera dotée de pouvoirs d’investigation et de sanction exceptionnels.",
+          "page": "10",
+          "note": "Lutte répressive contre le narcotrafic : direction unique dotée de pouvoirs exceptionnels, infraction de complicité pour le recrutement de mineurs, suspension des aides sociales et saisie des biens. Ni parquet dédié ni prisons de haute sécurité, d'où +1, comme à Briançon."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Nous instaurerons un référendum d’initiative citoyenne. Ce référendum devra être convoqué dès lors qu’il aura obtenu le soutien de 1 million de citoyens. Il ne sera soumis à aucune condition parlementaire.",
+          "page": "15",
+          "note": "RIC convoqué dès 1 million de soutiens, sans condition parlementaire ; le sigle n'était pas employé dans le manifeste."
+        },
+        {
+          "questionId": "ins-05",
+          "value": 2,
+          "quote": "Nous réduirons le nombre de députés de 577 à 400. Nous réduirons la production de lois par le Parlement, qui consacrera 50 % de son temps au contrôle de leur bonne exécution. Nous réduirons le nombre de sénateurs de 348 à 200.",
+          "page": "14",
+          "note": "Les députés passent de 577 à 400, les sénateurs de 348 à 200."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 2,
+          "quote": "Nous réduirons les échelons de décision en France à 3 : État, régions, bloc communal. Les départements fusionneront avec les régions",
+          "page": "15",
+          "note": "Trois échelons (État, régions, bloc communal) ; les départements fusionnent avec les régions."
+        },
+        {
+          "questionId": "ins-13",
+          "value": 2,
+          "quote": "Nous supprimerons le 49.3. Nous mettrons en place une procédure de censure constructive : aucune censure du gouvernement ne sera possible tant que les parlementaires n’auront pas dégagé de majorité alternative.",
+          "page": "14",
+          "note": "Suppression du 49.3, avec une censure constructive."
+        },
+        {
+          "questionId": "log-03",
+          "value": 2,
+          "quote": "Nous réduirons à 1 mois le délai de recours d’un tiers et à 1 mois le délai d’instruction technique du permis de construire. Nous allègerons les normes de la Réglementation environnementale 2020 (RE2020).",
+          "page": "19",
+          "note": "Délais de recours et d'instruction du permis de construire ramenés à un mois, durée d'obtention divisée par deux, normes RE2020 allégées."
+        },
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Nous triplerons la taxe GAFAM et nous élargirons son assiette.",
+          "page": "17",
+          "note": "La taxe GAFAM serait triplée et son assiette élargie. Le projet ne propose pas de régulation supplémentaire et écrit que l'Europe doit « produire ce qu'elle veut réguler » (p. 23), d'où +1, comme à Briançon."
+        }
+      ]
+    },
+    {
       "id": "le-maire-2026-02-europe-des-six",
       "date": "2026-02-12",
       "title": "Pour une Europe des six : le grand ajustement",

@@ -2,6 +2,29 @@
   "candidateId": "le-pen",
   "declarations": [
     {
+      "id": "le-pen-2026-11-x-tva-jeunes",
+      "date": "2026-11-16",
+      "title": "Message publié sur X le 16 novembre 2026 : train gratuit aux heures creuses pour les jeunes et baisse de la TVA sur l'énergie",
+      "sourceType": "autre",
+      "sourceUrl": "https://x.com/MLP_officiel/status/2122309962340950051",
+      "publisher": "Marine Le Pen (compte X officiel @MLP_officiel)",
+      "summary": "Message publié le 16 novembre 2026 sur le compte X de Marine Le Pen, avec un extrait vidéo. Elle y annonce que les jeunes pourront voyager gratuitement en train aux heures creuses, et que la baisse de la TVA de 20 à 5,5 % sur le gaz, l'électricité, les carburants et le fioul sera une aide considérable pour les jeunes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": 2,
+          "quote": "Et la baisse de la TVA de 20 à 5,5 % sur le gaz, l’électricité, les carburants et le fioul sera une aide considérable pour les jeunes.",
+          "note": "Mesure aussi précise que celle des 22 mesures de 2022 (TVA de 20 % à 5,5 % sur carburants, fioul, gaz et électricité) : la valeur +2 ne change pas, la source est plus récente."
+        }
+      ]
+    },
+    {
       "id": "le-pen-2026-10-contre-budget-2027",
       "date": "2026-10-15",
       "title": "Contre-budget 2027 du groupe Rassemblement National (dossier)",

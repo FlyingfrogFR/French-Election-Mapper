@@ -2,6 +2,29 @@
   "candidateId": "villepin",
   "declarations": [
     {
+      "id": "villepin-2026-11-bigbang-fiscal-x",
+      "date": "2026-11-14",
+      "title": "Message publié sur X le 14 novembre 2026 sur le « big-bang fiscal »",
+      "sourceType": "autre",
+      "sourceUrl": "https://x.com/Villepin/status/2121684050041795044",
+      "publisher": "Dominique de Villepin (compte X officiel @Villepin)",
+      "summary": "Texte publié sur son compte X officiel avec un extrait de son entretien du 12 novembre 2026 sur TF1. Il y propose un « big-bang fiscal » : mise à plat des niches fiscales et sociales, rapprochement du salaire net et du salaire brut par la bascule de 200 milliards d'euros de cotisations vers la CSG, et contribution accrue des revenus du capital, dont les dividendes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Il s’agit de faire davantage contribuer les revenus du capital, y compris les dividendes issus des profits générés par l’intelligence artificielle.",
+          "note": "Mesure partielle : il veut faire « davantage contribuer » les revenus du capital, y compris les dividendes, dans le cadre de son « big-bang fiscal », sans rien dire des rachats d'actions ni viser spécifiquement les grandes entreprises."
+        }
+      ]
+    },
+    {
       "id": "villepin-2026-11-lettre-retailleau",
       "date": "2026-11-02",
       "title": "Lettre à Bruno Retailleau publiée sur X le 2 novembre 2026",

@@ -680,10 +680,15 @@
       "partyShort": "DVC",
       "status": "potential",
       "declaredOn": null,
-      "statusNote": "Ancien ministre ; décision annoncée pour octobre 2026 selon la presse.",
+      "statusNote": "Ancien ministre ; il a publié le 12 novembre 2026 son « projet pour une autre France » (50 propositions) sans se déclarer candidat.",
       "primary": null,
       "website": "https://www.uneautrefrance.fr/",
       "sources": [
+        {
+          "title": "Une autre France — Le projet pour une autre France (PDF publié sur uneautrefrance.fr)",
+          "url": "https://www.uneautrefrance.fr/_files/ugd/96b22b_cf7b4dbfd1fa46a685609cde240ff452.pdf",
+          "date": "2026-11-12"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -1320,10 +1325,20 @@
       "partyShort": "REC",
       "status": "declared",
       "declaredOn": "2026-09-17",
-      "statusNote": "Candidature confirmée le 17 septembre 2026 ; déclaration formelle attendue à l'automne.",
+      "statusNote": "Candidature confirmée le 17 septembre 2026, puis officialisée le 10 novembre 2026 au journal de 20 h de TF1 et sur son canal Telegram officiel (« Je suis candidat à l'élection présidentielle de 2027. »).",
       "primary": null,
       "website": "https://www.ericzemmour.fr/",
       "sources": [
+        {
+          "title": "Éric Zemmour (canal Telegram officiel) — « Je suis candidat à l'élection présidentielle de 2027. »",
+          "url": "https://t.me/EricZemmourOfficiel/7979",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Le Monde — Éric Zemmour confirme sa candidature à l'élection présidentielle",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html",
+          "date": "2026-11-10"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -1608,6 +1623,41 @@
           "title": "Le Nouvel Obs — Présidentielle 2027 : d'Asselineau à Riner, quels sont les 31 candidats actuellement déclarés ?",
           "url": "https://www.nouvelobs.com/politique/20261109.OBS119985/presidentielle-2027-quels-sont-les-31-candidats-actuellement-declares.html",
           "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "lassalle",
+      "firstName": "Jean",
+      "lastName": "Lassalle",
+      "displayName": "Jean Lassalle",
+      "party": "Résistons !",
+      "partyShort": "RES",
+      "status": "declared",
+      "declaredOn": "2026-11-06",
+      "statusNote": "Ancien maire de Lourdios-Ichère et ancien député des Pyrénées-Atlantiques, fondateur du mouvement Résistons !, il a été candidat aux élections présidentielles de 2017 (1,21 %) et de 2022 (3,13 %). En juillet 2026, il a ouvert une cagnotte pour financer une candidature et a dit qu'il se déciderait « à l'automne ». Le 6 novembre 2026, il a déclaré à Sud Ouest vouloir se présenter de nouveau en 2027 (« Je m'y suis remis après m'être convaincu de ne pas y aller ») et lancer une « opération parrainages ». Il doit encore réunir les 500 parrainages d'élus.",
+      "primary": null,
+      "website": null,
+      "sources": [
+        {
+          "title": "Sud Ouest — INFO SUD OUEST. Jean Lassalle a collecté 50 000 euros et lance son « opération parrainages » pour être candidat à la présidentielle 2027",
+          "url": "https://www.sudouest.fr/elections/presidentielle/info-sud-ouest-jean-lassalle-a-collecte-50-000-euros-et-lance-son-operation-parrainages-pour-etre-candidat-a-la-presidentielle-2027-31383653.php",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "franceinfo — PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ? (fiche « Jean Lassalle, 71 ans, Résistons », statut « Candidat » ; liste « 36 candidats au 09/11/2026 »)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "LCP — Présidentielle 2027 : la liste des candidats déclarés et potentiels (publiée le 10 novembre, mise à jour le 14 novembre 2026 ; « candidatures annoncées […] Jean Lassalle (Résistons) »)",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Sud Ouest — « Pas dans l'espoir d'être élu, mais pour apporter mon éclairage, mon témoignage » : Jean Lassalle lance une cagnotte pour viser la candidature à la présidentielle 2027",
+          "url": "https://www.sudouest.fr/politique/jean-lassalle/pas-dans-l-espoir-d-etre-elu-mais-pour-apporter-mon-eclairage-mon-temoignage-jean-lassalle-lance-une-cagnotte-pour-viser-la-candidature-a-la-presidentielle-2027-29911736.php",
+          "date": "2026-07-12"
         }
       ]
     }

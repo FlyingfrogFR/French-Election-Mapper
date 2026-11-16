@@ -2,6 +2,105 @@
   "candidateId": "zemmour",
   "declarations": [
     {
+      "id": "zemmour-2026-11-telegram-capitalisation",
+      "date": "2026-11-15",
+      "title": "Message du 15 novembre 2026 : passage de la retraite par répartition à la capitalisation",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/8042?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 15 novembre 2026 sur le canal Telegram officiel d'Éric Zemmour. Il annonce qu'il fera passer la France de la retraite par répartition à la capitalisation, écrit que « personne ne s'appauvrira » pendant la transition et que ce ne sera « pas un plan d'austérité », et renvoie à sa parution du même jour en une du JDD.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Je ferai passer la France de la retraite par répartition à la capitalisation. Dans cette transition, personne ne s’appauvrira et, dès le début, les actifs s’enrichiront.",
+          "note": "Va au-delà de l'énoncé : le message propose un passage du système par répartition à la capitalisation, pas seulement l'introduction d'une part de capitalisation ; aucune position n'était enregistrée jusqu'ici."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-11-telegram-aide-a-mourir",
+      "date": "2026-11-12",
+      "title": "Message du 12 novembre 2026 sur la loi sur l'euthanasie et le suicide assisté",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7996?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 12 novembre 2026 sur le canal Telegram officiel d'Éric Zemmour. Il écrit que la loi sur l'euthanasie et le suicide assisté « a ouvert la boîte de Pandore » et annonce qu'il l'abolira s'il est élu, qu'il rétablira la loi Leonetti et qu'il donnera davantage de moyens aux soins palliatifs.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-05",
+          "value": -2,
+          "quote": "Avec la loi sur l'euthanasie et le suicide assisté, on nous a parlé d'aide à mourir, mais en suivant les débats, j'ai compris qu'il ne s'agissait pas de laisser mourir les gens : il s'agissait de les faire mourir. Cette loi a ouvert la boîte de Pandore. C'est pourquoi, Président, je l'abolirai",
+          "note": "Rejet explicite : le message annonce l'abrogation de la loi sur l'euthanasie et le suicide assisté et le retour à la loi Leonetti ; aucune position n'était enregistrée jusqu'ici."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-11-telegram-allocations-familiales",
+      "date": "2026-11-12",
+      "title": "Message du 12 novembre 2026 sur l'universalité des allocations familiales",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7998?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 12 novembre 2026 sur le canal Telegram officiel d'Éric Zemmour. Il écrit que la fin de l'universalité des allocations familiales, décidée sous François Hollande, « a fait beaucoup de mal à la natalité française », annonce qu'il rétablira cette universalité et appelle à mener une « bataille culturelle » pour dire que « les enfants sont une chance ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-01",
+          "value": 2,
+          "quote": "La fin de l'universalité des allocations familiales, décidée sous François Hollande, a fait beaucoup de mal à la natalité française, et je la rétablirai.",
+          "note": "Même valeur que le programme de 2022 (« Revenir à l'universalité des allocations familiales ») : rétablir l'universalité revient à verser les allocations sans condition ni modulation selon les ressources."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-11-telegram-impots",
+      "date": "2026-11-10",
+      "title": "Message du 10 novembre 2026 : suppression de la CSG sur les revenus d'activité, des droits de succession en ligne directe, de l'IFI et des impôts de production",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/7987?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 10 novembre 2026, le soir de l'officialisation de sa candidature, sur le canal Telegram officiel d'Éric Zemmour. Il écrit que, depuis 30 ans, « nos meilleurs ingénieurs partent aux États-Unis », où ils sont payés « 2, 3 ou 4 fois plus ». Il annonce, pour « baisser massivement les impôts », la suppression de la CSG sur les revenus d'activité, des droits de succession en ligne directe, de l'IFI et des impôts de production.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-16 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-04",
+          "value": 2,
+          "quote": "nous supprimerons la CSG sur les revenus d'activité, les droits de succession en ligne directe, l'IFI et les impôts de production.",
+          "note": "Même valeur que le tract du 12 octobre 2026 : la suppression des droits de succession, ici précisée « en ligne directe », va au-delà de la réduction énoncée."
+        },
+        {
+          "questionId": "eco-02",
+          "value": -2,
+          "quote": "nous supprimerons la CSG sur les revenus d'activité, les droits de succession en ligne directe, l'IFI et les impôts de production.",
+          "inferred": true,
+          "note": "Déduite, même valeur que le programme de 2022 : le message annonce la suppression de l'IFI, l'impôt actuel sur la fortune immobilière, ce qui est le contraire du rétablissement d'un ISF étendu au patrimoine financier."
+        }
+      ]
+    },
+    {
       "id": "zemmour-2026-10-telegram-impunite",
       "date": "2026-10-26",
       "title": "Message du 26 octobre 2026 : trois mesures « pour mettre fin à l'impunité »",
