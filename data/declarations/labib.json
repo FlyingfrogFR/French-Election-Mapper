@@ -2,6 +2,30 @@
   "candidateId": "labib",
   "declarations": [
     {
+      "id": "labib-2026-11-breve-ukraine",
+      "date": "2026-11-18",
+      "title": "Brève du NPA-Révolutionnaires du 18 novembre 2026 — « Guerre en Ukraine : un contingent de soldats français opère sur place »",
+      "sourceType": "autre",
+      "sourceUrl": "https://npa-revolutionnaires.org/articles/guerre-en-ukraine-un-contingent-de-soldats-francais-opere-sur-place",
+      "publisher": "NPA-Révolutionnaires",
+      "summary": "Brève non signée publiée le 18 novembre 2026 dans la rubrique « Brèves » du site du NPA-Révolutionnaires. Elle rapporte, d'après RFI et l'AFP, que des militaires français sont présents en Ukraine depuis l'été, officiellement pour former des soldats ukrainiens et entretenir le matériel militaire (mission « Volia »), et reproche au gouvernement de ne pas en avoir informé le Parlement comme la loi l'y oblige. Elle conclut que Paris s'engage « chaque jour un peu plus » dans ce conflit, « soutenu par les marchands d'armes », et qu'il faut dire « non à la guerre ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": -1,
+          "quote": "En fait Paris s’engage chaque jour un peu plus dans ce conflit, soutenu par les marchands d’armes qui y trouvent leur compte. Plus que jamais il faut dire « non à la guerre » !",
+          "inferred": true,
+          "note": "Brève non signée du parti dont elle est la candidate désignée. Elle reproche à Paris de s'engager « chaque jour un peu plus » dans la guerre en Ukraine, par une mission militaire de formation et d'entretien du matériel, au profit des « marchands d'armes », et appelle à dire « non à la guerre ». Les livraisons d'armes, leur portée et la durée du soutien ne sont pas abordées, d'où −1 déduit."
+        }
+      ]
+    },
+    {
       "id": "labib-2026-11-breve-nationalisme",
       "date": "2026-11-14",
       "title": "Brève du NPA-Révolutionnaires du 14 novembre 2026 — « Le nationalisme économique est un leurre »",

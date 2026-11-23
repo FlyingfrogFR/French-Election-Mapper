@@ -205,12 +205,12 @@
       "sourceType": "programme",
       "sourceUrl": "https://www.edouardphilippe.fr/programme/travail",
       "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
-      "summary": "Page Travail et salaires du programme, mise à jour le 18 novembre 2026. Elle propose de laisser les entreprises fixer leur temps de travail, d'exonérer d'impôt et de cotisations salariales les heures au-delà de 35 heures, de supprimer les cotisations patronales au-delà de la 37e heure et de limiter à 12 mois l'indemnisation chômage des moins de 50 ans.",
+      "summary": "Page Travail et salaires du programme, mise à jour le 18 novembre 2026. Elle propose de laisser les entreprises fixer leur temps de travail, d'exonérer d'impôt et de cotisations salariales les heures au-delà de 35 heures, de supprimer les cotisations patronales au-delà de la 37e heure et de limiter à 12 mois l'indemnisation chômage des moins de 50 ans. Elle juge aussi anormal que les exonérations de charges sur les bas salaires aient « enfermé plus de 3 millions de Français au niveau du SMIC ».",
       "review": {
         "status": "pending",
         "reviewers": [],
         "reviewedOn": null,
-        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified ». Positions soc-09 et tra-13 ajoutées par la passe de rattrapage de la même veille, après deux relectures adverses."
       },
       "positions": [
         {
@@ -218,6 +218,20 @@
           "value": 1,
           "quote": "Les heures travaillées au-delà de 35 heures seront exonérées d’impôt et de cotisations salariales, et les entreprises ne paieront plus de cotisation patronale au-delà de la 37e heure.",
           "note": "Même valeur : exonération d'impôt et de cotisations salariales dès la 36e heure, mais cotisations patronales supprimées seulement au-delà de la 37e heure (et, selon la page, quand l'entreprise décide d'allonger le temps de travail), donc exonération non totale, d'où +1."
+        },
+        {
+          "questionId": "soc-09",
+          "value": 1,
+          "quote": "Pour Édouard Philippe, le travail doit toujours rapporter plus que l’inactivité. Il juge anormal qu’on puisse aujourd’hui, sans travailler, avoir un niveau de vie proche de celui d’un salarié au SMIC",
+          "inferred": true,
+          "note": "Même valeur que le discours de Marseille de mai 2025 : le programme affirme que le travail doit toujours rapporter plus que l'inactivité, sans proposer de plafonnement des aides, d'où +1 déduit."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Il juge anormal qu’on puisse aujourd’hui, sans travailler, avoir un niveau de vie proche de celui d’un salarié au SMIC, et que les exonérations de charges sur les bas salaires aient enfermé plus de 3 millions de Français au niveau du SMIC.",
+          "inferred": true,
+          "note": "Remplace le +1 déduit de la page « Pour une France plus prospère » (janvier 2026), désormais redirigée vers /programme et qui ne visait pas les bas salaires : le programme juge anormal que les exonérations sur les bas salaires aient « enfermé » plus de 3 millions de Français au SMIC et ne propose aucune nouvelle baisse ciblée sur ces salaires, d'où −1 déduit."
         }
       ]
     },
