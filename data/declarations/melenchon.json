@@ -2,6 +2,115 @@
   "candidateId": "melenchon",
   "declarations": [
     {
+      "id": "melenchon-2026-11-plan-enfance",
+      "date": "2026-11-19",
+      "title": "Comment nous allons garantir les droits des enfants (plan thématique)",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/plans-thematiques/enfance/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan thématique sur les droits des enfants publié sur le site de campagne, présenté comme complémentaire de L'Avenir en commun. Il prévoit une loi de programmation contre les violences faites aux enfants, la reconstruction de l'Aide sociale à l'enfance, une réforme de la justice des mineurs, un service public de la petite enfance et le droit de vote à 16 ans. La page n'affiche pas de date. Ses métadonnées et le communiqué du site indiquent une publication le 19 novembre 2026, jour de la conférence de présentation du plan, à laquelle Jean-Luc Mélenchon est intervenu (vidéo sur melenchon.fr).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-01",
+          "value": -2,
+          "quote": "la politique macroniste de l’enfance, marquée par des dérives autoritaires : interdiction des réseaux sociaux aux moins de 15 ans",
+          "note": "Sens inverse de l'affirmation : le plan range l'interdiction des réseaux sociaux aux moins de 15 ans parmi les « dérives autoritaires » de la politique macroniste. Il écrit plus loin que « la solution ne peut en aucun cas être de les exclure » et propose à la place d'imposer aux plateformes des espaces adaptés aux enfants. Première position sur cette affirmation."
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Nous leur ferons aussi pleinement place dans la cité en tant que citoyen·nes. C’est pourquoi nous ouvrirons le droit de vote à 16 ans.",
+          "note": "Même valeur que la source actuelle (discours du Bourget du 7 novembre 2026)."
+        },
+        {
+          "questionId": "sec-06",
+          "value": -2,
+          "quote": "Abroger les mesures qui alignent la justice des mineur·es sur celle des adultes pour rétablir les principes de l’ordonnance de février 1945, de primauté de l’action éducative sur l’action répressive",
+          "inferred": true,
+          "note": "Déduite : l'ordonnance de 1945 fonde l'atténuation de responsabilité des mineurs, et le plan abroge les mesures qui alignent la justice des mineurs sur celle des adultes. Même valeur que la source actuelle, elle aussi déduite."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Instaurer le 100 % Sécu et rembourser intégralement les soins prescrits",
+          "note": "Même valeur que la source actuelle."
+        }
+      ]
+    },
+    {
+      "id": "melenchon-2026-11-plan-pauvrete",
+      "date": "2026-11-16",
+      "title": "Comment nous allons abolir la pauvreté (plan thématique)",
+      "sourceType": "programme",
+      "sourceUrl": "https://melenchon2027.fr/plans-thematiques/pauvrete/",
+      "publisher": "Mélenchon 2027 (site de campagne de Jean-Luc Mélenchon)",
+      "summary": "Plan thématique sur la pauvreté publié sur le site de campagne, présenté comme complémentaire de L'Avenir en commun, le programme de Jean-Luc Mélenchon. Il prévoit un « état d'urgence sociale » (blocage des prix de première nécessité, blocage des loyers, réquisition des logements vides), le SMIC à 1 700 euros net, une garantie d'autonomie qui porte chaque résident au seuil de pauvreté, l'accès aux services essentiels et la lutte contre le non-recours. La page n'affiche pas de date. Ses métadonnées indiquent une création le 13 novembre 2026, mais le communiqué officiel du site date sa présentation du lundi 16 novembre 2026, jour de la mise en ligne du PDF et de la dernière modification de la page.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-07",
+          "value": 2,
+          "quote": "Le blocage des prix de produits de première nécessité (alimentation, énergie)",
+          "note": "Le blocage des prix des produits de première nécessité figure parmi les mesures de l'« état d'urgence sociale », que le plan prévoit de décréter dès l'arrivée au pouvoir. Même valeur que la source actuelle (AEC du 6 novembre 2026)."
+        },
+        {
+          "questionId": "tra-04",
+          "value": 2,
+          "quote": "Augmenter le SMIC à 1 700 euros net mensuel et les minima sociaux",
+          "note": "Hausse du SMIC à 1 700 euros net, prévue parmi les mesures du début de mandat. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-07",
+          "value": -2,
+          "quote": "Nous abrogeons les dispositions de la loi pour le plein emploi qui conditionnent le RSA à une durée minimale d’activité et renforcent les sanctions contre les allocataires.",
+          "note": "Sens inverse de l'affirmation : le plan abroge l'obligation d'activité attachée au RSA, et la garantie d'autonomie est versée « sans contrepartie ». Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "tra-09",
+          "value": 2,
+          "quote": "Le dispositif prévoira aussi la mise en place d’une échelle mobile des salaires temporaire, avant son installation définitive.",
+          "note": "L'échelle mobile des salaires ajuste automatiquement les salaires sur les prix. Le plan la prévoit d'abord temporaire, dans l'état d'urgence sociale, « avant son installation définitive ». Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "san-03",
+          "value": 2,
+          "quote": "Garantir l’accès aux soins via le 100 % Sécu avec zéro reste à charge pour les patient·es",
+          "note": "Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "imm-04",
+          "value": 2,
+          "quote": "Nous régulariserons les travailleur·euses, étudiant·es, parents d’enfants scolarisés sans papiers.",
+          "note": "Régularisation des travailleurs sans papiers, sans restriction aux métiers en tension. Même valeur que la source actuelle."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 2,
+          "quote": "Est accessible dès 18 ans pour les personnes indépendantes fiscalement et dès 16 ans pour les élèves de l’enseignement professionnel",
+          "inferred": true,
+          "note": "Déduite : la garantie d'autonomie remplace le RSA (« Une personne seule qui perçoit aujourd’hui le RSA voit son allocation remplacée par la garantie d’autonomie ») et s'ouvre dès 18 ans aux personnes indépendantes fiscalement. Même valeur que la source actuelle, elle aussi déduite."
+        },
+        {
+          "questionId": "soc-02",
+          "value": 1,
+          "quote": "Une garantie d’autonomie sera créée, en commençant par les jeunes de moins de 25 ans aujourd’hui exclu·es des minima sociaux, pour permettre à toute personne résidant en France de disposer d’un revenu au moins égal au seuil de pauvreté actuel",
+          "inferred": true,
+          "note": "Déduite : c'est un revenu minimum garanti qui « remplace ou complète les revenus actuels » jusqu'au seuil de pauvreté, et non un revenu universel versé à tous quel que soit le revenu, d'où +1. Même valeur que la source actuelle."
+        }
+      ]
+    },
+    {
       "id": "melenchon-2026-11-plan-textile",
       "date": "2026-11-12",
       "title": "Plan d’investissement productif : Textile",

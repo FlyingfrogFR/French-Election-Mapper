@@ -2,6 +2,59 @@
   "candidateId": "attal",
   "declarations": [
     {
+      "id": "attal-2026-11-lci-restos-du-coeur",
+      "date": "2026-11-16",
+      "title": "Gabriel Attal sur LCI : réinventer le modèle social pour mieux rémunérer le travail",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-lci-restos-du-coeur-nouveau-modele-social",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Le site de campagne publie un compte rendu de la participation de Gabriel Attal au débat « Quelle société pour demain ? », organisé par les Restos du cœur et diffusé sur LCI. Les sujets abordés : « droit au brut » avec suppression de la CSG sur les salaires, solidarité à la source, défiscalisation des pensions alimentaires, extension de la garantie Visale à tous, Banque nationale d'investissement pour le logement, attribution des logements sociaux, budget de l'école, subventions aux associations et Aide sociale à l'enfance.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-10",
+          "value": -1,
+          "quote": "Sur le logement social, Gabriel Attal a défendu une attribution davantage fondée sur le travail que sur la nationalité, s'opposant ainsi aux propositions de Marine Le Pen.",
+          "inferred": true,
+          "note": "Le compte rendu rapporte son opposition à une attribution des logements sociaux fondée sur la nationalité, telle que la propose Marine Le Pen : c'est le volet logement de la « priorité nationale », sans que le terme soit employé. L'emploi n'est pas abordé et la formulation est comparative (« davantage fondée sur le travail »), d'où un −1 déduit."
+        }
+      ]
+    },
+    {
+      "id": "attal-2026-11-u2p-petits-patrons",
+      "date": "2026-11-12",
+      "title": "Gabriel Attal face aux petits patrons et aux professionnels libéraux sur LCI",
+      "sourceType": "communique",
+      "sourceUrl": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+      "publisher": "attalpresident.fr (site officiel de campagne)",
+      "summary": "Le site de campagne publie un compte rendu de l'émission organisée avec l'U2P et diffusée sur LCI le 12 novembre 2026 depuis La Rochelle. Les sujets abordés : « droit au brut », enseignements différenciés en 4e et en 3e, « Constitution du travail », suspension des contrôles administratifs l'été, transmission des entreprises (pacte Dutreil, Bpifrance), allocation sociale unique plafonnée à 75 % du SMIC et 15 heures d'activité pour les bénéficiaires du RSA. La page est datée du 12 novembre ; le sitemap du site indique une dernière modification le 19 novembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "soc-09",
+          "value": 1,
+          "quote": "Gabriel Attal a également défendu la création d'une allocation sociale unique, plafonnée à 75 % du SMIC, afin que les revenus du travail restent toujours supérieurs à ceux de l'inactivité.",
+          "note": "Remplace le +1 déduit du meeting du 31 mai, qui n'affirmait que le principe sans plafond chiffré. La mesure est maintenant explicite (allocation sociale unique plafonnée à 75 % du SMIC). C'est une précision, pas un changement d'orientation. (Force ramenée de 2 à 1 en relecture : La citation est exacte, et elle porte directement sur la mesure : une allocation sociale unique plafonnée à 75 % du SMIC pour que les revenus du travail restent supérieurs à ceux de l'inactivité. inferred = false est donc justifié. Mais c'est une paraphrase à la troisième personne (« Gabriel Attal a également défendu… ») dans un compte rendu d'émission, donc une position rapportée, limitée à ±1 par la règle 3. +1 direct remplace le +1 déduit du meeting du 31 mai par une source plus précise, sans changer la valeur. La note doit mentionner la limite de la position rapportée au lieu d'annoncer un passage à +2.)"
+        },
+        {
+          "questionId": "tra-07",
+          "value": 1,
+          "quote": "Il a par ailleurs rappelé sa volonté de poursuivre les réformes favorisant le retour à l'emploi, notamment avec les 15 heures d'activité pour les bénéficiaires du RSA.",
+          "note": "Remplace le +1 déduit du débat de la REF du 27 août, qui ne précisait aucun volume d'heures. Le document cite explicitement les 15 heures d'activité pour les bénéficiaires du RSA, comme une réforme à poursuivre. C'est une précision, pas un changement d'orientation. (Force ramenée de 2 à 1 en relecture : La citation est exacte. Il dit vouloir poursuivre les réformes de retour à l'emploi, « notamment avec les 15 heures d'activité pour les bénéficiaires du RSA ». C'est la mesure de l'affirmation sous son nom courant (des heures d'activité demandées en contrepartie du RSA), et il la soutient pour l'avenir. Le texte ne dit pas lui-même « obligatoires » ni « conditionné », mais la référence n'est pas ambiguë. C'est une paraphrase à la troisième personne (« Il a par ailleurs rappelé sa volonté… »), donc une position rapportée, limitée à ±1 par la règle 3. +1 remplace le +1 déduit de la REF par une source plus précise qui nomme les 15 heures, sans changer la valeur. La note doit le dire au lieu d'annoncer un passage à +2.)"
+        }
+      ]
+    },
+    {
       "id": "attal-2026-11-franceinfo-services-publics",
       "date": "2026-11-12",
       "title": "Services publics : Gabriel Attal dévoile ses propositions pour l’école, la justice et le logement",

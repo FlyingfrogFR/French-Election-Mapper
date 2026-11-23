@@ -2,6 +2,30 @@
   "candidateId": "maurel",
   "declarations": [
     {
+      "id": "maurel-2026-11-vote-passoires-thermiques",
+      "date": "2026-11-17",
+      "title": "Scrutin public n°9918 — amendement n°578 de Mme Rey-Rinchet supprimant l'interdiction de louer un logement fondée sur son classement au diagnostic de performance énergétique (DPE), à l'article 6 du projet de loi visant la relance et la décentralisation du logement (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9918",
+      "publisher": "Assemblée nationale",
+      "summary": "Emmanuel Maurel figure nommément parmi les deux députés du groupe GDR ayant voté « Contre » l'amendement n°578 (Mme Rey-Rinchet, et l'amendement identique suivant), qui rétablissait les articles 6 et 20-1 de la loi du 6 juillet 1989 dans leur rédaction antérieure à la loi Climat et résilience afin de supprimer l'interdiction de louer un logement fondée sur son classement DPE ; amendement non adopté (105 pour, 110 contre, 9 abstentions). Le même jour (17 novembre 2026), il vote « Pour » les amendements n°445 et identique de suppression de l'article 6, qui instaure des dérogations aux obligations de décence énergétique (scrutin n°9917, rejeté), et « Pour » l'amendement n°845 instituant une amende administrative contre les bailleurs louant en méconnaissance de ces exigences (scrutin n°9920, rejeté).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-12",
+          "value": 2,
+          "quote": "Le présent amendement propose de supprimer l’interdiction de louer un logement fondée sur son seul classement au diagnostic de performance énergétique (DPE).",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3188/AN/578",
+          "note": "Vote « Contre » la suppression de l'interdiction de louer les logements selon leur classement DPE (n°9918) ; le même jour, vote « Pour » la suppression de l'article 6, qui crée des dérogations à ces obligations et que l'exposé de l'amendement n°445 présente comme un recul sur le calendrier de la loi Climat et résilience (n°9917), et « Pour » une amende administrative destinée selon son exposé à garantir le respect de ce calendrier (n°9920) : trois votes concordants, d'où +2."
+        }
+      ]
+    },
+    {
       "id": "maurel-2026-11-vote-cvec",
       "date": "2026-11-04",
       "title": "Scrutin public n°9701 — amendement n°1042 de Mme Mesmeur supprimant la contribution de vie étudiante et de campus (CVEC), après l'article 42 du projet de loi de finances pour 2027 (première lecture)",

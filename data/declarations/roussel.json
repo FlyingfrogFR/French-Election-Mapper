@@ -2,6 +2,53 @@
   "candidateId": "roussel",
   "declarations": [
     {
+      "id": "roussel-2026-11-communique-retraites-rn",
+      "date": "2026-11-19",
+      "title": "« Le RN veut s’attaquer à nos retraites ! » (communiqué du PCF)",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.pcf74.fr/2026/11/le-rn-veut-s-attaquer-a-nos-retraites.html",
+      "publisher": "Parti communiste français (communiqué national signé « Parti Communiste Français »), republié par la fédération de Haute-Savoie (pcf74.fr)",
+      "summary": "Communiqué national du PCF publié pour la mobilisation des retraité·es du 19 novembre 2026, en réponse aux annonces du RN sur les retraites. Il critique les conditions de départ, la suppression des critères de pénibilité et la capitalisation obligatoire proposées par le RN. Il défend la retraite à 60 ans, la hausse des pensions et leur indexation sur les salaires, et un financement par les cotisations sociales. Le texte n'est pas daté : pcf74.fr l'a republié le 19 novembre 2026 et le plan du site pcf.fr le référence au 18 novembre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-02",
+          "value": 2,
+          "quote": "Nous défendons la retraite à 60 ans, la reconnaissance de la pénibilité, l'augmentation immédiate des pensions de base et complémentaires, leur indexation sur les salaires et une Sécurité sociale financée par les cotisations sociales.",
+          "note": "Communiqué national du PCF, dont Fabien Roussel est le candidat désigné ; le texte ne le nomme pas et il ne s'en est pas démarqué. Le communiqué défend explicitement la retraite à 60 ans, comme le programme de 2023 : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
+      "id": "roussel-2026-11-tract-palestine-29-novembre",
+      "date": "2026-11-19",
+      "title": "Tract « Paix et justice pour la Palestine » (mobilisation du 29 novembre 2026)",
+      "sourceType": "autre",
+      "sourceUrl": "https://po.pcf.fr/wp-content/uploads/sites/40/2026/11/2026_tract_palestine.pdf",
+      "publisher": "Parti communiste français (tract national portant le nom et la photo de Fabien Roussel et l'adresse fabienroussel2027.fr), mis en ligne par la fédération des Pyrénées-Orientales (po.pcf.fr)",
+      "summary": "Tract national du PCF qui appelle à la mobilisation du 29 novembre 2026 pour la Palestine. Il porte le nom et la photo de Fabien Roussel, l'adresse fabienroussel2027.fr et une citation à la première personne (« Le peuple palestinien doit être placé sous la protection de l'ONU »). La fédération des Pyrénées-Orientales l'a mis en ligne le 19 novembre 2026 (page https://po.pcf.fr/international/29-novembre-paix-et-justice-pour-la-palestine/). Le PCF y exige un embargo total sur les armes à destination d'Israël, la suspension de l'accord d'association UE-Israël et des sanctions économiques, ainsi que la fin de l'occupation et de la colonisation. Il demande aussi un cessez-le-feu permanent et la reconnaissance d'un État de Palestine dans les frontières de 1967.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-06",
+          "value": 2,
+          "quote": "La suspension de l’accord d’association entre l’UE et Israël et des sanctions économiques tant que le droit international et les droits humains sont bafoués",
+          "page": "2",
+          "note": "Tract national du PCF, dont Fabien Roussel est le candidat désigné ; le texte ne le nomme pas et il ne s'en est pas démarqué. Il exige la suspension de l'accord d'association UE-Israël et des sanctions économiques. C'est aussi précis que le tract d'octobre 2026 : la valeur (+2) ne change pas."
+        }
+      ]
+    },
+    {
       "id": "roussel-2026-11-communique-miettes",
       "date": "2026-11-09",
       "title": "Salaires, éducation : assez de miettes, attaquons-nous au coût du capital !",

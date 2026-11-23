@@ -2,6 +2,76 @@
   "candidateId": "arthaud",
   "declarations": [
     {
+      "id": "arthaud-2026-11-breve-senat-permis-tuer",
+      "date": "2026-11-21",
+      "title": "Brève « Sénat : permis de tuer »",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/senat-permis-tuer-210088.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 21/11/2026 sur le portail de Lutte ouvrière, après le vote au Sénat de la loi qu'elle décrit comme présumant « que les bavures policières sont conformes à la loi ». Selon elle, le gouvernement et les parlementaires du centre, de droite et d'extrême droite tiennent à « flatter » les forces de l'ordre. Elle estime que la loi fait porter aux victimes la charge de prouver qu'un policier a fait un usage illégal de son arme, et qu'il en résultera probablement plus de bavures.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Il en résultera probablement plus de bavures puisque cette loi transfère aux victimes la charge de justifier l’illégalité de l’usage d’une arme par un policier, même aux victimes blessées mortellement…",
+          "note": "Texte de parti non signé (Nathalie Arthaud est la candidate désignée de LO). Il n'emploie pas l'expression « légitime défense », mais il rejette la loi dite « permis de tuer », qui présume légal l'usage d'une arme par un policier et fait porter aux victimes la charge de prouver le contraire. Même valeur que l'appel signé du 01/09/2026 contre la même loi."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-11-breve-retraites-rn",
+      "date": "2026-11-18",
+      "title": "Brève « Les retraites du RN : un projet d'attaque contre les travailleurs »",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/retraites-rn-projet-dattaque-contre-travailleurs-210042.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 18/11/2026 sur le portail de Lutte ouvrière, sur le projet de réforme des retraites de Marine Le Pen et Jordan Bardella. Elle relève leur engagement d'abroger la réforme Borne et de permettre un départ à 62 ans, voire 60, pour certains, mais y voit une « attaque frontale » contre les classes populaires : suppression des critères de pénibilité (y compris le travail de nuit), durcissement de la validation des trimestres, doublement de la décote, et introduction d'une capitalisation obligatoire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": -2,
+          "quote": "S'y ajoute l'introduction d'une capitalisation obligatoire, qui ponctionnera l'argent des salariés pour le mettre à la disposition des spéculateurs. Un programme de plus en plus clairement anti-ouvrier qui a tout pour plaire au patronat.",
+          "note": "Texte de parti non signé (Nathalie Arthaud est la candidate désignée de LO). Il range « l'introduction d'une capitalisation obligatoire » proposée par le RN parmi les mesures d'une « attaque frontale » contre les travailleurs. Même valeur que la brochure de juin 2026, où elle était déduite de la critique d'un « système par capitalisation » ; ce texte vise directement une part de capitalisation ajoutée au système existant."
+        }
+      ]
+    },
+    {
+      "id": "arthaud-2026-11-breve-migrants-rwanda",
+      "date": "2026-11-17",
+      "title": "Brève « Europe : chasse abjecte aux migrants »",
+      "sourceType": "autre",
+      "sourceUrl": "https://www.lutte-ouvriere.org/portail/breves/europe-chasse-abjecte-migrants-209930.html",
+      "publisher": "Lutte ouvrière",
+      "summary": "Brève non signée publiée le 17/11/2026 sur le portail de Lutte ouvrière, à propos de l'accord signé par cinq États européens (Autriche, Allemagne, Grèce, Danemark, Pays-Bas) pour envoyer au Rwanda des migrants dont la demande d'asile a été refusée et dont le pays de départ ne veut plus. Elle qualifie ce dispositif de « sous-traitance de camps de concentration » et estime qu'il vise surtout à satisfaire l'extrême droite, alors que les flux d'arrivée en Europe sont « au plus bas depuis dix ans ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-07",
+          "value": -1,
+          "quote": "Cette forme de sous-traitance de camps de concentration pour les damnés de la terre, alors que les flux d’arrivée en Europe sont au plus bas depuis dix ans, vise surtout à satisfaire les démagogues d’extrême droite de toute l’Europe.",
+          "inferred": true,
+          "note": "Texte de parti non signé (Nathalie Arthaud est la candidate désignée de LO). Il condamne l'envoi au Rwanda de migrants dont la demande d'asile a été refusée, qu'il qualifie de « sous-traitance de camps de concentration ». Il ne parle pas de l'examen des demandes d'asile dans des pays tiers, qui est une mesure voisine, d'où une position déduite à −1."
+        }
+      ]
+    },
+    {
       "id": "arthaud-2026-11-edito-argent-salaires",
       "date": "2026-11-16",
       "title": "Éditorial « Pas d’argent pour les salaires ? Il faut aller voir dans les caisses du patronat ! »",

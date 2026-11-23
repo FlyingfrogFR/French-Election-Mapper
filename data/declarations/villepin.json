@@ -2,6 +2,199 @@
   "candidateId": "villepin",
   "declarations": [
     {
+      "id": "villepin-2026-11-reussir-a-nouveau",
+      "date": "2026-11-23",
+      "title": "Réussir à nouveau : le programme de Dominique de Villepin pour 2027 (258 propositions)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/",
+      "publisher": "La France Humaniste",
+      "summary": "Programme présidentiel de Dominique de Villepin : 258 propositions en 25 chapitres et quatre parties (« Dire la vérité », « Redresser l'État », « Vivre ensemble », « Continuer la France »), dont la conclusion annonce sa candidature. Page non datée, consultée le 23 novembre 2026 ; première capture web.archive.org le 20 novembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "En rétablissant l’Impôt sur la Fortune, suivant un barème proche de celui de 2016 , dans le cadre d’un impôt unique sur le patrimoine qui visera à assurer la contribution des 1 % les plus riches, tout en maintenant la vitalité économique du pays en exonérant les biens professionnels",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-1.html",
+          "note": "Proposition 10 : rétablissement de l'ISF au barème de 2016 dans un impôt unique sur le patrimoine, biens professionnels exonérés."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Éteindre l’ensemble des privilèges fiscaux , des niches sociales et fiscales, par paliers et sur cinq ans dans le cadre d’une loi d’extinction de « Nuit du Quatre Août » qui prévoit une conférence fiscale permanente pour évaluer en temps réel l’impact des suppressions de niches.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-5.html",
+          "note": "Proposition 47 : extinction de toutes les niches fiscales et sociales sur cinq ans, par paliers d'environ 35 Md€ par an."
+        },
+        {
+          "questionId": "eco-12",
+          "value": 2,
+          "quote": "Nationaliser les autoroutes . Reprendre en régie directe les autoroutes à la fin des concessions entre 2031 et 2036",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-23.html",
+          "note": "Proposition 231 : nationalisation explicite des autoroutes, reprises en régie à la fin des concessions."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Assurer qu’il n’y ait plus de peine sans exécution , par une mise en œuvre effective des peines prononcées, en systématisant les incarcérations courtes, dans le cadre de centres d’accueil pénitentiaires sous condition de sécurité réduite",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-3.html",
+          "note": "Remplace +1 du discours de la Sorbonne (exécution des peines sans mesure précise) : la proposition 28 systématise l'incarcération pour les courtes peines, le bracelet électronique venant en complément."
+        },
+        {
+          "questionId": "num-05",
+          "value": 2,
+          "quote": "Contrôler les entreprises multimédia par la refonte des seuils de concentration sectoriels",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-3.html",
+          "note": "Remplace +1 du discours de la Sorbonne (question posée, sans dispositif législatif) : la proposition 32 prévoit un dispositif précis, la refonte des seuils de concentration, pour contrôler les groupes multimédias."
+        },
+        {
+          "questionId": "sec-04",
+          "value": 1,
+          "quote": "de nouvelles compétences pour les polices municipales, notamment en matière de police judiciaire, lorsque les maires en expriment le besoin.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-3.html",
+          "note": "Mesure partielle et conditionnelle (proposition 38) : compétences de police judiciaire pour les polices municipales à la demande des maires ; leur armement n'est pas évoqué."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Déployer une politique de lutte générale contre les violences faites aux femmes et aux enfants , adossée à une loi de programmation pluriannuelle prévoyant un budget de 3 milliards d’euros par an jusqu’en 2032",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html",
+          "note": "Remplace +1 du discours de la Sorbonne (ni budget ni juridiction) : budget dédié de 3 Md€ par an (proposition 68) et parquet national contre les violences faites aux femmes et aux enfants (proposition 69)."
+        },
+        {
+          "questionId": "sec-09",
+          "value": 1,
+          "quote": "Créer une agence de renseignement contre le narcotrafic, sur le modèle de la DEA . En allant plus loin que les résultats de l’OFAST, une structure dédiée et étoffée réunira enquête, renseignement financier et coopération internationale pour démanteler les têtes de réseau et saisir les avoirs",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html",
+          "note": "Moyens répressifs renforcés (agence type DEA, brigades spécialisées, audiences délocalisées avec le parquet national de la criminalité organisée), associés à un volet de prévention ; pas de prisons de haute sécurité."
+        },
+        {
+          "questionId": "def-01",
+          "value": 1,
+          "quote": "préparer la LPM 2031-2036 visant les 3,5 % du PIB consacrés à la défense, conditionné dans son déroulement dans le temps à l’évolution de la croissance et à la restauration de la crédibilité et de la sincérité des comptes publics",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-6.html",
+          "note": "Objectif de 3,5 % du PIB pour la défense, dont le calendrier est conditionné à la croissance et au redressement des comptes publics (proposition 50)."
+        },
+        {
+          "questionId": "imm-05",
+          "value": -1,
+          "quote": "L’hospitalité, c’est l’identité profonde et universelle de notre nation, fondée sur le droit du sol, sur le creuset républicain et sur le constant renouvellement d’une population pourtant sans cesse fidèle à elle-même.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-6.html",
+          "inferred": true,
+          "note": "Déduite : le programme présente le droit du sol comme fondement de l'identité nationale, ce qui l'oppose à sa suppression ou à sa forte restriction, sans rejet formulé comme tel."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 2,
+          "quote": "Créer le dispositif du référendum citoyen en permettant sur pétition d’une proportion significative d’électeurs validés par le Conseil Constitutionnel la tenue d’un référendum sur le périmètre de l’article 11 de la Constitution, hors révision de la Constitution.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-8.html",
+          "note": "Référendum d'initiative citoyenne sur pétition, dans le champ de l'article 11, hors révision constitutionnelle, précédé d'un processus de consentement d'au moins un an (proposition 74)."
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Abaisser le droit de vote à 16 ans pour créer un temps d’apprentissage civique",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-8.html",
+          "note": "Proposition 75 : les 16-18 ans voteraient dans leur établissement scolaire."
+        },
+        {
+          "questionId": "ins-08",
+          "value": 1,
+          "quote": "Formuler le principe de l’obligation de vote , sans sanctions",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-8.html",
+          "note": "Mesure plus faible : principe d'obligation de vote posé sans sanction (proposition 76)."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 2,
+          "quote": "assorti d’une reconnaissance et d’une comptabilisation du vote blanc qui à hauteur de 50 % oblige à organiser une nouvelle élection",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-8.html",
+          "note": "Reconnaissance et comptabilisation du vote blanc, qui oblige à organiser une nouvelle élection au-delà de 50 % (proposition 76)."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Prendre l’initiative, dans le cadre du Conseil de sécurité européen , d’une pérennisation de l’effort de soutien financier et de défense à l’Ukraine",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-11.html",
+          "note": "Soutien financier et de défense à l'Ukraine rendu durable (proposition 98), sans mention des armes de longue portée."
+        },
+        {
+          "questionId": "eur-06",
+          "value": 1,
+          "quote": "en proposant dès 2027 une conférence de mise en œuvre de la paix en Palestine, avec l’appui de nos partenaires européens, en conditionnant le maintien des clauses de l’Accord d’Association UE-Israël aux avancées concrètes.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-11.html",
+          "note": "Remplace +2 du communiqué d'août 2025, qui demandait la suspension immédiate de l'accord : le programme conditionne désormais le maintien de ses clauses aux avancées concrètes vers la paix (proposition 97)."
+        },
+        {
+          "questionId": "eur-10",
+          "value": 2,
+          "quote": "Renouer avec une ambition d’aide au développement structurant l’aide autour d’actions pérennes et co-construites , avec des moyens durablement à hauteur de 0,7 % du PIB français.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-11.html",
+          "note": "Proposition 101 : aide au développement portée durablement à 0,7 % du PIB, niveau supérieur à l'effort actuel."
+        },
+        {
+          "questionId": "tra-04",
+          "value": -1,
+          "quote": "Les augmentations mécaniques ou volontaires du SMIC, aussi souhaitables qu’elles puissent être, font courir des risques d’effets indésirables.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-12.html",
+          "note": "Il juge risquées les hausses volontaires du SMIC, veut confier sa revalorisation annuelle aux partenaires sociaux (proposition 153) et privilégie la bascule des cotisations vers la CSG (proposition 106)."
+        },
+        {
+          "questionId": "log-08",
+          "value": 1,
+          "quote": "Faciliter l’accès de tous à la location sur le marché privé à travers une Garantie Locative Universelle , qui oblige tout assureur habitation à couvrir tout bailleur contre les impayés, quel que soit le locataire sous forme d’un dispositif assurantiel obligatoire.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-12.html",
+          "note": "Garantie universelle, mais sous forme d'une obligation faite aux assureurs habitation et non d'une garantie publique (proposition 111)."
+        },
+        {
+          "questionId": "log-09",
+          "value": 1,
+          "quote": "en favorisant la mise en location de logements par la création d’un statut unique du bailleur privé permettant l’amortissement fiscal des travaux de construction et de rénovation",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-12.html",
+          "note": "Allègement partiel (proposition 109) : statut unique du bailleur privé ouvrant l'amortissement fiscal des travaux, alors que le programme éteint par ailleurs les niches fiscales."
+        },
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "un étage de solidarité nationale sous forme d’une retraite par capitalisation publique à rendement fixe dans le cadre du Fonds France, à hauteur de 15 milliards annuels, versés sur les comptes individuels des Françaises et des Français auprès du Fonds France.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-16.html",
+          "note": "Remplace +1 du discours de la Sorbonne (simple volet d'épargne retraite publique) : la proposition 162 crée un étage obligatoire de capitalisation publique à rendement fixe, doté de 15 Md€ par an sur des comptes individuels."
+        },
+        {
+          "questionId": "san-09",
+          "value": 1,
+          "quote": "prise en charge intégrale du parcours de soins du psychotraumatisme (20 à 33 séances annuelles avec un psychologue conventionné)",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-15.html",
+          "note": "Mesure partielle : prise en charge intégrale de séances chez un psychologue conventionné pour les enfants victimes de violences (proposition 143), plus un rendez-vous annuel pour les jeunes (proposition 145)."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Revaloriser les métiers pédagogiques d’au moins 10 %",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-20.html",
+          "note": "Revalorisation d'au moins 10 % (proposition 189), sans priorité affirmée sur les autres dépenses éducatives."
+        },
+        {
+          "questionId": "edu-05",
+          "value": -1,
+          "quote": "Sur projet d’établissement, les frais d’inscription universitaires pourront être relevés en instaurant un mécanisme de paiement différé, échelonné et conditionnel, sur les impôts sur le revenu ultérieurs de l’étudiant.",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-21.html",
+          "note": "Hausse possible des frais d'inscription sur projet d'établissement, avec paiement différé et conditionnel (proposition 206) : mesure partielle contraire à la quasi-gratuité pour tous."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "Créer un fonds national de transition agricole , alimenté notamment par le Fonds France, visant à financer la conversion à l’agriculture biologique pour atteindre 20 % des exploitations agricoles en bio d’ici la fin du quinquennat",
+          "sourceUrl": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html",
+          "note": "Remplace +1 du texte de février 2026 (contrat d'objectifs sans hausse chiffrée) : fonds national dédié au financement de la conversion bio, objectif de 20 % des exploitations (proposition 225)."
+        }
+      ]
+    },
+    {
       "id": "villepin-2026-11-bigbang-fiscal-x",
       "date": "2026-11-14",
       "title": "Message publié sur X le 14 novembre 2026 sur le « big-bang fiscal »",

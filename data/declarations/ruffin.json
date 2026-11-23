@@ -2,6 +2,48 @@
   "candidateId": "ruffin",
   "declarations": [
     {
+      "id": "ruffin-2026-11-cahier-jeunesses",
+      "date": "2026-11-17",
+      "title": "Cahier de campagne n°11 : « Redonner aux jeunes les clefs de leur avenir »",
+      "sourceType": "programme",
+      "sourceUrl": "https://nouspresident.fr/redonner-aux-jeunes-les-clefs-de-leur-avenir/",
+      "publisher": "Nous Président ! (campagne de François Ruffin, Debout!)",
+      "summary": "Le onzième cahier de campagne, ouvert par un édito de François Ruffin, propose un « nouveau contrat intergénérationnel ». Il comprend une garantie d'emploi civique payée au moins au Smic, une refonte et une extension des bourses étudiantes, une garantie jeune universelle avec un revenu de solidarité active pour les jeunes ni en emploi ni en formation, un objectif de 200 000 places en logements publics pour étudiants et jeunes actifs d'ici 2032, le droit de vote à 16 ans et une Assemblée des jeunesses. Il a été publié le 17 novembre 2026 (date article:published_time de la page) et existe aussi en PDF (Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-12",
+          "value": 2,
+          "quote": "Concrètement, nous proposons à la fois d'ouvrir les bourses à un plus grand nombre d'étudiants et de revaloriser massivement leurs montants",
+          "note": "Le cahier propose d'élargir les bénéficiaires en relevant les plafonds de revenus des parents et de porter la bourse maximale à 1 114 €/mois pour les plus précaires qui ne vivent plus chez leurs parents. Les bourses seraient versées sur 12 mois et indexées sur l'inflation. Le coût n'est pas chiffré."
+        },
+        {
+          "questionId": "ins-09",
+          "value": 2,
+          "quote": "Nous proposons donc une mesure simple : le droit de vote pour ceux et celles qui peuvent travailler, s'engager dans une association, manifester, être placés en détention provisoire, bref… le droit de vote à partir de 16 ans pour l'ensemble des élections.",
+          "note": "Mesure explicite (« Abaisser le droit de vote à 16 ans »), accompagnée d'un renforcement de l'éducation à la citoyenneté dans les établissements."
+        },
+        {
+          "questionId": "soc-05",
+          "value": 1,
+          "quote": "C'est pourquoi nous souhaitons garantir à ces jeunes l'accès à une garantie jeune universelle et sans conditions. C'est-à-dire un revenu de solidarité active versé tous les mois, couplé à un accompagnement intensif.",
+          "note": "Mesure partielle : le revenu de solidarité active mensuel, couplé à un accompagnement intensif, est proposé aux jeunes ni en emploi ni en formation (« Proposition 3 »). Le cahier n'ouvre pas explicitement le RSA à tous les 18-24 ans, d'où +1."
+        },
+        {
+          "questionId": "edu-05",
+          "value": 1,
+          "quote": "Nous refusons que l'accès aux études soit différencié selon l'origine sociale ou nationale. Nous proposons donc de mettre fin à la généralisation des droits d'inscription différenciés entre étudiants français et étudiants étrangers.",
+          "inferred": true,
+          "note": "Déduite : le cahier propose de supprimer les droits d'inscription différenciés pour les étudiants étrangers. Il écrit aussi refuser que « les moyens financiers » déterminent les possibilités de chacun. Il n'écrit pas explicitement que l'université doit rester quasi gratuite pour tous, d'où +1 déduit."
+        }
+      ]
+    },
+    {
       "id": "ruffin-2026-11-cahier-democratie",
       "date": "2026-11-12",
       "title": "Cahier de campagne n°9 : « Pour une démocratie en continu : vive les états généraux ! »",

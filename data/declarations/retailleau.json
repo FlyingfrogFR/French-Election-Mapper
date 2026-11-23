@@ -2,6 +2,29 @@
   "candidateId": "retailleau",
   "declarations": [
     {
+      "id": "retailleau-2026-11-legitime-defense",
+      "date": "2026-11-20",
+      "title": "Sénat – Scrutin public n° 145 du 20 novembre 2026 sur l'ensemble de la PPL visant à reconnaître une présomption de légitime défense pour les forces de l'ordre dans l'exercice de leurs fonctions",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.senat.fr/scrutin-public/2026/scr2026-145.html",
+      "publisher": "Sénat",
+      "summary": "Bruno Retailleau figure dans la liste « Pour » du groupe Les Républicains (122 pour, 0 contre, 2 n'ayant pas pris part au vote). Le Sénat a adopté le texte en première lecture par 205 voix contre 110, avec 27 abstentions. L'article unique de la PPL, déposée à l'Assemblée par Éric Pauget et des députés LR, prévoit que les policiers et les gendarmes qui font usage de leur arme sont présumés avoir agi dans les cas autorisés, une présomption que toute preuve contraire peut renverser.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": 2,
+          "quote": "Scrutin n°145 - séance du 20 novembre 2026 sur l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre dans l'exercice de leurs fonctions Adopté",
+          "note": "Vote « Pour » de Bruno Retailleau sur l'ensemble d'un texte à article unique dont c'est l'objet principal. Selon la petite loi (https://www.senat.fr/petite-loi-ameli/2026-2027/168.html, nouvel art. L. 435-1 III du code de la sécurité intérieure), les policiers et gendarmes qui font usage de leurs armes sont présumés avoir agi dans les cas autorisés, avec une absolue nécessité et une stricte proportionnalité. Toute preuve contraire peut renverser cette présomption."
+        }
+      ]
+    },
+    {
       "id": "retailleau-2026-11-livret-immigration",
       "date": "2026-11-12",
       "title": "Reprendre le contrôle de l'immigration (livret du programme)",

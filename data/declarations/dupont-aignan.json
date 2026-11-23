@@ -2,6 +2,73 @@
   "candidateId": "dupont-aignan",
   "declarations": [
     {
+      "id": "dupont-aignan-2026-11-communique-agriculture",
+      "date": "2026-11-19",
+      "title": "Communiqué : plan de sauvetage pour notre agriculture",
+      "sourceType": "communique",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+      "publisher": "Nicolas Dupont-Aignan (site de campagne dupontaignan.fr)",
+      "summary": "Communiqué signé par Nicolas Dupont-Aignan et publié le 19 novembre 2026 sur son site de campagne, puis repris par Debout la France. Il propose un plan de sauvetage de l'agriculture chiffré à 2,1 milliards d'euros par an, présenté comme une mesure à appliquer « en attendant la sortie de l'UE ». Le plan prévoit : prise en charge par l'État des intérêts des prêts bancaires des agriculteurs et report d'un an des remboursements, sortie immédiate du marché européen de l'électricité, baisse des taxes sur le gazole non routier, moratoire sur les normes de l'UE, versement plus rapide des aides, double affichage des prix d'achat et de vente des fruits et légumes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-06",
+          "value": 2,
+          "quote": "La sortie immédiate du marché européen de l’électricité permet de diviser par deux le prix de l’électricité (elle est vendue aujourd’hui à quatre fois son prix de revient !).",
+          "note": "Le plan de sauvetage proposé comprend la « sortie immédiate » du marché européen de l'électricité pour diviser son prix par deux. Même valeur que la page Économie et le livret du 12/11/2026."
+        },
+        {
+          "questionId": "eur-01",
+          "value": -2,
+          "quote": "Ces mesures permettront de sauver les fermes et les paysans en attendant la sortie de l’UE",
+          "note": "Le plan est présenté comme une mesure d'attente « en attendant la sortie de l'UE ». Le communiqué ajoute que ne pas sortir de l'UE revient à « accepter la destruction de notre agriculture ». Même valeur que la source actuelle."
+        }
+      ]
+    },
+    {
+      "id": "dupont-aignan-2026-11-projet-economie-18-novembre",
+      "date": "2026-11-18",
+      "title": "Projet de Debout la France : page « Économie et finances » (version du 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "publisher": "Debout la France (site officiel du parti)",
+      "summary": "Nouvelle version de la page thématique « Économie et finances » du projet de Debout la France, mise à jour le 2026-11-18 (dateModified 2026-11-18T13:00:29Z). Par rapport à la version en ligne le 16/11/2026, elle ajoute la phrase « L'âge de départ à la retraite restera au niveau actuel de 62 ans et 9 mois » et change de titre. Ses 30 mesures reprennent les termes du livret économique du 12/11/2026, déjà enregistré : seules les positions sur l'âge de départ sont encodées ici. Nicolas Dupont-Aignan préside le parti et en est le candidat déclaré.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-01",
+          "value": 1,
+          "quote": "L'âge de départ à la retraite restera au niveau actuel de 62 ans et 9 mois.",
+          "inferred": true,
+          "note": "Remplace +2 (déduite) de la page Retraites (version du 05/02/2024), qui maintenait l'âge issu de la réforme de 2010 (62 ans). La page fixe désormais l'âge de départ à son niveau actuel de 62 ans et 9 mois. Cela écarte le passage à 64 ans prévu par la réforme de 2023, mais sans revenir à 62 ans, et l'abrogation n'est pas écrite : position partielle et déduite."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "L'âge de départ à la retraite restera au niveau actuel de 62 ans et 9 mois.",
+          "inferred": true,
+          "note": "Position déduite : l'âge de départ est maintenu à 62 ans et 9 mois, ce qui exclut un retour à 60 ans. Même valeur que la page Retraites (2024)."
+        },
+        {
+          "questionId": "tra-03",
+          "value": -2,
+          "quote": "L'âge de départ à la retraite restera au niveau actuel de 62 ans et 9 mois.",
+          "inferred": true,
+          "note": "Position déduite : l'âge de départ reste à 62 ans et 9 mois, ce qui exclut tout relèvement au-delà de 64 ans. Même valeur que la page Retraites (2024), qui écrivait « nous ne reculerons pas l'âge de la retraite »."
+        }
+      ]
+    },
+    {
       "id": "dupont-aignan-2026-11-projet-culture",
       "date": "2026-11-13",
       "title": "Le Projet de Debout La France – Culture et patrimoine : « Sauver notre patrimoine en péril ! » (mise à jour du 13 novembre 2026)",

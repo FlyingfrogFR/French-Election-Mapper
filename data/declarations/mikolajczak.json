@@ -2,6 +2,156 @@
   "candidateId": "mikolajczak",
   "declarations": [
     {
+      "id": "mikolajczak-2026-11-legitime-defense",
+      "date": "2026-11-20",
+      "title": "Légitime défense : une loi qui manque sa cible",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/legitime-defense-une-loi-qui-manque-sa-cible/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Le parti Équinoxe déclare qu'il aurait voté contre la loi instaurant une présomption de légitime défense pour les forces de l'ordre, adoptée définitivement par le Sénat le 20 novembre 2026. À la place, il propose des procédures de suivi après usage d'une arme, une protection fonctionnelle effective, une révision de la doctrine du maintien de l'ordre et davantage de soutien aux forces de l'ordre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Nous aurions voté contre la loi présentée au Sénat aujourd’hui. Plutôt qu’une loi de légitime défense qui fragilise l’équilibre des pouvoirs et l’État de droit sans apporter de réel soutien aux forces de l’ordre, nous proposons de",
+          "note": "Rejet explicite de la présomption de légitime défense pour les forces de l'ordre, dans un communiqué du parti dont Antoine Mikolajczak est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-11-contre-budget",
+      "date": "2026-11-18",
+      "title": "Contre-budget 2027 : le temps des responsabilités",
+      "sourceType": "autre",
+      "sourceUrl": "https://parti-equinoxe.fr/wp-content/uploads/2026/11/Parti-Equinoxe-Contre-budget-2027.pdf",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Contre-budget d'urgence de 48 pages pour la seule année 2027, publié par le parti Équinoxe avec une préface signée par Antoine Mikolajczak, « candidat ». Il prévoit de ramener le déficit de 6,4 % à 3,9 % du PIB avec 46,4 Md€ d'économies (dont une baisse des pensions totales supérieures à 1 650 € nets par mois) et 59 Md€ de recettes (ISF, grandes successions, grandes entreprises), et 32 Md€ d'investissements et de mesures de pouvoir d'achat (dont une baisse de l'accise sur l'électricité). La page de présentation date du 18 novembre 2026 ; le PDF actuellement en ligne, daté « novembre 2026 », a été déposé le 22 novembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "Nous rétablissons un ISF sur le patrimoine non professionnel, selon le barème d’avant 2018. Une contribution de 0,3% s’applique en plus au patrimoine professionnel des très grandes fortunes.",
+          "page": "26",
+          "note": "Rétablissement explicite de l'ISF, patrimoine financier compris, plus une contribution sur le patrimoine professionnel des très grandes fortunes (document du parti préfacé par le candidat)."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Nous demandons aux acteurs économiques les plus solides de contribuer à l’effort national : lutte contre l’évasion fiscale, fin des rentes et des niches, recentrage du crédit d’impôt recherche, en limitant l’impact sur les petites et moyennes entreprises.",
+          "sourceUrl": "https://parti-equinoxe.fr/contre-budget-2027/",
+          "note": "Remplace le +1 du communiqué du 2026-09-20 : le contre-budget propose explicitement la fin de niches (crédit d'impôt recherche recentré, abattement de 10 % sur les pensions, amortissement LMNP, tarifs réduits du gazole non routier), qui augmente l'impôt des personnes concernées."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "Quatre réformes concernent les transmissions les plus élevées. Le pacte Dutreil est recentré : exonération de 75% jusqu’à 2 millions d’euros transmis par bénéficiaire, 50% de 2 à 10 millions, rien au-delà (2,5).",
+          "page": "25",
+          "inferred": true,
+          "note": "Le document alourdit la taxation des grandes transmissions (9,5 Md€) : on en déduit une opposition à la baisse des droits de succession. Il ne dit rien des petites successions, d'où −1."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Enfin, le prélèvement forfaitaire monte à 35% sur les dividendes exceptionnellement élevés et l’exit tax est rétablie sur les plus-values latentes (0,4).",
+          "page": "26",
+          "note": "Mesure partielle : hausse de l'imposition des seuls dividendes exceptionnellement élevés (supérieurs de 20 % à la moyenne 2017-2021 selon l'annexe), sans mesure sur les rachats d'actions."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Ensuite, le gel des allègements généraux est prolongé : le Smic de référence reste celui du 1er janvier 2026 (2,8 milliards).",
+          "page": "24",
+          "inferred": true,
+          "note": "Le document reprend le gel des allègements généraux de cotisations et réduit les exonérations de cotisations sociales : on en déduit une opposition à une nouvelle baisse des cotisations patronales sur les bas salaires en 2027."
+        },
+        {
+          "questionId": "soc-03",
+          "value": -1,
+          "quote": "0,4 milliard dʼeuros dʼéconomies du PLF nʼont pas été repris dans notre contre-budget : 0,2 portant sur lʼécologie et 0,2 sur lʼaide médicale de lʼÉtat.",
+          "page": "18",
+          "inferred": true,
+          "note": "Le contre-budget écarte les économies sur l'AME prévues par le projet de loi de finances : on en déduit une opposition à la suppression ou à la réduction de l'AME."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "En portant la détection à 20%, grâce à des contrôles renforcés, au croisement des données et à un meilleur recouvrement des indus, nous récupérons 0,3 milliard d’euros supplémentaires.",
+          "page": "19",
+          "note": "Renforcement de la lutte contre la fraude sociale (CAF et Assurance maladie) par des contrôles et le croisement des données, sans carte Vitale biométrique ou fusionnée, d'où +1."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "nous prévoyons 3,15 milliards d’euros d’investissements pour l’hôpital public (hausse des salaires, réouverture de 5 000 lits, rénovations du bâti)",
+          "page": "19",
+          "note": "Hausse des dépenses pour l'hôpital public (+100 € nets par mois pour les soignants, 5 000 lits rouverts) chiffrée pour 2027, sans plan d'embauches massif explicite, d'où +1."
+        },
+        {
+          "questionId": "san-03",
+          "value": -1,
+          "quote": "Ensuite, la fin du remboursement des médicaments à service médical rendu (SMR) faible, un taux de remboursement ramené de 30% à 15% pour les SMR modérés et la fin de la prise en charge des cures thermales (0,7 milliard).",
+          "page": "19",
+          "inferred": true,
+          "note": "Le document réduit le remboursement de certains médicaments et des cures thermales : on en déduit une opposition au remboursement à 100 % de tous les soins prescrits."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Nous augmentons de 200€ net par mois (environ 250€ brut) les 366 000 enseignants du premier degré, public et privé sous contrat.",
+          "page": "32",
+          "note": "Revalorisation limitée aux enseignants du premier degré, sans priorité affirmée sur les autres dépenses éducatives, d'où +1."
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1,
+          "quote": "Financement public réduit d’un tiers pour la moitié des établissements la moins mixte socialement, à la rentrée 2027.",
+          "page": "43",
+          "note": "Réduction conditionnelle : elle ne vise que les établissements privés sous contrat les moins mixtes socialement."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Nous leur consacrons un milliard d’euros supplémentaires, pour garantir la sécurité jusque dans les foyers et protéger les enfants exposés aux violences intrafamiliales : hébergement et logements passerelles (0,25), maillage associatif local (0,15), justice et police 100% formées et spécialisées",
+          "page": "33",
+          "note": "Budget dédié supplémentaire d'un milliard d'euros, comprenant des enquêteurs et magistrats spécialisés ; l'annexe le compare à un budget de l'État de 184 M€ en 2023."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "C’est pourquoi nous investissons dans le soutien à l’installation des jeunes (0,15), l’accompagnement de l’agriculture biologique (conversion, emploi...) (0,37)",
+          "page": "36",
+          "note": "Hausse explicite des aides à l'agriculture biologique (selon l'annexe : crédit d'impôt porté à 6 000 €, aides à la conversion et au maintien)."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Pour relancer le transport ferroviaire en France, et surtout préparer le doublement de sa part modale dans les prochaines décennies, nous identifions trois grands chantiers.",
+          "page": "35",
+          "note": "Même valeur que la position déduite du 2026-07-17, désormais explicite : 1 Md€ pour le ferroviaire en 2027, dans un budget qui réduit le déficit, sans financement par la dette affirmé, d'où +1."
+        },
+        {
+          "questionId": "eur-10",
+          "value": -1,
+          "quote": "Aide publique au développement (PLF) 0,5 Md€ Crédits de 3,6 à 3,2 Md€.",
+          "page": "43",
+          "inferred": true,
+          "note": "Le contre-budget reprend la baisse des crédits de l'aide publique au développement prévue par le projet de loi de finances : on en déduit une opposition à une forte hausse en 2027."
+        }
+      ]
+    },
+    {
       "id": "mikolajczak-2026-11-programme",
       "date": "2026-11-05",
       "title": "Renouer - L'essentiel, programme synthétique pour l'élection présidentielle 2027",

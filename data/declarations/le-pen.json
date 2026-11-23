@@ -2,6 +2,53 @@
   "candidateId": "le-pen",
   "declarations": [
     {
+      "id": "le-pen-2026-11-x-referendum-immigration",
+      "date": "2026-11-22",
+      "title": "Message publié sur X le 22 novembre 2026 : référendum pour modifier la Constitution sur l'immigration",
+      "sourceType": "autre",
+      "sourceUrl": "https://x.com/MLP_officiel/status/2124603800631578687",
+      "publisher": "Marine Le Pen (compte X officiel @MLP_officiel)",
+      "summary": "Message publié le 22 novembre 2026 sur le compte X de Marine Le Pen, avec un extrait vidéo. Elle y écrit que sa première décision sera de lancer un référendum pour modifier la Constitution sur l'immigration, car « si l'on ne contrôle pas ses frontières, on ne contrôle rien ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-02",
+          "value": 2,
+          "quote": "Ma première décision sera de lancer un référendum pour modifier la Constitution sur l’immigration.",
+          "note": "Mesure aussi précise que celle du manifeste de 2022 (un référendum qui modifie la Constitution pour y intégrer la question migratoire) : la valeur +2 ne change pas, la source est plus récente."
+        }
+      ]
+    },
+    {
+      "id": "le-pen-2026-11-ambassadeur-ukraine",
+      "date": "2026-11-19",
+      "title": "Communiqué de Marine Le Pen sur sa rencontre avec l'ambassadeur d'Ukraine en France",
+      "sourceType": "communique",
+      "sourceUrl": "https://rassemblementnational.fr/communiques/rencontre-avec-lambassadeur-dukraine-en-france",
+      "publisher": "Rassemblement National",
+      "summary": "Communiqué daté du 19 novembre 2026, rédigé à la troisième personne et publié sous le nom de Marine Le Pen dans la rubrique Communiqués de rassemblementnational.fr. Il rend compte de sa rencontre avec l'ambassadeur d'Ukraine en France, Vadym Omelchenko. Il indique qu'élue, elle tiendrait les engagements pris par la France, dont le prêt de 90 milliards d'euros passant par l'Union européenne. Il ajoute que l'état des finances publiques ne permettrait plus d'aider financièrement l'Ukraine dans les prochains mois, mais que la France continuerait à la soutenir par des dons de matériel, de l'aide humanitaire et une diplomatie « beaucoup plus active ».",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "Elle a toutefois assuré que, si elle était élue présidente de la République, la France continuerait à soutenir l’Ukraine à travers des dons de matériel, de l’aide humanitaire et une diplomatie beaucoup plus active.",
+          "inferred": true,
+          "note": "Remplace le −1 déduit du communiqué du 19 septembre 2026, qui demandait un débat sur le niveau et les conditions du soutien sans parler du volet militaire : ce communiqué-ci promet de poursuivre les « dons de matériel » (le mot n'est pas qualifié de militaire, mais il est distingué de l'aide humanitaire) et dit qu'une nouvelle aide financière ne serait plus possible « dans les prochains mois », sans rien dire de la durée du soutien ni des armes de longue portée, d'où un +1 partiel et déduit."
+        }
+      ]
+    },
+    {
       "id": "le-pen-2026-10-orleans",
       "date": "2026-10-25",
       "title": "Discours de Marine Le Pen à Orléans (lancement de campagne au congrès du RN)",

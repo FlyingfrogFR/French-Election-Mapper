@@ -2,6 +2,78 @@
   "candidateId": "guedj",
   "declarations": [
     {
+      "id": "guedj-2026-11-vote-oil",
+      "date": "2026-11-17",
+      "title": "Scrutin public n°9968 — article 2 (opérations d'intérêt local permettant de déroger au plan local d'urbanisme) du projet de loi visant la relance et la décentralisation du logement (première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9968",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Pour » l'article 2, qui crée des « opérations d'intérêt local » dans le périmètre desquelles des dérogations au plan local d'urbanisme peuvent être accordées aux projets qui accroissent le nombre de logements, l'architecte des Bâtiments de France n'y rendant plus qu'un avis simple aux abords des monuments historiques. L'article a été adopté (78 pour, 26 contre, 28 abstentions ; aucune mise au point).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-03",
+          "value": 1,
+          "quote": "une opération d’intérêt local peut être instaurée et délimitée, dans le périmètre de laquelle des dérogations au plan local d’urbanisme peuvent être accordées au profit de projets permettant d’accroître le nombre de logements",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17BTC3188.html",
+          "note": "Vote « Pour » le 17 novembre 2026 sur l'article 2 amendé en séance (la phrase citée vient du texte de la commission et figure toujours dans l'article adopté). C'est une mesure partielle et ciblée, d'où +1 : les dérogations au PLU sont limitées à des périmètres arrêtés par le préfet en zone urbaine ou à urbaniser, pour quinze ans, sans allègement général des normes de construction. Il a aussi voté contre la suppression de l'article (scrutin n°9943) et contre l'amendement n°703 qui maintenait l'accord de l'ABF (scrutin n°9964), et pour des amendements d'encadrement non adoptés (OIL limitées à 2030, n°634 ; 50 % de logements sociaux, n°803)."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-11-vote-priorite-nationale",
+      "date": "2026-11-17",
+      "title": "Scrutin public n°9936 — amendement n°101 attribuant prioritairement aux personnes de nationalité française les logements sociaux du troisième programme national de renouvellement urbain (projet de loi visant la relance et la décentralisation du logement, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9936",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Contre » l'amendement n°101 (groupe Rassemblement national). À niveau de priorité équivalent, cet amendement attribuait en priorité aux personnes de nationalité française les logements sociaux produits ou rénovés avec le concours de l'ANRU dans le troisième programme national de renouvellement urbain. Il n'a pas été adopté (72 pour, 124 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-10",
+          "value": -1,
+          "quote": "les logements locatifs sociaux dont la production ou la rénovation bénéficie du concours financier de l’Agence nationale pour la rénovation urbaine dans le cadre du troisième programme national de renouvellement urbain sont attribués prioritairement aux personnes de nationalité française",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3188/AN/101",
+          "note": "Vote « Contre » le 17 novembre 2026 un amendement qui inscrivait dans la loi une priorité nationale pour l'attribution d'une partie des logements sociaux. La mesure est partielle (une partie du logement social seulement, rien sur l'emploi), d'où −1. Même vote « Contre » l'amendement n°223 (scrutin n°9935), qui subordonnait l'attribution de ces logements à des étrangers à une durée minimale de résidence ou de cotisations."
+        }
+      ]
+    },
+    {
+      "id": "guedj-2026-11-vote-zan",
+      "date": "2026-11-17",
+      "title": "Scrutin public n°9951 — amendement n°22 excluant du décompte de l'artificialisation des sols les opérations des périmètres de développement du logement (projet de loi visant la relance et la décentralisation du logement, première lecture)",
+      "sourceType": "vote",
+      "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9951",
+      "publisher": "Assemblée nationale",
+      "summary": "Jérôme Guedj figure nommément parmi les députés ayant voté « Contre » l'amendement n°22 (groupe Rassemblement national). Cet amendement excluait de l'objectif de lutte contre l'artificialisation des sols (« zéro artificialisation nette ») les consommations d'espaces dues aux opérations réalisées dans les périmètres de développement du logement créés par l'article 2. Il n'a pas été adopté (59 pour, 112 contre).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "log-04",
+          "value": 1,
+          "quote": "Les consommations d’espaces naturels, agricoles et forestiers résultant des opérations réalisées dans un périmètre de développement du logement mentionné au présent article ne sont pas prises en compte pour l’application de l’objectif de lutte contre l’artificialisation des sols",
+          "sourceUrl": "https://www.assemblee-nationale.fr/dyn/17/amendements/3188/AN/22",
+          "note": "Vote « Contre » le 17 novembre 2026 une exemption partielle de l'objectif ZAN pour la construction de logements, d'où +1. Il a aussi voté « Pour » l'amendement n°798 (scrutin n°9954), qui n'admet l'inclusion de zones à urbaniser dans ces périmètres que si les besoins ne peuvent être satisfaits dans les espaces déjà urbanisés. La valeur est la même que celle de la source actuelle (proposition de loi n°1555, position déduite), mais ce vote porte directement sur le ZAN."
+        }
+      ]
+    },
+    {
       "id": "guedj-2026-11-vote-apd",
       "date": "2026-11-04",
       "title": "Scrutin public n°9688 — amendement n°996 (rect.) affectant une partie de la taxe sur les billets d'avion et de la taxe sur les transactions financières à l'Agence française de développement (projet de loi de finances pour 2027, première lecture)",

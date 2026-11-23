@@ -2,6 +2,35 @@
   "candidateId": "tondelier",
   "declarations": [
     {
+      "id": "tondelier-2026-11-blog-drogues",
+      "date": "2026-11-18",
+      "title": "Billet « Drogues, tabac : et si on faisait enfin de la santé publique une priorité ? »",
+      "sourceType": "autre",
+      "sourceUrl": "https://marinetondelier.fr/blog/drogues-tabac-sante-publique",
+      "publisher": "Marine Tondelier (blog de marinetondelier.fr)",
+      "summary": "Billet daté du 18 novembre 2026 sur le blog de marinetondelier.fr. Il est écrit à la première personne au nom de Marine Tondelier ; la page indique « Écrit par Alexis Lebrun », nom qui figure sur la plupart des billets de ce blog. Après un passage de la candidate sur BFM TV, il revient sur deux propositions du programme des Écologistes. La première est la dépénalisation de l'usage, de l'achat et de la détention de toutes les drogues pour usage personnel, avec une légalisation encadrée du seul cannabis. La seconde est l'interdiction générationnelle de la vente de tabac aux personnes nées à partir de 2014.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-06",
+          "value": 2,
+          "quote": "Nous, Écologistes, souhaitons légaliser le cannabis uniquement, en ouvrant la possibilité d'organiser un marché légal et contrôlé. Mais cela ne veut pas dire qu’on laisse le marché dicter sa loi. Le modèle que nous voulons pour le cannabis est strictement encadré",
+          "note": "Valeur inchangée (+2) : le billet confirme la légalisation du cannabis dans un marché encadré (distribution aux seuls majeurs par des structures à but non lucratif, publicité interdite), avec autant de précision que le programme."
+        },
+        {
+          "questionId": "sec-13",
+          "value": -2,
+          "quote": "Et c'est ce que l’on souhaite faire pour l’ensemble des drogues : supprimer les sanctions pénales qui visent les consommateurs pour leur usage personnel.",
+          "note": "Valeur inchangée (−2) : le billet propose de supprimer les sanctions pénales pour l'usage personnel de toutes les drogues, à l'inverse d'un renforcement des sanctions de la consommation."
+        }
+      ]
+    },
+    {
       "id": "tondelier-2026-11-livret-culture",
       "date": "2026-11-09",
       "title": "Nos propositions pour une culture vivante (livret thématique)",

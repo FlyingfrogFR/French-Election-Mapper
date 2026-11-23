@@ -2,6 +2,226 @@
   "candidateId": "philippe",
   "declarations": [
     {
+      "id": "philippe-2026-11-programme-logement",
+      "date": "2026-11-20",
+      "title": "Programme – Logement",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/logement",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page Logement du programme, datée sur la page du 20 novembre 2026 (« Dernière mise à jour »). Elle vise 4 millions de logements en dix ans et propose notamment la suppression des « frais de notaire » pour le premier achat des moins de 35 ans, un prêt à taux zéro « famille », un moratoire de cinq ans sur les normes de construction, un prélèvement forfaitaire unique sur les revenus locatifs et la suppression de l'IFI sur les logements loués en longue durée.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "env-12",
+          "value": -2,
+          "quote": "Édouard Philippe veut un moratoire sur les paliers de la RE2020 et un moratoire sur l’interdiction de location des passoires thermiques pendant la durée du quinquennat.",
+          "note": "Moratoire sur l'interdiction de location des passoires thermiques pendant tout le quinquennat : le maintien du calendrier prévu est explicitement écarté."
+        },
+        {
+          "questionId": "log-09",
+          "value": 2,
+          "quote": "Oui, pour les logements mis en location de longue durée. Édouard Philippe veut supprimer l’impôt sur la fortune immobilière (IFI) sur ces logements, dans le cadre d’un alignement de la fiscalité locative sur celle du capital.",
+          "note": "Allègement explicite de la fiscalité des bailleurs : suppression de l'IFI sur les logements loués en longue durée, en plus d'un prélèvement forfaitaire unique sur les revenus locatifs proposé sur la même page."
+        },
+        {
+          "questionId": "log-03",
+          "value": 1,
+          "quote": "Ce sont des zones où les normes seront simplifiées et la fiscalité allégée pour construire plus vite.",
+          "note": "Même valeur, désormais explicite (remplace +1 déduit de la page « conquérante ») : normes simplifiées dans des « zones d'accélération du logement » et moratoire de cinq ans sur les normes de construction (gel plutôt qu'allègement général), d'où +1."
+        },
+        {
+          "questionId": "log-05",
+          "value": 1,
+          "quote": "Oui. Édouard Philippe veut pérenniser le prêt à taux zéro et créer un prêt à taux zéro « famille » : les parents auront droit à un nouveau prêt à taux zéro à la naissance de chaque enfant.",
+          "note": "Extension partielle : PTZ pérennisé et nouveau PTZ « famille » à chaque naissance, donc davantage de ménages, sans rien sur une extension territoriale, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-comptes-publics-maj",
+      "date": "2026-11-18",
+      "title": "Le programme — Finances publiques (mise à jour du 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/comptes-publics",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version du 18 novembre 2026 (« Dernière mise à jour le 18 novembre 2026 », lastmod identique dans le sitemap) de la page thématique « Finances publiques » du programme. Elle propose une règle d'or budgétaire constitutionnelle adoptée par référendum dès le début du quinquennat, un déficit ramené sous 2,5 % de la richesse nationale en fin de quinquennat (près de 150 milliards d'économies), aucun nouvel impôt pendant cinq ans, le regroupement ou la privatisation d'agences de l'État et 250 000 postes de fonctionnaires en moins.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-01",
+          "value": 2,
+          "quote": "Ramener le déficit sous 2,5 % de la richesse nationale à la fin du quinquennat, soit près de 150 milliards d’économies. Ne créer aucun nouvel impôt pendant cinq ans.",
+          "note": "Même valeur : l'objectif de déficit de fin de quinquennat est désormais « sous 2,5 % » de la richesse nationale (environ 2 % dans la version du 12 novembre), atteint par près de 150 milliards d'économies sans nouvel impôt, l'effort portant pour moitié sur les dépenses sociales, pour un quart sur l'État et les collectivités et pour un quart sur la croissance."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-defense-service-national",
+      "date": "2026-11-18",
+      "title": "Programme – Défense (version mise à jour le 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/defense",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page Défense du programme, datée sur la page du 18 novembre 2026 (« Dernière mise à jour »). Elle propose une loi de massification des armées, le rétablissement d'un service national obligatoire et universel (option militaire ou options civiles), 250 000 réservistes, une préférence européenne en matière d'armements et un soutien plein à l'Ukraine.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "edu-06",
+          "value": 2,
+          "quote": "Le rétablissement d’un service national obligatoire et universel, avec le choix entre une option militaire et plusieurs options civiles, et 250 000 réservistes.",
+          "note": "Nouvelle proposition de la version du 18 novembre : service national obligatoire et universel, civil ou militaire, pour chaque classe d'âge (la page évoque 600 000 jeunes par an)."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Des armements « made in Europe » : au moins 1 % de la richesse nationale des pays de l’Union européenne consacré à des équipements fabriqués en Europe, grâce à une vraie préférence européenne en matière d’armements.",
+          "note": "Même valeur : préférence européenne en matière d'armements avec un plancher chiffré, sans mention d'un surcoût accepté ; la citation du 12 novembre n'apparaît plus sur la page."
+        },
+        {
+          "questionId": "eur-04",
+          "value": 1,
+          "quote": "La France prendra toute sa part dans le soutien financier et opérationnel à l’Ukraine, dont la résistance est un intérêt de sécurité majeur pour notre pays.",
+          "note": "Même valeur : soutien financier et opérationnel à l'Ukraine, qui « a vocation à intégrer l'OTAN », sans mention de durée ni d'armes de longue portée, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-enfance-plateformes",
+      "date": "2026-11-18",
+      "title": "Programme – Protection de l'enfance (version mise à jour le 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page Protection de l'enfance du programme, datée sur la page du 18 novembre 2026 (« Dernière mise à jour »). Elle propose notamment un « droit de savoir » sur les antécédents des adultes proches de l'enfant, l'imprescriptibilité des crimes sur mineurs, l'éloignement immédiat de l'adulte en cause dès qu'une plainte concerne un enfant, une Inspection nationale de l'enfance, le renforcement de la responsabilité des plateformes face aux contenus illicites et la réécriture de la loi d'interdiction des réseaux sociaux aux moins de 15 ans.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "num-03",
+          "value": 1,
+          "quote": "Il veut aussi renforcer la responsabilité des plateformes face aux contenus illicites : durcir leur responsabilité pénale pour les contenus pédopornographiques et augmenter massivement les amendes de celles qui ne modèrent pas correctement.",
+          "note": "Mesure partielle : régulation renforcée des plateformes (responsabilité pénale, amendes accrues), sans rien sur leur taxation ni sur une action nationale à défaut de l'Union européenne, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-immigration-maj",
+      "date": "2026-11-18",
+      "title": "Le programme — Immigration (mise à jour du 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/immigration",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Version du 18 novembre 2026 (« Dernière mise à jour le 18 novembre 2026 », lastmod identique dans le sitemap) de la page thématique « Immigration » du programme. Elle propose de diviser l'immigration légale par deux, des quotas pour l'immigration de travail, un moratoire sur le regroupement familial, des « centres de retour » à l'étranger, la dénonciation de l'accord franco-algérien de 1968, le retour de la double peine, un « verrou Schengen » soumettant toute régularisation massive engagée par un État européen à l'accord préalable de ses partenaires, et la fin de l'acquisition automatique de la nationalité.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 1,
+          "quote": "Diviser l’immigration légale par deux, pour la ramener au niveau d’il y a 15 ans. Des quotas pour choisir l’immigration de travail.",
+          "note": "Même valeur : la version du 18 novembre précise que la division par deux porte sur l'immigration légale ; les quotas visent l'immigration de travail et leur vote annuel par le Parlement n'est pas mentionné, d'où +1."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-justice-prisons",
+      "date": "2026-11-18",
+      "title": "Programme – Justice (version mise à jour le 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/justice",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page Justice du programme, mise à jour le 18 novembre 2026. Elle propose notamment le rétablissement des peines planchers, des peines courtes dès la première infraction, la suppression du juge d'application des peines et la construction de 30 000 places de prison pour les peines courtes.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "Construire 30 000 places de prison pour les peines courtes, avec une loi d’accélération des prisons.",
+          "note": "Remplace +1 de la version du 12 novembre (loi d'accélération de la construction de prisons sans objectif chiffré) : la page fixe désormais 30 000 places, au-delà du seuil de 20 000."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-retraites-maj",
+      "date": "2026-11-18",
+      "title": "Programme – Retraites (version mise à jour le 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/retraites",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page Retraites du programme, mise à jour le 18 novembre 2026. Elle propose de porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, avec des départs anticipés maintenus, et de généraliser la capitalisation collective.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-03",
+          "value": 2,
+          "quote": "Oui, progressivement. Édouard Philippe propose de porter l’âge de départ à 65 ans en moins de dix ans.",
+          "note": "Même valeur ; la formulation a changé et la citation de la version du 12 novembre n'apparaît plus sur la page."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Édouard Philippe veut que les générations futures aient des retraites décentes, et sauver nos retraites sans augmenter les cotisations des actifs et sans baisser les pensions. Cela n’est pas possible avec un départ à 60 ans.",
+          "note": "Même valeur ; la formulation a changé et la citation de la version du 12 novembre n'apparaît plus sur la page."
+        }
+      ]
+    },
+    {
+      "id": "philippe-2026-11-programme-travail-maj",
+      "date": "2026-11-18",
+      "title": "Programme – Travail et salaires (version mise à jour le 18 novembre 2026)",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.edouardphilippe.fr/programme/travail",
+      "publisher": "Avec Édouard 2027 (site officiel de campagne d'Édouard Philippe)",
+      "summary": "Page Travail et salaires du programme, mise à jour le 18 novembre 2026. Elle propose de laisser les entreprises fixer leur temps de travail, d'exonérer d'impôt et de cotisations salariales les heures au-delà de 35 heures, de supprimer les cotisations patronales au-delà de la 37e heure et de limiter à 12 mois l'indemnisation chômage des moins de 50 ans.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-08",
+          "value": 1,
+          "quote": "Les heures travaillées au-delà de 35 heures seront exonérées d’impôt et de cotisations salariales, et les entreprises ne paieront plus de cotisation patronale au-delà de la 37e heure.",
+          "note": "Même valeur : exonération d'impôt et de cotisations salariales dès la 36e heure, mais cotisations patronales supprimées seulement au-delà de la 37e heure (et, selon la page, quand l'entreprise décide d'allonger le temps de travail), donc exonération non totale, d'où +1."
+        }
+      ]
+    },
+    {
       "id": "philippe-2026-11-programme-adaptation",
       "date": "2026-11-12",
       "title": "Le programme — Adaptation climatique",

@@ -2,6 +2,72 @@
   "candidateId": "zemmour",
   "declarations": [
     {
+      "id": "zemmour-2026-11-telegram-essence",
+      "date": "2026-11-18",
+      "title": "Message du 18 novembre 2026 : suppression de la CSG d'activité et baisse de 40 centimes des taxes sur l'essence",
+      "sourceType": "autre",
+      "sourceUrl": "https://t.me/EricZemmourOfficiel/8070?embed=1",
+      "publisher": "Éric Zemmour (canal Telegram officiel @EricZemmourOfficiel)",
+      "summary": "Message publié le 18 novembre 2026 sur le canal Telegram officiel d'Éric Zemmour, avec une vidéo. Il écrit que « Le pouvoir d'achat, ce n'est pas ce que l'État vous donne. C'est ce que l'État ne vous prend pas. » Il annonce la suppression de la CSG d'activité (« 10 % de salaire net en plus pour tous ») et une baisse des taxes sur l'essence de 40 centimes par litre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Et je baisserai les taxes sur l'essence : 40 centimes de moins par litre.",
+          "inferred": true,
+          "note": "Déduite. Même valeur que le programme européen de 2024, qu'elle remplace : le message annonce une baisse chiffrée des taxes sur l'essence (40 centimes par litre), mais il ne nomme ni la TVA ni le taux de 5,5 % et ne dit rien de l'électricité ni du gaz. Précédents : Dupont-Aignan, Philippot et Lalanne, encodés +1 déduite."
+        }
+      ]
+    },
+    {
+      "id": "zemmour-2026-11-priorites",
+      "date": "2026-11-16",
+      "title": "Page « Nos priorités pour les Français » du site de campagne ericzemmour.fr",
+      "sourceType": "programme",
+      "sourceUrl": "https://www.ericzemmour.fr/priorites",
+      "publisher": "Éric Zemmour (site de campagne ericzemmour.fr)",
+      "summary": "Page de priorités du site de campagne, vers laquelle redirige l'adresse /programme. Elle compte cinq rubriques : « L'immigration négative, maintenant ! », « Préférence nationale : Français d'abord », « Fin du laxisme : retour à l'ordre », « Dépenser moins pour taxer moins » et « Une meilleure école pour vos enfants ». La page n'est pas datée : la date retenue est le 16 novembre 2026, date de la veille qui l'a signalée, et le texte encodé est celui consulté le 23 novembre 2026. Des copies archivées de cette adresse existent depuis décembre 2024 ; leur contenu n'a pas pu être comparé.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "imm-01",
+          "value": 2,
+          "quote": "Arrêter l’immigration légale et illégale en reprenant le contrôle de nos frontières",
+          "note": "Même valeur que le tract du 12 octobre 2026. La page va au-delà de l'énoncé (arrêt de l'immigration légale et illégale) et ne propose aucun système de quotas votés par le Parlement."
+        },
+        {
+          "questionId": "sec-02",
+          "value": 2,
+          "quote": "construction de 100 000 places de prison en 24 mois.",
+          "note": "Même valeur que le message du 26 octobre 2026 (100 000 places), avec un délai de 24 mois précisé ici. Cela va au-delà des 20 000 places de l'énoncé."
+        },
+        {
+          "questionId": "sec-03",
+          "value": 2,
+          "quote": "Fin des aménagements de peine et de l’excuse de minorité",
+          "note": "Même valeur et même mesure que le programme de 2022 (« en mettant fin aux aménagements de peine ») : la fin des aménagements de peine vaut aussi pour les peines de moins d'un an."
+        },
+        {
+          "questionId": "eco-02",
+          "value": -2,
+          "quote": "la fin des droits de succession et de l’impôt sur la fortune.",
+          "inferred": true,
+          "note": "Déduite, même valeur que le message du 10 novembre 2026 : supprimer l'impôt sur la fortune (aujourd'hui l'IFI) est le contraire du rétablissement d'un ISF étendu au patrimoine financier."
+        }
+      ]
+    },
+    {
       "id": "zemmour-2026-11-telegram-capitalisation",
       "date": "2026-11-15",
       "title": "Message du 15 novembre 2026 : passage de la retraite par répartition à la capitalisation",

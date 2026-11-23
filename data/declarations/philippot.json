@@ -2,6 +2,29 @@
   "candidateId": "philippot",
   "declarations": [
     {
+      "id": "philippot-2026-11-petition-soldats-ukraine",
+      "date": "2026-11-17",
+      "title": "Pétition « Soldats français en Ukraine : le peuple doit s’exprimer ! »",
+      "sourceType": "communique",
+      "sourceUrl": "https://les-patriotes.fr/soldats-francais-en-ukraine-le-peuple-doit-sexprimer/",
+      "publisher": "Les Patriotes (site officiel du parti)",
+      "summary": "Pétition publiée sur le site des Patriotes, parti présidé par Florian Philippot. Elle se réfère à une information de RFI du 16 novembre 2026 sur une opération militaire française en Ukraine. Elle demande le respect de l’article 35 de la Constitution, l’arrêt de tout soutien militaire et financier français à l’Ukraine, direct et indirect via l’UE, et l’implication de la France dans la recherche de négociations de paix. (La page n’affiche pas de date : publiée le 17/11/2026 selon l’API WordPress du site.)",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-04",
+          "value": -2,
+          "quote": "L’arrêt de tout soutien militaire et financier français à l’Ukraine, direct, et indirect via l’UE",
+          "note": "Position du parti présidé par le candidat, qui ne s’en est pas démarqué. Même valeur (−2) que dans le projet du 2026-09-03. La pétition demande explicitement l’arrêt de tout soutien militaire, ce qui est au moins aussi précis que « couper les financements de la guerre en Ukraine »."
+        }
+      ]
+    },
+    {
       "id": "philippot-2026-09-projet-v2",
       "date": "2026-09-30",
       "title": "Grandes orientations pour un projet patriote – édition 2026-2027, version 2 (+ Le Frexit en 10 questions)",

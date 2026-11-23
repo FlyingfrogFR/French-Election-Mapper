@@ -2,6 +2,36 @@
   "candidateId": "lisnard",
   "declarations": [
     {
+      "id": "lisnard-2026-11-tribune-retraites",
+      "date": "2026-11-17",
+      "title": "Tribune « Pour une réforme des retraites qui réconcilie les générations »",
+      "sourceType": "tribune",
+      "sourceUrl": "https://www.unenouvelleenergie.fr/pour-une-reforme-des-retraites-qui-reconcilie-les-generations/",
+      "publisher": "Nouvelle Énergie",
+      "summary": "Tribune signée par David Lisnard, parue dans Le Figaro et republiée le 17 novembre 2026 sur le site de Nouvelle Énergie. Il y écarte un « procès collectif des retraités » et propose des économies sur l'ensemble de la dépense publique, la convergence des règles de retraite entre public et privé, la fin des régimes spéciaux, une désindexation certaines années des pensions les plus élevées et un étage de capitalisation collective obligatoire.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "tra-12",
+          "value": 2,
+          "quote": "Un étage de capitalisation collective obligatoire doit compléter une répartition réformée et une capitalisation libre.",
+          "note": "Même valeur que lisnard-2026-10-jdnews : il propose un étage de capitalisation collective obligatoire, en complément d'une répartition réformée."
+        },
+        {
+          "questionId": "tra-02",
+          "value": -2,
+          "quote": "Cette génération n’a pourtant pas uniformément bénéficié de la retraite à 60 ans, cette idée démagogique et aux conséquences désastreuses pour les finances publiques.",
+          "inferred": true,
+          "note": "Même valeur que lisnard-ne-prog-2 (déduite) : il qualifie la retraite à 60 ans d'idée « démagogique et aux conséquences désastreuses pour les finances publiques », d'où l'on déduit qu'il rejette un retour à 60 ans."
+        }
+      ]
+    },
+    {
       "id": "lisnard-2026-10-objectif-elysee",
       "date": "2026-10-28",
       "title": "David Lisnard sur CNews et Europe 1 : « Je ne suis pas candidat pour un poste. Je viens pour redresser le pays » (compte rendu publié par Nouvelle Énergie)",

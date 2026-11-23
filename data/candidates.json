@@ -1183,12 +1183,22 @@
       "displayName": "François Ruffin",
       "party": "Debout !",
       "partyShort": "DEB",
-      "status": "declared",
+      "status": "withdrawn",
       "declaredOn": "2025-04-01",
-      "statusNote": "Candidature annoncée le 1er avril 2025 (Debout !). Candidat à la primaire de la gauche unitaire, qui a été abandonnée ; ne figure pas parmi les cinq candidats de la primaire « Choisir 2027 » dont la liste a été rendue publique le 16 septembre 2026, et poursuit sa candidature hors primaire.",
+      "statusNote": "Candidature annoncée le 1er avril 2025 (Debout !), retirée le 21 novembre 2026 par un communiqué (« Face au risque du pire, je retire ma candidature à l'élection présidentielle »), repris en vidéo sur son site le 22 novembre.",
       "primary": null,
       "website": "https://nouspresident.fr/",
       "sources": [
+        {
+          "title": "François Ruffin — Présidentielle 2027 : Face au risque du pire, je retire ma candidature (vidéo)",
+          "url": "https://francoisruffin.fr/presidentielle-2027-face-au-risque-du-pire-je-retire-ma-candidature/",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "Ouest-France — Présidentielle : François Ruffin retire sa candidature et souhaite « bonne campagne » aux « candidats de gauche »",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-francois-ruffin-retire-sa-candidature-2e91a6fc-e5cd-11f1-bd4e-6f30b8f49e21",
+          "date": "2026-11-21"
+        },
         {
           "title": "AFP (via Boursorama) — Présidentielle : François Ruffin, l'ex-Insoumis qui a du mal à socialiser",
           "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-francois-ruffin-l-ex-insoumis-qui-a-du-mal-a-socialiser-f7b00438688384a7d178c2e3d1790a58",
@@ -1240,10 +1250,20 @@
       "partyShort": "ÉCO",
       "status": "designated",
       "declaredOn": "2025-12-08",
-      "statusNote": "Désignée le 8 décembre 2025 (86 %) candidate des Écologistes pour la primaire de la gauche unitaire. Cette primaire ayant été abandonnée, une motion du conseil fédéral adoptée à 69,44 % (résultat annoncé le 21 septembre 2026) maintient sa candidature jusqu'à un référendum interne des adhérents (10-13 décembre 2026), qui choisiront entre cette candidature et le soutien à un candidat d'une autre formation de gauche.",
+      "statusNote": "Désignée le 8 décembre 2025 (86 %) candidate des Écologistes pour la primaire de la gauche unitaire. Cette primaire ayant été abandonnée, une motion du conseil fédéral adoptée à 69,44 % (résultat annoncé le 21 septembre 2026) maintient sa candidature jusqu'à un référendum interne des adhérents (10-13 décembre 2026), qui choisiront entre cette candidature et le soutien à un candidat d'une autre formation de gauche. Le 18 novembre 2026, sur France 2, elle s'est dite prête « à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon », en demandant une semaine de discussions avec La France insoumise sur un accord de gouvernement, un accord pour les élections législatives, un accord programmatique et un dispositif de campagne commun ; elle a précisé être « toujours candidate à la présidentielle ».",
       "primary": null,
       "website": "https://marinetondelier.fr/",
       "sources": [
+        {
+          "title": "LCP — Présidentielle 2027: Marine Tondelier \"prête\" à une \"coalition\" autour de Jean-Luc Mélenchon (« Toujours candidate à l'élection présidentielle de 2027 » ; vote des adhérents « Du 10 au 13 décembre »)",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+          "date": "2026-11-18"
+        },
+        {
+          "title": "Public Sénat — La main tendue de Marine Tondelier à Jean-Luc Mélenchon peut-elle faire imploser les Écologistes ? (« Je suis toujours candidate à la présidentielle »)",
+          "url": "https://www.publicsenat.fr/actualites/politique/la-main-tendue-de-marine-tondelier-a-melenchon-peut-elle-faire-imploser-les-ecologistes",
+          "date": "2026-11-19"
+        },
         {
           "title": "Public Sénat — Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
           "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
@@ -1293,12 +1313,27 @@
       "displayName": "Dominique de Villepin",
       "party": "La France humaniste",
       "partyShort": "LFH",
-      "status": "potential",
-      "declaredOn": null,
-      "statusNote": "Collecte des parrainages en cours ; pas de déclaration formelle recensée à ce jour.",
+      "status": "declared",
+      "declaredOn": "2026-11-20",
+      "statusNote": "Candidature annoncée le 20 novembre 2026 lors d'une conférence de presse à Paris, et confirmée dans la conclusion de son programme « Réussir à nouveau » (« Aujourd'hui, je suis candidat ») ; collecte des parrainages en cours.",
       "primary": null,
       "website": "https://www.lafrancehumaniste.fr/",
       "sources": [
+        {
+          "title": "LCP — Présidentielle 2027 : Dominique de Villepin officiellement candidat à l'Élysée",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "RTBF — France : Dominique de Villepin annonce sa candidature à l'élection présidentielle",
+          "url": "https://www.rtbf.be/article/france-dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-11818509",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "La France humaniste — Réussir à nouveau, conclusion « La France peut vivre encore » (page non datée, consultée le 23 novembre 2026)",
+          "url": "https://www.lafrancehumaniste.fr/programme/reussir-a-nouveau/conclusion.html",
+          "date": "2026-11-23"
+        },
         {
           "title": "Wikipédia — Élection présidentielle française de 2027 (liste des candidats)",
           "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
@@ -1637,7 +1672,7 @@
       "declaredOn": "2026-11-06",
       "statusNote": "Ancien maire de Lourdios-Ichère et ancien député des Pyrénées-Atlantiques, fondateur du mouvement Résistons !, il a été candidat aux élections présidentielles de 2017 (1,21 %) et de 2022 (3,13 %). En juillet 2026, il a ouvert une cagnotte pour financer une candidature et a dit qu'il se déciderait « à l'automne ». Le 6 novembre 2026, il a déclaré à Sud Ouest vouloir se présenter de nouveau en 2027 (« Je m'y suis remis après m'être convaincu de ne pas y aller ») et lancer une « opération parrainages ». Il doit encore réunir les 500 parrainages d'élus.",
       "primary": null,
-      "website": null,
+      "website": "https://resistons-france.fr/",
       "sources": [
         {
           "title": "Sud Ouest — INFO SUD OUEST. Jean Lassalle a collecté 50 000 euros et lance son « opération parrainages » pour être candidat à la présidentielle 2027",
