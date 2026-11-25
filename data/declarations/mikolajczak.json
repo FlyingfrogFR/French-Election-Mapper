@@ -2,6 +2,335 @@
   "candidateId": "mikolajczak",
   "declarations": [
     {
+      "id": "mikolajczak-2026-11-legitime-defense",
+      "date": "2026-11-20",
+      "title": "Légitime défense : une loi qui manque sa cible",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/legitime-defense-une-loi-qui-manque-sa-cible/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Le parti Équinoxe déclare qu'il aurait voté contre la loi instaurant une présomption de légitime défense pour les forces de l'ordre, adoptée définitivement par le Sénat le 20 novembre 2026. À la place, il propose des procédures de suivi après usage d'une arme, une protection fonctionnelle effective, une révision de la doctrine du maintien de l'ordre et davantage de soutien aux forces de l'ordre.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-10",
+          "value": -2,
+          "quote": "Nous aurions voté contre la loi présentée au Sénat aujourd’hui. Plutôt qu’une loi de légitime défense qui fragilise l’équilibre des pouvoirs et l’État de droit sans apporter de réel soutien aux forces de l’ordre, nous proposons de",
+          "note": "Rejet explicite de la présomption de légitime défense pour les forces de l'ordre, dans un communiqué du parti dont Antoine Mikolajczak est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-11-contre-budget",
+      "date": "2026-11-18",
+      "title": "Contre-budget 2027 : le temps des responsabilités",
+      "sourceType": "autre",
+      "sourceUrl": "https://parti-equinoxe.fr/wp-content/uploads/2026/11/Parti-Equinoxe-Contre-budget-2027.pdf",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Contre-budget d'urgence de 48 pages pour la seule année 2027, publié par le parti Équinoxe avec une préface signée par Antoine Mikolajczak, « candidat ». Il prévoit de ramener le déficit de 6,4 % à 3,9 % du PIB avec 46,4 Md€ d'économies (dont une baisse des pensions totales supérieures à 1 650 € nets par mois) et 59 Md€ de recettes (ISF, grandes successions, grandes entreprises), et 32 Md€ d'investissements et de mesures de pouvoir d'achat (dont une baisse de l'accise sur l'électricité). La page de présentation date du 18 novembre 2026 ; le PDF actuellement en ligne, daté « novembre 2026 », a été déposé le 22 novembre 2026.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eco-02",
+          "value": 2,
+          "quote": "Nous rétablissons un ISF sur le patrimoine non professionnel, selon le barème d’avant 2018. Une contribution de 0,3% s’applique en plus au patrimoine professionnel des très grandes fortunes.",
+          "page": "26",
+          "note": "Rétablissement explicite de l'ISF, patrimoine financier compris, plus une contribution sur le patrimoine professionnel des très grandes fortunes (document du parti préfacé par le candidat)."
+        },
+        {
+          "questionId": "eco-08",
+          "value": 2,
+          "quote": "Nous demandons aux acteurs économiques les plus solides de contribuer à l’effort national : lutte contre l’évasion fiscale, fin des rentes et des niches, recentrage du crédit d’impôt recherche, en limitant l’impact sur les petites et moyennes entreprises.",
+          "sourceUrl": "https://parti-equinoxe.fr/contre-budget-2027/",
+          "note": "Remplace le +1 du communiqué du 2026-09-20 : le contre-budget propose explicitement la fin de niches (crédit d'impôt recherche recentré, abattement de 10 % sur les pensions, amortissement LMNP, tarifs réduits du gazole non routier), qui augmente l'impôt des personnes concernées."
+        },
+        {
+          "questionId": "eco-04",
+          "value": -1,
+          "quote": "Quatre réformes concernent les transmissions les plus élevées. Le pacte Dutreil est recentré : exonération de 75% jusqu’à 2 millions d’euros transmis par bénéficiaire, 50% de 2 à 10 millions, rien au-delà (2,5).",
+          "page": "25",
+          "inferred": true,
+          "note": "Le document alourdit la taxation des grandes transmissions (9,5 Md€) : on en déduit une opposition à la baisse des droits de succession. Il ne dit rien des petites successions, d'où −1."
+        },
+        {
+          "questionId": "eco-11",
+          "value": 1,
+          "quote": "Enfin, le prélèvement forfaitaire monte à 35% sur les dividendes exceptionnellement élevés et l’exit tax est rétablie sur les plus-values latentes (0,4).",
+          "page": "26",
+          "note": "Mesure partielle : hausse de l'imposition des seuls dividendes exceptionnellement élevés (supérieurs de 20 % à la moyenne 2017-2021 selon l'annexe), sans mesure sur les rachats d'actions."
+        },
+        {
+          "questionId": "tra-13",
+          "value": -1,
+          "quote": "Ensuite, le gel des allègements généraux est prolongé : le Smic de référence reste celui du 1er janvier 2026 (2,8 milliards).",
+          "page": "24",
+          "inferred": true,
+          "note": "Le document reprend le gel des allègements généraux de cotisations et réduit les exonérations de cotisations sociales : on en déduit une opposition à une nouvelle baisse des cotisations patronales sur les bas salaires en 2027."
+        },
+        {
+          "questionId": "soc-03",
+          "value": -1,
+          "quote": "0,4 milliard dʼeuros dʼéconomies du PLF nʼont pas été repris dans notre contre-budget : 0,2 portant sur lʼécologie et 0,2 sur lʼaide médicale de lʼÉtat.",
+          "page": "18",
+          "inferred": true,
+          "note": "Le contre-budget écarte les économies sur l'AME prévues par le projet de loi de finances : on en déduit une opposition à la suppression ou à la réduction de l'AME."
+        },
+        {
+          "questionId": "soc-08",
+          "value": 1,
+          "quote": "En portant la détection à 20%, grâce à des contrôles renforcés, au croisement des données et à un meilleur recouvrement des indus, nous récupérons 0,3 milliard d’euros supplémentaires.",
+          "page": "19",
+          "note": "Renforcement de la lutte contre la fraude sociale (CAF et Assurance maladie) par des contrôles et le croisement des données, sans carte Vitale biométrique ou fusionnée, d'où +1."
+        },
+        {
+          "questionId": "san-02",
+          "value": 1,
+          "quote": "nous prévoyons 3,15 milliards d’euros d’investissements pour l’hôpital public (hausse des salaires, réouverture de 5 000 lits, rénovations du bâti)",
+          "page": "19",
+          "note": "Hausse des dépenses pour l'hôpital public (+100 € nets par mois pour les soignants, 5 000 lits rouverts) chiffrée pour 2027, sans plan d'embauches massif explicite, d'où +1."
+        },
+        {
+          "questionId": "san-03",
+          "value": -1,
+          "quote": "Ensuite, la fin du remboursement des médicaments à service médical rendu (SMR) faible, un taux de remboursement ramené de 30% à 15% pour les SMR modérés et la fin de la prise en charge des cures thermales (0,7 milliard).",
+          "page": "19",
+          "inferred": true,
+          "note": "Le document réduit le remboursement de certains médicaments et des cures thermales : on en déduit une opposition au remboursement à 100 % de tous les soins prescrits."
+        },
+        {
+          "questionId": "edu-02",
+          "value": 1,
+          "quote": "Nous augmentons de 200€ net par mois (environ 250€ brut) les 366 000 enseignants du premier degré, public et privé sous contrat.",
+          "page": "32",
+          "note": "Revalorisation limitée aux enseignants du premier degré, sans priorité affirmée sur les autres dépenses éducatives, d'où +1."
+        },
+        {
+          "questionId": "edu-04",
+          "value": 1,
+          "quote": "Financement public réduit d’un tiers pour la moitié des établissements la moins mixte socialement, à la rentrée 2027.",
+          "page": "43",
+          "note": "Réduction conditionnelle : elle ne vise que les établissements privés sous contrat les moins mixtes socialement."
+        },
+        {
+          "questionId": "lib-09",
+          "value": 2,
+          "quote": "Nous leur consacrons un milliard d’euros supplémentaires, pour garantir la sécurité jusque dans les foyers et protéger les enfants exposés aux violences intrafamiliales : hébergement et logements passerelles (0,25), maillage associatif local (0,15), justice et police 100% formées et spécialisées",
+          "page": "33",
+          "note": "Budget dédié supplémentaire d'un milliard d'euros, comprenant des enquêteurs et magistrats spécialisés ; l'annexe le compare à un budget de l'État de 184 M€ en 2023."
+        },
+        {
+          "questionId": "agr-03",
+          "value": 2,
+          "quote": "C’est pourquoi nous investissons dans le soutien à l’installation des jeunes (0,15), l’accompagnement de l’agriculture biologique (conversion, emploi...) (0,37)",
+          "page": "36",
+          "note": "Hausse explicite des aides à l'agriculture biologique (selon l'annexe : crédit d'impôt porté à 6 000 €, aides à la conversion et au maintien)."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Pour relancer le transport ferroviaire en France, et surtout préparer le doublement de sa part modale dans les prochaines décennies, nous identifions trois grands chantiers.",
+          "page": "35",
+          "note": "Même valeur que la position déduite du 2026-07-17, désormais explicite : 1 Md€ pour le ferroviaire en 2027, dans un budget qui réduit le déficit, sans financement par la dette affirmé, d'où +1."
+        },
+        {
+          "questionId": "eur-10",
+          "value": -1,
+          "quote": "Aide publique au développement (PLF) 0,5 Md€ Crédits de 3,6 à 3,2 Md€.",
+          "page": "43",
+          "inferred": true,
+          "note": "Le contre-budget reprend la baisse des crédits de l'aide publique au développement prévue par le projet de loi de finances : on en déduit une opposition à une forte hausse en 2027."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-11-programme",
+      "date": "2026-11-05",
+      "title": "Renouer - L'essentiel, programme synthétique pour l'élection présidentielle 2027",
+      "sourceType": "programme",
+      "sourceUrl": "https://parti-equinoxe.fr/wp-content/uploads/2026/11/Equinoxe-Lessentiel-Programme-synthetique-pour-lelection-presidentielle-1.pdf",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Premier livret programmatique d'Équinoxe pour 2027, préfacé et signé par son candidat Antoine Mikolajczak (« Ce programme, c'est le vôtre ! »), publié le 5 novembre 2026 en PDF (version du fichier mise à jour le 6 novembre) et en douze pages web. Il présente douze mesures phares réparties en trois priorités : décider collectivement, produire en France, vivre en bonne santé.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-09 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "ins-06",
+          "value": 2,
+          "quote": "Il ou elle est élu au jugement majoritaire, pour un mandat unique de sept ans.",
+          "page": "14",
+          "note": "Septennat unique, repris p. 20 (« La présidence de la République fera l'objet d'un mandat unique de sept ans »)."
+        },
+        {
+          "questionId": "ins-03",
+          "value": 2,
+          "quote": "Une partie des sièges est ainsi attribuée à la proportionnelle à l’échelle nationale, l’autre partie selon les résultats en circonscription (redécoupée en pays).",
+          "page": "14",
+          "note": "Remplace le +1 déduit du communiqué du 25 septembre 2026 : le programme propose explicitement un scrutin mixte, avec 227 des 577 sièges attribués à la proportionnelle nationale."
+        },
+        {
+          "questionId": "ins-04",
+          "value": 1,
+          "quote": "Le vote blanc est reconnu et pris en compte dans la composition de l’Assemblée nationale : une part des sièges, correspondant à la proportion de votes blancs, est attribuée à des citoyennes et citoyens tirés au sort.",
+          "sourceUrl": "https://parti-equinoxe.fr/programme-2027/operation-montesquieu-partage-du-pouvoir/",
+          "note": "Le vote blanc est reconnu aux législatives : une part des sièges égale à la part des votes blancs va à des citoyens tirés au sort, mais le texte ne dit pas que ces votes compteraient parmi les suffrages exprimés."
+        },
+        {
+          "questionId": "ins-02",
+          "value": 1,
+          "quote": "Ils peuvent prendre différentes formes : référendums d’initiative citoyenne, conventions citoyennes délibératives ou renforcement du référendum d’initiative partagée, entre autres.",
+          "sourceUrl": "https://parti-equinoxe.fr/programme-2027/operation-montesquieu-partage-du-pouvoir/",
+          "note": "Sous « Nos propositions », le RIC est cité comme une forme possible, parmi d'autres, des dispositifs de démocratie directe « mis en place », sans engagement à l'instaurer en tant que tel."
+        },
+        {
+          "questionId": "ins-11",
+          "value": 1,
+          "quote": "L’exercice des mandats électifs sera limité dans le temps, à deux mandats pour une même fonction, à l’exception des maires des petites communes.",
+          "page": "20",
+          "note": "Limite fixée à deux mandats pour une même fonction plutôt qu'à trois, avec une exception pour les maires des petites communes."
+        },
+        {
+          "questionId": "env-08",
+          "value": 2,
+          "quote": "Le prix du carbone est progressivement ajusté pour suivre une trajectoire de réduction des émissions fixée démocratiquement, en visant a minima 100€/tCO2e à horizon 2030.",
+          "page": "32",
+          "note": "La même page prévoit que 80 % des recettes reviennent aux ménages sous forme de revenu carbone mensuel, avec un complément de solidarité pour les ménages modestes et ruraux."
+        },
+        {
+          "questionId": "env-07",
+          "value": -2,
+          "quote": "Les recommandations de l’Anses et les interdictions de l’Union européenne concernant les pesticides sont respectées en France. Les dérogations d’urgence accordées actuellement cessent",
+          "page": "42",
+          "note": "Fin des dérogations d'urgence actuelles et respect des interdictions européennes de pesticides."
+        },
+        {
+          "questionId": "env-05",
+          "value": 1,
+          "quote": "Guidée par la science et des experts, cette assemblée de 150 citoyens et citoyennes tirés au sort définit des objectifs écologiques, élabore des orientations sectorielles et des recommandations concrètes pour la France.",
+          "page": "30",
+          "inferred": true,
+          "note": "Déduit de la Chambre citoyenne permanente, qui fixe des orientations sectorielles déclinées par six conventions sectorielles et dispose d'un veto qui oblige à réexaminer les lois contraires ; le texte ne fixe pas d'objectifs chiffrés de réduction d'émissions secteur par secteur."
+        },
+        {
+          "questionId": "san-01",
+          "value": 2,
+          "quote": "Dans chaque territoire, les installations de médecins libéraux sont conditionnées aux besoins prioritaires, établis à partir de la consultation des parties prenantes (citoyens, professionnels, élus, etc.).",
+          "page": "48",
+          "note": "Avec un nouveau zonage des besoins par bassin de vie et par spécialité."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Par exemple, des prix minimum d’importation sont instaurés grâce à des droits de douane calés sur les coûts de production européens. Une stratégie de relocalisation & maintien industriel est établie pour nos secteurs les plus stratégiques, avec une coordination au niveau européen.",
+          "page": "28",
+          "note": "Confirme le +1 déduit du 17 juillet 2026, ici sur des mesures explicites (droits de douane, stratégie de relocalisation, aides publiques sous conditions), sans que leur coût soit abordé et avec un financement reposant « notamment » sur l'épargne privée."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "La commande publique française et européenne privilégie la souveraineté, en particulier pour la défense, l’énergie et le numérique.",
+          "page": "28",
+          "inferred": true,
+          "note": "Déduit de la priorité donnée à la souveraineté dans la commande publique, notamment de défense ; le surcoût éventuel n'est pas abordé."
+        },
+        {
+          "questionId": "ins-10",
+          "value": 1,
+          "quote": "Pays : Le nouvel échelon de proximité qui remplace le département et les intercommunalités. Il y en aurait environ 350, tracés sur les territoires historiques et les bassins de vie, chacun dirigé par une assemblée élue par ses habitants.",
+          "sourceUrl": "https://parti-equinoxe.fr/programme-2027/une-competence-un-echelon-un-budget/",
+          "note": "Le département et les intercommunalités sont remplacés par un seul échelon, les pays, et l'intercommunalité « n'est plus imposée ». La page d'ensemble du programme renvoie toutefois l'avenir des régions à l'Assise des territoires, et les intercommunalités ne sont pas juridiquement des collectivités : la réduction est donc partielle, d'où +1. Position du parti, dont la personne est le candidat désigné et dont il préface le livret. Position ajoutée par la veille du 16 novembre 2026 : la page web de la mesure phare n° 2 reprend le texte du livret."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-10-lyceens",
+      "date": "2026-10-20",
+      "title": "Nos réponses aux revendications lycéennes",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe qui répond une à une aux revendications du mouvement lycéen. Il propose notamment de maintenir le budget et les recrutements de l'Éducation nationale, de revoir le statut des AESH, de rendre Parcoursup plus transparent, de rétablir le certificat d'études, de faire des examens une condition du passage de niveau, de commencer les cours à 9 h, de réduire les vacances d'été, de lancer un plan de rénovation du bâti scolaire, d'investir dans le premier degré, et il prévoit des mesures de santé mentale, dont l'ouverture de « Mon soutien psy » à tous les psychologues. Le texte de la page ne porte pas de date ; la date retenue est celle que donne le flux RSS du site (20 octobre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "san-09",
+          "value": 1,
+          "quote": "Faire connaître le dispositif déjà existant « Mon soutien psy » permettant d’accéder à 12 séances remboursées par an. Rendre tous les psychologues accessibles par ce dispositif (plus d’offre).",
+          "note": "Mesure partielle : ouvrir à tous les psychologues le dispositif « Mon soutien psy » (12 séances remboursées par an), sans proposer d'augmenter le nombre de séances ni le niveau de remboursement, d'où +1. C'est une position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-10-violence",
+      "date": "2026-10-19",
+      "title": "Rompre avec la spirale de la violence",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/rompre-avec-la-spirale-de-la-violence/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe publié après les violences et pillages du 17 octobre 2026 en marge des manifestations. Il propose une aide d'urgence aux commerces et mairies sinistrés, une réponse pénale (peines d'intérêt général, enquêtes, suivi éducatif des mineurs interpellés), une commission d'enquête transpartisane, l'indépendance de l'IGPN, la généralisation des caméras-piétons, la révision de la doctrine du maintien de l'ordre et une nouvelle police de proximité, et demande au président de la République d'accepter la démission du ministre de l'Intérieur. Le texte de la page ne porte pas de date ; la date retenue est celle que donne le flux RSS du site (19 octobre 2026).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-26 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "sec-12",
+          "value": 1,
+          "quote": "Révision de notre doctrine du maintien de l’ordre, en prenant exemple sur ce qui marche chez d’autres pays européens. Eclaircir le rôle des policiers en civil. Nouvelle police de proximité",
+          "note": "« Nouvelle police de proximité » fait partie des mesures proposées pour prévenir de nouvelles violences. Le texte ne dit pas qu'elle doit être privilégiée par rapport aux unités d'intervention, d'où +1. C'est une position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
+      "id": "mikolajczak-2026-10-elevage",
+      "date": "2026-10-08",
+      "title": "Protéger les animaux, l'environnement et nos éleveurs",
+      "sourceType": "communique",
+      "sourceUrl": "https://parti-equinoxe.fr/proteger-les-animaux-lenvironnement-et-nos-eleveurs/",
+      "publisher": "Parti Équinoxe (parti-equinoxe.fr)",
+      "summary": "Article de position du parti Équinoxe sur l'élevage, qui défend l'élevage extensif face aux systèmes intensifs. Il propose notamment une PAC fondée sur la main-d'œuvre plutôt que sur la surface, une éco-conditionnalité des aides favorisant les élevages herbagers et plein air, des prix rémunérateurs avec encadrement des marges de la distribution, le respect des clauses miroirs, un protectionnisme stratégique sur certaines filières, un repas végétarien hebdomadaire en restauration scolaire et l'amplification des expériences de sécurité sociale de l'alimentation.",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-10-12 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Faire respecter les clauses miroirs des traités de libre-échange. Instaurer un protectionnisme stratégique sur certaines filières en luttant contre les importations non soumises à nos règles.",
+          "note": "Mesure explicite : faire respecter les clauses miroirs des traités de libre-échange et lutter contre les importations agricoles non soumises aux règles françaises. Position du parti, dont il est le candidat désigné ; le 7 octobre, le site du parti indique qu'Antoine Mikolajczak a présenté « nos propositions pour l'élevage français » au Sommet de l'élevage."
+        },
+        {
+          "questionId": "agr-05",
+          "value": 1,
+          "quote": "Renforcer l'éco-conditionnalité des aides en favorisant les élevages herbagers et plein air.",
+          "inferred": true,
+          "note": "Position déduite (orientation) : le texte décrit les « conditions de vie très rudes » imposées aux animaux par les élevages intensifs, présente l'élevage extensif comme favorable au bien-être animal et propose d'orienter les aides vers les élevages herbagers et plein air ; il ne propose pas de limitation réglementaire de l'élevage intensif. Position du parti, dont il est le candidat désigné."
+        }
+      ]
+    },
+    {
       "id": "mikolajczak-2026-09-jugement-majoritaire",
       "date": "2026-09-25",
       "title": "En finir avec le vote utile : le jugement majoritaire",

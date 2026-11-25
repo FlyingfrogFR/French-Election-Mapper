@@ -1,0 +1,134 @@
+{
+  "candidateId": "lassalle",
+  "declarations": [
+    {
+      "id": "lassalle-2024-05-alliance-rurale",
+      "date": "2024-05-30",
+      "title": "Le programme complet de l'Alliance rurale (élections européennes du 9 juin 2024)",
+      "sourceType": "programme",
+      "sourceUrl": "https://alliancerurale.fr/wp-content/uploads/programme-complet_vf-1.pdf",
+      "publisher": "Alliance rurale (liste conduite par Jean Lassalle)",
+      "summary": "DOCUMENT DE 2024. Programme complet de la liste Alliance rurale, conduite par Jean Lassalle comme tête de liste aux élections européennes du 9 juin 2024. Il couvre les institutions européennes, l'aménagement du territoire, la santé, l'agriculture, l'écologie, la culture, la chasse et la pêche, l'économie, la défense, l'outre-mer et l'immigration. La date est celle des métadonnées du PDF (création le 30 mai 2024).",
+      "review": {
+        "status": "pending",
+        "reviewers": [],
+        "reviewedOn": null,
+        "notes": "Ajoutée par la veille automatisée du 2026-11-23 : recherche, puis deux relectures adverses automatisées (fidélité de l'encodage, provenance et exactitude des citations). Relecture par une seconde personne requise avant passage en « verified »."
+      },
+      "positions": [
+        {
+          "questionId": "eur-08",
+          "value": -2,
+          "quote": "Europe Élargissement : Gel de l’élargissement de l’Union Européenne.",
+          "page": "1",
+          "note": "Le programme demande explicitement le gel de l'élargissement de l'Union."
+        },
+        {
+          "questionId": "eur-01",
+          "value": 1,
+          "quote": "Europe : Tout règlement européen doit émaner du Parlement Européen et être mis en place par la Commission Européenne. Le pouvoir doit revenir aux députés européens.",
+          "page": "1",
+          "inferred": true,
+          "note": "Déduit : le programme veut réformer les institutions de l'Union (pouvoir rendu aux députés européens, Commission au service des élus) et ne propose aucune sortie."
+        },
+        {
+          "questionId": "env-11",
+          "value": 1,
+          "quote": "Transport : Réhabilitation du réseau ferroviaire européen à destination des territoires ruraux.",
+          "page": "2",
+          "inferred": true,
+          "note": "Déduit de la réhabilitation du réseau ferroviaire vers les territoires ruraux. L'ampleur de l'investissement, son financement et l'effet sur la dette publique ne sont pas abordés."
+        },
+        {
+          "questionId": "log-07",
+          "value": 1,
+          "quote": "Services publics : La France doit retrouver ses services publics à la Française. Tous les citoyens français doivent pouvoir vivre à moins de 45 minutes des services publics essentiels : maternité, Poste, hôpital, EHPAD…",
+          "page": "2",
+          "inferred": true,
+          "note": "Déduit d'une garantie d'accès à moins de 45 minutes aux services publics essentiels (maternité, Poste, hôpital, EHPAD). La condition « même s'ils sont déficitaires » n'est pas traitée."
+        },
+        {
+          "questionId": "san-07",
+          "value": 1,
+          "quote": "Formation : Augmenter de 5% le nombre de places de formation dans toutes les filières de soin pendant 10 ans.",
+          "page": "2",
+          "note": "Hausse chiffrée à 5 % des places de formation dans toutes les filières de soin pendant dix ans. La sélectivité n'est pas abordée."
+        },
+        {
+          "questionId": "env-07",
+          "value": 1,
+          "quote": "Phytos : Moratoire de 10 ans sur les interdictions des molécules et afin de donner le temps à la recherche de trouver des alternatives.",
+          "page": "3",
+          "inferred": true,
+          "note": "Déduit d'un moratoire de dix ans sur les interdictions de molécules, le temps de trouver des alternatives. La réautorisation de produits déjà interdits n'est pas mentionnée explicitement."
+        },
+        {
+          "questionId": "agr-07",
+          "value": 2,
+          "quote": "Reprise des exploitations : Pour la souveraineté alimentaire, faire cause européenne la suppression des droits de succession pour la transmission des exploitations",
+          "page": "3",
+          "note": "Suppression des droits de succession sur la transmission des exploitations, présentée comme une « cause européenne » et accompagnée de prêts à taux zéro pour les nouvelles installations."
+        },
+        {
+          "questionId": "eco-04",
+          "value": 1,
+          "quote": "Reprise des exploitations : Pour la souveraineté alimentaire, faire cause européenne la suppression des droits de succession pour la transmission des exploitations",
+          "page": "3",
+          "note": "Mesure partielle : la suppression des droits de succession ne vise que la transmission des exploitations agricoles."
+        },
+        {
+          "questionId": "agr-04",
+          "value": 2,
+          "quote": "Libre échange : Application des clauses miroirs dans les traités de libre-échange et renégociation de ces derniers.",
+          "page": "3",
+          "note": "Le programme demande l'application des clauses miroirs et la renégociation des traités de libre-échange."
+        },
+        {
+          "questionId": "env-08",
+          "value": -1,
+          "quote": "Taxes : Suppression de toutes les taxes d’origine européenne voulues par des écologistes déconnectés.",
+          "page": "4",
+          "inferred": true,
+          "note": "Déduit de la demande de suppression de toutes les taxes européennes d'inspiration écologiste. La taxe carbone n'est pas nommée."
+        },
+        {
+          "questionId": "env-04",
+          "value": -2,
+          "quote": "Automobile : Suppression du texte sur l’arrêt de la production des voitures thermiques en 2035.",
+          "page": "4",
+          "note": "Le programme demande la suppression du texte qu'il décrit comme l'« arrêt de la production » des voitures thermiques en 2035."
+        },
+        {
+          "questionId": "env-02",
+          "value": -2,
+          "quote": "Nucléaire : Remettre l’énergie nucléaire au centre de la stratégie énergétique européenne.",
+          "page": "5",
+          "inferred": true,
+          "note": "Déduit : vouloir remettre le nucléaire au centre de la stratégie énergétique européenne exclut une sortie du nucléaire."
+        },
+        {
+          "questionId": "eco-05",
+          "value": 1,
+          "quote": "Pouvoir d‘achat : Supprimer la TVA sur les hydrocarbures pour les particuliers.",
+          "page": "6",
+          "note": "Le programme propose de supprimer la TVA sur les hydrocarbures pour les particuliers, ce qui va au-delà d'une baisse à 5,5 %. L'électricité n'est pas mentionnée."
+        },
+        {
+          "questionId": "eco-09",
+          "value": 1,
+          "quote": "Emploi et souveraineté : Relocaliser en Europe grâce à des statuts fiscaux incitatifs tout ou partie des productions dont dépend la souveraineté du continent.",
+          "page": "6",
+          "inferred": true,
+          "note": "Déduit de la relocalisation des productions stratégiques en Europe par des statuts fiscaux incitatifs. Ce point ne traite ni des mesures de protection commerciale ni de leur coût."
+        },
+        {
+          "questionId": "def-04",
+          "value": 1,
+          "quote": "Armées : Priorité donnée à l’achat de matériel militaire d’origine européenne.",
+          "page": "6",
+          "note": "Priorité explicite à l'achat de matériel militaire d'origine européenne. Le surcoût éventuel n'est pas évoqué."
+        }
+      ]
+    }
+  ]
+}
